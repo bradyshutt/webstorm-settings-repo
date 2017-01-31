@@ -1,0 +1,40 @@
+<templateSet group="Custom">
+  <template name="," value="[$END$]" description="comma to brackets" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="/" value="($END$)" description="slash to parenthesis" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="." value="{ $ONE$ }$END$" description="period to curly braces" toReformat="false" toShortenFQNames="true">
+    <variable name="ONE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="o" value="{&#10;    $END$&#10;}" description="object curley braces" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="ao" value="=&gt;" description="Arrow Operator" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cl" value="console.log($END$);" description="Console.log" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="/'" value="('$END$')" description="slash to parenthesis with quotes" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+</templateSet>
