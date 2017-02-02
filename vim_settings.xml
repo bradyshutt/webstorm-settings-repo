@@ -168,7 +168,7 @@
         <mark key="." line="35" column="24" />
         <mark key="^" line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/topic.ts" timestamp="1486076001413">
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/topic.ts" timestamp="1486076220270">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
@@ -213,8 +213,8 @@
         <mark key="." line="29" column="12" />
         <mark key="^" line="29" column="12" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" timestamp="1486075881775">
-        <mark key="'" line="1263" column="14" />
+      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" timestamp="1486076193824">
+        <mark key="'" line="4556" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/carousel-test.component.ts" timestamp="1484863777377">
         <mark key="'" line="4" column="0" />
@@ -617,9 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="56" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topics-nav/topics-element.component.scss" />
-      <jump line="6" column="21" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topics-nav/topics-element.component.ts" />
-      <jump line="22" column="20" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topics-nav/topics-element.component.html" />
       <jump line="25" column="77" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app-routing.module.ts" />
       <jump line="8" column="8" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/accordion-wrapper.component.ts" />
       <jump line="25" column="3" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/home/home.component.ts" />
@@ -713,10 +710,13 @@
       <jump line="385" column="93" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
       <jump line="407" column="94" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
       <jump line="4544" column="48" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
+      <jump line="1263" column="14" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
+      <jump line="17" column="8" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/topic.ts" />
+      <jump line="18" column="8" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/topic.ts" />
+      <jump line="1278" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
+      <jump line="4554" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
       <jump line="4555" column="4" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
       <jump line="4556" column="0" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
-      <jump line="18" column="6" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/topic.ts" />
-      <jump line="1263" column="14" filename="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/typescriptCompiler/external/lib.es6.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -740,7 +740,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>c</text>
       </register>
       <register name="/" type="4">
         <text>includes(</text>
@@ -758,19 +758,19 @@
         <text encoding="base64">ICAgIEFycmF5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGFyci4K</text>
+        <text encoding="base64">ICAgIGFycgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC4K</text>
+        <text encoding="base64">ICAgIGFyci4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGFyci5pbmMK</text>
+        <text encoding="base64">ICAgIGFyci4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFyci5pbmNsCg==</text>
+        <text encoding="base64">ICAgIGFyci5kZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFyci5pbmNsCg==</text>
+        <text encoding="base64">ICAgIGFyci4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -797,10 +797,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFyci4K</text>
+        <text encoding="base64">ICAgIGFyci5pbmMK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEFycmF5Cg==</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
