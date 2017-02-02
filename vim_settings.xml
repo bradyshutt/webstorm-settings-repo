@@ -317,12 +317,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.html" timestamp="1486063734272">
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.html" timestamp="1486069961597">
         <mark key="'" line="2" column="14" />
-        <mark key="[" line="3" column="5" />
-        <mark key="]" line="3" column="14" />
-        <mark key="^" line="3" column="14" />
-        <mark key="." line="3" column="14" />
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="22" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/package.json" timestamp="1484257132785">
         <mark key="[" line="9" column="33" />
@@ -433,8 +433,8 @@
         <mark key="^" line="21" column="79" />
         <mark key="." line="21" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.ts" timestamp="1486069225125">
-        <mark key="'" line="30" column="0" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.ts" timestamp="1486069930134">
+        <mark key="'" line="8" column="20" />
         <mark key="[" line="13" column="19" />
         <mark key="]" line="13" column="18" />
         <mark key="." line="13" column="18" />
@@ -608,7 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="4" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
       <jump line="5" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
       <jump line="19" column="57" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
       <jump line="46" column="20" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/home/home.component.ts" />
@@ -708,10 +707,11 @@
       <jump line="32" column="4" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/api.service.ts" />
       <jump line="31" column="18" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/api.service.ts" />
       <jump line="31" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.ts" />
+      <jump line="8" column="20" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Topic</text>
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1231,7 +1231,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Topic</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>url</text>

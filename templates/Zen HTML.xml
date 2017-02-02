@@ -3,13 +3,4 @@
     <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="img" value="&lt;img src=&quot;$VAR0$&quot; alt=&quot;$VAR1$&quot;&gt;" description="&lt;img src=&quot;...&quot; alt=&quot;...&quot;&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
-  <template name="video" value="&lt;video src=&quot;$VAR0$&quot;&gt;$END$&lt;/video&gt;" description="&lt;video src=&quot;...&quot;&gt;...&lt;/video&gt;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
-    <context />
-  </template>
 </templateSet>
