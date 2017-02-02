@@ -2,8 +2,8 @@
   <template name="//" value="&lt;!-- $end$ --&gt;" description="comment" toReformat="false" toShortenFQNames="true">
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="XML" value="true" />
       <option name="HTML" value="true" />
+      <option name="XML" value="true" />
     </context>
   </template>
 </templateSet>
