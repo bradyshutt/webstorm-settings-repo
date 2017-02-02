@@ -10,9 +10,6 @@
         <mark key="^" line="6" column="23" />
         <mark key="." line="6" column="23" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/bootstrap/dist/css/bootstrap.css" timestamp="1485294649144">
-        <mark key="'" line="14" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/styles.css" timestamp="1484679454262">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -24,10 +21,10 @@
         <mark key="^" line="3" column="15" />
         <mark key="." line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/accordion-element.ts" timestamp="1485887056379">
-        <mark key="'" line="5" column="6" />
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="6" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/accordion-element.ts" timestamp="1486061410719">
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="6" column="1" />
         <mark key="." line="5" column="6" />
         <mark key="^" line="5" column="6" />
       </file>
@@ -46,9 +43,6 @@
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_all-theme.scss" timestamp="1485887979775">
-        <mark key="'" line="27" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topics-nav/topic-nav.component.scss" timestamp="1486060764934">
         <mark key="[" line="0" column="0" />
@@ -205,9 +199,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/module.d.ts" timestamp="1485458627614">
-        <mark key="'" line="4" column="24" />
-      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/api.service.ts" timestamp="1486058699246">
         <mark key="'" line="18" column="2" />
         <mark key="[" line="18" column="27" />
@@ -275,6 +266,12 @@
         <mark key="." line="7" column="95" />
         <mark key="^" line="7" column="95" />
       </file>
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/nav-element.ts" timestamp="1486062844823">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="2" column="15" />
+      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/site/src/app/app.component.html" timestamp="1484246294898">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
@@ -312,8 +309,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.html" timestamp="1486061318529">
-        <mark key="'" line="3" column="19" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.html" timestamp="1486062940395">
+        <mark key="'" line="2" column="14" />
+        <mark key="[" line="3" column="5" />
+        <mark key="]" line="3" column="14" />
+        <mark key="^" line="3" column="14" />
+        <mark key="." line="3" column="14" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/package.json" timestamp="1484257132785">
         <mark key="[" line="9" column="33" />
@@ -424,12 +425,12 @@
         <mark key="^" line="21" column="79" />
         <mark key="." line="21" column="79" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.ts" timestamp="1486061313946">
-        <mark key="'" line="7" column="29" />
-        <mark key="[" line="23" column="18" />
-        <mark key="]" line="23" column="22" />
-        <mark key="." line="23" column="22" />
-        <mark key="^" line="23" column="22" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.ts" timestamp="1486062875213">
+        <mark key="'" line="8" column="29" />
+        <mark key="[" line="23" column="48" />
+        <mark key="]" line="23" column="48" />
+        <mark key="." line="23" column="48" />
+        <mark key="^" line="23" column="48" />
       </file>
       <file name="$USER_HOME$/dev/new-site/mathtv/src/app/app.component.css" timestamp="1483739742644">
         <mark key="[" line="1" column="0" />
@@ -568,15 +569,19 @@
         <mark key="^" line="774" column="7" />
         <mark key="." line="82" column="0" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-page/category-page.component.html" timestamp="1486059194807">
-        <mark key="'" line="11" column="31" />
-        <mark key="[" line="8" column="11" />
-        <mark key="]" line="8" column="20" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-page/category-page.component.html" timestamp="1486063389673">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="9" column="18" />
+        <mark key="]" line="9" column="19" />
         <mark key="^" line="8" column="20" />
-        <mark key="." line="8" column="20" />
+        <mark key="." line="9" column="159" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" timestamp="1486061323609">
-        <mark key="'" line="11" column="30" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" timestamp="1486063122403">
+        <mark key="'" line="29" column="11" />
+        <mark key="[" line="32" column="27" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="36" />
+        <mark key="^" line="30" column="80" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/utilities/accordion.component.ts" timestamp="1484696856847">
         <mark key="[" line="0" column="0" />
@@ -592,14 +597,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="26" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
-      <jump line="28" column="11" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/mathtv-theme.scss" />
-      <jump line="1" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/accordion-element/accordion-element.component.scss" />
-      <jump line="23" column="26" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
-      <jump line="17" column="32" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
-      <jump line="18" column="32" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
-      <jump line="28" column="32" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
-      <jump line="38" column="52" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
       <jump line="42" column="50" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
       <jump line="74" column="50" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
       <jump line="12" column="20" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" />
@@ -692,10 +689,18 @@
       <jump line="7" column="29" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.ts" />
       <jump line="3" column="19" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.html" />
       <jump line="11" column="30" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" />
+      <jump line="0" column="12" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/accordion-element.ts" />
+      <jump line="6" column="30" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" />
+      <jump line="2" column="14" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.html" />
+      <jump line="2" column="32" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" />
+      <jump line="29" column="11" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" />
+      <jump line="4" column="28" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-page/category-page.component.html" />
+      <jump line="14" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-page/category-page.component.html" />
+      <jump line="24" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-page/category-page.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Resources</text>
+        <text>accordionElement</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1215,16 +1220,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Resources</text>
+        <text>accordionElement</text>
       </register>
       <register name="/" type="4">
-        <text>Topics</text>
+        <text>route</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CiAgdG9waWNzID0gbnVsbDsKICBAT3V0cHV0KCkgb3BlblBhZ2UgPSBuZXcgRXZlbnRFbWl0dGVyPHN0cmluZz4oKTsKCiAgY29uc3RydWN0b3IoCiAgICBwcml2YXRlIGFwaTogQXBpU2VydmljZSwKICAgIHByaXZhdGUgcm91dGVyOiBSb3V0ZXIsCiAgKSB7IH0KCiAgbmdPbkluaXQoKSB7CiAgICBpZiAodGhpcy50b3BpY3MgPT0gbnVsbCkgewogICAgICB0aGlzLnRvcGljcyA9IHRoaXMuYXBpLmdldCgnY29udGVudCcpOwogICAgfQogIH0KCiAgY2xpY2tPcGVuUGFnZShwYWdlKSB7CiAgICB0aGlzLm9wZW5QYWdlLmVtaXQocGFnZSk7CiAgfQo=</text>
+        <text encoding="base64">J3VzZSBzdHJpY3QnOwoKZXhwb3J0IGludGVyZmFjZSBBY2NvcmRpb25FbGVtZW50IHsKICBuYW1lOiBzdHJpbmc7CiAgY2hpbGRyZW4/OiBBY2NvcmRpb25FbGVtZW50W107CiAgcm91dGU/OiBzdHJpbmc7Cn0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCEtLSAKICAgIDxkaXYgKm5nRm9yPSJsZXQgdG9waWMgb2YgdG9waWNzIHwgYXN5bmM7IGxldCBpZHggPSBpbmRleCIgPgogICAgICA8YXBwLWFjY29yZGlvbi1lbGVtZW50IAogICAgICAgICAgW2FjY29yZGlvbkVsZW1lbnRdPSJ0b3BpYyIgCiAgICAgICAgICAob3BlblBhZ2UpPSJjbGlja09wZW5QYWdlKCRldmVudCkiIAogICAgICAgICAgW3VuaXF1ZUlkXT0iJ2Jhc2UnICsgaWR4IiAKICAgICAgICAgIFtsZXZlbF09IjAiPgogICAgICA8L2FwcC1hY2NvcmRpb24tZWxlbWVudD4KICAgIDwvZGl2PgogICAgLS0+Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgQWNjb3JkaW9uRWxlbWVudCB9IGZyb20gJy4uL21vZGVscy9hY2NvcmRpb24tZWxlbWVudCc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1240,22 +1245,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwhLS0KICAgIDxkaXYgY2xhc3M9InNlY3Rpb24gYWNjb3JkaW9uLXdyYXBwZXIiPgogICAgICA8aDI+QWNjb3JkaW9uIEVsZW1lbnQ8L2gyPgogICAgICA8YXBwLWFjY29yZGlvbi1lbGVtZW50IFthY2NvcmRpb25FbGVtZW50XT0iYWNjRWwiIChvcGVuUGFnZSk9Im9wZW5QYWdlKCRldmVudCkiIFt1bmlxdWVJZF09IidiYXNlJyIgW2xldmVsXT0iMCI+CiAgICAgICAgPHVsPgogICAgICAgICAgPGxpPmhpPC9saT4KICAgICAgICAgIDxsaT50d288L2xpPgogICAgICAgICAgPGxpPnRocmVlPC9saT4KICAgICAgICAgIDxsaT5mb3VyPC9saT4KICAgICAgICA8L3VsPgogICAgICA8L2FwcC1hY2NvcmRpb24tZWxlbWVudD4KICAgIDwvZGl2PgogLS0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAuZmxhdE1hcCgodG9waWMpID0+ICk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHsgcGF0aDogJ2FjY29yZGlvbi1lbGVtZW50JywgY29tcG9uZW50OiBBY2NvcmRpb25FbGVtZW50Q29tcG9uZW50IH0sCg==</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcigpIHsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWNjb3JkaW9uRWxlbWVudENvbXBvbmVudCB9IGZyb20gJy4vdG9waWNzLW5hdi90b3BpY3MtZWxlbWVudC5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG5hbWUpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiBhbnM7Cg==</text>
+        <text encoding="base64">ICAvYnMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jbG9zZUNhdGVnb3J5KCk7Cg==</text>
+        <text encoding="base64">ICBsCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1282,25 +1287,24 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICByb3V0ZT86IHN0cmluZzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5vcGVuQ2F0ZWdvcnkoKTsK</text>
+        <text encoding="base64">ICBjaGlsZHJlbj86IE5hdkVsZW1lbnRbXTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Topics</last-search>
+      <last-search>route</last-search>
       <last-offset />
-      <last-pattern>Topics</last-pattern>
+      <last-pattern>route</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>uniq</entry>
         <entry>block</entry>
         <entry>open</entry>
         <entry>link</entry>
@@ -1320,6 +1324,7 @@
         <entry>accordion</entry>
         <entry>mtv</entry>
         <entry>Topics</entry>
+        <entry>route</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
@@ -1337,11 +1342,11 @@
         <entry>s</entry>
         <entry>action VimWindowDown</entry>
         <entry>q</entry>
+        <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
         <entry>action NextTab</entry>
-        <entry>action VimWindowLeft</entry>
-        <entry>w</entry>
         <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
