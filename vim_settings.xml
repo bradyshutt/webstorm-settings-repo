@@ -186,12 +186,12 @@
         <mark key="." line="35" column="24" />
         <mark key="^" line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/topic.ts" timestamp="1486492706432">
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/topic.ts" timestamp="1486494084967">
         <mark key="'" line="21" column="39" />
-        <mark key="[" line="33" column="5" />
-        <mark key="]" line="35" column="3" />
-        <mark key="." line="35" column="3" />
-        <mark key="^" line="35" column="3" />
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="30" column="56" />
+        <mark key="." line="30" column="56" />
+        <mark key="^" line="30" column="56" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/slick-carousel/slick/slick.js" timestamp="1484859603979">
         <mark key="[" line="25" column="4" />
@@ -465,7 +465,7 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/index.html" timestamp="1485278520051">
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/index.html" timestamp="1486494211551">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="13" column="3" />
         <mark key="]" line="13" column="5" />
@@ -629,7 +629,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -649,7 +649,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>examples</text>
