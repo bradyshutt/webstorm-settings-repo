@@ -8,8 +8,14 @@
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta c" />
   </action>
   <action id="DartTypeHierarchy.BaseOnThisType" />
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="ctrl meta minus" />
+  </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
+  </action>
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl meta equals" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta o" />
@@ -59,4 +65,5 @@
     <mouse-shortcut keystroke="control button2" />
   </action>
   <action id="Vcs.UpdateProject" />
+  <action id="ZoomCurrentWindow" />
 </keymap>
