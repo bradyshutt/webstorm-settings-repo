@@ -25,7 +25,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="cl" value="console.log($END$);" description="Console.log" toReformat="false" toShortenFQNames="true">
+  <template name="cl" value="console.log($END$)" description="Console.log" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
       <option name="HTML" value="true" />
@@ -41,6 +41,13 @@
     <variable name="ONE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="cl'" value="console.log('$END$')" description="Console.log with '" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
 </templateSet>
