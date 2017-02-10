@@ -166,11 +166,11 @@
         <mark key="." line="15" column="28" />
         <mark key="^" line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/resources.ts" timestamp="1486685820879">
-        <mark key="[" line="20" column="28" />
-        <mark key="]" line="20" column="28" />
-        <mark key="." line="20" column="28" />
-        <mark key="^" line="20" column="28" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/resources.ts" timestamp="1486685992176">
+        <mark key="[" line="21" column="21" />
+        <mark key="]" line="22" column="5" />
+        <mark key="." line="22" column="5" />
+        <mark key="^" line="22" column="5" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/center.directive.ts" timestamp="1484676820825">
         <mark key="'" line="3" column="26" />
@@ -669,7 +669,9 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>{
+      
+    }</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -689,7 +691,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
         <text>res</text>
@@ -697,8 +699,10 @@
       <register name="0" type="4">
         <text>consectetur adipisicing elit</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="1" type="4">
+        <text>{
+      
+    }</text>
       </register>
       <register name="q" type="4">
         <text />
@@ -707,19 +711,19 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBwIHsKICAgIG1hcmdpbi1sZWZ0OiAxNXB4OwogIH0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBleHRlbmQgaW5kZW50LTE1Owo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwIHsKICAgIG1hcmdpbi1sZWZ0OiAxNXB4OwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBleHRlbmQgaW5kZW50LTE1Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LnRvcGljLWRlc2NyaXB0aW9uIHsKICBwIHsKICB9Cn0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -746,10 +750,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC5pbmRlbnQtMjA7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAuaW5kZW50LTIwOwo=</text>
+        <text encoding="base64">LnRvcGljLWRlc2NyaXB0aW9uIHsKICBwIHsKICB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
