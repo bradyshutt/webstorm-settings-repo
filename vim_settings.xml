@@ -362,11 +362,6 @@
         <mark key="." line="9" column="18" />
         <mark key="^" line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/console-extention.ts" timestamp="1486674734163">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/tsconfig.json" timestamp="1486077187190">
         <mark key="'" line="16" column="11" />
         <mark key="[" line="6" column="15" />
@@ -409,11 +404,6 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/page.ts" timestamp="1486079282880">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/example.ts" timestamp="1486689119902">
         <mark key="'" line="11" column="31" />
@@ -459,6 +449,12 @@
         <mark key="]" line="0" column="10" />
         <mark key="^" line="0" column="10" />
         <mark key="." line="0" column="10" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/deploy/.htaccess" timestamp="1487098871865">
+        <mark key="[" line="1" column="16" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/nav-element.ts" timestamp="1486065815611">
         <mark key="'" line="13" column="0" />
@@ -557,16 +553,11 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/package.json" timestamp="1487096166313">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="23" />
-        <mark key="." line="17" column="23" />
-        <mark key="^" line="13" column="33" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/topic-dne.ts" timestamp="1486749489187">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/package.json" timestamp="1487099210433">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="53" />
+        <mark key="." line="13" column="53" />
+        <mark key="^" line="13" column="53" />
       </file>
     </filemarks>
     <jumps>
@@ -673,7 +664,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>options</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -693,7 +684,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>options</text>
       </register>
       <register name="/" type="4">
         <text>panel</text>
@@ -770,7 +761,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RvcGljOiAnLCB0b3BpYyk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action VimWindowDown</text>
       </register>
     </registers>
     <search>
@@ -804,7 +795,6 @@
         <entry>panel</entry>
       </history-search>
       <history-cmd>
-        <entry>action SplitVertically</entry>
         <entry>kw</entry>
         <entry>w\</entry>
         <entry>action NextHighlightedError</entry>
@@ -824,6 +814,7 @@
         <entry>action PreviousTab</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action VimWindowDown</entry>
       </history-cmd>
       <history-expr />
       <history-input />
