@@ -297,12 +297,11 @@
         <mark key="." line="36" column="0" />
         <mark key="^" line="35" column="24" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/api.service.ts" timestamp="1486751610701">
-        <mark key="'" line="103" column="22" />
-        <mark key="[" line="35" column="28" />
-        <mark key="]" line="15" column="25" />
-        <mark key="." line="35" column="33" />
-        <mark key="^" line="15" column="25" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/api.service.ts" timestamp="1487106081636">
+        <mark key="'" line="109" column="22" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/nav/nav.component.ts" timestamp="1484673351933">
         <mark key="[" line="7" column="0" />
@@ -535,7 +534,8 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" timestamp="1487095659759">
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" timestamp="1487105582745">
+        <mark key="'" line="67" column="0" />
         <mark key="]" line="16" column="3" />
         <mark key="." line="16" column="3" />
         <mark key="^" line="16" column="3" />
@@ -555,7 +555,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/resources.ts" />
       <jump line="41" column="10" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-page/topic-page.component.html" />
       <jump line="40" column="19" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-page/topic-page.component.html" />
       <jump line="109" column="26" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/resources.ts" />
@@ -655,10 +654,11 @@
       <jump line="26" column="23" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" />
       <jump line="2" column="18" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-nav.component.html" />
       <jump line="71" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" />
+      <jump line="67" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>options</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -678,16 +678,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>options</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>panel</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJidWlsZCI6ICJuZyBidWlsZCIsCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5iYXNlID0gJy9hcGkvJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICIiOiAiIgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -707,22 +707,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFyZW50OiAnJwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8bWQtc3Bpbm5lcj48L21kLXNwaW5uZXI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8cD48L3A+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5iYXNlID0gJy9hcGkvJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBpZiAoKQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFt0aGlzLnRvcGljLmxpbmtdKTsK</text>
+        <text encoding="base64">ICAgICIiOiAiIgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -749,13 +749,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFt0aGlzLnRvcGljLmxpbmtdKTsK</text>
+        <text encoding="base64">ICAgICAgcGFyZW50OiAnJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ3RvcGljOiAnLCB0b3BpYyk7Cg==</text>
+        <text encoding="base64">ICA8bWQtc3Bpbm5lcj48L21kLXNwaW5uZXI+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action VimWindowDown</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -802,13 +802,13 @@
         <entry>action SplitHorizontally</entry>
         <entry>60</entry>
         <entry>action GotoNextError</entry>
-        <entry>action NextTab</entry>
         <entry>action VimWindowRight</entry>
         <entry>action VimWindowLeft</entry>
         <entry>action PreviousTab</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action VimWindowDown</entry>
+        <entry>action NextTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
