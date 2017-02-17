@@ -404,12 +404,13 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/resources.ts" timestamp="1487284387015">
-        <mark key="'" line="21" column="104" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="79" />
-        <mark key="." line="15" column="5" />
-        <mark key="^" line="15" column="5" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/resources.ts" timestamp="1487366909859">
+        <mark key="a" line="15" column="34" />
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="15" column="74" />
+        <mark key="]" line="15" column="73" />
+        <mark key="." line="15" column="73" />
+        <mark key="^" line="15" column="73" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/styles.scss" timestamp="1486687497542">
         <mark key="[" line="31" column="16" />
@@ -631,8 +632,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="19" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/top-bar/top-bar.component.ts" />
-      <jump line="94" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-carousel/category-carousel.component.ts" />
       <jump line="92" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-carousel/category-carousel.component.ts" />
       <jump line="82" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-carousel/category-carousel.component.ts" />
       <jump line="53" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-carousel/category-carousel.component.ts" />
@@ -731,6 +730,8 @@
       <jump line="1" column="23" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/category-carousel/category-carousel.component.ts" />
       <jump line="46" column="13" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app-routing.module.ts" />
       <jump line="47" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app-routing.module.ts" />
+      <jump line="21" column="33" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/resources.ts" />
+      <jump line="18" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/resources.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -831,7 +832,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>source ~/.ideavimrc</text>
       </register>
     </registers>
     <search>
@@ -865,7 +866,6 @@
         <entry>alge</entry>
       </history-search>
       <history-cmd>
-        <entry>actions</entry>
         <entry>action</entry>
         <entry>action?</entry>
         <entry>action NextError</entry>
@@ -885,6 +885,7 @@
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>w</entry>
+        <entry>source ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
