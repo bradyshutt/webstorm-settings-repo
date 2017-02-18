@@ -67,11 +67,11 @@
         <mark key="^" line="3" column="28" />
         <mark key="." line="10" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/home/home.component.scss" timestamp="1487376657910">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="22" column="11" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/home/home.component.scss" timestamp="1487378173070">
+        <mark key="[" line="17" column="72" />
+        <mark key="]" line="17" column="72" />
+        <mark key="^" line="17" column="59" />
+        <mark key="." line="17" column="72" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/tslint.json" timestamp="1486076923405">
         <mark key="'" line="3" column="24" />
@@ -736,8 +736,8 @@
       <jump line="21" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/home/home.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -757,7 +757,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>, 'bg4'</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>alge</text>
@@ -834,7 +834,7 @@
         <text encoding="base64">IHJlbW92ZUNsYXNzOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -886,8 +886,8 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
-        <entry>w</entry>
         <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
