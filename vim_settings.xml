@@ -3,10 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/mathtv-ionic/mathtv/src/pages/home/home.ts" timestamp="1487974482653">
-        <mark key="[" line="13" column="13" />
-        <mark key="]" line="13" column="20" />
-      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/rxjs/Observable.d.ts" timestamp="1486751046864">
         <mark key="'" line="70" column="11" />
       </file>
@@ -76,12 +72,6 @@
       <file name="$USER_HOME$/mathtv-ionic/mathtv/node_modules/ionic-angular/es2015/components/toolbar/toolbar.js" timestamp="1487977602071">
         <mark key="'" line="40" column="21" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/home/home.component.html" timestamp="1487973835451">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="6" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/home/home.component.scss" timestamp="1487974787582">
         <mark key="'" line="24" column="1" />
         <mark key="[" line="0" column="0" />
@@ -150,6 +140,12 @@
         <mark key="." line="45" column="98" />
         <mark key="^" line="45" column="96" />
       </file>
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/page-not-found/page-not-found.component.ts" timestamp="1487979269312">
+        <mark key="[" line="5" column="15" />
+        <mark key="]" line="4" column="17" />
+        <mark key="^" line="4" column="17" />
+        <mark key="." line="5" column="16" />
+      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.html" timestamp="1487398439221">
         <mark key="'" line="19" column="49" />
         <mark key="[" line="18" column="0" />
@@ -199,6 +195,12 @@
         <mark key="." line="7" column="69" />
         <mark key="^" line="8" column="10" />
       </file>
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home.component.ts" timestamp="1487979209592">
+        <mark key="[" line="12" column="17" />
+        <mark key="]" line="12" column="20" />
+        <mark key="^" line="12" column="20" />
+        <mark key="." line="12" column="20" />
+      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/rxjs-operators.ts" timestamp="1487283935916">
         <mark key="'" line="14" column="23" />
       </file>
@@ -212,18 +214,24 @@
       <file name="$USER_HOME$/mathtv-ionic/mathtv/src/pages/page1/page1.ts" timestamp="1487974898554">
         <mark key="'" line="6" column="17" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" timestamp="1487894576734">
-        <mark key="'" line="72" column="21" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="^" line="72" column="18" />
-        <mark key="." line="74" column="0" />
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" timestamp="1487979375411">
+        <mark key="'" line="46" column="11" />
+        <mark key="[" line="46" column="8" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="46" column="11" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/environments/environment.ts" timestamp="1487892152695">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="45" />
         <mark key="." line="9" column="43" />
         <mark key="^" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home-page.component.scss" timestamp="1487979299695">
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="27" />
+        <mark key="^" line="25" column="24" />
+        <mark key="." line="25" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/example/example.component.scss" timestamp="1487890220650">
         <mark key="'" line="41" column="0" />
@@ -337,6 +345,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home-page.component.spec.ts" timestamp="1487979323671">
+        <mark key="[" line="19" column="42" />
+        <mark key="]" line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+        <mark key="." line="19" column="45" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/tut/src/pages/list/list.ts" timestamp="1487976180277" />
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/example.ts" timestamp="1487892199326">
@@ -498,7 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="48" column="47" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/video-modal/video-modal.component.ts" />
       <jump line="40" column="46" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/video-modal/video-modal.component.ts" />
       <jump line="52" column="18" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/video-modal/video-modal.component.ts" />
       <jump line="34" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/video-modal/video-modal.component.ts" />
@@ -565,7 +578,6 @@
       <jump line="1" column="11" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.component.ts" />
       <jump line="64" column="17" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.component.ts" />
       <jump line="77" column="13" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
-      <jump line="78" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
       <jump line="6" column="9" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
       <jump line="8" column="8" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
       <jump line="4" column="9" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
@@ -598,10 +610,12 @@
       <jump line="1" column="4" filename="$USER_HOME$/mathtv-ionic/mathtv/src/app/app.html" />
       <jump line="40" column="21" filename="$USER_HOME$/mathtv-ionic/mathtv/node_modules/ionic-angular/es2015/components/toolbar/toolbar.js" />
       <jump line="15" column="32" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/top-bar/top-bar.component.scss" />
+      <jump line="78" column="13" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
+      <jump line="46" column="11" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>home/home</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -621,7 +635,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>home/home</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>input</text>
@@ -733,12 +747,12 @@
         <entry>113</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>kw</entry>
-        <entry>q</entry>
         <entry>45</entry>
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
