@@ -214,6 +214,9 @@
         <mark key="^" line="17" column="14" />
         <mark key="." line="6" column="16" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/angular-admin-interface/ng2-admin/src/app/pages/dashboard/pieChart/pieChart.component.ts" timestamp="1490905722524">
+        <mark key="'" line="17" column="54" />
+      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/delete.soon/accordion-wrapper.component.ts" timestamp="1486060757394">
         <mark key="'" line="94" column="0" />
         <mark key="[" line="8" column="0" />
@@ -265,6 +268,9 @@
         <mark key="'" line="71" column="4" />
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/angular-admin-interface/ng2-admin/src/app/pages/dashboard/dashboard.html" timestamp="1490905682158">
+        <mark key="'" line="2" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app.old/top-bar/top-bar.component.scss" timestamp="1488304813411">
         <mark key="'" line="2" column="0" />
@@ -377,10 +383,6 @@
         <mark key="]" line="5" column="44" />
         <mark key="^" line="5" column="44" />
         <mark key="." line="5" column="44" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app.old/app.component.ts" timestamp="1488304040727">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="41" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-page/topic-page.component.html" timestamp="1487891649104">
         <mark key="'" line="45" column="101" />
@@ -637,10 +639,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/mathtv-ionic/mathtv/src/pages/home/home.html" />
-      <jump line="19" column="18" filename="$USER_HOME$/mathtv-ionic/mathtv/src/pages/home/home.html" />
-      <jump line="21" column="67" filename="$USER_HOME$/mathtv-ionic/mathtv/src/app/app.module.ts" />
-      <jump line="24" column="1" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/home/home.component.scss" />
       <jump line="6" column="17" filename="$USER_HOME$/mathtv-ionic/mathtv/src/pages/page1/page1.ts" />
       <jump line="11" column="14" filename="$USER_HOME$/mathtv-ionic/mathtv/src/app/app.html" />
       <jump line="15" column="12" filename="$USER_HOME$/mathtv-ionic/mathtv/src/pages/home/home.html" />
@@ -737,6 +735,10 @@
       <jump line="34" column="8" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/components/nav-bar/nav-bar.component.scss" />
       <jump line="15" column="19" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/components/nav-bar/nav-bar.component.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/components/nav-bar/nav-bar.component.scss" />
+      <jump line="2" column="12" filename="$USER_HOME$/dev/workspace/angular-admin-interface/ng2-admin/src/app/pages/dashboard/dashboard.html" />
+      <jump line="9" column="19" filename="$USER_HOME$/dev/workspace/angular-admin-interface/ng2-admin/src/app/pages/dashboard/pieChart/pieChart.component.ts" />
+      <jump line="18" column="37" filename="$USER_HOME$/dev/workspace/angular-admin-interface/ng2-admin/src/app/pages/dashboard/pieChart/pieChart.component.ts" />
+      <jump line="17" column="54" filename="$USER_HOME$/dev/workspace/angular-admin-interface/ng2-admin/src/app/pages/dashboard/pieChart/pieChart.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -823,7 +825,7 @@
         <text encoding="base64">ICBjb250ZW50OiAifCI7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action VimWindowRight</text>
       </register>
     </registers>
     <search>
@@ -872,13 +874,13 @@
         <entry>q</entry>
         <entry>20</entry>
         <entry>57</entry>
-        <entry>action VimWindowRight</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowUp</entry>
         <entry>action VimWindowDown</entry>
         <entry>w</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>action VimWindowRight</entry>
       </history-cmd>
       <history-expr />
       <history-input />
