@@ -228,6 +228,13 @@
         <mark key="." line="28" column="18" />
         <mark key="^" line="28" column="18" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.module.ts" timestamp="1490991632031">
+        <mark key="'" line="45" column="28" />
+        <mark key="[" line="43" column="4" />
+        <mark key="]" line="44" column="1" />
+        <mark key="." line="45" column="27" />
+        <mark key="^" line="44" column="1" />
+      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/components/nav-bar/nav-bar.component.html" timestamp="1488313930467">
         <mark key="'" line="8" column="20" />
         <mark key="[" line="21" column="8" />
@@ -436,6 +443,12 @@
         <mark key="]" line="9" column="14" />
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.component.ts" timestamp="1490991404675">
+        <mark key="[" line="4" column="13" />
+        <mark key="]" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+        <mark key="^" line="4" column="27" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/dashboard/dashboard.html" timestamp="1490928125155">
         <mark key="'" line="51" column="0" />
@@ -817,9 +830,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="81" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/pages.routing.ts" />
-      <jump line="13" column="41" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/tables/tables.routing.ts" />
-      <jump line="15" column="13" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/tables/components/smartTables/smartTables.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/tables/components/smartTables/smartTables.component.ts" />
       <jump line="73" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/tables/components/smartTables/smartTables.component.ts" />
       <jump line="14" column="14" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/book-manager/book-manager.module.ts" />
@@ -917,10 +927,13 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Starter/src/scss/_custom-variables.scss" />
       <jump line="2" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Starter/src/scss/_custom-variables.scss" />
       <jump line="90" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Starter/src/scss/bootstrap_src/_variables.scss" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.module.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.module.ts" />
+      <jump line="45" column="28" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -940,37 +953,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>shadow</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JGVuYWJsZS1zaWRlYmFyLW5hdi1yb3VuZGVkOiBmYWxzZTsK</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBvbmVudDogCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>dt .x}jf&quot;l</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JGVuYWJsZS1zaGFkb3dzOiB0cnVlOwo=</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDEwMHB4Owo=</text>
+        <text encoding="base64">CmV4cG9ydCBjbGFzcyBBcHBNb2R1bGUgeyB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkaXNwbGF5OiBub25lOwogIHZpc2liaWxpdHk6IGhpZGRlbjsK</text>
+        <text encoding="base64">Cn0pCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDIwMHB4OwogIGRpc3BsYXk6IG5vbmU7CiAgdmlzaWJpbGl0eTogaGlkZGVuOwo=</text>
+        <text encoding="base64">ICBib290c3RyYXA6IFsgQXBwQ29tcG9uZW50IF0K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFtdLAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -997,10 +1010,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBwcm92aWRlcnM6IFt7CiAgICBwcm92aWRlOiBMb2NhdGlvblN0cmF0ZWd5LAogICAgdXNlQ2xhc3M6IEhhc2hMb2NhdGlvblN0cmF0ZWd5CiAgfV0sCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBwb3NpdGlvbjogaGlkZGVuCg==</text>
+        <text encoding="base64">ICBkZWNsYXJhdGlvbnM6IFsKICAgIEFwcENvbXBvbmVudCwKICBdLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
