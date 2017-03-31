@@ -146,12 +146,12 @@
         <mark key="." line="38" column="8" />
         <mark key="^" line="48" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/tsconfig.json" timestamp="1490998362818">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/tsconfig.json" timestamp="1490998646283">
         <mark key="'" line="6" column="0" />
         <mark key="[" line="5" column="30" />
-        <mark key="]" line="5" column="34" />
-        <mark key="." line="5" column="34" />
-        <mark key="^" line="5" column="34" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/node_modules/@angular/material/core/theming/_theming.scss" timestamp="1488306029881">
         <mark key="'" line="61" column="18" />
@@ -202,12 +202,11 @@
         <mark key="." line="22" column="88" />
         <mark key="^" line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" timestamp="1490998271461">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" timestamp="1490998951562">
         <mark key="'" line="4" column="19" />
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="6" column="0" />
-        <mark key="^" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/top-nav/top-nav.component.ts" timestamp="1485455048217">
         <mark key="'" line="35" column="25" />
@@ -458,11 +457,11 @@
         <mark key="." line="126" column="31" />
         <mark key="^" line="126" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.module.ts" timestamp="1490998513696">
-        <mark key="[" line="13" column="2" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="14" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.module.ts" timestamp="1490998795745">
+        <mark key="'" line="4" column="19" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/utilities/accordion-card.component.ts" timestamp="1485455801745">
         <mark key="'" line="19" column="11" />
@@ -936,8 +935,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/theme/nga.module.ts" />
-      <jump line="50" column="10" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/theme/nga.module.ts" />
       <jump line="75" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/theme/nga.module.ts" />
       <jump line="58" column="41" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/theme/nga.module.ts" />
       <jump line="83" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/theme/nga.module.ts" />
@@ -1034,12 +1031,14 @@
       <jump line="4" column="36" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Full_Project/src/app/app.module.ts" />
       <jump line="12" column="58" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Full_Project/src/app/app.module.ts" />
       <jump line="18" column="63" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Full_Project/src/app/app.module.ts" />
-      <jump line="44" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.module.ts" />
       <jump line="6" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/tsconfig.json" />
+      <jump line="44" column="19" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.module.ts" />
+      <jump line="4" column="19" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.module.ts" />
+      <jump line="7" column="13" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">amprCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1068,7 +1067,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>exp</text>
@@ -1077,7 +1076,7 @@
         <text encoding="base64">ICAgIFVpQ29tcG9uZW50c01vZHVsZQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">amprCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1088,22 +1087,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBleHBvcnQgY2xhc3MgQm9va01hbmFnZXJNb2R1bGUgeyB9Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEJvb2tNYW5hZ2VyTW9kdWxlIHsgfQo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwTW9kdWxlIH0gZnJvbSAnLi4vYXBwLm1vZHVsZSc7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIFVpVGFibGVDb21wb25lbnQgewo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEJvb2tNYW5hZ2VyQ29tcG9uZW50IGltcGxlbWVudHMgT25Jbml0IHsK</text>
+        <text encoding="base64">ICAgIFVpVGFibGVDb21wb25lbnQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEJvb2tNYW5hZ2VyQ29tcG9uZW50IGltcGxlbWVudHMgT25Jbml0IHsK</text>
+        <text encoding="base64">ICAgIFVpVGFibGVDb21wb25lbnQK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1130,10 +1129,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHBvcnQgY2xhc3MgQXBwTW9kdWxlIHsgfQo=</text>
+        <text encoding="base64">amprCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEFwcE1vZHVsZSB7IH0K</text>
+        <text encoding="base64">ICBleHBvcnQgY2xhc3MgQm9va01hbmFnZXJNb2R1bGUgeyB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1188,9 +1187,9 @@
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
         <entry>action VimWindowDown</entry>
-        <entry>action NextTab</entry>
-        <entry>q</entry>
         <entry>action PreviousTab</entry>
+        <entry>q</entry>
+        <entry>action NextTab</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
