@@ -497,11 +497,11 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/models/book.ts" timestamp="1491004335261">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/models/book.ts" timestamp="1491009680871">
         <mark key="'" line="9" column="24" />
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="24" column="27" />
-        <mark key="." line="24" column="27" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
         <mark key="^" line="24" column="27" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/layouts/full-layout.component.html" timestamp="1490999112592">
@@ -546,6 +546,11 @@
         <mark key="]" line="8" column="26" />
         <mark key="^" line="32" column="1" />
         <mark key="." line="52" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.ts" timestamp="1491010235424">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/subject-list/subject-list.component.scss" timestamp="1487390634192">
         <mark key="'" line="8" column="23" />
@@ -598,6 +603,17 @@
         <mark key="]" line="9" column="17" />
         <mark key="^" line="9" column="17" />
         <mark key="." line="9" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/environments/environment.ts" timestamp="1491010125099">
+        <mark key="[" line="7" column="31" />
+        <mark key="]" line="7" column="31" />
+        <mark key="^" line="7" column="31" />
+        <mark key="." line="7" column="31" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.spec.ts" timestamp="1491009860299">
+        <mark key="[" line="11" column="55" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/scss/bootstrap_src/_close.scss" timestamp="1491002701854">
         <mark key="'" line="29" column="0" />
@@ -1071,7 +1087,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgZW52LmFwaUVuZHBvaW50Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1100,16 +1116,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>E</text>
+        <text>.apiEndpoint</text>
       </register>
       <register name="/" type="4">
-        <text>aria</text>
+        <text>Book</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAmLmRlbGV0ZSB7CiAgICAKICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgZW52LmFwaUVuZHBvaW50Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1120,22 +1136,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y29uc3QgCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">a2sK</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ZW51bSBCb29rVHlwZSB7CiAgCgp9Vgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0IGVudgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">LmRlbGV0ZS1idXR0b24gewogIGNvbG9yOiByZWQ7Cn0KCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1162,19 +1178,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>aria</last-search>
+      <last-search>Book</last-search>
       <last-offset />
-      <last-pattern>aria</last-pattern>
+      <last-pattern>Book</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>middle</last-substitute>
       <last-dir>1</last-dir>
@@ -1182,11 +1198,6 @@
     </search>
     <history>
       <history-search>
-        <entry>shadow</entry>
-        <entry>app-roo</entry>
-        <entry>book</entry>
-        <entry>icon-book</entry>
-        <entry encoding="base64">XDxhXD4=</entry>
         <entry>home</entry>
         <entry>components</entry>
         <entry>component</entry>
@@ -1202,6 +1213,11 @@
         <entry>table-con</entry>
         <entry>conden</entry>
         <entry>aria</entry>
+        <entry>service</entry>
+        <entry>serv</entry>
+        <entry>boook</entry>
+        <entry>book</entry>
+        <entry>Book</entry>
       </history-search>
       <history-cmd>
         <entry>101</entry>
@@ -1220,8 +1236,8 @@
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
         <entry>action VimWindowDown</entry>
-        <entry>q</entry>
         <entry>action NextTab</entry>
+        <entry>q</entry>
         <entry>action PreviousTab</entry>
         <entry>w</entry>
       </history-cmd>
