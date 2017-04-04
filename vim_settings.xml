@@ -363,12 +363,12 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1491335803174">
-        <mark key="'" line="54" column="10" />
-        <mark key="[" line="152" column="18" />
-        <mark key="]" line="152" column="18" />
-        <mark key="^" line="152" column="7" />
-        <mark key="." line="152" column="18" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1491337128918">
+        <mark key="'" line="173" column="25" />
+        <mark key="[" line="207" column="12" />
+        <mark key="]" line="207" column="12" />
+        <mark key="^" line="212" column="6" />
+        <mark key="." line="207" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/example.ts" timestamp="1487892199326">
         <mark key="'" line="36" column="37" />
@@ -965,9 +965,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="145" column="37" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="9" column="41" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="10" column="39" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="12" column="43" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="15" column="63" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="16" column="48" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -976,7 +973,6 @@
       <jump line="167" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="166" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="155" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="152" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="146" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="142" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="137" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -989,7 +985,6 @@
       <jump line="74" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="59" column="67" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="94" column="15" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="62" column="6" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="82" column="49" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="8" column="6" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="11" column="6" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -1002,7 +997,6 @@
       <jump line="25" column="53" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="138" column="41" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="20" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="64" column="23" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="68" column="39" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="69" column="46" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="75" column="61" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -1013,13 +1007,11 @@
       <jump line="21" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="149" column="3" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="143" column="10" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="170" column="8" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="189" column="1" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="194" column="32" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="52" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="114" column="19" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="95" column="35" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -1033,16 +1025,12 @@
       <jump line="159" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="163" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="165" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="171" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="173" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="185" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="187" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="193" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="196" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="199" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="201" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="205" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="207" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="215" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="210" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="203" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -1065,10 +1053,22 @@
       <jump line="27" column="31" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="35" column="65" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="54" column="10" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="26" column="27" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="109" column="34" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="205" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="168" column="7" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="62" column="31" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="171" column="17" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="174" column="7" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="207" column="31" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="173" column="25" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">b3B0aW9ucyB8fCA=</text>
+        <text>Query</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1097,16 +1097,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">b3B0aW9ucyB8fCA=</text>
+        <text>Query</text>
       </register>
       <register name="/" type="4">
-        <text>schoolId</text>
+        <text>books</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMgPSBvcHRpb25zIHx8IHt9OwogICAgb3B0aW9ucy5zY2hvb2xJZCA9IG9wdGlvbnMuc2Nob29sSWQgfHwgMTU7CiAgICBvcHRpb25zLmJvb2tJZCA9IG9wdGlvbnMuYm9va0lkIHx8IDE1OwoKICAgIC8vIGdldCB0aGUgY2hhcHRlcnMKICAgIGxldCBzcWxRdWVyeVN0cmluZyA9ICcnOwogICAgc3FsUXVlcnlTdHJpbmcgKz0gJyBTRUxFQ1Qgc2Nob29sX2NoYXB0ZXJzLnNjaG9vbF9jaGFwdGVyX2lkLCBzY2hvb2xfY2hhcHRlcnMub3JkZXJfaWQsIHNjaG9vbF9jaGFwdGVycy5jaGFwdGVyX3RvY19ub3RlIGFzIHRvY19ub3RlX2Zvcl9tYXRodHYsIHNjaG9vbF9jaGFwdGVycy5jaGFwdGVyX2xhYmVsX292ZXJyaWRlLCBjaGFwdGVycy4qJzsKICAgIHNxbFF1ZXJ5U3RyaW5nICs9ICcgRlJPTSBzY2hvb2xfY2hhcHRlcnMnOwogICAgc3FsUXVlcnlTdHJpbmcgKz0gJyBMRUZUIEpPSU4gY2hhcHRlcnMgT04gY2hhcHRlcnMuY2hhcHRlcl9pZCA9IHNjaG9vbF9jaGFwdGVycy5jaGFwdGVyX2lkJzsKICAgIHNxbFF1ZXJ5U3RyaW5nICs9ICcgTEVGVCBKT0lOIGJvb2tzIE9OIGNoYXB0ZXJzLmJvb2tfaWQgPSBib29rcy5ib29rX2lkJzsKICAgIHNxbFF1ZXJ5U3RyaW5nICs9ICcgV0hFUkUgMSBBTkQgc2Nob29sX2NoYXB0ZXJzLnNjaG9vbF9pZCA9ICcgKyBvcHRpb25zLnNjaG9vbElkOwogICAgc3FsUXVlcnlTdHJpbmcgKz0gJyBBTkQgYm9va3MuYm9va19pZCA9ICcgKyBvcHRpb25zLmJvb2tJZDsKICAgIHNxbFF1ZXJ5U3RyaW5nICs9ICcgT1JERVIgQlkgc2Nob29sX2NoYXB0ZXJzLm9yZGVyX2lkJzsKCiAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICBMZWdhY3lCb29rLnF1ZXJ5KHNxbFF1ZXJ5U3RyaW5nLCBmdW5jdGlvbihlcnIsIGNoYXB0ZXJzKSB7CiAgICAgICAgaWYgKGVycikgcmV0dXJuIHJlamVjdChlcnIpOwogICAgICAgIHJldHVybiByZXNvbHZlKGNoYXB0ZXJzKTsKICAgICAgfSk7CgogICAgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgTGVnYWN5Qm9vay5xdWVyeShzcWxRdWVyeVN0cmluZywgZnVuY3Rpb24oZXJyLCBzZWN0aW9ucykgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBnZXRCb29rczogZnVuY3Rpb24ob3B0aW9ucykgewogIC8vICAgb3B0aW9ucyA9IG9wdGlvbnMgfHwge307CiAgLy8gICBvcHRpb25zLnNjaG9vbElkID0gb3B0aW9ucy5zY2hvb2xJZCB8fCAxNTsKICAvLwogIC8vICAgLy8gZ2V0IHRoZSBib29rIGRhdGEKICAvLyAgIGxldCBzcWxRdWVyeVN0cmluZyA9ICcnOwogIC8vICAgc3FsUXVlcnlTdHJpbmcgKz0gJyBTRUxFQ1QgYm9va3MuKiwgc2Nob29sX2Jvb2tzLnNjaG9vbF9ib29rX2lkLCBzY2hvb2xfYm9va3MubmV3X25hbWUgYXMgbmFtZV9vdmVycmlkZSwgc2Nob29sX2Jvb2tzLm5ld19pbWFnZSBhcyBpbWFnZV9vdmVycmlkZSwgc2Nob29sX2Jvb2tzLmlzX2ludGVyYWN0aXZlLCBzY2hvb2xfYm9va3MuYWx3YXlzX3VzZV9odG1sNSwgc2Nob29sX2Jvb2tzLmVuYWJsZV9leGFtcGxlc19maWx0ZXIsIHNjaG9vbF9ib29rcy5hbHRlcm5hdGVfZWJvb2tfY29kZSc7CiAgLy8gICBzcWxRdWVyeVN0cmluZyArPSAnIEZST00gc2Nob29sX2Jvb2tzJzsKICAvLyAgIHNxbFF1ZXJ5U3RyaW5nICs9ICcgSk9JTiBib29rcyBPTiBib29rcy5ib29rX2lkID0gc2Nob29sX2Jvb2tzLmJvb2tfaWQnOwogIC8vICAgc3FsUXVlcnlTdHJpbmcgKz0gJyBXSEVSRSAxJzsKICAvLyAgIHNxbFF1ZXJ5U3RyaW5nICs9ICcgQU5EIHNjaG9vbF9ib29rcy5zY2hvb2xfaWQgPSAnICsgb3B0aW9ucy5zY2hvb2xJZDsKICAvLwogIC8vICAgaWYgKHR5cGVvZiBvcHRpb25zLmJvb2tJZCAhPSAndW5kZWZpbmVkJykgewogIC8vICAgICBzcWxRdWVyeVN0cmluZyArPSAnIEFORCBzY2hvb2xfYm9va3MuYm9va19pZCA9ICR7b3B0aW9ucy5ib29rSWR9JzsKICAvLyAgIH0KICAvLwogIC8vICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpLnRoZW4oKCkgPT4gewogIC8vCiAgLy8gICAgIExlZ2FjeUJvb2sucXVlcnkoc3FsUXVlcnlTdHJpbmcsIFsgXSwgZnVuY3Rpb24oZXJyLCBib29rcykgewogIC8vICAgICAgIGlmIChlcnIpIHsKICAvLyAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgLy8gICAgICAgICByZXR1cm4gY2IoZXJyKTsKICAvLyAgICAgICB9CiAgLy8KICAvLyAgICAgICByZXR1cm4gTGVnYWN5Qm9va1NlcnZpY2UubG9hZENoYXB0ZXJzKGJvb2tzKQogIC8vCiAgLy8gICAgICAgbGV0IHByb21pc2VzRm9yQ2hhcHRlcnMgPSBib29rcy5tYXAoKGJvb2spID0+IHsKICAvLyAgICAgICAgIGxldCBxdWVyeU9wdGlvbnMgPSB7CiAgLy8gICAgICAgICAgIGJvb2tJZDogYm9va1snYm9va19pZCddLAogIC8vICAgICAgICAgICBzY2hvb2xJZDogb3B0aW9ucy5zY2hvb2xJZCwKICAvLyAgICAgICAgIH07CiAgLy8gICAgICAgICAvLyByZXR1cm4gZnJvbSBib29rcy5tYXAoLi4pCiAgLy8gICAgICAgICByZXR1cm4gTGVnYWN5Qm9va1NlcnZpY2UuZ2V0U2Nob29sQ2hhcHRlcnMocXVlcnlPcHRpb25zKTsKICAvLyAgICAgICB9KTsKICAvLyAgICAgfSkKICAvLyAgIH0pOwogIC8vIH0sCiAgLy8KICAvLyBsb2FkQ2hhcHRlcnM6IGZ1bmN0aW9uKGJvb2tzLCBvcHRpb25zKSB7CiAgLy8KICAvLyAgIGxldCBwcm9taXNlc0ZvckNoYXB0ZXJzID0gYm9va3MubWFwKChib29rKSA9PiB7CiAgLy8gICAgIGxldCBxdWVyeU9wdGlvbnMgPSB7CiAgLy8gICAgICAgYm9va0lkOiBib29rWydib29rX2lkJ10sCiAgLy8gICAgICAgc2Nob29sSWQ6IG9wdGlvbnMuc2Nob29sSWQsCiAgLy8gICAgIH07CiAgLy8KICAvLyAgICAgcmV0dXJuIExlZ2FjeUJvb2tTZXJ2aWNlLmdldFNjaG9vbENoYXB0ZXJzKHF1ZXJ5T3B0aW9ucyk7CiAgLy8gICB9KTsKICAvLwogIC8vICAgUHJvbWlzZS5hbGwocHJvbWlzZXNGb3JDaGFwdGVycykKICAvLyAgICAgLnRoZW4oKGJvb2tDaGFwdGVycykgPT4geyB9KQogIC8vCiAgLy8gICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogIC8vCiAgLy8gICB9KQogIC8vCiAgLy8gfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1117,22 +1117,24 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAvLyByZXR1cm4gZnJvbSBib29rcy5tYXAoLi4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgaWYgZQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaWZlcnIgCg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">cmV0dXJuIFByb21pc2UucmVzb2x2ZSgpCiAgICAgIC50aGVuKCgpID0+IHsKICAgICAgICByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgICAgICAgTGVnYWN5Qm9vay5xdWVyeShzcWxRdWVyeVN0cmluZywgW10sIGZ1bmN0aW9uKGVyciwgYm9va3MpIHsKICAgICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICAgIGNvbnNvbGUubG9nKGVycik7CiAgICAgICAgICAgICAgcmVqZWN0KGVycik7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgcmVzb2x2ZShib29rcyk7CiAgICAgICAgICB9KQogICAgICAgIH0pCiAgICAgIH0pCgogICAgICAudGhlbigoYm9va3MpID0+IHsKICAgICAgICAgIGxldCBwcm9taXNlc0ZvckNoYXB0ZXJzID0gYm9va3MubWFwKChib29rKSA9PiB7CiAgICAgICAgICAgIGxldCBxdWVyeU9wdGlvbnMgPSB7CiAgICAgICAgICAgICAgYm9va0lkOiBib29rWydib29rX2lkJ10sCiAgICAgICAgICAgICAgc2Nob29sSWQ6IG9wdGlvbnMuc2Nob29sSWQsCiAgICAgICAgICAgIH07CiAgICAgICAgICAgIC8vIHJldHVybiBmcm9tIGJvb2tzLm1hcCguLikKICAgICAgICAgICAgcmV0dXJuIExlZ2FjeUJvb2tTZXJ2aWNlLmdldFNjaG9vbENoYXB0ZXJzKHF1ZXJ5T3B0aW9ucyk7CiAgICAgICAgICB9KTsKCiAgICAgICAgICBQcm9taXNlLmFsbChwcm9taXNlc0ZvckNoYXB0ZXJzKQogICAgICAgICAgICAudGhlbigoYm9va0NoYXB0ZXJzKSA9PiB7CgogICAgICB9KQ==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>{
+    
+  }</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXNvbHZlKGJvb2spOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1159,19 +1161,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBMZWdhY3lCb29rLnF1ZXJ5KHNxbFF1ZXJ5U3RyaW5nLCBbXSwgZnVuY3Rpb24oZXJyLCBib29rcykgewogICAgICAgICAgaWYgKGVycikgewogICAgICAgICAgICBjb25zb2xlLmxvZyhlcnIpOwogICAgICAgICAgICByZXR1cm4gUHJvbWlzZS5yZWplY3QoZXJyKTsKICAgICAgICAgIH0KICAgICAgICAgIHJldHVybiBib29rczsKICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIC50Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIC50aGVuCg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>schoolId</last-search>
+      <last-search>books</last-search>
       <last-offset />
-      <last-pattern>schoolId</last-pattern>
+      <last-pattern>books</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>middle</last-substitute>
       <last-dir>1</last-dir>
@@ -1179,7 +1181,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRMZWdhY3lTY2hvb2xCb29rc1w+</entry>
         <entry>conso</entry>
         <entry>bookId</entry>
         <entry>legacyBook</entry>
@@ -1199,6 +1200,7 @@
         <entry>function (</entry>
         <entry>getSchool</entry>
         <entry>schoolId</entry>
+        <entry>books</entry>
       </history-search>
       <history-cmd>
         <entry>kw</entry>
@@ -1218,9 +1220,9 @@
         <entry>q</entry>
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
-        <entry>w</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
