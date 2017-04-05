@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" timestamp="1491002977119">
-        <mark key="'" line="27" column="63" />
-        <mark key="[" line="27" column="59" />
-        <mark key="]" line="27" column="64" />
-        <mark key="^" line="27" column="64" />
-        <mark key="." line="27" column="64" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" timestamp="1491356496148">
+        <mark key="'" line="57" column="18" />
+        <mark key="[" line="26" column="100" />
+        <mark key="]" line="26" column="102" />
+        <mark key="^" line="26" column="102" />
+        <mark key="." line="26" column="102" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.scss" timestamp="1491003158515">
         <mark key="[" line="22" column="11" />
@@ -198,12 +198,12 @@
         <mark key="." line="22" column="88" />
         <mark key="^" line="21" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" timestamp="1491014574213">
-        <mark key="'" line="4" column="16" />
-        <mark key="[" line="21" column="37" />
-        <mark key="]" line="21" column="3" />
-        <mark key="." line="21" column="3" />
-        <mark key="^" line="21" column="3" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" timestamp="1491357530311">
+        <mark key="'" line="25" column="17" />
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="16" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="25" column="16" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/models/Chapter.js" timestamp="1491326135930">
         <mark key="[" line="10" column="0" />
@@ -244,12 +244,11 @@
         <mark key="^" line="63" column="3" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.component.html" timestamp="1491001251860">
-        <mark key="'" line="4" column="47" />
-        <mark key="[" line="4" column="77" />
-        <mark key="]" line="4" column="82" />
-        <mark key="^" line="4" column="82" />
-        <mark key="." line="4" column="82" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.component.html" timestamp="1491356581473">
+        <mark key="[" line="10" column="28" />
+        <mark key="]" line="10" column="27" />
+        <mark key="^" line="10" column="27" />
+        <mark key="." line="10" column="27" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/example/example.component.scss" timestamp="1487890220650">
         <mark key="'" line="41" column="0" />
@@ -264,12 +263,12 @@
         <mark key="." line="28" column="18" />
         <mark key="^" line="28" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.module.ts" timestamp="1491013773602">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.module.ts" timestamp="1491357335308">
         <mark key="j" line="17" column="27" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="50" column="15" />
+        <mark key="[" line="38" column="23" />
+        <mark key="]" line="40" column="23" />
+        <mark key="." line="40" column="23" />
+        <mark key="^" line="40" column="23" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/components/nav-bar/nav-bar.component.html" timestamp="1488313930467">
         <mark key="'" line="8" column="20" />
@@ -277,6 +276,11 @@
         <mark key="]" line="22" column="10" />
         <mark key="." line="22" column="10" />
         <mark key="^" line="22" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/modal-service.ts" timestamp="1491357583791">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/mathtv/src/pages/home/home.html" timestamp="1487978020190">
         <mark key="[" line="22" column="0" />
@@ -502,11 +506,11 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/models/book.ts" timestamp="1491014597236">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/models/book.ts" timestamp="1491354501899">
         <mark key="'" line="15" column="0" />
-        <mark key="[" line="15" column="2" />
-        <mark key="]" line="15" column="6" />
-        <mark key="." line="15" column="6" />
+        <mark key="[" line="17" column="16" />
+        <mark key="]" line="17" column="16" />
+        <mark key="." line="17" column="16" />
         <mark key="^" line="15" column="6" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/layouts/full-layout.component.html" timestamp="1490999112592">
@@ -549,12 +553,12 @@
         <mark key="^" line="32" column="1" />
         <mark key="." line="52" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.ts" timestamp="1491353708949">
-        <mark key="'" line="21" column="39" />
-        <mark key="[" line="24" column="38" />
-        <mark key="]" line="24" column="38" />
-        <mark key="." line="24" column="38" />
-        <mark key="^" line="24" column="37" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.ts" timestamp="1491357556712">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="45" column="1" />
+        <mark key="." line="24" column="42" />
+        <mark key="^" line="24" column="26" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/subject-list/subject-list.component.scss" timestamp="1487390634192">
         <mark key="'" line="8" column="23" />
@@ -563,11 +567,12 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.component.ts" timestamp="1490994648507">
-        <mark key="[" line="4" column="16" />
-        <mark key="]" line="4" column="16" />
-        <mark key="." line="4" column="16" />
-        <mark key="^" line="4" column="17" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.component.ts" timestamp="1491357441557">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="13" column="1" />
+        <mark key="^" line="13" column="1" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/dashboard/dashboard.html" timestamp="1490928125155">
         <mark key="'" line="51" column="0" />
@@ -794,11 +799,12 @@
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.component.ts" timestamp="1491345423809">
-        <mark key="'" line="15" column="23" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.component.ts" timestamp="1491354390651">
+        <mark key="'" line="17" column="23" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="11" column="61" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/top-bar/top-bar.component.ts" timestamp="1487981364837">
         <mark key="'" line="5" column="20" />
@@ -975,33 +981,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="162" column="4" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="163" column="4" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="179" column="8" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="234" column="8" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="237" column="8" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="244" column="2" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="49" column="14" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="28" column="37" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="160" column="25" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="134" column="22" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="158" column="2" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="232" column="9" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="186" column="31" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="274" column="55" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="279" column="71" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="11" column="25" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="12" column="11" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="35" column="41" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="141" column="25" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="41" column="3" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="129" column="8" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="151" column="20" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="185" column="21" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="116" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="47" column="36" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
-      <jump line="93" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="2" column="16" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="124" column="121" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="153" column="8" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="154" column="13" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -1075,10 +1054,37 @@
       <jump line="133" column="33" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="18" column="8" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
       <jump line="28" column="51" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
+      <jump line="25" column="61" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.ts" />
+      <jump line="4" column="36" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="40" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" />
+      <jump line="32" column="54" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" />
+      <jump line="39" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="7" column="64" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="38" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="31" column="19" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" />
+      <jump line="51" column="32" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" />
+      <jump line="24" column="20" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" />
+      <jump line="85" column="62" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" />
+      <jump line="48" column="33" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="37" column="3" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="63" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.html" />
+      <jump line="26" column="19" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="29" column="8" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="91" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="32" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="60" column="19" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.component.ts" />
+      <jump line="28" column="35" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="70" column="4" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="27" column="20" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="25" column="17" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.ts" />
+      <jump line="15" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1107,37 +1113,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">IHByaXZhdGUgb3ZlcmxheTogT3ZlcmxheSw=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">IEJvb2s=</text>
+        <text>this.mo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIFsnYm9va19pZCcsICdib29rSWQnXSwK</text>
+        <text encoding="base64">aW1wb3J0IHsgSW5qZWN0YWJsZSwgT25Jbml0IH0gZnJvbSAnQGFuZ3VsYXIvY29yZSc7CmltcG9ydCB7IEJvb2sgfSBmcm9tICcuLi9tb2RlbHMvYm9vayc7CgppbXBvcnQgeyBlbnZpcm9ubWVudCBhcyBlbnYgfSBmcm9tICcuLi8uLi9lbnZpcm9ubWVudHMvZW52aXJvbm1lbnQnOwppbXBvcnQgeyBIdHRwIH0gZnJvbSAnQGFuZ3VsYXIvaHR0cCc7CgppbXBvcnQgeyBPYnNlcnZhYmxlIH0gZnJvbSAncnhqcy9PYnNlcnZhYmxlJzsKaW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci9jYXRjaCc7CmltcG9ydCAncnhqcy9hZGQvb3BlcmF0b3IvbWFwJzsKaW1wb3J0ICdyeGpzL2FkZC9vcGVyYXRvci90b1Byb21pc2UnOwoKQEluamVjdGFibGUoKQpleHBvcnQgY2xhc3MgQm9va1NlcnZpY2UgaW1wbGVtZW50cyBPbkluaXQgewoKICBjb25zdHJ1Y3Rvcihwcml2YXRlIGh0dHA6IEh0dHApIHsgfQoKICBuZ09uSW5pdCgpOiB2b2lkIHsKICB9CgogIC8vIEdFVCBib29rcwogIGdldEJvb2tzKCk6IFByb21pc2U8Qm9va1tdPiB7CiAgICByZXR1cm4gdGhpcy5odHRwLmdldChlbnYuYXBpRW5kcG9pbnQgKyAnL2Jvb2snKQogICAgICAudG9Qcm9taXNlKCkKICAgICAgLnRoZW4oKHJlc3BvbnNlKSA9PiB7CiAgICAgICAgY29uc3QgYm9va3NBcnJheSA9IHJlc3BvbnNlLmpzb24oKTsKICAgICAgICByZXR1cm4gYm9va3NBcnJheS5tYXAoKGJvb2tPYmopID0+IG5ldyBCb29rKGJvb2tPYmopKTsKICAgICAgfSkKICAgICAgLmNhdGNoKGVycm9ySGFuZGxlcik7CiAgfQp9CgpmdW5jdGlvbiBlcnJvckhhbmRsZXIoZXJyKSB7CiAgY29uc29sZS5sb2coJ0FuIGVycm9yIG9jY3VycmVkLicpOwogIGNvbnNvbGUubG9nKGVycik7Cn0KCmNvbnN0IERBVEEgPSBbCiAgeyAnVGl0bGUnOiAnQmFzaWMgQ29sbGVnZSBNYXRoZW1hdGljcycsICdBdXRob3InOiAnQ2hhcmxlcyBQLiBNY0tlYWd1ZSd9LAogIHsgJ1RpdGxlJzogJ1ByZWFsZ2VicmEnLCAnQXV0aG9yJzogJ0NoYXJsZXMgUC4gTWNLZWFndWUsIEthdGUgRHVmZnkgUGF3bGlrJ30sCiAgeyAnVGl0bGUnOiAnRWxlbWVudGFyeSBBbGdlYnJhOiBBIE1vZGVsaW5nIEFwcHJvYWNoJywgJ0F1dGhvcic6ICdLYXRoZXJpbmUgWW9zaGl3YXJhJ30sCiAgeyAnVGl0bGUnOiAnSW50ZXJtZWRpYXRlIEFsZ2VicmE6IEEgTW9kZWxpbmcgQXBwcm9hY2gnLCAnQXV0aG9yJzogJ0thdGhlcmluZSBZb3NoaXdhcmEnfSwKICB7ICdUaXRsZSc6ICdFc3NlbnRpYWwgQWxnZWJyYSBWMTogQSBNb2RlbGluZyBBcHByb2FjaCcsICdBdXRob3InOiAnS2F0aGVyaW5lIFlvc2hpd2FyYSwgQnJ1Y2UgWW9zaGl3YXJhJ30sCiAgeyAnVGl0bGUnOiAnRXNzZW50aWFsIEFsZ2VicmEgVjI6IEEgTW9kZWxpbmcgQXBwcm9hY2gnLCAnQXV0aG9yJzogJ0thdGhlcmluZSBZb3NoaXdhcmEsIEJydWNlIFlvc2hpd2FyYSd9LAogIHsgJ1RpdGxlJzogJ0NvbGxlZ2UgQWxnZWJyYTogQnVpbGRpbmcgU2tpbGxzIGFuZCBNb2RlbGluZyBTaXR1YXRpb25zJywKICAgICdBdXRob3InOiAnQ2hhcmxlcyBQLiBNY0tlYWd1ZSwgS2F0aGVyaW5lIFlvc2hpd2FyYSwgRGVubnkgQnVyenluc2tpJ30KXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiB0aGlzLmh0dHAuZ2V0KGVudi5hcGlFbmRwb2ludCArICcvYm9va3MnKQo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="q" type="4">
         <text>f,f_x~^j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Y29uc3QgREFUQSA9IFsKICB7ICdUaXRsZSc6ICdCYXNpYyBDb2xsZWdlIE1hdGhlbWF0aWNzJywgJ0F1dGhvcic6ICdDaGFybGVzIFAuIE1jS2VhZ3VlJ30sCiAgeyAnVGl0bGUnOiAnUHJlYWxnZWJyYScsICdBdXRob3InOiAnQ2hhcmxlcyBQLiBNY0tlYWd1ZSwgS2F0ZSBEdWZmeSBQYXdsaWsnfSwKICB7ICdUaXRsZSc6ICdFbGVtZW50YXJ5IEFsZ2VicmE6IEEgTW9kZWxpbmcgQXBwcm9hY2gnLCAnQXV0aG9yJzogJ0thdGhlcmluZSBZb3NoaXdhcmEnfSwKICB7ICdUaXRsZSc6ICdJbnRlcm1lZGlhdGUgQWxnZWJyYTogQSBNb2RlbGluZyBBcHByb2FjaCcsICdBdXRob3InOiAnS2F0aGVyaW5lIFlvc2hpd2FyYSd9LAogIHsgJ1RpdGxlJzogJ0Vzc2VudGlhbCBBbGdlYnJhIFYxOiBBIE1vZGVsaW5nIEFwcHJvYWNoJywgJ0F1dGhvcic6ICdLYXRoZXJpbmUgWW9zaGl3YXJhLCBCcnVjZSBZb3NoaXdhcmEnfSwKICB7ICdUaXRsZSc6ICdFc3NlbnRpYWwgQWxnZWJyYSBWMjogQSBNb2RlbGluZyBBcHByb2FjaCcsICdBdXRob3InOiAnS2F0aGVyaW5lIFlvc2hpd2FyYSwgQnJ1Y2UgWW9zaGl3YXJhJ30sCiAgeyAnVGl0bGUnOiAnQ29sbGVnZSBBbGdlYnJhOiBCdWlsZGluZyBTa2lsbHMgYW5kIE1vZGVsaW5nIFNpdHVhdGlvbnMnLAogICAgJ0F1dGhvcic6ICdDaGFybGVzIFAuIE1jS2VhZ3VlLCBLYXRoZXJpbmUgWW9zaGl3YXJhLCBEZW5ueSBCdXJ6eW5za2knfQpdOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZnVuY3Rpb24gZXJyb3JIYW5kbGVyKGVycikgewogIGNvbnNvbGUubG9nKCdBbiBlcnJvciBvY2N1cnJlZC4nKTsKICBjb25zb2xlLmxvZyhlcnIpOwp9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBHRVQgYm9va3MK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBMZWdhY3lCb29rU2VydmljZS5nZXRMZWdhY3lTY2hvb2xCb29rcyhxdWVyeU9wdGlvbnMpCg==</text>
+        <text encoding="base64">ICBnZXRCb29rcygpOiBQcm9taXNlPEJvb2tbXT4gewogICAgcmV0dXJuIHRoaXMuaHR0cC5nZXQoZW52LmFwaUVuZHBvaW50ICsgJy9ib29rJykKICAgICAgLnRvUHJvbWlzZSgpCiAgICAgIC50aGVuKChyZXNwb25zZSkgPT4gewogICAgICAgIGNvbnN0IGJvb2tzQXJyYXkgPSByZXNwb25zZS5qc29uKCk7CiAgICAgICAgcmV0dXJuIGJvb2tzQXJyYXkubWFwKChib29rT2JqKSA9PiBuZXcgQm9vayhib29rT2JqKSk7CiAgICAgIH0pCiAgICAgIC5jYXRjaChlcnJvckhhbmRsZXIpOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgQm9vayB9IGZyb20gJy4uL21vZGVscy9ib29rJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgcmV0dXJuIGNiKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgcHJpdmF0ZSB2Y1JlZjogVmlld0NvbnRhaW5lclJlZiwKICAgICAgICAgICAgICAgcHVibGljIG1vZGFsOiBNb2RhbCApIHsKICAgIHRoaXMub3ZlcmxheS5kZWZhdWx0Vmlld0NvbnRhaW5lciA9IHZjUmVmOwo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1164,19 +1170,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdnZXRMZWdhY3lTY2hvb2xDaGFwdGVycyBzY2hvb2xJZDogJyArIHNjaG9vbElkICsgJzsgYm9va0lkOiAnICsgYm9va0lkKTsK</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvciggcHJpdmF0ZSBvdmVybGF5OiBPdmVybGF5LAogICAgICAgICAgICAgICBwcml2YXRlIHZjUmVmOiBWaWV3Q29udGFpbmVyUmVmLAogICAgICAgICAgICAgICBwdWJsaWMgbW9kYWw6IE1vZGFsICkgewogICAgdGhpcy5vdmVybGF5LmRlZmF1bHRWaWV3Q29udGFpbmVyID0gdmNSZWY7CiAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJ0JlZWtzLmxlbmd0aDogJywgYm9va3MubGVuZ3RoKTsK</text>
+        <text encoding="base64">aW1wb3J0IHsgT3ZlcmxheSB9IGZyb20gJ2FuZ3VsYXIyLW1vZGFsJzsKaW1wb3J0IHsgTW9kYWwgfSBmcm9tICdhbmd1bGFyMi1tb2RhbC9wbHVnaW5zL2Jvb3RzdHJhcCc7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">IEJvb2s=</last-search>
+      <last-search>this.mo</last-search>
       <last-offset />
-      <last-pattern encoding="base64">IEJvb2s=</last-pattern>
+      <last-pattern>this.mo</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>middle</last-substitute>
       <last-dir>1</last-dir>
@@ -1184,8 +1190,6 @@
     </search>
     <history>
       <history-search>
-        <entry>legacyBookSer</entry>
-        <entry>Legacy</entry>
         <entry>books</entry>
         <entry>catch</entry>
         <entry>query op</entry>
@@ -1204,6 +1208,8 @@
         <entry>new</entry>
         <entry>Book</entry>
         <entry encoding="base64">IEJvb2s=</entry>
+        <entry>json</entry>
+        <entry>this.mo</entry>
       </history-search>
       <history-cmd>
         <entry>20</entry>
@@ -1219,13 +1225,13 @@
         <entry>53</entry>
         <entry>action VimWindowDown</entry>
         <entry>137</entry>
-        <entry>q</entry>
         <entry>50</entry>
         <entry>62</entry>
         <entry>56</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
