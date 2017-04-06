@@ -60,11 +60,10 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BooksController.js" timestamp="1491501574866">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="22" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BooksController.js" timestamp="1491502447248">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/theme/components/baSmartTables/baSmartTables.service.ts" timestamp="1490929237038">
         <mark key="'" line="3" column="14" />
@@ -980,6 +979,12 @@
         <mark key="." line="48" column="5" />
         <mark key="^" line="48" column="5" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1491502825061">
+        <mark key="[" line="3" column="4" />
+        <mark key="]" line="3" column="7" />
+        <mark key="." line="3" column="7" />
+        <mark key="^" line="3" column="7" />
+      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/topic-nav/topic-element.component.ts" timestamp="1487398649463">
         <mark key="'" line="10" column="20" />
         <mark key="[" line="75" column="48" />
@@ -1137,7 +1142,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>l</text>
+        <text>750</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1166,7 +1171,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>750</text>
       </register>
       <register name="/" type="4">
         <text>interface R</text>
@@ -1175,28 +1180,28 @@
         <text encoding="base64">aW1wb3J0ICogYXMgRXhwcmVzcyBmcm9tICdleHByZXNzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICd1c2Ugc3RyaWN0JzsK</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kCg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgICd1c2Ugc3RyaWN0JzsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBqCg==</text>
+        <text encoding="base64">CiAgCg==</text>
       </register>
-      <register name="4" type="8">
-        <text encoding="base64">ICAKICA=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICBqCg==</text>
       </register>
       <register name="5" type="8">
         <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="6" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1222,14 +1227,14 @@
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgKiBhcyBFeHByZXNzIGZyb20gJ2V4cHJlc3MnOwo=</text>
+      <register name="8" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Ly9pbXBvcnQgKiBhcyBFeHByZXNzIGZyb20gJ2V4cHJlc3MnOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1270,7 +1275,6 @@
         <entry>file</entry>
         <entry>111</entry>
         <entry>51</entry>
-        <entry>wq</entry>
         <entry>48</entry>
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
@@ -1285,6 +1289,7 @@
         <entry>action PreviousTab</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
