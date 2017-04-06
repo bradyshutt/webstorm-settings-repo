@@ -60,10 +60,12 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BooksController.js" timestamp="1491502447248">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BooksController.js" timestamp="1491503200365">
+        <mark key="'" line="11" column="11" />
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+        <mark key="^" line="11" column="13" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/theme/components/baSmartTables/baSmartTables.service.ts" timestamp="1490929237038">
         <mark key="'" line="3" column="14" />
@@ -1039,7 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.ts" />
       <jump line="22" column="39" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/services/book-service.ts" />
       <jump line="195" column="20" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -1139,10 +1140,11 @@
       <jump line="172" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/node_modules/@types/express-serve-static-core/index.d.ts" />
       <jump line="14" column="2" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BookController.ts" />
       <jump line="43" column="10" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
+      <jump line="11" column="11" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BooksController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>750</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1180,28 +1182,28 @@
         <text encoding="base64">aW1wb3J0ICogYXMgRXhwcmVzcyBmcm9tICdleHByZXNzJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHJlcy5zZW5kCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text />
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICd1c2Ugc3RyaWN0JzsK</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgIHJlcy5zZW5kCg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICd1c2Ugc3RyaWN0JzsK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgCg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">ICBqCg==</text>
       </register>
-      <register name="5" type="8">
-        <text encoding="base64">ICAKICA=</text>
-      </register>
-      <register name="6" type="8">
-        <text encoding="base64">ICAKICA=</text>
-      </register>
       <register name="7" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1228,13 +1230,13 @@
         </keys>
       </register>
       <register name="8" type="8">
-        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
+        <text encoding="base64">ICAKICA=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Ly9pbXBvcnQgKiBhcyBFeHByZXNzIGZyb20gJ2V4cHJlc3MnOwo=</text>
+      <register name="9" type="8">
+        <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICAKICA=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1287,9 +1289,9 @@
         <entry>action VimWindowDown</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
