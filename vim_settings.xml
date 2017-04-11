@@ -393,11 +393,11 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.html" timestamp="1491943577014">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.html" timestamp="1491945751632">
         <mark key="'" line="26" column="151" />
-        <mark key="[" line="24" column="73" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
+        <mark key="[" line="24" column="63" />
+        <mark key="]" line="24" column="63" />
+        <mark key="." line="24" column="63" />
         <mark key="^" line="28" column="23" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.scss" timestamp="1491942453238">
@@ -721,7 +721,7 @@
         <mark key="." line="45" column="98" />
         <mark key="^" line="45" column="96" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/models/Book.js" timestamp="1491529757670">
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/models/Book.js" timestamp="1491945957056">
         <mark key="'" line="50" column="59" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
@@ -1167,7 +1167,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>string</text>
+        <text>; trackBy:</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1196,7 +1196,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>string</text>
+        <text>; trackBy:</text>
       </register>
       <register name="/" type="4">
         <text>border</text>
@@ -1322,8 +1322,8 @@
         <entry>34</entry>
         <entry>44</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
         <entry>w</entry>
+        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
