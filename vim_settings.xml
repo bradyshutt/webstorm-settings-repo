@@ -435,12 +435,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1491954114408">
-        <mark key="'" line="269" column="15" />
-        <mark key="[" line="80" column="0" />
-        <mark key="]" line="80" column="0" />
-        <mark key="." line="80" column="0" />
-        <mark key="^" line="80" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1491956148405">
+        <mark key="'" line="267" column="15" />
+        <mark key="[" line="103" column="36" />
+        <mark key="]" line="103" column="57" />
+        <mark key="." line="103" column="57" />
+        <mark key="^" line="103" column="57" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/models/example.ts" timestamp="1487892199326">
         <mark key="'" line="36" column="37" />
@@ -797,11 +797,12 @@
         <mark key="^" line="40" column="15" />
         <mark key="." line="40" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" timestamp="1491954714305">
-        <mark key="[" line="49" column="19" />
-        <mark key="]" line="49" column="21" />
-        <mark key="^" line="49" column="21" />
-        <mark key="." line="49" column="21" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" timestamp="1491956489126">
+        <mark key="'" line="34" column="25" />
+        <mark key="[" line="58" column="37" />
+        <mark key="]" line="59" column="3" />
+        <mark key="." line="59" column="3" />
+        <mark key="^" line="59" column="3" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/mathtv/src/pages/page1/page1.html" timestamp="1487977661282">
         <mark key="[" line="1" column="0" />
@@ -1067,13 +1068,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="8" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.ts" />
-      <jump line="65" column="8" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.ts" />
-      <jump line="66" column="10" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.ts" />
-      <jump line="77" column="32" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.ts" />
-      <jump line="163" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.ts" />
-      <jump line="93" column="39" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.ts" />
       <jump line="10" column="27" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.html" />
       <jump line="11" column="21" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.html" />
       <jump line="9" column="9" filename="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/edit-book-modal.component.html" />
@@ -1167,10 +1161,17 @@
       <jump line="254" column="15" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="255" column="13" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="269" column="15" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="38" column="11" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
+      <jump line="39" column="48" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
+      <jump line="40" column="27" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
+      <jump line="43" column="24" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
+      <jump line="48" column="12" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
+      <jump line="49" column="36" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
+      <jump line="34" column="25" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>, chapters.length</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1199,16 +1200,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>books</text>
+        <text>, chapters.length</text>
       </register>
       <register name="/" type="4">
-        <text>Cha</text>
+        <text encoding="base64">XDxib29rc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0Jvb2tzIGxlbmd0aDogJywgYm9va3MubGVuZ3RoKTsK</text>
+      <register name="0" type="4">
+        <text>chapterObjects</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGpLS0sK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1224,22 +1225,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBjYigpOwo=</text>
+        <text encoding="base64">ICAgICAgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBjYigpOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgY2IoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNoYXB0ZXJzUXVlcnlPcHRpb25zID0gCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGNoYXB0ZXJzUXVlcnlPcHRpb25zID0gCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1266,19 +1267,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgbGV0IGJvb2tJZHMgPSAK</text>
+        <text encoding="base64">ICAgICAgICBMZWdhY3lCb29rU2VydmljZS5nZXRMZWdhY3lTY2hvb2xDaGFwdGVycyhPYmplY3QuYXNzaWduKHt9LCBxdWVyeU9wdGlvbnMsIHtib29rSWQ6IGJvb2suaWR9KSkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgbGV0IGNyZVAgPSBib29rcy5tYXAoKGJvb2spID0+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Cha</last-search>
+      <last-search encoding="base64">XDxib29rc1w+</last-search>
       <last-offset />
-      <last-pattern>Cha</last-pattern>
+      <last-pattern encoding="base64">XDxib29rc1w+</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1286,7 +1287,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bookid</entry>
         <entry>legacy</entry>
         <entry>for</entry>
         <entry>form</entry>
@@ -1306,6 +1306,7 @@
         <entry>chapt</entry>
         <entry>id</entry>
         <entry>Cha</entry>
+        <entry encoding="base64">XDxib29rc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
