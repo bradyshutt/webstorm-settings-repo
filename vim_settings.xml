@@ -427,7 +427,7 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1492537953323">
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1492539450163">
         <mark key="'" line="108" column="9" />
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="38" />
@@ -1249,7 +1249,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -1299,12 +1299,12 @@
         <entry>44</entry>
         <entry>q</entry>
         <entry>action VimWindowUp</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
-        <entry>action VimWindowLeft</entry>
-        <entry>action VimWindowRight</entry>
         <entry>w</entry>
         <entry>wq</entry>
+        <entry>action VimWindowRight</entry>
+        <entry>action VimWindowLeft</entry>
+        <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
