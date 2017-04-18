@@ -846,11 +846,10 @@
         <mark key="^" line="7" column="9" />
         <mark key="." line="7" column="9" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1491502825061">
-        <mark key="[" line="3" column="4" />
-        <mark key="]" line="3" column="7" />
-        <mark key="." line="3" column="7" />
-        <mark key="^" line="3" column="7" />
+      <file name="$APPLICATION_CONFIG_DIR$/webstorm.vmoptions" timestamp="1492539173080">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/app.component.html" timestamp="1488306311213">
         <mark key="'" line="1" column="4" />
@@ -1144,11 +1143,8 @@
       <jump line="20" column="22" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>{
-        console.log('Error: ', err);
-        res.serverError(err);
-      }</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">LVhYOitVc2VDb21wcmVzc2VkT29wcwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1185,11 +1181,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oKFtib29rc0RlbCwgY2hhcHRlcnNEZWwsIHNlY3Rpb25zRGVsXSkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdEZWxldGVkICcgKyBib29rc0RlbC5sZW5ndGggKyAnIGJvb2sgcmVjb3Jkcy4nKTsKICAgICAgICBjb25zb2xlLmxvZygnRGVsZXRlZCAnICsgY2hhcHRlcnNEZWwubGVuZ3RoICsgJyBjaGFwdGVyIHJlY29yZHMuJyk7CiAgICAgICAgY29uc29sZS5sb2coJ0RlbGV0ZWQgJyArIHNlY3Rpb25zRGVsLmxlbmd0aCArICcgc2VjdGlvbiByZWNvcmRzLicpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>{
-        console.log('Error: ', err);
-        res.serverError(err);
-      }</text>
+      <register name="1" type="2">
+        <text encoding="base64">LVhYOitVc2VDb21wcmVzc2VkT29wcwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1205,19 +1198,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">LVhYOitVc2VDb21wcmVzc2VkT29wcwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRGVsZXRlZCAnICsgYm9va3NEZWwubGVuZ3RoICsgJyBib29rIHJlY29yZHMuJyk7CiAgICAgICAgY29uc29sZS5sb2coJ0RlbGV0ZWQgJyArIGNoYXB0ZXJzRGVsLmxlbmd0aCArICcgY2hhcHRlciByZWNvcmRzLicpOwogICAgICAgIGNvbnNvbGUubG9nKCdEZWxldGVkICcgKyBzZWN0aW9uc0RlbC5sZW5ndGggKyAnIHNlY3Rpb24gcmVjb3Jkcy4nKTsK</text>
+        <text encoding="base64">LVhtczEyOG0KLVhteDIwNDhtCi1YWDpSZXNlcnZlZENvZGVDYWNoZVNpemU9MjQwbQotWFg6K1VzZUNvbXByZXNzZWRPb3BzCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="5" type="4">
+        <text>{
+        console.log('Error: ', err);
+        res.serverError(err);
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1247,13 +1243,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC50aGVuKCgpID0+IExlZ2FjeUJvb2tTZXJ2aWNlLm1pZ3JhdGVTcWxEYXRhKCkpCg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRGVsZXRlZCAnICsgYm9va3NEZWwubGVuZ3RoICsgJyBib29rIHJlY29yZHMuJyk7CiAgICAgICAgY29uc29sZS5sb2coJ0RlbGV0ZWQgJyArIGNoYXB0ZXJzRGVsLmxlbmd0aCArICcgY2hhcHRlciByZWNvcmRzLicpOwogICAgICAgIGNvbnNvbGUubG9nKCdEZWxldGVkICcgKyBzZWN0aW9uc0RlbC5sZW5ndGggKyAnIHNlY3Rpb24gcmVjb3Jkcy4nKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjYigpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1296,7 +1292,6 @@
         <entry>62</entry>
         <entry>56</entry>
         <entry>action VimWindowDown</entry>
-        <entry>wq</entry>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
         <entry>242</entry>
         <entry>94</entry>
@@ -1309,6 +1304,7 @@
         <entry>action VimWindowLeft</entry>
         <entry>action VimWindowRight</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
