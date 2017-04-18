@@ -358,12 +358,12 @@
         <mark key="^" line="0" column="70" />
         <mark key="." line="0" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" timestamp="1492538382541">
-        <mark key="'" line="20" column="22" />
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="41" />
-        <mark key="^" line="20" column="41" />
-        <mark key="." line="20" column="41" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" timestamp="1492543512533">
+        <mark key="'" line="19" column="22" />
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="22" column="11" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/dashboard/pieChart/pieChart.component.ts" timestamp="1490926164848">
         <mark key="'" line="15" column="0" />
@@ -427,8 +427,8 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1492539450163">
-        <mark key="'" line="108" column="9" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1492543352011">
+        <mark key="'" line="30" column="1" />
         <mark key="[" line="2" column="22" />
         <mark key="]" line="2" column="38" />
         <mark key="^" line="2" column="22" />
@@ -1041,7 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="57" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
       <jump line="10" column="27" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/bootstrap.js" />
       <jump line="78" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="106" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
@@ -1141,10 +1140,11 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="108" column="9" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="20" column="22" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
+      <jump line="30" column="1" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">LVhYOitVc2VDb21wcmVzc2VkT29wcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1173,16 +1173,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>v</text>
       </register>
       <register name="/" type="4">
-        <text>Tools</text>
+        <text>test</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgLnRoZW4oKFtib29rc0RlbCwgY2hhcHRlcnNEZWwsIHNlY3Rpb25zRGVsXSkgPT4gewogICAgICAgIGNvbnNvbGUubG9nKCdEZWxldGVkICcgKyBib29rc0RlbC5sZW5ndGggKyAnIGJvb2sgcmVjb3Jkcy4nKTsKICAgICAgICBjb25zb2xlLmxvZygnRGVsZXRlZCAnICsgY2hhcHRlcnNEZWwubGVuZ3RoICsgJyBjaGFwdGVyIHJlY29yZHMuJyk7CiAgICAgICAgY29uc29sZS5sb2coJ0RlbGV0ZWQgJyArIHNlY3Rpb25zRGVsLmxlbmd0aCArICcgc2VjdGlvbiByZWNvcmRzLicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LVhYOitVc2VDb21wcmVzc2VkT29wcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1198,22 +1198,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LVhYOitVc2VDb21wcmVzc2VkT29wcwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LVhtczEyOG0KLVhteDIwNDhtCi1YWDpSZXNlcnZlZENvZGVDYWNoZVNpemU9MjQwbQotWFg6K1VzZUNvbXByZXNzZWRPb3BzCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>{
-        console.log('Error: ', err);
-        res.serverError(err);
-      }</text>
+      <register name="5" type="2">
+        <text encoding="base64">LVhYOitVc2VDb21wcmVzc2VkT29wcwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">LVhYOitVc2VDb21wcmVzc2VkT29wcwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -1243,19 +1240,22 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnRGVsZXRlZCAnICsgYm9va3NEZWwubGVuZ3RoICsgJyBib29rIHJlY29yZHMuJyk7CiAgICAgICAgY29uc29sZS5sb2coJ0RlbGV0ZWQgJyArIGNoYXB0ZXJzRGVsLmxlbmd0aCArICcgY2hhcHRlciByZWNvcmRzLicpOwogICAgICAgIGNvbnNvbGUubG9nKCdEZWxldGVkICcgKyBzZWN0aW9uc0RlbC5sZW5ndGggKyAnIHNlY3Rpb24gcmVjb3Jkcy4nKTsK</text>
+        <text encoding="base64">LVhtczEyOG0KLVhteDIwNDhtCi1YWDpSZXNlcnZlZENvZGVDYWNoZVNpemU9MjQwbQotWFg6K1VzZUNvbXByZXNzZWRPb3BzCg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="9" type="4">
+        <text>{
+        console.log('Error: ', err);
+        res.serverError(err);
+      }</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Tools</last-search>
+      <last-search>test</last-search>
       <last-offset />
-      <last-pattern>Tools</last-pattern>
+      <last-pattern>test</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1263,7 +1263,6 @@
     </search>
     <history>
       <history-search>
-        <entry>cur</entry>
         <entry>$</entry>
         <entry>\$</entry>
         <entry>const</entry>
@@ -1283,6 +1282,7 @@
         <entry>globals</entry>
         <entry>isNull</entry>
         <entry>Tools</entry>
+        <entry>test</entry>
       </history-search>
       <history-cmd>
         <entry>48</entry>
@@ -1299,12 +1299,12 @@
         <entry>44</entry>
         <entry>q</entry>
         <entry>action VimWindowUp</entry>
-        <entry>w</entry>
         <entry>wq</entry>
-        <entry>action VimWindowRight</entry>
+        <entry>action PreviousTab</entry>
         <entry>action VimWindowLeft</entry>
         <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
+        <entry>action VimWindowRight</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
