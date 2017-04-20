@@ -51,4 +51,16 @@
   <template name="flow" value="// @flow" description="Inserts @flow annotation" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
+  <template name="iferrrej" value="if (err) reject(err);" description="if err" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="iferrlog" value="if (err) console.log(err);" description="if err" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>

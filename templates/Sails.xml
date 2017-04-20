@@ -1,0 +1,20 @@
+<templateSet group="Sails">
+  <template name=".catchres" value=".catch((err) =&gt; res.serverError(err));" description="chatch err" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name=".catchlog" value=".catch((err) =&gt; console.log(err));" description="chatch err" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name=".catchrej" value=".catch((err) =&gt; reject(err));" description="chatch err reject" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
