@@ -1,0 +1,22 @@
+<templateSet group="Mocha">
+  <template name="desc" value="describe('$ONE$', () =&gt; {&#10;    $END$&#10;});" description="describe" toReformat="false" toShortenFQNames="true">
+    <variable name="ONE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="it" value="it('$ONE$', (done) =&gt; {&#10;    $END$&#10;});" description="it should" toReformat="false" toShortenFQNames="true">
+    <variable name="ONE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name=".done" value=".catch(done);" description="catch err" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
