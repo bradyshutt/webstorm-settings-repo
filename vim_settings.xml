@@ -61,11 +61,11 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/routes.js" timestamp="1492718083446">
-        <mark key="[" line="43" column="11" />
-        <mark key="]" line="43" column="15" />
-        <mark key="^" line="43" column="15" />
-        <mark key="." line="43" column="15" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/routes.js" timestamp="1493325919934">
+        <mark key="[" line="39" column="11" />
+        <mark key="]" line="39" column="23" />
+        <mark key="^" line="39" column="23" />
+        <mark key="." line="39" column="23" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/books/books.component.ts" timestamp="1490926725199">
         <mark key="[" line="5" column="13" />
@@ -1022,6 +1022,13 @@
         <mark key="^" line="8" column="15" />
         <mark key="." line="11" column="23" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/about/company.ejs" timestamp="1493325872071">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
+        <mark key="^" line="177" column="0" />
+      </file>
       <file name="$USER_HOME$/mathtv-ionic/mathtv/src/app/app.component.ts" timestamp="1487978300982">
         <mark key="[" line="24" column="16" />
         <mark key="]" line="24" column="22" />
@@ -1118,8 +1125,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="182" column="2" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
-      <jump line="75" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
       <jump line="86" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
       <jump line="180" column="2" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
       <jump line="164" column="23" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
@@ -1218,10 +1223,12 @@
       <jump line="7" column="3" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/bootstrap.test.js" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/bootstrap.test.js" />
       <jump line="118" column="6" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
+      <jump line="41" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/about/company.ejs" />
+      <jump line="176" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/about/company.ejs" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgY2IoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>homepage</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1250,16 +1257,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>homepage</text>
       </register>
       <register name="/" type="4">
-        <text>after</text>
+        <text encoding="base64">PCU=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LypnbG9iYWwgZGVzY3JpYmUsIGl0LCBiZWZvcmUsIEJvb2ssIHNob3VsZCwgYWZ0ZXIgKi8K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgY2IoKTsK</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cmh0dHA6Ly93d3cueHl6dGV4dGJvb2tzLmNvbS9jYXRhbG9n</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1275,22 +1282,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLy9sZXZlbDogJ3NpbGx5Jwo=</text>
+        <text encoding="base64">aHR0cDovL3d3dy54eXp0ZXh0Ym9va3MuY29tL2NhdGFsb2cK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgY2IoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgYWZ0ZXIoKGRvbmUpID0+IHsKICAgIExlZ2FjeUJvb2tTZXJ2aWNlLmRyb3BNb25nbygpCiAgICAgIC50aGVuKCgpID0+IGRvbmUoKSkKICAgICAgLmNhdGNoKChlcnIpID0+IGRvbmUoZXJyKSk7CiAgfSk7Cgp9KTsK</text>
+        <text encoding="base64">ICAgICAgLy9sZXZlbDogJ3NpbGx5Jwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgYWZ0ZXIoKGRvbmUpID0+IHsKICAgIExlZ2FjeUJvb2tTZXJ2aWNlLmRyb3BNb25nbygpCiAgICAgIC50aGVuKCgpID0+IGRvbmUoKSkKICAgICAgLmNhdGNoKChlcnIpID0+IGRvbmUoZXJyKSk7CiAgfSk7Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CiAgYWZ0ZXIoKGRvbmUpID0+IHsKICAgIExlZ2FjeUJvb2tTZXJ2aWNlLmRyb3BNb25nbygpCiAgICAgIC50aGVuKCgpID0+IGRvbmUoKSkKICAgICAgLmNhdGNoKChlcnIpID0+IGRvbmUoZXJyKSk7CiAgfSk7Cgp9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBhZnRlcigpCg==</text>
+        <text encoding="base64">CiAgYWZ0ZXIoKGRvbmUpID0+IHsKICAgIExlZ2FjeUJvb2tTZXJ2aWNlLmRyb3BNb25nbygpCiAgICAgIC50aGVuKCgpID0+IGRvbmUoKSkKICAgICAgLmNhdGNoKChlcnIpID0+IGRvbmUoZXJyKSk7CiAgfSk7Cgo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -1317,19 +1324,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBhc3luYyBtaWdyYXRlU3FsRGF0YTIoKSB7CgogICAgLy9yZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogICAgbGV0IHF1ZXJ5T3B0aW9ucyA9IHsgc2Nob29sSWQ6IDE0LCB9OwoKICAgIC8vIEJ1aWxkIGJvb2sgZGF0YQogICAgbGV0IGJvb2tzRGF0YSA9IGF3YWl0IExlZ2FjeUJvb2tTZXJ2aWNlLmdldExlZ2FjeUJvb2tzKHF1ZXJ5T3B0aW9ucyk7CgogICAgLy8gQ3JlYXRlIHNhaWxzIEJvb2sgb2JqZWN0cwogICAgY29uc29sZS5sb2coYFF1ZXJpZWQgZm9yICR7Ym9va3NEYXRhLmxlbmd0aH0gcmF3IGJvb2sgb2JqZWN0cy5gKTsKICAgIGxldCBjcmVhdGVCb29rc1AgPSBib29rc0RhdGEubWFwKChib29rKSA9PiBCb29rLmNyZWF0ZShib29rKSk7CiAgICBsZXQgYm9va3MgPSBhd2FpdCBQcm9taXNlLmFsbChjcmVhdGVCb29rc1ApOwoKICAgIC8vIEJ1aWxkIGNoYXB0ZXIgZGF0YQogICAgY29uc29sZS5sb2coJ0NyZWF0ZWQgJyArIGJvb2tzLmxlbmd0aCArICcgYm9va3MhJyk7CiAgICBsZXQgYnVpbGRDaGFwdGVyc1AgPSBib29rcy5tYXAoKGJvb2spID0+IHsKICAgICAgbGV0IHF1ZXJ5ID0geyBzY2hvb2xJZDogcXVlcnlPcHRpb25zLnNjaG9vbElkLCBib29rSWQ6IGJvb2suYm9va0lkIH07CiAgICAgIHJldHVybiBMZWdhY3lCb29rU2VydmljZS5nZXRMZWdhY3lDaGFwdGVycyhxdWVyeSk7CiAgICB9KTsKCiAgICBsZXQgYm9va0NoYXB0ZXJzID0gYXdhaXQgUHJvbWlzZS5hbGwoYnVpbGRDaGFwdGVyc1ApOwoKICAgIC8vIENyZWF0ZSBzYWlscyBDaGFwdGVyIG9iamVjdHMKICAgIGxldCBjcmVhdGVDaGFwdGVyc1AgPSBib29rcy5tYXAoKGJvb2ssIGlkeCkgPT4gewogICAgICBib29rLmNoYXB0ZXJzLmFkZChib29rQ2hhcHRlcnNbaWR4XSk7CiAgICAgIGJvb2suc2F2ZSgpCiAgICB9KTsKICAgIGxldCBkb25lID0gYXdhaXQgUHJvbWlzZS5hbGwoY3JlYXRlQ2hhcHRlcnNQKTsKCiAgICBjb25zb2xlLmxvZygnQ2hhcHRlcnMgY3JlYXRlZC4nKTsKICAgIHJldHVybiAnZG9uZSc7CgogICAgLy8gY29uc29sZS5sb2coJ0FuIGVycm9yIG9jY3VycmVkLicpOwogICAgLy8gY29uc29sZS5sb2coZXJyKTsKICAgIC8vcmVqZWN0KGVycik7CgogICAgLy99KTsKICB9LAo=</text>
+        <text encoding="base64">ICBhZnRlcigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>after</last-search>
+      <last-search encoding="base64">PCU=</last-search>
       <last-offset />
-      <last-pattern>after</last-pattern>
+      <last-pattern encoding="base64">PCU=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1337,7 +1344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>books created</entry>
         <entry encoding="base64">XDxnZXRMZWdhY3lTZWN0aW9uc1w+</entry>
         <entry encoding="base64">XDxsZWdhY3lDaGFwdGVySWRcPg==</entry>
         <entry>getLega</entry>
@@ -1357,6 +1363,7 @@
         <entry>?</entry>
         <entry>migrate</entry>
         <entry>after</entry>
+        <entry encoding="base64">PCU=</entry>
       </history-search>
       <history-cmd>
         <entry>94</entry>
