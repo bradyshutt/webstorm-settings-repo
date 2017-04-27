@@ -3,47 +3,16 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/environments/environment.ts" timestamp="1493140835343">
-        <mark key="[" line="8" column="33" />
-        <mark key="]" line="8" column="31" />
-        <mark key="." line="8" column="31" />
-        <mark key="^" line="8" column="31" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-table.component.scss" timestamp="1491003158515">
-        <mark key="[" line="22" column="11" />
-        <mark key="]" line="22" column="21" />
-        <mark key="^" line="22" column="21" />
-        <mark key="." line="22" column="21" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/responses/ok.ts" timestamp="1491498772306">
-        <mark key="[" line="13" column="7" />
-        <mark key="]" line="13" column="7" />
-        <mark key="." line="13" column="7" />
-        <mark key="^" line="13" column="7" />
-      </file>
-      <file name="/a.dummy" timestamp="1491522675931">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/app-header.component.scss" timestamp="1493336322721">
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="22" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="0" column="6" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/components/navbar/navbar.component.ts" timestamp="1488306181861">
-        <mark key="[" line="7" column="16" />
-        <mark key="]" line="7" column="17" />
-        <mark key="^" line="3" column="20" />
-        <mark key="." line="7" column="17" />
+        <mark key="]" line="13" column="1" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/routes.js" timestamp="1493334713717">
         <mark key="[" line="40" column="0" />
         <mark key="]" line="40" column="0" />
         <mark key="^" line="39" column="16" />
         <mark key="." line="40" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/books/books.component.ts" timestamp="1490926725199">
-        <mark key="[" line="5" column="13" />
-        <mark key="]" line="5" column="25" />
-        <mark key="." line="5" column="25" />
-        <mark key="^" line="5" column="25" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/header.ejs" timestamp="1493334402165">
         <mark key="'" line="3" column="5" />
@@ -52,39 +21,29 @@
         <mark key="." line="2" column="6" />
         <mark key="^" line="2" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/responses/badRequest.js" timestamp="1491499484542">
-        <mark key="[" line="20" column="21" />
-        <mark key="]" line="20" column="3" />
-        <mark key="^" line="20" column="3" />
-        <mark key="." line="20" column="3" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/services/sidebar.service.ts" timestamp="1487980820300">
-        <mark key="[" line="22" column="24" />
-        <mark key="]" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/testingJson.ejs" timestamp="1492720768223">
-        <mark key="[" line="0" column="36" />
-        <mark key="]" line="0" column="37" />
-        <mark key="." line="0" column="37" />
-        <mark key="^" line="0" column="36" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/services/api.service.ts" timestamp="1487980873248">
-        <mark key="[" line="6" column="38" />
-        <mark key="]" line="8" column="26" />
-        <mark key="^" line="8" column="26" />
-        <mark key="." line="6" column="38" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/app-header.component.html" timestamp="1493335726594">
-        <mark key="[" line="2" column="17" />
-        <mark key="]" line="2" column="16" />
-        <mark key="." line="2" column="16" />
-        <mark key="^" line="2" column="16" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" timestamp="1493335601093">
-        <mark key="'" line="22" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-footer/app-footer.component.html" timestamp="1493336380023">
         <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-footer/app-footer.component.scss" timestamp="1493336396217">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="67" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/app-header.component.html" timestamp="1493336339762">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/footer/footer.hbs" timestamp="1493336375968">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" timestamp="1493336605249">
+        <mark key="'" line="19" column="0" />
+        <mark key="[" line="4" column="0" />
         <mark key="]" line="22" column="7" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/.angular-cli.json" timestamp="1493335801174">
@@ -94,58 +53,11 @@
         <mark key="." line="21" column="19" />
         <mark key="^" line="21" column="19" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/page-not-found/page-not-found.component.ts" timestamp="1487979269312">
-        <mark key="[" line="5" column="15" />
-        <mark key="]" line="4" column="17" />
-        <mark key="^" line="4" column="17" />
-        <mark key="." line="5" column="16" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/not-found/not-found.component.ts" timestamp="1488303516654">
-        <mark key="[" line="4" column="10" />
-        <mark key="]" line="4" column="10" />
-        <mark key="." line="4" column="10" />
-        <mark key="^" line="6" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/book-manager/book-manager.routing.ts" timestamp="1490926860960">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="6" column="25" />
-        <mark key="^" line="6" column="25" />
-        <mark key="." line="6" column="25" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/SectionsController.js" timestamp="1492718709020">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-        <mark key="^" line="15" column="43" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/ui-components/components/sidebar/sidebar.component.css" timestamp="1490933653810">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="26" />
-        <mark key="^" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/angular-cli.json" timestamp="1491938355420">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="48" />
-        <mark key="^" line="25" column="50" />
-        <mark key="." line="25" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/testingLayout.ejs" timestamp="1492720303455">
-        <mark key="[" line="38" column="77" />
-        <mark key="]" line="38" column="84" />
-        <mark key="." line="38" column="84" />
-        <mark key="^" line="38" column="84" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.hbs" timestamp="1493335715381">
+      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.hbs" timestamp="1493336331945">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
+        <mark key="]" line="5" column="5" />
         <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/ui-components/ui-components.module.ts" timestamp="1490933612036">
-        <mark key="[" line="28" column="18" />
-        <mark key="]" line="28" column="18" />
-        <mark key="." line="28" column="18" />
-        <mark key="^" line="28" column="18" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/header/collapse/collapse.hbs" timestamp="1493334376973">
         <mark key="'" line="5" column="0" />
@@ -158,52 +70,16 @@
         <mark key="." line="194" column="0" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/autoreload.js" timestamp="1491494823513">
-        <mark key="[" line="4" column="45" />
-        <mark key="]" line="4" column="78" />
-        <mark key="." line="4" column="79" />
-        <mark key="^" line="4" column="78" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/book-manager/edit-book-modal.component.ts" timestamp="1493140494107">
-        <mark key="[" line="73" column="5" />
-        <mark key="]" line="73" column="4" />
-        <mark key="^" line="73" column="4" />
-        <mark key="." line="73" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BookController.js" timestamp="1491501274051">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-        <mark key="^" line="7" column="17" />
-      </file>
-      <file name="$USER_HOME$/mathtv-ionic/mathtv/src/pages/home/home.html" timestamp="1487978020190">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="23" column="3" />
-        <mark key="^" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.scss" timestamp="1493335746946">
-        <mark key="'" line="11" column="4" />
+      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.scss" timestamp="1493336320186">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="13" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Starter/src/app/layouts/full-layout.component.scss" timestamp="1490986888570">
-        <mark key="[" line="1" column="13" />
-        <mark key="]" line="1" column="12" />
-        <mark key="." line="1" column="12" />
-        <mark key="^" line="1" column="12" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/index.ejs" timestamp="1493334674063">
         <mark key="'" line="11" column="17" />
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/log.js" timestamp="1491347887214">
-        <mark key="[" line="26" column="11" />
-        <mark key="]" line="26" column="17" />
-        <mark key="." line="26" column="17" />
-        <mark key="^" line="26" column="17" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" timestamp="1493325061060">
         <mark key="'" line="118" column="6" />
@@ -212,47 +88,12 @@
         <mark key="." line="135" column="30" />
         <mark key="^" line="135" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/ToolsService.js" timestamp="1491351325427">
-        <mark key="[" line="7" column="1" />
-        <mark key="]" line="7" column="1" />
-        <mark key="." line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.module.ts" timestamp="1491933654922">
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="13" column="14" />
-        <mark key="." line="13" column="14" />
-        <mark key="^" line="13" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/colors.scss" timestamp="1488306286562">
-        <mark key="[" line="1" column="4" />
-        <mark key="]" line="1" column="4" />
-        <mark key="^" line="1" column="4" />
-        <mark key="." line="1" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/ChaptersController.js" timestamp="1493140599158">
-        <mark key="[" line="17" column="48" />
-        <mark key="]" line="18" column="5" />
-        <mark key="^" line="18" column="5" />
-        <mark key="." line="18" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/ui-components/ui-components.module.ts" timestamp="1490999392955">
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="14" column="16" />
-        <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/ui-components/components/heading/heading.component.css" timestamp="1490932504173">
-        <mark key="[" line="1" column="10" />
-        <mark key="]" line="2" column="22" />
-        <mark key="." line="2" column="22" />
-        <mark key="^" line="2" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app.component.html" timestamp="1493335653084">
-        <mark key="'" line="17" column="4" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app.component.html" timestamp="1493336665570">
+        <mark key="'" line="33" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+        <mark key="^" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/adminpanel.js" timestamp="1493331436701">
         <mark key="[" line="19" column="0" />
@@ -260,71 +101,21 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/mtv-colors.scss" timestamp="1488306594930">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="3" column="18" />
-        <mark key="^" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/book-manager/components/smartTables/smartTables.component.ts" timestamp="1490928036710">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="9" column="17" />
-        <mark key="^" line="9" column="17" />
-        <mark key="." line="9" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/environments/environment.ts" timestamp="1491012818912">
-        <mark key="[" line="7" column="42" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-      </file>
-      <file name="$USER_HOME$/mathtv-ionic/tut/src/pages/hello-ionic/hello-ionic.ts" timestamp="1487975901550">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="44" />
-        <mark key="^" line="5" column="44" />
-        <mark key="." line="5" column="44" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/app-sidebar.component.ts" timestamp="1493336833024">
+        <mark key="[" line="1" column="27" />
+        <mark key="]" line="1" column="28" />
+        <mark key="." line="1" column="27" />
+        <mark key="^" line="1" column="27" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/sidebar.hbs" timestamp="1493334482205">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="196" column="55" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home.component.ts" timestamp="1487979209592">
-        <mark key="[" line="12" column="17" />
-        <mark key="]" line="12" column="20" />
-        <mark key="^" line="12" column="20" />
-        <mark key="." line="12" column="20" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/items/list/items-list-page.hbs" timestamp="1493333373411" />
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/environments/environment.ts" timestamp="1487892152695">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="45" />
-        <mark key="." line="9" column="43" />
-        <mark key="^" line="9" column="14" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home-page.component.scss" timestamp="1487979299695">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="27" />
-        <mark key="^" line="25" column="24" />
-        <mark key="." line="25" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/app.routing.ts" timestamp="1490996928247">
-        <mark key="[" line="25" column="58" />
-        <mark key="]" line="25" column="74" />
-        <mark key="." line="25" column="74" />
-        <mark key="^" line="25" column="74" />
-      </file>
-      <file name="$USER_HOME$/mathtv-ionic/mathtv/src/pages/page1/page1.html" timestamp="1487977661282">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="30" />
-        <mark key="." line="1" column="27" />
-        <mark key="^" line="1" column="27" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/shared/breadcrumb.component.ts" timestamp="1490997082627">
-        <mark key="[" line="7" column="3" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/sidebar.js" timestamp="1493336679368">
+        <mark key="'" line="17" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="17" column="2" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/app-header.component.css" timestamp="1493335773502">
         <mark key="[" line="1" column="17" />
@@ -332,53 +123,16 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/ui-components/components/sidebar/sidebar.component.html" timestamp="1490933646195">
-        <mark key="[" line="1" column="12" />
-        <mark key="]" line="1" column="18" />
-        <mark key="." line="1" column="18" />
-        <mark key="^" line="1" column="18" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/theme/components/baSmartTables/index.ts" timestamp="1490929127180">
-        <mark key="[" line="0" column="19" />
-        <mark key="]" line="0" column="19" />
-        <mark key="^" line="0" column="19" />
-        <mark key="." line="0" column="19" />
-      </file>
-      <file name="$USER_HOME$/mathtv-ionic/tut/src/index.html" timestamp="1487975278511">
-        <mark key="[" line="33" column="51" />
-        <mark key="]" line="33" column="51" />
-        <mark key="^" line="33" column="51" />
-        <mark key="." line="33" column="51" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/index.html" timestamp="1493334091997">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="33" />
         <mark key="." line="4" column="33" />
         <mark key="^" line="4" column="33" />
       </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home-page.component.spec.ts" timestamp="1487979323671">
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="5" column="16" />
-        <mark key="^" line="5" column="16" />
-        <mark key="." line="19" column="45" />
-      </file>
-      <file name="$USER_HOME$/mathtv-ionic/tut/src/app/app.module.ts" timestamp="1487977210073">
-        <mark key="[" line="15" column="30" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="15" column="30" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/components/ui-table.component.ts" timestamp="1490997437794">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="22" />
-        <mark key="." line="3" column="22" />
-        <mark key="^" line="3" column="22" />
-      </file>
-      <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/environments/environment.prod.ts" timestamp="1487892167431">
-        <mark key="[" line="4" column="18" />
-        <mark key="]" line="4" column="17" />
-        <mark key="." line="4" column="17" />
-        <mark key="^" line="4" column="17" />
+      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/footer/footer.scss" timestamp="1493336390392">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="67" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/about/company.ejs" timestamp="1493325872071">
         <mark key="'" line="176" column="0" />
@@ -387,50 +141,13 @@
         <mark key="." line="177" column="0" />
         <mark key="^" line="177" column="0" />
       </file>
-      <file name="$USER_HOME$/mathtv-ionic/mathtv/src/app/app.component.ts" timestamp="1487978300982">
-        <mark key="[" line="24" column="16" />
-        <mark key="]" line="24" column="22" />
-        <mark key="." line="24" column="22" />
-        <mark key="^" line="24" column="22" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/dist/index.html" timestamp="1493333625257" />
-      <file name="$USER_HOME$/mathtv-ionic/tut/src/app/app.component.ts" timestamp="1487977236192">
-        <mark key="[" line="47" column="9" />
-        <mark key="]" line="48" column="5" />
-        <mark key="." line="48" column="5" />
-        <mark key="^" line="48" column="5" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/package.json" timestamp="1492558211466">
-        <mark key="[" line="32" column="13" />
-        <mark key="]" line="32" column="64" />
-        <mark key="." line="32" column="64" />
-        <mark key="^" line="32" column="64" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/header/header.hbs" timestamp="1493334300942">
         <mark key="'" line="0" column="7" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="10" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/styles.css" timestamp="1490932973457">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="5" column="8" />
-        <mark key="." line="5" column="8" />
-        <mark key="^" line="5" column="8" />
-      </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="7" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
-      <jump line="79" column="5" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/models/Book.js" />
-      <jump line="91" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/connections.js" />
-      <jump line="135" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/TestingController.js" />
-      <jump line="136" column="7" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="171" column="31" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
-      <jump line="102" column="44" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
-      <jump line="107" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
-      <jump line="120" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
-      <jump line="136" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
-      <jump line="227" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
-      <jump line="143" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="119" column="25" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="112" column="31" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
       <jump line="70" column="34" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
@@ -503,26 +220,38 @@
       <jump line="118" column="6" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" />
       <jump line="41" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/about/company.ejs" />
       <jump line="176" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/about/company.ejs" />
-      <jump line="4" column="25" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
       <jump line="0" column="7" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/header/header.hbs" />
       <jump line="8" column="5" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/header.ejs" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/header/collapse/collapse.hbs" />
       <jump line="0" column="14" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/sidebar.hbs" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.hbs" />
       <jump line="11" column="17" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/index.ejs" />
       <jump line="22" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
       <jump line="17" column="4" filename="$USER_HOME$/dev/htdocs/sails/admin/src/app/app.component.html" />
       <jump line="3" column="16" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.hbs" />
       <jump line="11" column="4" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.scss" />
       <jump line="16" column="23" filename="$USER_HOME$/dev/htdocs/sails/admin/.angular-cli.json" />
+      <jump line="9" column="36" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.scss" />
+      <jump line="5" column="5" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/header/header.hbs" />
+      <jump line="9" column="18" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/footer/footer.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/footer/footer.hbs" />
+      <jump line="7" column="8" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/footer/footer.scss" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/footer/footer.scss" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
+      <jump line="16" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/app-layout.hbs" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/sidebar.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/sidebar.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/sidebar.js" />
+      <jump line="12" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/sidebar.js" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/htdocs/sails/modular-admin-html/src/app/_common/sidebar/sidebar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>css</text>
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -551,16 +280,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>css</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>css</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LnNpZGViYXItaGVhZGVyIHsKCS5icmFuZCB7CgkJY29sb3I6ICNmZmY7CgkJdGV4dC1hbGlnbjogbGVmdDsKCQlwYWRkaW5nLWxlZnQ6IDI1cHg7CgkJbGluZS1oZWlnaHQ6ICRoZWFkZXItaGVpZ2h0OwoJCWZvbnQtc2l6ZTogMTZweDsKCQkKCQlAaW5jbHVkZSBtZWRpYS1kb3duKHNtKSB7CgkJCWxpbmUtaGVpZ2h0OiAkaGVhZGVyLWhlaWdodC14czsKCQkJZm9udC1zaXplOiAxNnB4OwoJCX0KCX0KfQo=</text>
+        <text encoding="base64">JChmdW5jdGlvbiAoKSB7CgoJJCgnI3NpZGViYXItbWVudSwgI2N1c3RvbWl6ZS1tZW51JykubWV0aXNNZW51KHsKCQlhY3RpdmVDbGFzczogJ29wZW4nCgl9KTsKCgoJJCgnI3NpZGViYXItY29sbGFwc2UtYnRuJykub24oJ2NsaWNrJywgZnVuY3Rpb24oZXZlbnQpewoJCWV2ZW50LnByZXZlbnREZWZhdWx0KCk7CgkJCgkJJCgiI2FwcCIpLnRvZ2dsZUNsYXNzKCJzaWRlYmFyLW9wZW4iKTsKCX0pOwoKCSQoIiNzaWRlYmFyLW92ZXJsYXkiKS5vbignY2xpY2snLCBmdW5jdGlvbigpIHsKCQkkKCIjYXBwIikucmVtb3ZlQ2xhc3MoInNpZGViYXItb3BlbiIpOwoJfSk7CgkKfSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aGVhZGVyLnNjc3MK</text>
+        <text encoding="base64">ICAgIHt7PiBhcHAvX2NvbW1vbi9zaWRlYmFyL3NpZGViYXJ9fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -580,22 +309,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHt7PiBfY29tbW9uL2xvZ28vbG9nb319Cg==</text>
+        <text encoding="base64">ICAgICAge3t7Ym9keX19fQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">PHA+CiAgYXBwLWhlYWRlciB3b3JrcyEKPC9wPgo=</text>
+        <text encoding="base64">ICAgIHt7PiBhcHAvX2NvbW1vbi9mb290ZXIvZm9vdGVyfX0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0ic2lkZWJhci1oZWFkZXIiPgoJPGRpdiBjbGFzcz0iYnJhbmQiPgoJCXt7PiBfY29tbW9uL2xvZ28vbG9nb319CgkJTW9kdWxhciBBZG1pbgoJPC9kaXY+CjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIHt7PiBhcHAvX2NvbW1vbi9oZWFkZXIvaGVhZGVyfX0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgLy8ge3s+IGFwcC9fY29tbW9uL21vZGFscy9tb2RhbHN9fQo=</text>
+        <text encoding="base64">PGgxPgogIHt7dGl0bGV9fQo8L2gxPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGFwcC0K</text>
+        <text encoding="base64">PHA+CiAgYXBwLWZvb3RlciB3b3JrcyEKPC9wPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHt7PiBhcHAvX2NvbW1vbi9mb290ZXIvZm9vdGVyfX0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -622,10 +351,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Pgo=</text>
+        <text encoding="base64">ICAgIHt7PiBfY29tbW9uL2xvZ28vbG9nb319Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LS0tCgpsYXlvdXQ6IF9tYWluLWxheW91dAp0aGVtZVRpdGxlOiBNb2R1bGFyQWRtaW4KLS0tCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
