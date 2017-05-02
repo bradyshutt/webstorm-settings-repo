@@ -40,7 +40,7 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/blueprints.js" timestamp="1493756513567">
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/blueprints.js" timestamp="1493759240832">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="99" column="11" />
         <mark key="]" line="99" column="14" />
@@ -133,12 +133,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/.angular-cli.json" timestamp="1493758929308">
-        <mark key="'" line="76" column="37" />
-        <mark key="[" line="23" column="61" />
-        <mark key="]" line="23" column="61" />
-        <mark key="^" line="23" column="50" />
-        <mark key="." line="23" column="61" />
+      <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/.angular-cli.json" timestamp="1493759775069">
+        <mark key="'" line="79" column="37" />
+        <mark key="[" line="23" column="58" />
+        <mark key="]" line="23" column="58" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="23" column="58" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/nav/nav.component.html" timestamp="1493748035985">
         <mark key="'" line="44" column="12" />
@@ -285,8 +285,8 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.ts" timestamp="1493759089040">
-        <mark key="'" line="30" column="32" />
+      <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.ts" timestamp="1493759427110">
+        <mark key="'" line="25" column="0" />
         <mark key="[" line="34" column="34" />
         <mark key="]" line="34" column="34" />
         <mark key="." line="34" column="34" />
@@ -705,7 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
       <jump line="23" column="28" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/app.module.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
@@ -805,10 +804,11 @@
       <jump line="33" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/app.module.ts" />
       <jump line="32" column="44" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/.angular-cli.json" />
       <jump line="74" column="37" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/.angular-cli.json" />
+      <jump line="25" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bootstrap.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -837,16 +837,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>bootstrap.</text>
       </register>
       <register name="/" type="4">
-        <text>data</text>
+        <text>`j</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlbmRlcjogZnVuY3Rpb24oZGF0YSwgdHlwZSwgcm93KSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAiLi9hc3NldHMvdmVuZG9yL2RhdGF0YWJsZXMvY3NzL2RhdGFUYWJsZXMuYm9vdHN0cmFwLmNzcyIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGFnZVRpdGxlRGlyZWN0aXZlIH0gZnJvbSAnLi9kaXJlY3RpdmVzL3BhZ2UtdGl0bGUuZGlyZWN0aXZlJzsK</text>
+        <text encoding="base64">ICAgICAgICAiLi9hc3NldHMvanMvanF1ZXJ5LmRhdGFUYWJsZXMuanMiLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -866,22 +866,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDx0aD5GaWxlbmFtZSBGaWx0ZXI8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAiLi9hc3NldHMvanMvanF1ZXJ5LmRhdGFUYWJsZXMuanMiLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx0aD5GaWxlbmFtZSBGaWx0ZXI8L3RoPgo=</text>
+        <text encoding="base64">aW1wb3J0IHsgUGFnZVRpdGxlRGlyZWN0aXZlIH0gZnJvbSAnLi9kaXJlY3RpdmVzL3BhZ2UtdGl0bGUuZGlyZWN0aXZlJzsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDx0aD5GaWxlbmFtZSBGaWx0ZXI8L3RoPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDx0aD5GaWxlbmFtZSBGaWx0ZXI8L3RoPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -908,19 +908,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>data</last-search>
+      <last-search>`j</last-search>
       <last-offset />
-      <last-pattern>data</last-pattern>
+      <last-pattern>`j</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -928,7 +928,6 @@
     </search>
     <history>
       <history-search>
-        <entry>break</entry>
         <entry>breakpo</entry>
         <entry>grid-breakpoints</entry>
         <entry>john</entry>
@@ -948,6 +947,7 @@
         <entry>routerL</entry>
         <entry>act</entry>
         <entry>data</entry>
+        <entry>`j</entry>
       </history-search>
       <history-cmd>
         <entry>74</entry>
