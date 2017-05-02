@@ -40,11 +40,18 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/routes.js" timestamp="1493346219964">
-        <mark key="[" line="51" column="13" />
-        <mark key="]" line="51" column="25" />
-        <mark key="." line="51" column="25" />
-        <mark key="^" line="51" column="25" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/blueprints.js" timestamp="1493756513567">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="99" column="11" />
+        <mark key="]" line="99" column="14" />
+        <mark key="." line="99" column="14" />
+        <mark key="^" line="99" column="14" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/routes.js" timestamp="1493756423506">
+        <mark key="[" line="38" column="4" />
+        <mark key="]" line="38" column="12" />
+        <mark key="." line="38" column="12" />
+        <mark key="^" line="38" column="12" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/components/navbar/navbar.component.ts" timestamp="1488306181861">
         <mark key="[" line="7" column="16" />
@@ -278,12 +285,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.ts" timestamp="1493756161866">
+      <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.ts" timestamp="1493757305225">
         <mark key="'" line="3" column="27" />
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="17" />
-        <mark key="." line="2" column="17" />
-        <mark key="^" line="2" column="17" />
+        <mark key="[" line="24" column="50" />
+        <mark key="]" line="24" column="50" />
+        <mark key="." line="24" column="50" />
+        <mark key="^" line="24" column="50" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" timestamp="1493325061060">
         <mark key="'" line="118" column="6" />
@@ -698,7 +705,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
       <jump line="44" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
@@ -798,10 +804,11 @@
       <jump line="240" column="40" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/components/nav/nav.component.html" />
       <jump line="244" column="40" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/components/nav/nav.component.html" />
       <jump line="3" column="27" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/blueprints.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>any</text>
+        <text>}</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -830,16 +837,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>any</text>
+        <text>}</text>
       </register>
       <register name="/" type="4">
         <text>act</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx0aD5JbWFnZTwvdGg+CiAgICA8dGg+SUQ8L3RoPgogICAgPHRoPlRpdGxlPC90aD4KICAgIDx0aD5JbnRlcmFjdGl2ZTwvdGg+CiAgICA8dGg+RmlsZW5hbWUgRmlsdGVyPC90aD4KICAgIDx0aD5BdXRob3I8L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICB7ZGF0YTogJ3RpdGxlJ30sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgJCBmcm9tICdqcXVlcnknOwo=</text>
+        <text encoding="base64">ICAgICAgICBkCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -859,22 +866,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDx0aD5OYW1lPC90aD4KICAgIDx0aD5Qb3NpdGlvbjwvdGg+CiAgICA8dGg+T2ZmaWNlPC90aD4KICAgIDx0aD5FeHRuLjwvdGg+CiAgICA8dGg+U3RhcnQgZGF0ZTwvdGg+CiAgICA8dGg+U2FsYXJ5PC90aD4K</text>
+        <text encoding="base64">ICAgICAgZGF0YVNyYzogJycK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgJCBmcm9tICdqcXVlcnknOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8bGkgY2xhc3M9ImFjdGl2ZSI+Cg==</text>
+        <text encoding="base64">ICAgIDx0aD5OYW1lPC90aD4KICAgIDx0aD5Qb3NpdGlvbjwvdGg+CiAgICA8dGg+T2ZmaWNlPC90aD4KICAgIDx0aD5FeHRuLjwvdGg+CiAgICA8dGg+U3RhcnQgZGF0ZTwvdGg+CiAgICA8dGg+U2FsYXJ5PC90aD4K</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -901,13 +908,13 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUGFnZUhlYWRpbmdDb21wb25lbnQgfSBmcm9tICcuL2NvbXBvbmVudHMvcGFnZS1oZWFkaW5nL3BhZ2UtaGVhZGluZy5jb21wb25lbnQnOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIFBhZ2VUaXRsZURpcmVjdGl2ZQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -960,9 +967,9 @@
         <entry>;q</entry>
         <entry>qall</entry>
         <entry>q</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>w</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
