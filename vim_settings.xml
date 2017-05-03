@@ -262,12 +262,12 @@
         <mark key="." line="1" column="14" />
         <mark key="^" line="1" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1493769285002">
-        <mark key="'" line="20" column="38" />
-        <mark key="[" line="24" column="8" />
-        <mark key="]" line="24" column="8" />
-        <mark key="." line="24" column="8" />
-        <mark key="^" line="196" column="33" />
+      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" timestamp="1493769909130">
+        <mark key="'" line="165" column="41" />
+        <mark key="[" line="189" column="32" />
+        <mark key="]" line="189" column="32" />
+        <mark key="." line="189" column="32" />
+        <mark key="^" line="189" column="31" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/dashboard/dashboard.component.html" timestamp="1493755120222">
         <mark key="'" line="1" column="10" />
@@ -716,8 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/components/nav/nav.component.html" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/components/nav/nav.component.html" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/components/nav/nav.component.html" />
       <jump line="64" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/components/nav/nav.component.html" />
       <jump line="68" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/components/nav/nav.component.html" />
@@ -816,10 +814,12 @@
       <jump line="197" column="20" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="20" column="38" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
       <jump line="172" column="38" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="55" column="68" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
+      <jump line="165" column="41" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/LegacyBookService.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text encoding="base64">dGhyb3cg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -848,10 +848,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text encoding="base64">dGhyb3cg</text>
       </register>
       <register name="/" type="4">
-        <text>padding</text>
+        <text>throw</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0FuIGVycm9yIG9jY3VycmVkLicpOwo=</text>
@@ -929,9 +929,9 @@
       </register>
     </registers>
     <search>
-      <last-search>padding</last-search>
+      <last-search>throw</last-search>
       <last-offset />
-      <last-pattern>padding</last-pattern>
+      <last-pattern>throw</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -939,7 +939,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">PCU=</entry>
         <entry>css</entry>
         <entry>jquery</entry>
         <entry>admin</entry>
@@ -959,6 +958,7 @@
         <entry>resolve()</entry>
         <entry>resolve(</entry>
         <entry>padding</entry>
+        <entry>throw</entry>
       </history-search>
       <history-cmd>
         <entry>98</entry>
@@ -978,8 +978,8 @@
         <entry>wq</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>26</entry>
+        <entry>action NextTab</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
