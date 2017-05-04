@@ -714,11 +714,11 @@
         <mark key="." line="244" column="11" />
         <mark key="^" line="244" column="10" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.html" timestamp="1493923553908">
-        <mark key="[" line="27" column="18" />
-        <mark key="]" line="27" column="17" />
-        <mark key="." line="27" column="17" />
-        <mark key="^" line="27" column="17" />
+      <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.html" timestamp="1493923596997">
+        <mark key="[" line="31" column="19" />
+        <mark key="]" line="32" column="3" />
+        <mark key="." line="32" column="3" />
+        <mark key="^" line="32" column="3" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/tut/src/app/app.component.ts" timestamp="1487977236192">
         <mark key="[" line="47" column="9" />
@@ -855,7 +855,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -884,7 +884,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>sort</text>
