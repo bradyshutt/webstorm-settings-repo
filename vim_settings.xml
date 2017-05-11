@@ -694,6 +694,13 @@
         <mark key="." line="249" column="108" />
         <mark key="^" line="249" column="108" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" timestamp="1494540453023">
+        <mark key="'" line="119" column="2" />
+        <mark key="[" line="33" column="10" />
+        <mark key="]" line="34" column="7" />
+        <mark key="^" line="34" column="7" />
+        <mark key="." line="34" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/package.json" timestamp="1493760662950">
         <mark key="[" line="44" column="14" />
         <mark key="]" line="44" column="56" />
@@ -745,14 +752,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="31" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.html" />
-      <jump line="26" column="17" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.ts" />
-      <jump line="32" column="27" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.ts" />
-      <jump line="43" column="3" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.html" />
-      <jump line="59" column="8" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.html" />
-      <jump line="66" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/ebook-manager/ebook-manager.component.html" />
-      <jump line="9" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/editor.component.html" />
-      <jump line="24" column="35" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/editor.component.ts" />
       <jump line="23" column="5" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/editor.component.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/editor.component.ts" />
       <jump line="30" column="2" filename="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/editor.component.ts" />
@@ -845,6 +844,14 @@
       <jump line="6" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/ebook-manager/editor/editor.component.ts" />
       <jump line="32" column="6" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/ebook-manager/editor/editor.component.ts" />
       <jump line="47" column="16" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/ebook-manager/editor/editor.component.ts" />
+      <jump line="26" column="1" filename="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" />
+      <jump line="72" column="30" filename="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" />
+      <jump line="71" column="30" filename="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" />
+      <jump line="41" column="24" filename="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" />
+      <jump line="40" column="24" filename="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" />
+      <jump line="38" column="2" filename="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" />
+      <jump line="364" column="37" filename="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" />
+      <jump line="118" column="2" filename="$USER_HOME$/dev/htdocs/sails/sails-framework/api/services/LegacyBookService.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -880,7 +887,7 @@
         <text>bookChanges</text>
       </register>
       <register name="/" type="4">
-        <text>stop</text>
+        <text>link</text>
       </register>
       <register name="0" type="4">
         <text>, (current target)</text>
@@ -933,9 +940,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stop</last-search>
+      <last-search>link</last-search>
       <last-offset />
-      <last-pattern>stop</last-pattern>
+      <last-pattern>link</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>app-e</last-substitute>
       <last-dir>1</last-dir>
@@ -943,7 +950,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlZGl0b3JEYXRhU2VydmljZVw+</entry>
         <entry>UI E</entry>
         <entry>Forms</entry>
         <entry>AppRo</entry>
@@ -963,6 +969,7 @@
         <entry>data</entry>
         <entry>service</entry>
         <entry>stop</entry>
+        <entry>link</entry>
       </history-search>
       <history-cmd>
         <entry>100</entry>
