@@ -358,6 +358,13 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/redirect.component.ts" timestamp="1494737579513">
+        <mark key="'" line="21" column="34" />
+        <mark key="[" line="27" column="84" />
+        <mark key="]" line="27" column="87" />
+        <mark key="^" line="27" column="87" />
+        <mark key="." line="27" column="87" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BookController.js" timestamp="1491501274051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -551,12 +558,12 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app-routing.module.ts" timestamp="1494731309631">
-        <mark key="'" line="12" column="20" />
-        <mark key="[" line="17" column="28" />
-        <mark key="]" line="17" column="28" />
-        <mark key="." line="17" column="28" />
-        <mark key="^" line="17" column="28" />
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app-routing.module.ts" timestamp="1494736452957">
+        <mark key="'" line="23" column="31" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="23" column="31" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/services/user.service.ts" timestamp="1494731613066">
         <mark key="[" line="6" column="2" />
@@ -694,12 +701,11 @@
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="8" />
       </file>
-      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.module.ts" timestamp="1494731848377">
-        <mark key="'" line="34" column="16" />
-        <mark key="[" line="34" column="4" />
-        <mark key="]" line="34" column="14" />
-        <mark key="." line="34" column="14" />
-        <mark key="^" line="34" column="14" />
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.module.ts" timestamp="1494736569347">
+        <mark key="'" line="12" column="23" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/sidebar.ejs" timestamp="1493334642528">
         <mark key="[" line="194" column="0" />
@@ -792,12 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="16" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/app.component.html" />
-      <jump line="23" column="12" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/app.component.html" />
-      <jump line="23" column="33" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/nav/nav.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/nav/nav.component.html" />
-      <jump line="157" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/nav/nav.component.html" />
-      <jump line="17" column="34" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
       <jump line="42" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="155" column="5" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
@@ -892,10 +892,16 @@
       <jump line="2" column="53" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/nav.component.ts" />
       <jump line="34" column="16" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.module.ts" />
       <jump line="6" column="12" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.component.ts" />
+      <jump line="29" column="21" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app-routing.module.ts" />
+      <jump line="23" column="31" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app-routing.module.ts" />
+      <jump line="12" column="23" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.module.ts" />
+      <jump line="1" column="23" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/redirect.component.ts" />
+      <jump line="19" column="53" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/redirect.component.ts" />
+      <jump line="20" column="34" filename="$USER_HOME$/dev/projects/mydrive/front-end/src/app/redirect.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idXNlciIgKm5nSWY9InVzZXIiPgogICAgICAgIHt7dXNlci51c2VybmFtZX19CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzcz0iIiAqbmdJZj0iIXVzZXIiPgogICAgICAgIExvZ2luCiAgICAgIDwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>1250</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -924,16 +930,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>1250</text>
       </register>
       <register name="/" type="4">
         <text>dash</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHdpbi5jbG9zZSgpOwogICAgICB3aW4gPSB3aW5kb3cub3BlbigiaHR0cHM6Ly93d3cubmV0ZmxpeC5jb20vd2F0Y2gvODAwOTMxNjIiKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0idXNlciIgKm5nSWY9InVzZXIiPgogICAgICAgIHt7dXNlci51c2VybmFtZX19CiAgICAgIDwvZGl2PgoKICAgICAgPGRpdiBjbGFzcz0iIiAqbmdJZj0iIXVzZXIiPgogICAgICAgIExvZ2luCiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgd2luID0gd2luZG93Lm9wZW4oImh0dHBzOi8vd3d3Lm5ldGZsaXguY29tL3dhdGNoLzgwMDkzMTYyIikK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -953,22 +959,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgd2luLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPHAgY2xhc3M9ImxvZ28iPk15RHJpdmU8L3A+Cg==</text>
+        <text encoding="base64">ICAgICAgc2V0VGltZW91dCgoKSA9PiB7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgd2luLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBqamsK</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gLCA3MDAwKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHNldFRpbWVvdXQoKCkgPT4gd2luLmxvY2F0aW9uLmhyZWYgPSAiIiwgMzAwMCk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICQod2luZG93LmRvY3VtZW50LmJvZHkpLnRyaWdnZXIoe3R5cGU6ICdrZXlwcmVzcycsIHdoaWNoOiBjaGFyYWN0ZXIuY2hhckNvZGVBdCgwKX0pCg==</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -995,10 +1001,10 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gJ2h0dHA6Ly93d3cuZ29vZ2xlLmNvbSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
