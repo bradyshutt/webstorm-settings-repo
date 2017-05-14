@@ -62,6 +62,13 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/package.json" timestamp="1494718225386">
+        <mark key="'" line="24" column="10" />
+        <mark key="[" line="24" column="21" />
+        <mark key="]" line="24" column="26" />
+        <mark key="^" line="24" column="26" />
+        <mark key="." line="24" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/projects/remindme/remindme-frontend/src/app/app.component.html" timestamp="1493615061478">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -127,6 +134,14 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
         <mark key="^" line="15" column="43" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/.angular-cli.json" timestamp="1494718543906">
+        <mark key="'" line="11" column="20" />
+        <mark key="x" line="24" column="63" />
+        <mark key="[" line="24" column="9" />
+        <mark key="]" line="22" column="11" />
+        <mark key="." line="24" column="11" />
+        <mark key="^" line="22" column="11" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" timestamp="1493346563515">
         <mark key="'" line="58" column="10" />
@@ -346,6 +361,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.component.html" timestamp="1494718751901">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="4" column="14" />
+        <mark key="." line="4" column="14" />
+        <mark key="^" line="4" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" timestamp="1493325061060">
         <mark key="'" line="118" column="6" />
         <mark key="[" line="1" column="0" />
@@ -390,11 +411,23 @@
         <mark key="." line="32" column="0" />
         <mark key="^" line="31" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app-routing.module.ts" timestamp="1494719460648">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="13" column="14" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/autoreload.js" timestamp="1491494823513">
         <mark key="[" line="4" column="45" />
         <mark key="]" line="4" column="78" />
         <mark key="." line="4" column="79" />
         <mark key="^" line="4" column="78" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/dashboard/dashboard.component.html" timestamp="1494718770696">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="3" column="0" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/.angular-cli.json" timestamp="1493335801174">
         <mark key="'" line="16" column="23" />
@@ -414,6 +447,12 @@
         <mark key="]" line="33" column="51" />
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="51" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/auth-guard.service.ts" timestamp="1494719342356">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="12" column="15" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/shared/styles/bootstrap-breakpoints-mixin.scss" timestamp="1493339533165">
         <mark key="'" line="55" column="54" />
@@ -513,6 +552,12 @@
         <mark key="." line="5" column="8" />
         <mark key="^" line="5" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.module.ts" timestamp="1494718676339">
+        <mark key="[" line="20" column="14" />
+        <mark key="]" line="20" column="14" />
+        <mark key="." line="20" column="14" />
+        <mark key="^" line="20" column="14" />
+      </file>
       <file name="/Dummy.txt" timestamp="1493344175447">
         <mark key="[" line="0" column="0" />
       </file>
@@ -599,9 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="58" filename="$USER_HOME$/dev/htdocs/sails/admin/src/assets/bootstrap-breakpoints-mixin.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin/src/assets/bootstrap-breakpoints-mixin.scss" />
       <jump line="36" column="47" filename="$USER_HOME$/dev/htdocs/sails/admin/src/assets/bootstrap-breakpoints-mixin.scss" />
       <jump line="302" column="35" filename="$USER_HOME$/dev/htdocs/sails/admin/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" />
       <jump line="326" column="35" filename="$USER_HOME$/dev/htdocs/sails/admin/node_modules/bootstrap-sass/assets/stylesheets/bootstrap/_variables.scss" />
@@ -699,10 +741,13 @@
       <jump line="24" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/ebook-manager.ejs" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/projects/remindme/angular/src/app/app-routing.module.ts" />
       <jump line="6" column="17" filename="$USER_HOME$/dev/projects/remindme/angular/src/app/app-routing.module.ts" />
+      <jump line="27" column="22" filename="$USER_HOME$/dev/projects/mydrive/front-end/package.json" />
+      <jump line="25" column="10" filename="$USER_HOME$/dev/projects/mydrive/front-end/package.json" />
+      <jump line="11" column="20" filename="$USER_HOME$/dev/projects/mydrive/front-end/.angular-cli.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHZpZQo=</text>
+        <text encoding="base64">ICAgIGNhbkFjdGl2YXRlCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -731,16 +776,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>adm</text>
+        <text>&quot;&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>Dash</text>
+        <text>node</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtYXJnaW46IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAibm9kZV9tb2R1bGVzL3ByaW1lbmcvcmVzb3VyY2VzL3RoZW1lcy9vbWVnYS90aGVtZS5jc3MiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZpZQo=</text>
+        <text encoding="base64">ICAgIGNhbkFjdGl2YXRlCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -760,22 +805,22 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZpZQo=</text>
+        <text encoding="base64">ICAgIGNhbkFjdGl2YXRlOiBbQXV0aEd1YXJkXSwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZpZXc6ICdob21lcGFnZScK</text>
+        <text encoding="base64">ICBwYXRoCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHZpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIGNvbXBvbmVudDogJycK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="w" type="4">
         <keys>
@@ -802,19 +847,19 @@
         </keys>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctbGVmdDogMnB4OwoK</text>
+        <text encoding="base64">bXBvcnQgCg==</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Dash</last-search>
+      <last-search>node</last-search>
       <last-offset />
-      <last-pattern>Dash</last-pattern>
+      <last-pattern>node</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxSZXNwb25zZVw+</last-substitute>
       <last-dir>1</last-dir>
@@ -822,11 +867,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Done.</entry>
-        <entry>exist</entry>
-        <entry>?</entry>
-        <entry>migrate</entry>
-        <entry>after</entry>
         <entry encoding="base64">PCU=</entry>
         <entry>css</entry>
         <entry>ap</entry>
@@ -842,9 +882,13 @@
         <entry>img</entry>
         <entry>index</entry>
         <entry>Dash</entry>
+        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
+        <entry>dep</entry>
+        <entry>font</entry>
+        <entry>awe</entry>
+        <entry>node</entry>
       </history-search>
       <history-cmd>
-        <entry>121</entry>
         <entry>74</entry>
         <entry>98</entry>
         <entry>action SplitHorizontally</entry>
@@ -860,10 +904,11 @@
         <entry>443</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>w</entry>
-        <entry>q</entry>
         <entry>q!</entry>
         <entry>qall</entry>
+        <entry>s</entry>
+        <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -913,6 +958,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
