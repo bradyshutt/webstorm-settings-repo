@@ -58,16 +58,18 @@
         <mark key="^" line="0" column="42" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/app-routing.module.ts" timestamp="1494810326832">
-        <mark key="[" line="4" column="2" />
-        <mark key="]" line="4" column="2" />
-        <mark key="." line="4" column="2" />
-        <mark key="^" line="4" column="2" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/app-routing.module.ts" timestamp="1494819336097">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="3" column="2" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-again/.angular-cli.json" timestamp="1493342302524">
-        <mark key="[" line="24" column="39" />
-        <mark key="]" line="24" column="39" />
-        <mark key="." line="24" column="39" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" timestamp="1494819285601">
+        <mark key="'" line="3" column="27" />
+        <mark key="[" line="51" column="6" />
+        <mark key="]" line="51" column="6" />
+        <mark key="." line="51" column="11" />
+        <mark key="^" line="22" column="34" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/package.json" timestamp="1494718225386">
         <mark key="'" line="24" column="10" />
@@ -118,6 +120,13 @@
         <mark key="]" line="6" column="25" />
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/animations.ts" timestamp="1494818175900">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="5" />
+        <mark key="^" line="25" column="5" />
+        <mark key="." line="25" column="5" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/styles.css" timestamp="1494808572356">
         <mark key="'" line="113" column="0" />
@@ -209,18 +218,25 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" timestamp="1494813007624">
-        <mark key="'" line="18" column="0" />
-        <mark key="[" line="14" column="26" />
-        <mark key="]" line="14" column="1" />
-        <mark key="." line="14" column="1" />
-        <mark key="^" line="14" column="1" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" timestamp="1494816837134">
+        <mark key="'" line="10" column="25" />
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/models/User.ts" timestamp="1494731437349">
         <mark key="[" line="2" column="18" />
         <mark key="]" line="2" column="18" />
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis.service.ts" timestamp="1494819170519">
+        <mark key="'" line="25" column="44" />
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="44" />
+        <mark key="." line="25" column="44" />
+        <mark key="^" line="25" column="44" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/mathtv/src/app/app.component.ts" timestamp="1487978300982">
         <mark key="[" line="24" column="16" />
@@ -339,6 +355,13 @@
         <mark key="]" line="26" column="1" />
         <mark key="^" line="26" column="1" />
         <mark key="." line="26" column="1" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center.module.ts" timestamp="1494819600160">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="28" column="19" />
+        <mark key="]" line="28" column="24" />
+        <mark key="." line="28" column="24" />
+        <mark key="^" line="28" column="24" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/nav.component.ts" timestamp="1494731946104">
         <mark key="'" line="2" column="53" />
@@ -473,11 +496,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/app-sidebar.component.html" timestamp="1493336995207">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="8" column="10" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/header.ejs" timestamp="1493334402165">
         <mark key="'" line="3" column="5" />
         <mark key="[" line="2" column="5" />
@@ -563,11 +581,6 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/app-collapse/app-collapse.component.scss" timestamp="1493337291739">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/pipes/image-url.pipe.ts" timestamp="1493920912996">
         <mark key="'" line="10" column="17" />
         <mark key="[" line="12" column="0" />
@@ -591,6 +604,12 @@
         <mark key="]" line="12" column="38" />
         <mark key="." line="12" column="38" />
         <mark key="^" line="12" column="38" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis.ts" timestamp="1494819044292">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="22" />
+        <mark key="." line="1" column="22" />
+        <mark key="^" line="1" column="22" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/index.html" timestamp="1493334091997">
         <mark key="[" line="4" column="32" />
@@ -721,12 +740,18 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" timestamp="1494813305946">
-        <mark key="'" line="72" column="29" />
-        <mark key="[" line="19" column="36" />
-        <mark key="]" line="19" column="50" />
-        <mark key="." line="19" column="50" />
-        <mark key="^" line="19" column="50" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" timestamp="1494817709195">
+        <mark key="'" line="80" column="43" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center-home.component.ts" timestamp="1494819752772">
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="36" />
+        <mark key="." line="5" column="36" />
+        <mark key="^" line="5" column="28" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.component.ts" timestamp="1494731860256">
         <mark key="'" line="6" column="12" />
@@ -776,11 +801,6 @@
         <mark key="." line="6" column="8" />
         <mark key="^" line="6" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/crisis-center/crisis-center.component.ts" timestamp="1494728751974">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/editor.component.ts" timestamp="1493943106215">
         <mark key="'" line="21" column="12" />
         <mark key="[" line="48" column="0" />
@@ -819,11 +839,18 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/app.module.ts" timestamp="1494810431175">
-        <mark key="[" line="27" column="21" />
-        <mark key="]" line="27" column="66" />
-        <mark key="." line="27" column="66" />
-        <mark key="^" line="27" column="66" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/app.module.ts" timestamp="1494819301242">
+        <mark key="'" line="20" column="11" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises.module.ts" timestamp="1494819252320">
+        <mark key="'" line="6" column="40" />
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="9" />
+        <mark key="." line="13" column="9" />
+        <mark key="^" line="13" column="22" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/ui-components/components/heading/heading.component.css" timestamp="1490932504173">
         <mark key="[" line="1" column="10" />
@@ -874,15 +901,18 @@
         <mark key="^" line="27" column="87" />
         <mark key="." line="27" column="87" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/app.component.html" timestamp="1494808820445">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/crisis-center/crisis-center.module.ts" timestamp="1494728746525">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="." line="33" column="0" />
+        <mark key="^" line="33" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/notifications.ejs" timestamp="1493345394440">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="24" column="5" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center.component.ts" timestamp="1494819702670">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="5" column="21" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/models/book.js" timestamp="1493845413411">
         <mark key="[" line="3" column="24" />
@@ -974,10 +1004,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.component.html" timestamp="1494722535924">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises-routing.module.ts" timestamp="1494819926614">
+        <mark key="'" line="36" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+        <mark key="^" line="22" column="3" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/test/services/LegacyBookService.test.js" timestamp="1493325061060">
         <mark key="'" line="118" column="6" />
@@ -1063,6 +1095,13 @@
         <mark key="]" line="85" column="1" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" timestamp="1494819318304">
+        <mark key="'" line="75" column="24" />
+        <mark key="[" line="85" column="18" />
+        <mark key="]" line="85" column="23" />
+        <mark key="." line="85" column="23" />
+        <mark key="^" line="85" column="23" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/assets/bootstrap-breakpoints-mixin.scss" timestamp="1493340014464">
         <mark key="'" line="36" column="47" />
         <mark key="[" line="0" column="0" />
@@ -1123,12 +1162,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" timestamp="1494812530704">
-        <mark key="'" line="28" column="1" />
-        <mark key="[" line="25" column="13" />
-        <mark key="]" line="25" column="16" />
-        <mark key="^" line="25" column="16" />
-        <mark key="." line="25" column="16" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" timestamp="1494818406383">
+        <mark key="'" line="5" column="20" />
+        <mark key="[" line="26" column="14" />
+        <mark key="]" line="27" column="23" />
+        <mark key="." line="27" column="23" />
+        <mark key="^" line="27" column="23" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/environments/environment.ts" timestamp="1491012818912">
         <mark key="[" line="7" column="42" />
@@ -1161,21 +1200,6 @@
         <mark key="." line="13" column="22" />
         <mark key="^" line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/app-collapse/app-collapse.component.html" timestamp="1493337305431">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="4" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/projects/remindme/angular/src/app/app.component.scss" timestamp="1493615929145">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/header-buttons/header-button.component.html" timestamp="1493337415449">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="22" column="6" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/hero-list.component.ts" timestamp="1494808996507">
         <mark key="'" line="11" column="11" />
         <mark key="[" line="1" column="0" />
@@ -1190,55 +1214,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="195" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-bootstrap/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
-      <jump line="153" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
-      <jump line="195" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="193" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="64" column="52" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="40" column="20" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="156" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="31" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="33" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="37" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="52" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="154" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="198" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="155" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="316" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="18" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/index.ejs" />
-      <jump line="17" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/index.ejs" />
-      <jump line="122" column="29" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="14" column="51" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="38" column="26" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="193" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="195" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="197" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="212" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="222" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="314" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="328" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="465" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="468" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="471" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="474" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="480" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="477" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/index.html" />
-      <jump line="440" column="5" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/app.component.html" />
-      <jump line="15" column="39" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/app.component.html" />
-      <jump line="38" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/charts.html" />
-      <jump line="193" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/admin-bootstrap/charts.html" />
-      <jump line="2" column="16" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/app.component.html" />
-      <jump line="23" column="12" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/app.component.html" />
-      <jump line="23" column="33" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/nav/nav.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/nav/nav.component.html" />
-      <jump line="157" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-again/src/app/nav/nav.component.html" />
-      <jump line="17" column="34" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
-      <jump line="155" column="5" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="12" column="5" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="38" column="41" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="53" column="41" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
@@ -1281,7 +1256,6 @@
       <jump line="13" column="13" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" />
       <jump line="9" column="11" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
       <jump line="48" column="2" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
       <jump line="12" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
@@ -1289,11 +1263,61 @@
       <jump line="32" column="10" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
       <jump line="28" column="1" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
       <jump line="69" column="29" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" />
+      <jump line="70" column="27" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" />
+      <jump line="35" column="42" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="28" column="5" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" />
+      <jump line="29" column="23" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" />
+      <jump line="9" column="27" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" />
+      <jump line="10" column="25" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" />
+      <jump line="39" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="12" column="35" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" />
+      <jump line="88" column="2" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" />
+      <jump line="80" column="43" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" />
+      <jump line="30" column="49" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/app.module.ts" />
+      <jump line="4" column="67" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/app.module.ts" />
+      <jump line="22" column="11" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/app.module.ts" />
+      <jump line="8" column="5" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/animations.ts" />
+      <jump line="17" column="6" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/animations.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/animations.ts" />
+      <jump line="1" column="18" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/animations.ts" />
+      <jump line="3" column="24" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/animations.ts" />
+      <jump line="4" column="24" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/animations.ts" />
+      <jump line="27" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="29" column="22" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="5" column="20" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center.module.ts" />
+      <jump line="3" column="42" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises.module.ts" />
+      <jump line="19" column="56" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="55" column="10" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="76" column="20" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="78" column="23" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="83" column="14" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="85" column="34" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="73" column="24" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="84" column="37" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="72" column="19" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="4" column="41" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises.module.ts" />
+      <jump line="47" column="47" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" />
+      <jump line="31" column="18" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" />
+      <jump line="22" column="34" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" />
+      <jump line="51" column="11" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" />
+      <jump line="17" column="26" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis.service.ts" />
+      <jump line="18" column="25" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis.service.ts" />
+      <jump line="21" column="10" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis.service.ts" />
+      <jump line="25" column="44" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis.service.ts" />
+      <jump line="6" column="40" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises.module.ts" />
+      <jump line="8" column="18" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises-routing.module.ts" />
+      <jump line="22" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises-routing.module.ts" />
+      <jump line="3" column="27" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" />
+      <jump line="75" column="24" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICB7IHBhdGg6ICdjcmlzZXMnLCBjb21wb25lbnQ6IENyaXNpc0xpc3RDb21wb25lbnQgfSwKICB7IHBhdGg6ICdjcmlzaXMvOmlkJywgY29tcG9uZW50OiBDcmlzaXNEZXRhaWxDb21wb25lbnQgfSwK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1322,16 +1346,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>App</text>
+        <text>cris</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7IHBhdGg6ICdoZXJvZXMnLCBjb21wb25lbnQ6IEhlcm9MaXN0Q29tcG9uZW50IH0sCg==</text>
+        <text encoding="base64">ICBASG9zdEJpbmRpbmcoJ3N0eWxlLmRpc3BsYXknKSBkaXNwbGF5ID0gJ2Jsb2NrJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB7fQo=</text>
+        <text encoding="base64">ICB7IHBhdGg6ICdjcmlzZXMnLCBjb21wb25lbnQ6IENyaXNpc0xpc3RDb21wb25lbnQgfSwKICB7IHBhdGg6ICdjcmlzaXMvOmlkJywgY29tcG9uZW50OiBDcmlzaXNEZXRhaWxDb21wb25lbnQgfSwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1359,40 +1383,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSEVST0VTIH0gZnJvbSAnLi9tb2NrLWhlcm9lcyc7Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGF0aDogJycsCiAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY28K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IocHVibGljIGlkOiBudW1iZXIsIHB1YmxpYyBuYW1lOiBzdHJpbmcpIHsgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgICAgICcnCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIEhlcm8gewo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihwdWJsaWMgaWQ6IG51bWJlciwgcHVibGljIG5hbWU6IHN0cmluZykgeyB9Cn0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>App</last-search>
+      <last-search>cris</last-search>
       <last-offset />
-      <last-pattern>App</last-pattern>
+      <last-pattern>cris</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>app-e</last-substitute>
       <last-dir>1</last-dir>
@@ -1400,15 +1424,6 @@
     </search>
     <history>
       <history-search>
-        <entry>like</entry>
-        <entry>Like</entry>
-        <entry>img</entry>
-        <entry>index</entry>
-        <entry encoding="base64">XDxSZXNwb25zZVw+</entry>
-        <entry>dep</entry>
-        <entry>font</entry>
-        <entry>awe</entry>
-        <entry>node</entry>
         <entry>if</entry>
         <entry>curly</entry>
         <entry>ignore</entry>
@@ -1420,9 +1435,17 @@
         <entry>Dash</entry>
         <entry>dash</entry>
         <entry>App</entry>
+        <entry>of</entry>
+        <entry>go</entry>
+        <entry>anim</entry>
+        <entry>heroes</entry>
+        <entry>Her</entry>
+        <entry>H</entry>
+        <entry>her</entry>
+        <entry>hero</entry>
+        <entry>cris</entry>
       </history-search>
       <history-cmd>
-        <entry>100</entry>
         <entry>110</entry>
         <entry>action VimWindowLeft</entry>
         <entry>73</entry>
@@ -1437,11 +1460,12 @@
         <entry>qother</entry>
         <entry encoding="base64">JzwsJz5jb21tZW50</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qall</entry>
         <entry>e</entry>
-        <entry>q</entry>
         <entry>qw</entry>
+        <entry>w'</entry>
         <entry>w</entry>
+        <entry>qall</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
