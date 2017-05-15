@@ -1007,7 +1007,7 @@
         <text encoding="base64">awo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -1058,11 +1058,11 @@
         <entry>s</entry>
         <entry>kw</entry>
         <entry>qother</entry>
-        <entry>qall</entry>
         <entry encoding="base64">JzwsJz5jb21tZW50</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
