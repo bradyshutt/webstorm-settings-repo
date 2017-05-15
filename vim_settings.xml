@@ -209,12 +209,12 @@
         <mark key="^" line="3" column="1" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" timestamp="1494809969138">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="25" column="2" />
-        <mark key="." line="25" column="2" />
-        <mark key="^" line="25" column="2" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" timestamp="1494813007624">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="14" column="26" />
+        <mark key="]" line="14" column="1" />
+        <mark key="." line="14" column="1" />
+        <mark key="^" line="14" column="1" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/models/User.ts" timestamp="1494731437349">
         <mark key="[" line="2" column="18" />
@@ -467,6 +467,12 @@
         <mark key="." line="9" column="25" />
         <mark key="^" line="9" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.ts" timestamp="1494812640119">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="1" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/app-sidebar.component.html" timestamp="1493336995207">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="8" column="10" />
@@ -510,7 +516,7 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1493344175447">
+      <file name="/Dummy.txt" timestamp="1494812670011">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/sidebar.ejs" timestamp="1493334642528">
@@ -715,12 +721,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" timestamp="1494809849499">
-        <mark key="'" line="13" column="13" />
-        <mark key="[" line="69" column="13" />
-        <mark key="]" line="69" column="29" />
-        <mark key="." line="69" column="29" />
-        <mark key="^" line="69" column="29" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" timestamp="1494813305946">
+        <mark key="'" line="72" column="29" />
+        <mark key="[" line="19" column="36" />
+        <mark key="]" line="19" column="50" />
+        <mark key="." line="19" column="50" />
+        <mark key="^" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/app.component.ts" timestamp="1494731860256">
         <mark key="'" line="6" column="12" />
@@ -1117,12 +1123,12 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" timestamp="1494809951054">
-        <mark key="'" line="14" column="0" />
-        <mark key="[" line="18" column="1" />
-        <mark key="]" line="48" column="2" />
-        <mark key="^" line="48" column="2" />
-        <mark key="." line="48" column="2" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" timestamp="1494812530704">
+        <mark key="'" line="28" column="1" />
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="16" />
+        <mark key="^" line="25" column="16" />
+        <mark key="." line="25" column="16" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/environments/environment.ts" timestamp="1491012818912">
         <mark key="[" line="7" column="42" />
@@ -1184,10 +1190,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="6" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-bootstrap/index.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-bootstrap/index.html" />
-      <jump line="38" column="17" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-bootstrap/index.html" />
-      <jump line="193" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-bootstrap/index.html" />
       <jump line="195" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-bootstrap/index.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="153" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
@@ -1284,10 +1286,14 @@
       <jump line="12" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
       <jump line="14" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" />
+      <jump line="32" column="10" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="28" column="1" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-detail.component.ts" />
+      <jump line="69" column="29" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero-list.component.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/hero.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEFwcFJvdXRpbmdNb2R1bGUsCg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1316,7 +1322,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>App</text>
@@ -1325,54 +1331,59 @@
         <text encoding="base64">ICB7IHBhdGg6ICdoZXJvZXMnLCBjb21wb25lbnQ6IEhlcm9MaXN0Q29tcG9uZW50IH0sCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEFwcFJvdXRpbmdNb2R1bGUsCg==</text>
+        <text encoding="base64">ICB7fQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
-          <key char="102" code="0" mods="0" />
+          <key char="108" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="100" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="8" mods="0" />
           <key char="58" code="0" mods="0" />
-          <key char="67" code="0" mods="0" />
-          <key char="59" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
           <key char="65535" code="27" mods="0" />
-          <key char="94" code="0" mods="0" />
-          <key char="74" code="0" mods="0" />
+          <key char="102" code="0" mods="0" />
+          <key char="39" code="0" mods="0" />
+          <key char="105" code="0" mods="0" />
+          <key char="110" code="0" mods="0" />
+          <key char="97" code="0" mods="0" />
+          <key char="109" code="0" mods="0" />
+          <key char="101" code="0" mods="0" />
+          <key char="58" code="0" mods="0" />
+          <key char="32" code="0" mods="0" />
+          <key char="65535" code="27" mods="0" />
           <key char="94" code="0" mods="0" />
           <key char="106" code="0" mods="0" />
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEhlcm9EZXRhaWxDb21wb25lbnQK</text>
+        <text encoding="base64">aW1wb3J0IHsgSEVST0VTIH0gZnJvbSAnLi9tb2NrLWhlcm9lcyc7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSGVyb0RldGFpbENvbXBvbmVudCB9IGZyb20gJy4vaGVyb2VzL2hlcm8tZGV0YWlsLmNvbXBvbmVudCc7Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
-      </register>
-      <register name="6" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">CiAgY29uc3RydWN0b3IocHVibGljIGlkOiBudW1iZXIsIHB1YmxpYyBuYW1lOiBzdHJpbmcpIHsgfQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIEhlcm8gewo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
-      <register name="9" type="4">
-        <text>import { Injectable } from '@angular/core';
-
-@Injectable()
-export class HeroService {
-
-  constructor() { }
-
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihwdWJsaWMgaWQ6IG51bWJlciwgcHVibGljIG5hbWU6IHN0cmluZykgeyB9Cn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1411,7 +1422,6 @@ export class HeroService {
         <entry>App</entry>
       </history-search>
       <history-cmd>
-        <entry>action VimWindowUp</entry>
         <entry>100</entry>
         <entry>110</entry>
         <entry>action VimWindowLeft</entry>
@@ -1430,6 +1440,7 @@ export class HeroService {
         <entry>qall</entry>
         <entry>e</entry>
         <entry>q</entry>
+        <entry>qw</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
