@@ -51,12 +51,12 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" timestamp="1494958873972">
-        <mark key="'" line="22" column="12" />
-        <mark key="[" line="37" column="3" />
-        <mark key="]" line="37" column="3" />
-        <mark key="." line="37" column="3" />
-        <mark key="^" line="37" column="3" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" timestamp="1494964778474">
+        <mark key="'" line="43" column="12" />
+        <mark key="[" line="33" column="32" />
+        <mark key="]" line="33" column="32" />
+        <mark key="." line="33" column="32" />
+        <mark key="^" line="21" column="48" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/edit-book-basic/edit-book-basic.component.ts" timestamp="1493943849649">
         <mark key="[" line="26" column="35" />
@@ -308,6 +308,11 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/services/user.service.ts" timestamp="1494964843780">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/editor/editor.component.ts" timestamp="1494009715127">
         <mark key="[" line="35" column="29" />
         <mark key="]" line="35" column="29" />
@@ -417,11 +422,10 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/shared/shared-components.module.ts" timestamp="1494022422852">
-        <mark key="[" line="6" column="93" />
-        <mark key="]" line="6" column="105" />
-        <mark key="^" line="6" column="105" />
-        <mark key="." line="6" column="105" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/shared/shared-components.module.ts" timestamp="1494964728487">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/adminpanel.js" timestamp="1493331436701">
         <mark key="[" line="19" column="0" />
@@ -847,7 +851,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCiAgICAK</text>
+        <text encoding="base64">ICBLCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -876,7 +880,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pass</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>link</text>
@@ -885,7 +889,7 @@
         <text encoding="base64">ICB1c2VybmFtZTogc3RyaW5nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCiAgICAK</text>
+        <text encoding="base64">ICBLCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -901,33 +905,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Ly8gUHJpbWVORwppbXBvcnQgeyBEYXRhVGFibGVNb2R1bGUsIFNoYXJlZE1vZHVsZSwgRGlhbG9nTW9kdWxlLCBUYWJNZW51TW9kdWxlLCBJbnB1dFRleHRNb2R1bGUsIENoaXBzTW9kdWxlIH0gZnJvbSAncHJpbWVuZy9wcmltZW5nJzsKY29uc3QgUFJJTUVORyA9IFsgRGF0YVRhYmxlTW9kdWxlLCBTaGFyZWRNb2R1bGUsIERpYWxvZ01vZHVsZSwgVGFiTWVudU1vZHVsZSwgSW5wdXRUZXh0TW9kdWxlLCBDaGlwc01vZHVsZSBdOwoKLy8gQ29tcG9uZW50cwppbXBvcnQgeyBQYWdlVGl0bGVDb21wb25lbnQgfSBmcm9tICcuLi9jb21wb25lbnRzL3BhZ2UtdGl0bGUvcGFnZS10aXRsZS5jb21wb25lbnQnOwppbXBvcnQgeyBOYXZDb21wb25lbnQgfSBmcm9tICcuLi9jb21wb25lbnRzL25hdi9uYXYuY29tcG9uZW50JzsKaW1wb3J0IHsgTmF2TWFpbENvbXBvbmVudCB9IGZyb20gJy4uL2NvbXBvbmVudHMvbmF2L25hdi1tYWlsL25hdi1tYWlsLmNvbXBvbmVudCc7CmltcG9ydCB7IE5hdk5vdGlmaWNhdGlvbnNDb21wb25lbnQgfSBmcm9tICcuLi9jb21wb25lbnRzL25hdi9uYXYtbm90aWZpY2F0aW9ucy9uYXYtbm90aWZpY2F0aW9ucy5jb21wb25lbnQnOwpjb25zdCBDT01QT05FTlRTID0gWyBOYXZDb21wb25lbnQsIE5hdk1haWxDb21wb25lbnQsIE5hdk5vdGlmaWNhdGlvbnNDb21wb25lbnQgXTsKCi8vIFNlcnZpY2VzCmltcG9ydCB7IEJvb2tTZXJ2aWNlIH0gZnJvbSAnLi4vc2VydmljZXMvYm9vay5zZXJ2aWNlJzsKY29uc3QgU0VSVklDRVMgPSBbIEJvb2tTZXJ2aWNlIF07CgovLyBQaXBlcwppbXBvcnQgeyBJbWFnZVVybFBpcGUgfSBmcm9tICcuLi9waXBlcy9pbWFnZS11cmwucGlwZSc7CmltcG9ydCB7IFZpc2liaWxpdHlQaXBlIH0gZnJvbSAnLi4vcGlwZXMvdmlzaWJpbGl0eS5waXBlJzsKY29uc3QgUElQRVMgPSBbIEltYWdlVXJsUGlwZSwgVmlzaWJpbGl0eVBpcGUgXTsKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCiAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdGF0dXMK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB1c2VybmFtZTogc3RyaW5nOwogIHN0YXR1cwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZWdhY3lCb29rSWQ7CiAgdGl0bGU7CiAgYXV0aG9yczsKICBpbWFnZXM7CiAgdHlwZTsKICBhY2Nlc3NDb250cm9sOwogIHVybFN0dWI7CiAgd2Vic2l0ZVZpc2liaWxpdHk7CiAgY2hhcHRlcnM7CiAgY3JlYXRlZEF0OwogIHVwZGF0ZWRBdDsK</text>
+        <text encoding="base64">ICBzdGF0dXMK</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICB1c2VybmFtZTogc3RyaW5nOwogIHN0YXR1cwo=</text>
       </register>
-      <register name="9" type="4">
-        <text>{
-  
-}</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICBsZWdhY3lCb29rSWQ7CiAgdGl0bGU7CiAgYXV0aG9yczsKICBpbWFnZXM7CiAgdHlwZTsKICBhY2Nlc3NDb250cm9sOwogIHVybFN0dWI7CiAgd2Vic2l0ZVZpc2liaWxpdHk7CiAgY2hhcHRlcnM7CiAgY3JlYXRlZEF0OwogIHVwZGF0ZWRBdDsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
