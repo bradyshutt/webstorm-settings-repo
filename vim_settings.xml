@@ -271,6 +271,12 @@
         <mark key="." line="249" column="108" />
         <mark key="^" line="249" column="108" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/admin/admin-dashboard.component.ts" timestamp="1494905742647">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="15" />
+        <mark key="." line="5" column="15" />
+        <mark key="^" line="5" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/BookController.js" timestamp="1491501274051">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -987,6 +993,13 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/admin/admin.component.ts" timestamp="1494905848777">
+        <mark key="'" line="5" column="19" />
+        <mark key="[" line="8" column="30" />
+        <mark key="]" line="8" column="54" />
+        <mark key="." line="8" column="54" />
+        <mark key="^" line="8" column="54" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/app-routing.module.ts" timestamp="1493941446315">
         <mark key="'" line="15" column="55" />
         <mark key="[" line="6" column="48" />
@@ -1216,7 +1229,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="41" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="5" column="12" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="22" column="3" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="77" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
@@ -1316,10 +1328,11 @@
       <jump line="12" column="35" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/compose-message.component.ts" />
       <jump line="2" column="31" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/compose-message.component.ts" />
       <jump line="32" column="15" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" />
+      <jump line="5" column="19" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/admin/admin.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxhIFtyb3V0ZXJMaW5rXT0iW3tvdXRsZXRzOiB7cG9wdXA6IFsnY29tcG9zZSddfX1dIj5Db250YWN0PC9hPgo=</text>
+      <register name="&quot;" type="4">
+        <text>href=&quot;&quot;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1348,7 +1361,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>href&quot;</text>
+        <text>href=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>cris</text>
@@ -1465,8 +1478,8 @@
         <entry>e</entry>
         <entry>qw</entry>
         <entry>w'</entry>
-        <entry>qall</entry>
         <entry>q</entry>
+        <entry>qall</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
