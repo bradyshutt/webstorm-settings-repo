@@ -65,12 +65,12 @@
         <mark key="." line="10" column="70" />
         <mark key="^" line="10" column="70" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" timestamp="1494910883053">
-        <mark key="'" line="85" column="3" />
-        <mark key="[" line="67" column="6" />
-        <mark key="]" line="67" column="6" />
-        <mark key="." line="67" column="6" />
-        <mark key="^" line="60" column="20" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" timestamp="1494913440751">
+        <mark key="'" line="87" column="3" />
+        <mark key="[" line="63" column="21" />
+        <mark key="]" line="63" column="21" />
+        <mark key="." line="63" column="21" />
+        <mark key="^" line="63" column="21" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/package.json" timestamp="1494718225386">
         <mark key="'" line="24" column="10" />
@@ -174,6 +174,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail-resolver.service.ts" timestamp="1494913594956">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="19" column="27" />
+        <mark key="]" line="19" column="27" />
+        <mark key="." line="19" column="27" />
+        <mark key="^" line="19" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/ebook-manager/editor/edit-book-basic/edit-book-basic.component.html" timestamp="1494022992759">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="16" column="30" />
@@ -224,12 +231,12 @@
         <mark key="." line="2" column="18" />
         <mark key="^" line="2" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis.service.ts" timestamp="1494819170519">
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis.service.ts" timestamp="1494913757678">
         <mark key="'" line="25" column="44" />
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="44" />
-        <mark key="." line="25" column="44" />
-        <mark key="^" line="25" column="44" />
+        <mark key="[" line="33" column="27" />
+        <mark key="]" line="33" column="27" />
+        <mark key="." line="33" column="27" />
+        <mark key="^" line="33" column="27" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/mathtv/src/app/app.component.ts" timestamp="1487978300982">
         <mark key="[" line="24" column="16" />
@@ -1016,12 +1023,12 @@
         <mark key="." line="15" column="3" />
         <mark key="^" line="15" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises-routing.module.ts" timestamp="1494910802266">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="2" column="9" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="18" column="92" />
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises-routing.module.ts" timestamp="1494913788442">
+        <mark key="'" line="29" column="48" />
+        <mark key="[" line="52" column="24" />
+        <mark key="]" line="53" column="21" />
+        <mark key="." line="53" column="21" />
+        <mark key="^" line="53" column="21" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/tslint.json" timestamp="1494909183261">
         <mark key="'" line="70" column="24" />
@@ -1099,12 +1106,12 @@
         <mark key="." line="50" column="33" />
         <mark key="^" line="50" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" timestamp="1494822844826">
+      <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-list.component.ts" timestamp="1494913680283">
         <mark key="'" line="32" column="15" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="20" column="0" />
+        <mark key="[" line="95" column="35" />
+        <mark key="]" line="95" column="37" />
+        <mark key="." line="95" column="37" />
+        <mark key="^" line="95" column="37" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/heroes-routing.module.ts" timestamp="1494810239900">
         <mark key="[" line="20" column="35" />
@@ -1206,11 +1213,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="314" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="317" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/admin-layout.ejs" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/ebook-manager.ejs" />
-      <jump line="10" column="8" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/dashboard.ejs" />
-      <jump line="4" column="6" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/dashboard.ejs" />
       <jump line="8" column="40" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/dashboard.ejs" />
       <jump line="57" column="10" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" />
       <jump line="24" column="0" filename="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/ebook-manager.ejs" />
@@ -1306,10 +1308,15 @@
       <jump line="35" column="23" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/login.component.ts" />
       <jump line="54" column="51" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" />
       <jump line="85" column="3" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail.component.ts" />
+      <jump line="15" column="26" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail-resolver.service.ts" />
+      <jump line="31" column="48" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises-routing.module.ts" />
+      <jump line="44" column="10" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises-routing.module.ts" />
+      <jump line="29" column="48" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crises-routing.module.ts" />
+      <jump line="16" column="26" filename="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-detail-resolver.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>crisis.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1338,16 +1345,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>crisis.</text>
       </register>
       <register name="/" type="4">
         <text>no-tra</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIChjbGljayk9ImdvVG9DcmlzZXMoKSI+QmFjazwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NyaXNpcy5pZDogJywgY3Jpc2lzLmlkKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEprO3cK</text>
+        <text encoding="base64">ICAgICAgICBQCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1375,31 +1382,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVzb2x2ZTogewogICAgICAgICAgICAgIGNyaXNpczogQ3Jpc2lzRGV0YWlsUmVzb2x2ZXIKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdoaScpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgCg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2hpJykK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcHIgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmRpYWdsbwo=</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB1bmRlZmluZWQ7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcignTWV0aG9kIG5vdCBpbXBsZW1lbnRlZC4nKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
