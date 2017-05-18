@@ -76,9 +76,9 @@
         <mark key="." line="17" column="50" />
         <mark key="^" line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav.component.html" timestamp="1495128201549">
-        <mark key="[" line="14" column="48" />
-        <mark key="]" line="16" column="26" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav.component.html" timestamp="1495130772587">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="12" />
         <mark key="." line="16" column="26" />
         <mark key="^" line="16" column="26" />
       </file>
@@ -94,8 +94,8 @@
         <mark key="." line="22" column="28" />
         <mark key="^" line="22" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/sb-admin-2.css" timestamp="1495128624198">
-        <mark key="'" line="77" column="2" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/sb-admin-2.css" timestamp="1495130281365">
+        <mark key="'" line="35" column="18" />
         <mark key="[" line="70" column="0" />
         <mark key="]" line="70" column="0" />
         <mark key="." line="70" column="0" />
@@ -203,9 +203,12 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/js/sb-admin-2.js" timestamp="1495128689117">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="21" column="8" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/js/sb-admin-2.js" timestamp="1495130539624">
+        <mark key="'" line="27" column="21" />
+        <mark key="[" line="15" column="94" />
+        <mark key="]" line="16" column="7" />
+        <mark key="^" line="16" column="7" />
+        <mark key="." line="16" column="7" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app.module.ts" timestamp="1493337923832">
         <mark key="[" line="32" column="0" />
@@ -318,6 +321,11 @@
         <mark key="^" line="1" column="27" />
         <mark key="." line="1" column="27" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" timestamp="1495130367371">
+        <mark key="'" line="3473" column="1" />
+        <mark key="[" line="3475" column="0" />
+        <mark key="]" line="3477" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/log.js" timestamp="1493343819748">
         <mark key="[" line="26" column="11" />
         <mark key="]" line="26" column="15" />
@@ -407,12 +415,12 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" timestamp="1495128715845">
-        <mark key="'" line="65" column="4" />
-        <mark key="[" line="77" column="3" />
-        <mark key="]" line="79" column="1" />
-        <mark key="." line="79" column="1" />
-        <mark key="^" line="79" column="1" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" timestamp="1495130801180">
+        <mark key="'" line="7" column="72" />
+        <mark key="[" line="10" column="31" />
+        <mark key="]" line="10" column="31" />
+        <mark key="." line="10" column="31" />
+        <mark key="^" line="60" column="18" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/src/app/book-manager/book-manager.module.ts" timestamp="1491933654922">
         <mark key="[" line="12" column="22" />
@@ -603,8 +611,8 @@
         <mark key="." line="25" column="74" />
         <mark key="^" line="25" column="74" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav-notifications.component.ts" timestamp="1495128296675">
-        <mark key="'" line="67" column="15" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav-notifications.component.ts" timestamp="1495130766979">
+        <mark key="'" line="22" column="15" />
         <mark key="[" line="67" column="13" />
         <mark key="]" line="67" column="15" />
         <mark key="^" line="67" column="15" />
@@ -899,35 +907,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="15" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="25" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="32" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="47" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="61" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="70" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="73" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="13" column="30" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.html" />
-      <jump line="14" column="30" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.scss" />
-      <jump line="100" column="38" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/navigation/nav.component.html" />
-      <jump line="18" column="25" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin-routing.module.ts" />
-      <jump line="13" column="23" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/guards/auth.guard.ts" />
-      <jump line="8" column="35" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/guards/auth.guard.ts" />
-      <jump line="16" column="10" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/guards/auth.guard.ts" />
-      <jump line="8" column="11" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/services/auth.service.ts" />
-      <jump line="15" column="13" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" />
-      <jump line="22" column="15" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app-routing.module.ts" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/login.component.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/login.component.ts" />
-      <jump line="48" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/login.component.ts" />
-      <jump line="45" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/login.component.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/services/auth.service.ts" />
       <jump line="23" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/services/auth.service.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/services/auth.service.ts" />
       <jump line="26" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/login.component.ts" />
@@ -999,10 +978,39 @@
       <jump line="65" column="4" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" />
       <jump line="70" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/sb-admin-2.css" />
       <jump line="77" column="2" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/sb-admin-2.css" />
+      <jump line="82" column="51" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" />
+      <jump line="1" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" />
+      <jump line="14" column="12" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/js/sb-admin-2.js" />
+      <jump line="18" column="12" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/js/sb-admin-2.js" />
+      <jump line="24" column="26" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/js/sb-admin-2.js" />
+      <jump line="89" column="7" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" />
+      <jump line="32" column="19" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" />
+      <jump line="26" column="21" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/js/sb-admin-2.js" />
+      <jump line="35" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/sb-admin-2.css" />
+      <jump line="36" column="22" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="183" column="19" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="251" column="21" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="758" column="11" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="761" column="11" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="3476" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="3478" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="85" column="22" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" />
+      <jump line="4189" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="4194" column="10" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="4190" column="8" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="4181" column="8" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="3818" column="9" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="3793" column="9" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="3484" column="6" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="3481" column="3" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="3473" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
+      <jump line="58" column="4" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" />
+      <jump line="7" column="72" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar-nav.component.ts" />
+      <jump line="22" column="15" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav-notifications.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgd2lkdGggPSAodGhpcy53aW5kb3cuaW5uZXJXaWR0aCA+IDApID8gdGhpcy53aW5kb3cuaW5uZXJXaWR0aCA6IHRoaXMuc2NyZWVuLndpZHRoOwogICAgICAgIGlmICh3aWR0aCA8IDc2OCkgewogICAgICAgICAgICAkKCdkaXYubmF2YmFyLWNvbGxhcHNlJykuYWRkQ2xhc3MoJ2NvbGxhcHNlJyk7CiAgICAgICAgICAgIHRvcE9mZnNldCA9IDEwMDsgLy8gMi1yb3ctbWVudQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICQoJ2Rpdi5uYXZiYXItY29sbGFwc2UnKS5yZW1vdmVDbGFzcygnY29sbGFwc2UnKTsKICAgICAgICB9Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IGNsYXNzPSJuYXZiYXItdG9nZ2xlIg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1031,16 +1039,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*/</text>
+        <text encoding="base64">IGNsYXNzPSJuYXZiYXItdG9nZ2xlIg==</text>
       </register>
       <register name="/" type="4">
-        <text>colap</text>
+        <text>collapse</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgd2lkdGggPSAodGhpcy53aW5kb3cuaW5uZXJXaWR0aCA+IDApID8gdGhpcy53aW5kb3cuaW5uZXJXaWR0aCA6IHRoaXMuc2NyZWVuLndpZHRoOwogICAgICAgIGlmICh3aWR0aCA8IDc2OCkgewogICAgICAgICAgICAkKCdkaXYubmF2YmFyLWNvbGxhcHNlJykuYWRkQ2xhc3MoJ2NvbGxhcHNlJyk7CiAgICAgICAgICAgIHRvcE9mZnNldCA9IDEwMDsgLy8gMi1yb3ctbWVudQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICQoJ2Rpdi5uYXZiYXItY29sbGFwc2UnKS5yZW1vdmVDbGFzcygnY29sbGFwc2UnKTsKICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgIDxidXR0b24gdHlwZT0iYnV0dG9uIiBjbGFzcz0ibmF2YmFyLXRvZ2dsZSIgZGF0YS10b2dnbGU9ImNvbGxhcHNlIiBkYXRhLXRhcmdldD0iLm5hdmJhci1jb2xsYXBzZSI+CiAgICAgIDxzcGFuIGNsYXNzPSJzci1vbmx5Ij5Ub2dnbGUgbmF2aWdhdGlvbjwvc3Bhbj4KICAgICAgPHNwYW4gY2xhc3M9Imljb24tYmFyIj48L3NwYW4+CiAgICAgIDxzcGFuIGNsYXNzPSJpY29uLWJhciI+PC9zcGFuPgogICAgICA8c3BhbiBjbGFzcz0iaWNvbi1iYXIiPjwvc3Bhbj4KICAgIDwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5zaWRlYmFyIHsKICAgICAgLyoKICAgICAgcGFkZGluZzogMTVweDsKICAgICAgKi8KICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIGhlYWRlcgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1056,40 +1064,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAuc2lkZWJhciB7CiAgICB6LWluZGV4OiAxOwogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgd2lkdGg6IDI1MHB4OwogICAgbWFyZ2luLXRvcDogNTFweDsKICB9Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBqamsK</text>
+        <text encoding="base64">ICAgIC5zaWRlYmFyIC5uYXYtc2Vjb25kLWxldmVsIGxpLAogICAgLnNpZGViYXIgLm5hdi10aGlyZC1sZXZlbCBsaSB7CiAgICAgIGJvcmRlci1ib3R0b206IG5vbmUgIWltcG9ydGFudDsKICAgIH0KICAgIC5zaWRlYmFyIC5uYXYtc2Vjb25kLWxldmVsIGxpIGEgewogICAgICBwYWRkaW5nLWxlZnQ6IDM3cHg7CiAgICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC5zaWRlYmFyIC5uYXYtdGhpcmQtbGV2ZWwgbGkgYSB7CiAgICAgIHBhZGRpbmctbGVmdDogNTJweDsKICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE5vdGlmaWNhdGlvbnNDb21wb25lbnQsCg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm90aWZpY2F0aW9uc0NvbXBvbmVudCB9IGZyb20gJy4vbmF2L25hdi1ub3RpZmljYXRpb25zLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tdG9wOiA1MXB4OwogICAgICAgICovCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm90aWZpY2F0aW9uc0NvbXBvbmVudCB9IGZyb20gJy4vbmF2L25hdi1ub3RpZmljYXRpb25zLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAqLwo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgTm90aWZpY2F0aW9uc0NvbXBvbmVudCB9IGZyb20gJy4vbmF2L25hdi1ub3RpZmljYXRpb25zLmNvbXBvbmVudCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvKgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKCg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5pc09wZW4gPSBmYWxzZTsK</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>colap</last-search>
+      <last-search>collapse</last-search>
       <last-offset />
-      <last-pattern>colap</last-pattern>
+      <last-pattern>collapse</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>enti</last-substitute>
       <last-dir>1</last-dir>
@@ -1097,8 +1105,6 @@
     </search>
     <history>
       <history-search>
-        <entry>I</entry>
-        <entry>BookI</entry>
         <entry>nav</entry>
         <entry>Nav</entry>
         <entry>ebook</entry>
@@ -1117,6 +1123,8 @@
         <entry>coll</entry>
         <entry>col</entry>
         <entry>colap</entry>
+        <entry encoding="base64">XDx0b3BPZmZzZXRcPg==</entry>
+        <entry>collapse</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -1136,9 +1144,9 @@
         <entry>qall</entry>
         <entry>q</entry>
         <entry>51</entry>
-        <entry>w</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
