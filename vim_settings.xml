@@ -224,12 +224,12 @@
         <mark key="^" line="9" column="18" />
         <mark key="." line="9" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/shared/shared.module.ts" timestamp="1495744730290">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/shared/shared.module.ts" timestamp="1495750978254">
         <mark key="'" line="4" column="9" />
-        <mark key="[" line="51" column="0" />
-        <mark key="]" line="51" column="0" />
-        <mark key="." line="51" column="0" />
-        <mark key="^" line="28" column="16" />
+        <mark key="[" line="67" column="15" />
+        <mark key="]" line="67" column="15" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="58" column="14" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/ebook-manager/editor/editor-data.service.ts" timestamp="1494014504976">
         <mark key="[" line="24" column="0" />
@@ -1197,7 +1197,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIC4uLk1BVEVSSUFMCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1226,16 +1226,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>doNothing</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>toggle</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5uYXYtdXNlciB7Cg==</text>
+        <text encoding="base64">ICAgIC4uLk1BVEVSSUFMCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgSW1hZ2VVcmxQaXBlIH0gZnJvbSAnLi9waXBlcy9pbWFnZS11cmwucGlwZSc7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1250,31 +1250,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGkK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0YXJnZXQ6ICcsICRldmVudC50YXJnZXQpOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICRldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgZGkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpRdWVyeSk7Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd0YXJnZXQ6ICcsICRldmVudC50YXJnZXQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ZGVjbGFyZQo=</text>
+        <text encoding="base64">ICAgICRldmVudC5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKGpRdWVyeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
