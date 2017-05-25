@@ -212,11 +212,6 @@
         <mark key="." line="16" column="27" />
         <mark key="^" line="16" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end-v0/package.json" timestamp="1495735016847">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="52" column="0" />
-        <mark key="]" line="53" column="81" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/angular-cli.json" timestamp="1491938355420">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="48" />
@@ -446,6 +441,12 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/dashboard.component.ts" timestamp="1495740727659">
+        <mark key="'" line="4" column="42" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/.angular-cli.json" timestamp="1495738027287">
         <mark key="[" line="21" column="51" />
         <mark key="]" line="21" column="51" />
@@ -485,12 +486,12 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.module.ts" timestamp="1495739095749">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.module.ts" timestamp="1495740750575">
         <mark key="'" line="6" column="18" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="15" column="2" />
-        <mark key="." line="15" column="2" />
-        <mark key="^" line="15" column="2" />
+        <mark key="[" line="37" column="4" />
+        <mark key="]" line="37" column="6" />
+        <mark key="." line="37" column="6" />
+        <mark key="^" line="37" column="6" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/sidebar-header/sidebar-header.component.scss" timestamp="1493338755577">
         <mark key="[" line="0" column="0" />
@@ -581,6 +582,12 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/services/book.service.ts" timestamp="1495740867486">
+        <mark key="[" line="1" column="25" />
+        <mark key="]" line="1" column="25" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="25" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/adminpanel.js" timestamp="1493331436701">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -658,6 +665,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="58" column="5" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end-v2/package.json" timestamp="1495732152369">
+        <mark key="'" line="6" column="23" />
+        <mark key="[" line="43" column="24" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/styles.scss" timestamp="1495587458266">
         <mark key="[" line="12" column="0" />
@@ -842,10 +855,6 @@
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end-v0/.angular-cli.json" timestamp="1495735086065">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="47" />
-      </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home-page.component.spec.ts" timestamp="1487979323671">
         <mark key="[" line="19" column="42" />
         <mark key="]" line="5" column="16" />
@@ -976,12 +985,18 @@
         <mark key="^" line="34" column="7" />
         <mark key="." line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" timestamp="1495586221135">
-        <mark key="'" line="16" column="17" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" timestamp="1495740977299">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="60" column="262" />
+        <mark key="^" line="1" column="42" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end-v2/src/app/app.component.ts" timestamp="1495732295022">
+        <mark key="'" line="10" column="31" />
+        <mark key="[" line="10" column="12" />
+        <mark key="]" line="10" column="12" />
+        <mark key="." line="10" column="12" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/package.json" timestamp="1493760662950">
         <mark key="[" line="44" column="14" />
@@ -1003,12 +1018,12 @@
         <mark key="." line="67" column="13" />
         <mark key="^" line="67" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin-routing.module.ts" timestamp="1494971532944">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin-routing.module.ts" timestamp="1495740831605">
         <mark key="'" line="17" column="25" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="17" column="22" />
-        <mark key="." line="30" column="0" />
+        <mark key="[" line="28" column="6" />
+        <mark key="]" line="25" column="8" />
+        <mark key="^" line="25" column="8" />
+        <mark key="." line="28" column="8" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/sidebar.service.ts" timestamp="1495147671531">
         <mark key="[" line="18" column="18" />
@@ -1057,11 +1072,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4687" column="21" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
-      <jump line="4823" column="21" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
-      <jump line="5135" column="23" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
-      <jump line="66" column="5" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav-sidebar.component.ts" />
-      <jump line="73" column="5" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav-sidebar.component.ts" />
       <jump line="77" column="5" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav-sidebar.component.ts" />
       <jump line="5" column="17" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav-sidebar.component.ts" />
       <jump line="7" column="31" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/nav-sidebar.component.ts" />
@@ -1157,10 +1167,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/node_modules/normalize-css/normalize.css" />
       <jump line="6" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.module.ts" />
       <jump line="41" column="12" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
+      <jump line="4" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/dashboard.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/models/book.ts" />
+      <jump line="64" column="17" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" />
+      <jump line="0" column="2" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/nav</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1189,16 +1204,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/nav</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAiY21wLXByZWZpeDEiLAo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMjBweDsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>{
+        path: 'ebook-manager',
+        component: EbookManagerComponent
+      }</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1213,31 +1231,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgbWFyZ2luOiAyMHB4Owo=</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">ICAgIDxwPgogICAgICBuYXYgV29ya3MhCiAgICA8L3A+</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIAogIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgImFwcCIsCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2lkZWJhclNlcnZpY2UgfSBmcm9tICcuL3NlcnZpY2VzL3NpZGViYXIuc2VydmljZSc7Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="4">
+        <text encoding="base64">ICAgIDxwPgogICAgICBuYXYgV29ya3MhCiAgICA8L3A+</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogIlJvYm90byIsICJUcmVidWNoZXQgTVMiLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogIlJvYm90byIsICJUcmVidWNoZXQgTVMiLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwo=</text>
+        <text encoding="base64">ICAgICAgImFwcCIsCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
