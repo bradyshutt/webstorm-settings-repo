@@ -342,11 +342,11 @@
         <mark key="^" line="8" column="27" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" timestamp="1495738475078">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="16" />
-        <mark key="." line="3" column="16" />
-        <mark key="^" line="3" column="16" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" timestamp="1495739045976">
+        <mark key="[" line="5" column="27" />
+        <mark key="]" line="6" column="8" />
+        <mark key="." line="6" column="8" />
+        <mark key="^" line="6" column="8" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Starter/src/app/layouts/full-layout.component.scss" timestamp="1490986888570">
         <mark key="[" line="1" column="13" />
@@ -485,12 +485,12 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.module.ts" timestamp="1495738378830">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.module.ts" timestamp="1495739095749">
         <mark key="'" line="6" column="18" />
-        <mark key="[" line="21" column="2" />
-        <mark key="]" line="21" column="2" />
-        <mark key="." line="21" column="2" />
-        <mark key="^" line="21" column="2" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="15" column="2" />
+        <mark key="." line="15" column="2" />
+        <mark key="^" line="15" column="2" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/sidebar-header/sidebar-header.component.scss" timestamp="1493338755577">
         <mark key="[" line="0" column="0" />
@@ -1027,12 +1027,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" timestamp="1495738653856">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" timestamp="1495738789143">
         <mark key="'" line="41" column="12" />
-        <mark key="[" line="115" column="21" />
-        <mark key="]" line="115" column="21" />
-        <mark key="^" line="114" column="19" />
-        <mark key="." line="115" column="21" />
+        <mark key="[" line="116" column="9" />
+        <mark key="]" line="116" column="13" />
+        <mark key="^" line="116" column="13" />
+        <mark key="." line="116" column="13" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/package.json" timestamp="1492558211466">
         <mark key="[" line="32" column="13" />
@@ -1160,7 +1160,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>/nav</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1189,7 +1189,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>/nav</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -1198,7 +1198,7 @@
         <text encoding="base64">ICAgICAgICAiY21wLXByZWZpeDEiLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1213,34 +1213,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgImFwcCIsCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2lkZWJhclNlcnZpY2UgfSBmcm9tICcuL3NlcnZpY2VzL3NpZGViYXIuc2VydmljZSc7Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIDxwPgogICAgICBuYXYgV29ya3MhCiAgICA8L3A+</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogIlJvYm90byIsICJUcmVidWNoZXQgTVMiLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwo=</text>
+        <text encoding="base64">ICAgICAgImFwcCIsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogIlJvYm90byIsICJUcmVidWNoZXQgTVMiLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgU2lkZWJhclNlcnZpY2UgfSBmcm9tICcuL3NlcnZpY2VzL3NpZGViYXIuc2VydmljZSc7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxsYWJlbCBmb3I9InBhc3N3b3JkIj4K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTogIlJvYm90byIsICJUcmVidWNoZXQgTVMiLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICBmb250LWZhbWlseTogIlJvYm90byIsICJUcmVidWNoZXQgTVMiLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1293,9 +1293,9 @@
         <entry>action VimWindowRight</entry>
         <entry>q</entry>
         <entry>qall</entry>
-        <entry>w</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
