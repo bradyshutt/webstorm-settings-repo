@@ -413,6 +413,11 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/.angular-cli.json" timestamp="1495730518911">
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/editor/editor.component.ts" timestamp="1494009715127">
         <mark key="[" line="35" column="29" />
         <mark key="]" line="35" column="29" />
@@ -1096,8 +1101,8 @@
       <jump line="28" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/sb-admin-2.css" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>*/</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1134,8 +1139,8 @@
       <register name="0" type="2">
         <text encoding="base64">Lm5hdiA+IGxpIHsKICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgZGlzcGxheTogYmxvY2s7Cn0KLm5hdiA+IGxpID4gYSB7CiAgcG9zaXRpb246IHJlbGF0aXZlOwogIGRpc3BsYXk6IGJsb2NrOwogIHBhZGRpbmc6IDEwcHggMTVweDsKfQoubmF2ID4gbGkgPiBhOmhvdmVyLAoubmF2ID4gbGkgPiBhOmZvY3VzIHsKICB0ZXh0LWRlY29yYXRpb246IG5vbmU7Cn0KLm5hdiA+IGxpLmRpc2FibGVkID4gYSB7CiAgY29sb3I6ICM3Nzc7Cn0KLm5hdiA+IGxpLmRpc2FibGVkID4gYTpob3ZlciwKLm5hdiA+IGxpLmRpc2FibGVkID4gYTpmb2N1cyB7CiAgY29sb3I6ICM3Nzc7CiAgdGV4dC1kZWNvcmF0aW9uOiBub25lOwogIGN1cnNvcjogbm90LWFsbG93ZWQ7CiAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cn0K</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Ci8qISBTb3VyY2U6IGh0dHBzOi8vZ2l0aHViLmNvbS9oNWJwL2h0bWw1LWJvaWxlcnBsYXRlL2Jsb2IvbWFzdGVyL3NyYy9jc3MvbWFpbi5jc3Mg</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1149,32 +1154,32 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Ci8qISBTb3VyY2U6IGh0dHBzOi8vZ2l0aHViLmNvbS9oNWJwL2h0bWw1LWJvaWxlcnBsYXRlL2Jsb2IvbWFzdGVyL3NyYy9jc3MvbWFpbi5jc3MgKi8K</text>
+      <register name="2" type="4">
+        <text encoding="base64">Ci8qISBTb3VyY2U6IGh0dHBzOi8vZ2l0aHViLmNvbS9oNWJwL2h0bWw1LWJvaWxlcnBsYXRlL2Jsb2IvbWFzdGVyL3NyYy9jc3MvbWFpbi5jc3Mg</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">Ci8qISBTb3VyY2U6IGh0dHBzOi8vZ2l0aHViLmNvbS9oNWJwL2h0bWw1LWJvaWxlcnBsYXRlL2Jsb2IvbWFzdGVyL3NyYy9jc3MvbWFpbi5jc3MgKi8K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">YXVkaW86bm90KFtjb250cm9sc10pIHsKICBkaXNwbGF5OiBub25lOwogIGhlaWdodDogMDsKfQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXJ0aWNsZSwKYXNpZGUsCmRldGFpbHMsCmZpZ2NhcHRpb24sCmZpZ3VyZSwKZm9vdGVyLApoZWFkZXIsCmhncm91cCwKbWFpbiwKbWVudSwKbmF2LApzZWN0aW9uLApzdW1tYXJ5IHsKICBkaXNwbGF5OiBibG9jazsKfQphdWRpbywKY2FudmFzLApwcm9ncmVzcywKdmlkZW8gewogIGRpc3BsYXk6IGlubGluZS1ibG9jazsKICB2ZXJ0aWNhbC1hbGlnbjogYmFzZWxpbmU7Cn0K</text>
+        <text encoding="base64">YXVkaW86bm90KFtjb250cm9sc10pIHsKICBkaXNwbGF5OiBub25lOwogIGhlaWdodDogMDsKfQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
