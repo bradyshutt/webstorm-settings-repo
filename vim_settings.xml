@@ -317,11 +317,12 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" timestamp="1495736540176">
-        <mark key="'" line="55" column="22" />
-        <mark key="[" line="17" column="12" />
-        <mark key="]" line="17" column="12" />
-        <mark key="." line="33" column="15" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" timestamp="1495736767911">
+        <mark key="'" line="43" column="56" />
+        <mark key="[" line="99" column="29" />
+        <mark key="]" line="99" column="29" />
+        <mark key="." line="99" column="29" />
+        <mark key="^" line="99" column="29" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/models.js" timestamp="1493840612236">
         <mark key="[" line="30" column="12" />
@@ -458,7 +459,6 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end-v0/src/typings.d.ts" timestamp="1495734759859" />
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/services/ToolsService.js" timestamp="1491351325427">
         <mark key="[" line="7" column="1" />
         <mark key="]" line="7" column="1" />
@@ -598,11 +598,11 @@
         <mark key="^" line="3" column="18" />
         <mark key="." line="3" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/services/auth.service.ts" timestamp="1495139368599">
-        <mark key="[" line="3" column="22" />
-        <mark key="]" line="3" column="24" />
-        <mark key="^" line="3" column="24" />
-        <mark key="." line="3" column="24" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/services/auth.service.ts" timestamp="1495736743090">
+        <mark key="[" line="42" column="28" />
+        <mark key="]" line="42" column="27" />
+        <mark key="^" line="42" column="27" />
+        <mark key="." line="42" column="27" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/nav/nav.component.ts" timestamp="1493745525703">
         <mark key="[" line="9" column="28" />
@@ -1050,7 +1050,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4805" column="14" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
       <jump line="4804" column="17" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
       <jump line="4617" column="15" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
       <jump line="4616" column="15" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/assets/styles/bootstrap.css" />
@@ -1150,10 +1149,11 @@
       <jump line="28" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" />
       <jump line="29" column="3" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" />
       <jump line="27" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app-routing.module.ts" />
+      <jump line="43" column="56" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Logging in</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1182,16 +1182,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Logging in</text>
       </register>
       <register name="/" type="4">
         <text>Admin</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGxhYmVsIGZvcj0iVXNlcm5hbWUiPgogICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBbKG5nTW9kZWwpXT0idXNlcm5hbWUiIG5hbWU9InVzZXJuYW1lIiBwbGFjZWhvbGRlcj0idXNlcm5hbWUiIChrZXl1cC5lbnRlcik9ImxvZ2luKCkiPgo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdMb2dnaW5nIGluLi4uJyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAKICAgICAgICAgICAgPGxhYmVsIGZvcj0iVXNlcm5hbWUiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgPHAtZmllbGRzZXQgbGVnZW5kPSJVc2VybmFtZSI+CiAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0IiBbKG5nTW9kZWwpXT0idXNlcm5hbWUiIG5hbWU9InVzZXJuYW1lIiBwbGFjZWhvbGRlcj0idXNlcm5hbWUiIChrZXl1cC5lbnRlcik9ImxvZ2luKCkiPgogICAgICAgICAgPC9wLWZpZWxkc2V0Pgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1206,34 +1206,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICAgICAgICAgICAgPGxhYmVsIGZvcj0iVXNlcm5hbWUiPgo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgPCEtLQogICAgIC0tPgo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIEVib29rTWFuYWdlckNvbXBvbmVudCwK</text>
+        <text encoding="base64">ICAgICAgPCEtLQogICAgIC0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAic3R5bGVzLmNzcyIsCg==</text>
+        <text encoding="base64">ICAgIC8vIEVib29rTWFuYWdlckNvbXBvbmVudCwK</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJuZyI6ICJuZyIsCiAgICAic3RhcnQiOiAibmcgc2VydmUiLAogICAgImJ1aWxkIjogIm5nIGJ1aWxkIiwKICAgICJ0ZXN0IjogIm5nIHRlc3QiLAogICAgImxpbnQiOiAibmcgbGludCIsCiAgICAiZTJlIjogIm5nIGUyZSIsCiAgICAicHJveHkiOiAibmcgc2VydmUgLS1wcm94eS1jb25maWcgcHJveHktZGV2LmNvbmYuanNvbiIsCiAgICAicHJveHktcHJvZCI6ICJuZyBzZXJ2ZSAtLXByb2QgLS1wb3J0IDQyMDEgLS1wcm94eS1jb25maWcgcHJveHktZGV2LmNvbmYuanNvbiIKICB9LAo=</text>
+        <text encoding="base64">ICAgICAgICAic3R5bGVzLmNzcyIsCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICJAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyLWR5bmFtaWMiOiAiXjQuMC4wIiwK</text>
+        <text encoding="base64">ICAic2NyaXB0cyI6IHsKICAgICJuZyI6ICJuZyIsCiAgICAic3RhcnQiOiAibmcgc2VydmUiLAogICAgImJ1aWxkIjogIm5nIGJ1aWxkIiwKICAgICJ0ZXN0IjogIm5nIHRlc3QiLAogICAgImxpbnQiOiAibmcgbGludCIsCiAgICAiZTJlIjogIm5nIGUyZSIsCiAgICAicHJveHkiOiAibmcgc2VydmUgLS1wcm94eS1jb25maWcgcHJveHktZGV2LmNvbmYuanNvbiIsCiAgICAicHJveHktcHJvZCI6ICJuZyBzZXJ2ZSAtLXByb2QgLS1wb3J0IDQyMDEgLS1wcm94eS1jb25maWcgcHJveHktZGV2LmNvbmYuanNvbiIKICB9LAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -1286,9 +1286,9 @@
         <entry encoding="base64">JzwsJz46c29ydA==</entry>
         <entry>action VimWindowRight</entry>
         <entry>qall</entry>
-        <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>w</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
