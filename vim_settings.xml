@@ -214,11 +214,11 @@
         <mark key="^" line="4" column="17" />
         <mark key="." line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/pages/tabs.ts" timestamp="1495934958980">
-        <mark key="[" line="10" column="43" />
-        <mark key="]" line="10" column="53" />
-        <mark key="." line="10" column="53" />
-        <mark key="^" line="10" column="53" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/pages/tabs.ts" timestamp="1495935330398">
+        <mark key="[" line="8" column="51" />
+        <mark key="]" line="8" column="73" />
+        <mark key="." line="8" column="73" />
+        <mark key="^" line="8" column="73" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/admin/admin-dashboard.component.ts" timestamp="1494905742647">
         <mark key="[" line="5" column="7" />
@@ -289,6 +289,13 @@
         <mark key="]" line="48" column="5" />
         <mark key="." line="48" column="5" />
         <mark key="^" line="48" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/fire/src/app/pages/settings.ts" timestamp="1495935429210">
+        <mark key="'" line="4" column="24" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="18" column="20" />
+        <mark key="^" line="18" column="20" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/shared/shared-components.module.ts" timestamp="1494022422852">
         <mark key="[" line="6" column="93" />
@@ -384,6 +391,12 @@
         <mark key="]" line="10" column="6" />
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" timestamp="1495935767692">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="13" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/autoreload.js" timestamp="1491494823513">
         <mark key="[" line="4" column="45" />
@@ -550,11 +563,11 @@
         <mark key="^" line="25" column="50" />
         <mark key="." line="25" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/pages/home.ts" timestamp="1495934670415">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="7" column="0" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/pages/home.ts" timestamp="1495935786570">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/header-collapse/header-collapse.component.scss" timestamp="1493338745710">
         <mark key="[" line="0" column="0" />
@@ -832,12 +845,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" timestamp="1495934857573">
-        <mark key="'" line="22" column="24" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="17" />
-        <mark key="^" line="15" column="11" />
-        <mark key="." line="26" column="0" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" timestamp="1495935579517">
+        <mark key="'" line="27" column="24" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="21" column="20" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center.component.ts" timestamp="1494819702670">
         <mark key="[" line="3" column="0" />
@@ -1126,7 +1139,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="80" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
       <jump line="37" column="75" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
       <jump line="3" column="44" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/styles.css" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/styles.css" />
@@ -1226,10 +1238,11 @@
       <jump line="7" column="21" filename="$USER_HOME$/dev/projects/fire/src/app/app.component.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/projects/fire/src/pages/home/home.html" />
       <jump line="20" column="24" filename="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" />
+      <jump line="4" column="24" filename="$USER_HOME$/dev/projects/fire/src/app/pages/settings.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Contact</text>
+        <text>card</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1258,16 +1271,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Contact</text>
+        <text>card</text>
       </register>
       <register name="/" type="4">
         <text>back</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgSG9tZVBhZ2UgfSBmcm9tICcuL2hvbWUnOwo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTWVzc2FnZXNQYWdlIH0gZnJvbSAnLi9wYWdlcy9tZXNzYWdlcyc7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPC9wPgo=</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1282,31 +1295,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHA+CiAgICAgICAgSWYgeW91IGdldCBsb3N0LCB0aGUgPGEgaHJlZj0iaHR0cDovL2lvbmljZnJhbWV3b3JrLmNvbS9kb2NzL3YyIj5kb2NzPC9hPiB3aWxsIGJlIHlvdXIgZ3VpZGUuCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgVGhlIHdvcmxkIGlzIHlvdXIgb3lzdGVyLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICAgICAgPGlvbi1uYXZiYXI+CiAgICAgIDwvaW9uLW5hdmJhcj4=</text>
+      <register name="4" type="2">
+        <text encoding="base64">Y29uc3QgUEFHRVMgPSBbIE15QXBwLAogIEhvbWVQYWdlLApdCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8aW9uLXRpdGxlPgogICAgICAgICAgSW9uaWMgQmxhbmsKICAgICAgICA8L2lvbi10aXRsZT4K</text>
+        <text encoding="base64">ICBNeUFwcCwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBdLAo=</text>
+        <text encoding="base64">aW1wb3J0IHsgTXlBcHAgfSBmcm9tICcuL2FwcC5jb21wb25lbnQnOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQWJvdXRQYWdlIH0gZnJvbSAnLi9hYm91dCc7CmltcG9ydCB7IENvbnRhY3RQYWdlIH0gZnJvbSAnLi9jb250YWN0JzsK</text>
+        <text encoding="base64">ICAgICAgPGgyPjwvaDI+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDwvaW9uLWNvbnRlbnQ+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGlvbi1oZWFkZXI+CiAgPGlvbi1uYXZiYXI+CiAgICA8aW9uLXRpdGxlPgogICAgICBJb25pYyBCbGFuawogICAgPC9pb24tdGl0bGU+CiAgPC9pb24tbmF2YmFyPgo8L2lvbi1oZWFkZXI+Cgo8aW9uLWNvbnRlbnQgcGFkZGluZz4KICBUaGUgd29ybGQgaXMgeW91ciBveXN0ZXIuCiAgPHA+CiAgICBJZiB5b3UgZ2V0IGxvc3QsIHRoZSA8YSBocmVmPSJodHRwOi8vaW9uaWNmcmFtZXdvcmsuY29tL2RvY3MvdjIiPmRvY3M8L2E+IHdpbGwgYmUgeW91ciBndWlkZS4KICA8L3A+CjwvaW9uLWNvbnRlbnQ+Cg==</text>
+        <text encoding="base64">ICAgIDxpb24tY29udGVudCBwYWRkaW5nPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
