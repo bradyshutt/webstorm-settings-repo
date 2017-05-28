@@ -137,11 +137,11 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/models/User.ts" timestamp="1495938674050">
-        <mark key="[" line="3" column="11" />
-        <mark key="]" line="5" column="5" />
-        <mark key="." line="3" column="11" />
-        <mark key="^" line="5" column="5" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/models/User.ts" timestamp="1496013992028">
+        <mark key="[" line="6" column="22" />
+        <mark key="]" line="7" column="13" />
+        <mark key="." line="7" column="13" />
+        <mark key="^" line="7" column="13" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/testingLayout.ejs" timestamp="1492720303455">
         <mark key="[" line="38" column="77" />
@@ -197,11 +197,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/shared/pipes/age.pipe.ts" timestamp="1496013048519">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="10" column="1" />
-        <mark key="." line="10" column="1" />
-        <mark key="^" line="10" column="1" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/shared/pipes/age.pipe.ts" timestamp="1496013976693">
+        <mark key="[" line="10" column="11" />
+        <mark key="]" line="10" column="26" />
+        <mark key="." line="10" column="26" />
+        <mark key="^" line="10" column="26" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/navigation/nav-notifications/nav-notifications.component.html" timestamp="1494969725613">
         <mark key="[" line="0" column="0" />
@@ -422,12 +422,12 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" timestamp="1496012617341">
-        <mark key="'" line="25" column="31" />
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="70" />
-        <mark key="^" line="9" column="70" />
-        <mark key="." line="9" column="70" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" timestamp="1496014005838">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="9" column="62" />
+        <mark key="]" line="9" column="62" />
+        <mark key="." line="9" column="62" />
+        <mark key="^" line="9" column="65" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/autoreload.js" timestamp="1491494823513">
         <mark key="[" line="4" column="45" />
@@ -458,6 +458,12 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/fire/src/app/shared/shared.module.ts" timestamp="1496014198895">
+        <mark key="[" line="17" column="27" />
+        <mark key="]" line="17" column="27" />
+        <mark key="." line="17" column="27" />
+        <mark key="^" line="17" column="27" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/tut/src/app/app.module.ts" timestamp="1487977210073">
         <mark key="[" line="15" column="30" />
@@ -1169,8 +1175,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/dashboard.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/models/book.ts" />
       <jump line="64" column="17" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" />
       <jump line="9" column="33" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
       <jump line="60" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
@@ -1269,10 +1273,12 @@
       <jump line="33" column="32" filename="$USER_HOME$/dev/projects/fire/src/app/services/user.service.ts" />
       <jump line="38" column="28" filename="$USER_HOME$/dev/projects/fire/src/app/pages/home.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
+      <jump line="9" column="61" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
+      <jump line="13" column="0" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>ncMarkSweepGC</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1301,16 +1307,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ncMarkSweepGC</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>back</text>
+        <text>age</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
+      <register name="0" type="4">
+        <text>user['dob']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LVhYOk1heFBlcm1TaXplPTEwMjRtCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1325,40 +1331,41 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcH0K</text>
+        <text encoding="base64">aW5pdEExMXlkZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA8YnV0dG9uIGlvbi1idXR0b24gKGNsaWNrKT0idGVzdCgpIj5UZXN0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1c2VyLmRvYjonLCB0aGlzLnVzZXJbJ2RvYiddKTsKICAgIGNvbnNvbGUubG9nKCd0eXBlb2YgdXNlci5kb2I6JywgdHlwZW9mIHRoaXMudXNlclsnZG9iJ10pOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYK</text>
+      <register name="4" type="8">
+        <text>us
+us</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+        <text encoding="base64">ICAgIHByIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dXNlci1jYXJkIFt1c2VyXT0idXNlciIgKm5nSWY9InVzZXIiID48L3VzZXItY2FyZD4gPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+Cg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgCiAgICAgICAgPGJ1dHRvbiBpb24tYnV0dG9uIChjbGljayk9InRlc3QoKSI+VGVzdDwvYnV0dG9uPgogICAgICAgIAogICAgICA8L2Rpdj4K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHByICB1c2VyCg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VzZXJzWzBdOiAnLCB1c2Vyc1swXSk7Cg==</text>
+        <text encoding="base64">ICBuZ09uSW5pdCgpOiB2b2lkIHsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB0cmFuc2Zvcm0odmFsdWU6IGFueSwgLi4uYXJnczogYW55W10pOiBhbnkgewogICAgcmV0dXJuIHVuZGVmaW5lZDsKICB9Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>back</last-search>
+      <last-search>age</last-search>
       <last-offset />
-      <last-pattern>back</last-pattern>
+      <last-pattern>age</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>back</last-substitute>
       <last-dir>1</last-dir>
@@ -1366,7 +1373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ignore</entry>
         <entry>ig</entry>
         <entry>prom</entry>
         <entry>prime</entry>
@@ -1386,6 +1392,7 @@
         <entry>cris</entry>
         <entry>const</entry>
         <entry>no-tra</entry>
+        <entry>age</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
@@ -1403,11 +1410,11 @@
         <entry>e</entry>
         <entry>qw</entry>
         <entry>w'</entry>
-        <entry>qall</entry>
         <entry>lw</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
