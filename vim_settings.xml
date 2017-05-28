@@ -622,12 +622,11 @@
         <mark key="^" line="3" column="12" />
         <mark key="." line="3" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/pages/tabs/tabs.ts" timestamp="1495853222749">
+      <file name="$USER_HOME$/dev/projects/fire/src/pages/tabs/tabs.ts" timestamp="1495932364059">
         <mark key="'" line="19" column="0" />
-        <mark key="[" line="14" column="12" />
-        <mark key="]" line="15" column="3" />
-        <mark key="." line="15" column="3" />
-        <mark key="^" line="15" column="3" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/auth-guard.service.ts" timestamp="1494722328535">
         <mark key="'" line="0" column="0" />
@@ -1126,6 +1125,9 @@
         <mark key="]" line="19" column="25" />
         <mark key="." line="0" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/projects/fire/node_modules/ionic-angular/components/nav/nav.js" timestamp="1495932608193">
+        <mark key="'" line="233" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/nav.ejs" timestamp="1493346563515">
         <mark key="'" line="58" column="10" />
         <mark key="[" line="56" column="32" />
@@ -1172,12 +1174,12 @@
         <mark key="^" line="16" column="7" />
         <mark key="." line="16" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/app.component.ts" timestamp="1495852781006">
-        <mark key="'" line="8" column="55" />
-        <mark key="[" line="13" column="1" />
-        <mark key="]" line="13" column="3" />
-        <mark key="." line="13" column="3" />
-        <mark key="^" line="13" column="3" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/app.component.ts" timestamp="1495932576360">
+        <mark key="'" line="9" column="10" />
+        <mark key="[" line="5" column="28" />
+        <mark key="]" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+        <mark key="^" line="5" column="33" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/sidebar-module/tslint.json" timestamp="1495755157185">
         <mark key="'" line="32" column="27" />
@@ -1751,9 +1753,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end-v0/tslint.json" />
-      <jump line="28" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" />
-      <jump line="29" column="3" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" />
       <jump line="27" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app-routing.module.ts" />
       <jump line="43" column="56" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
       <jump line="98" column="11" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
@@ -1851,10 +1850,13 @@
       <jump line="26" column="0" filename="$USER_HOME$/dev/projects/fire/src/pages/contact/contact.ts" />
       <jump line="6" column="3" filename="$USER_HOME$/dev/projects/fire/src/pages/tabs/tabs.ts" />
       <jump line="19" column="0" filename="$USER_HOME$/dev/projects/fire/src/pages/tabs/tabs.ts" />
+      <jump line="9" column="10" filename="$USER_HOME$/dev/projects/fire/src/app/app.component.ts" />
+      <jump line="183" column="14" filename="$USER_HOME$/dev/projects/fire/node_modules/ionic-angular/components/nav/nav.js" />
+      <jump line="233" column="0" filename="$USER_HOME$/dev/projects/fire/node_modules/ionic-angular/components/nav/nav.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Url</text>
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1883,7 +1885,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Url</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>back</text>
@@ -1892,7 +1894,7 @@
         <text encoding="base64">ICAgICAgZmxleC1iYXNpczogMjUwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGlvbi10YWJzPgogIDxpb24tdGFiIFtyb290XT0idGFiMVJvb3QiIHRhYlRpdGxlPSJIb21lIiB0YWJJY29uPSJob21lIj48L2lvbi10YWI+CiAgPGlvbi10YWIgW3Jvb3RdPSJ0YWIyUm9vdCIgdGFiVGl0bGU9IkFib3V0IiB0YWJJY29uPSJpbmZvcm1hdGlvbi1jaXJjbGUiPjwvaW9uLXRhYj4KICA8aW9uLXRhYiBbcm9vdF09InRhYjNSb290IiB0YWJUaXRsZT0iQ29udGFjdCIgdGFiSWNvbj0iY29udGFjdHMiPjwvaW9uLXRhYj4KPC9pb24tdGFicz4K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1907,34 +1909,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">PGlvbi10YWJzPgogIDxpb24tdGFiIFtyb290XT0idGFiMVJvb3QiIHRhYlRpdGxlPSJIb21lIiB0YWJJY29uPSJob21lIj48L2lvbi10YWI+CiAgPGlvbi10YWIgW3Jvb3RdPSJ0YWIyUm9vdCIgdGFiVGl0bGU9IkFib3V0IiB0YWJJY29uPSJpbmZvcm1hdGlvbi1jaXJjbGUiPjwvaW9uLXRhYj4KICA8aW9uLXRhYiBbcm9vdF09InRhYjNSb290IiB0YWJUaXRsZT0iQ29udGFjdCIgdGFiSWNvbj0iY29udGFjdHMiPjwvaW9uLXRhYj4KPC9pb24tdGFicz4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cGFnZS1hYm91dCB7Cgp9Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGlvbi1oZWFkZXI+CiAgPGlvbi1uYXZiYXI+CiAgICA8aW9uLXRpdGxlPgogICAgICBBYm91dAogICAgPC9pb24tdGl0bGU+CiAgPC9pb24tbmF2YmFyPgo8L2lvbi1oZWFkZXI+Cgo8aW9uLWNvbnRlbnQgcGFkZGluZz4KCjwvaW9uLWNvbnRlbnQ+Cg==</text>
+        <text encoding="base64">cGFnZS1hYm91dCB7Cgp9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxpb24taGVhZGVyPgo=</text>
+        <text encoding="base64">PGlvbi1oZWFkZXI+CiAgPGlvbi1uYXZiYXI+CiAgICA8aW9uLXRpdGxlPgogICAgICBBYm91dAogICAgPC9pb24tdGl0bGU+CiAgPC9pb24tbmF2YmFyPgo8L2lvbi1oZWFkZXI+Cgo8aW9uLWNvbnRlbnQgcGFkZGluZz4KCjwvaW9uLWNvbnRlbnQ+Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">cGFnZS1jb250YWN0IHsKCn0K</text>
+        <text encoding="base64">ICAgIDxpb24taGVhZGVyPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">PGlvbi1oZWFkZXI+CiAgPGlvbi1uYXZiYXI+CiAgICA8aW9uLXRpdGxlPgogICAgICBDb250YWN0CiAgICA8L2lvbi10aXRsZT4KICA8L2lvbi1uYXZiYXI+CjwvaW9uLWhlYWRlcj4KCjxpb24tY29udGVudD4KICA8aW9uLWxpc3Q+CiAgICA8aW9uLWxpc3QtaGVhZGVyPkZvbGxvdyB1cyBvbiBUd2l0dGVyPC9pb24tbGlzdC1oZWFkZXI+CiAgICA8aW9uLWl0ZW0+CiAgICAgIDxpb24taWNvbiBuYW1lPSJpb25pYyIgaXRlbS1sZWZ0PjwvaW9uLWljb24+CiAgICAgIEBpb25pY2ZyYW1ld29yawogICAgPC9pb24taXRlbT4KICA8L2lvbi1saXN0Pgo8L2lvbi1jb250ZW50Pgo=</text>
+        <text encoding="base64">cGFnZS1jb250YWN0IHsKCn0K</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cGFnZS1ob21lIHsKCn0K</text>
+        <text encoding="base64">PGlvbi1oZWFkZXI+CiAgPGlvbi1uYXZiYXI+CiAgICA8aW9uLXRpdGxlPgogICAgICBDb250YWN0CiAgICA8L2lvbi10aXRsZT4KICA8L2lvbi1uYXZiYXI+CjwvaW9uLWhlYWRlcj4KCjxpb24tY29udGVudD4KICA8aW9uLWxpc3Q+CiAgICA8aW9uLWxpc3QtaGVhZGVyPkZvbGxvdyB1cyBvbiBUd2l0dGVyPC9pb24tbGlzdC1oZWFkZXI+CiAgICA8aW9uLWl0ZW0+CiAgICAgIDxpb24taWNvbiBuYW1lPSJpb25pYyIgaXRlbS1sZWZ0PjwvaW9uLWljb24+CiAgICAgIEBpb25pY2ZyYW1ld29yawogICAgPC9pb24taXRlbT4KICA8L2lvbi1saXN0Pgo8L2lvbi1jb250ZW50Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGlvbi1oZWFkZXI+CiAgPGlvbi1uYXZiYXI+CiAgICA8aW9uLXRpdGxlPkhvbWU8L2lvbi10aXRsZT4KICA8L2lvbi1uYXZiYXI+CjwvaW9uLWhlYWRlcj4KCjxpb24tY29udGVudCBwYWRkaW5nPgogIDxoMj5XZWxjb21lIHRvIElvbmljITwvaDI+CiAgPHA+CiAgICBUaGlzIHN0YXJ0ZXIgcHJvamVjdCBjb21lcyB3aXRoIHNpbXBsZSB0YWJzLWJhc2VkIGxheW91dCBmb3IgYXBwcwogICAgdGhhdCBhcmUgZ29pbmcgdG8gcHJpbWFyaWx5IHVzZSBhIFRhYmJlZCBVSS4KICA8L3A+CiAgPHA+CiAgICBUYWtlIGEgbG9vayBhdCB0aGUgPGNvZGU+c3JjL3BhZ2VzLzwvY29kZT4gZGlyZWN0b3J5IHRvIGFkZCBvciBjaGFuZ2UgdGFicywKICAgIHVwZGF0ZSBhbnkgZXhpc3RpbmcgcGFnZSBvciBjcmVhdGUgbmV3IHBhZ2VzLgogIDwvcD4KPC9pb24tY29udGVudD4K</text>
+        <text encoding="base64">cGFnZS1ob21lIHsKCn0K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1988,8 +1990,8 @@
         <entry>qall</entry>
         <entry>lw</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
