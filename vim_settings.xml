@@ -68,6 +68,12 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
+      <file name="$USER_HOME$/.WebStorm2017.1/webstorm64.vmoptions" timestamp="1496013603171">
+        <mark key="[" line="7" column="10" />
+        <mark key="]" line="7" column="21" />
+        <mark key="^" line="7" column="21" />
+        <mark key="." line="7" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/projects/fire/src/pages/home/home.scss" timestamp="1495933493550">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -190,6 +196,12 @@
         <mark key="]" line="7" column="23" />
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/fire/src/app/shared/pipes/age.pipe.ts" timestamp="1496013048519">
+        <mark key="[" line="5" column="2" />
+        <mark key="]" line="10" column="1" />
+        <mark key="." line="10" column="1" />
+        <mark key="^" line="10" column="1" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/navigation/nav-notifications/nav-notifications.component.html" timestamp="1494969725613">
         <mark key="[" line="0" column="0" />
@@ -410,12 +422,12 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" timestamp="1495940421830">
-        <mark key="'" line="22" column="31" />
-        <mark key="[" line="9" column="26" />
-        <mark key="]" line="9" column="26" />
-        <mark key="^" line="9" column="33" />
-        <mark key="." line="9" column="26" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" timestamp="1496012617341">
+        <mark key="'" line="25" column="31" />
+        <mark key="[" line="9" column="53" />
+        <mark key="]" line="9" column="70" />
+        <mark key="^" line="9" column="70" />
+        <mark key="." line="9" column="70" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/autoreload.js" timestamp="1491494823513">
         <mark key="[" line="4" column="45" />
@@ -1157,7 +1169,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="12" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
       <jump line="4" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/dashboard.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/models/book.ts" />
       <jump line="64" column="17" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" />
@@ -1257,10 +1268,11 @@
       <jump line="27" column="25" filename="$USER_HOME$/dev/projects/fire/src/app/services/user.service.ts" />
       <jump line="33" column="32" filename="$USER_HOME$/dev/projects/fire/src/app/services/user.service.ts" />
       <jump line="38" column="28" filename="$USER_HOME$/dev/projects/fire/src/app/pages/home.ts" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHwgY2FwdGk=</text>
+        <text>ncMarkSweepGC</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1289,16 +1301,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHwgY2FwdGk=</text>
+        <text>ncMarkSweepGC</text>
       </register>
       <register name="/" type="4">
         <text>back</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luOiAxMHB4Owo=</text>
+        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA8YnV0dG9uIGlvbi1idXR0b24gKGNsaWNrKT0idGVzdCgpIj5UZXN0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">LVhYOk1heFBlcm1TaXplPTEwMjRtCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1313,34 +1325,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYK</text>
+        <text encoding="base64">aW1wb3J0IHsgQ29tcH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICA8YnV0dG9uIGlvbi1idXR0b24gKGNsaWNrKT0idGVzdCgpIj5UZXN0PC9idXR0b24+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8dXNlci1jYXJkIFt1c2VyXT0idXNlciIgKm5nSWY9InVzZXIiID48L3VzZXItY2FyZD4gPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkaXYK</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgCiAgICAgICAgPGJ1dHRvbiBpb24tYnV0dG9uIChjbGljayk9InRlc3QoKSI+VGVzdDwvYnV0dG9uPgogICAgICAgIAogICAgICA8L2Rpdj4K</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBuCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VzZXJzWzBdOiAnLCB1c2Vyc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dXNlci1jYXJkIFt1c2VyXT0idXNlciIgKm5nSWY9InVzZXIiID48L3VzZXItY2FyZD4gPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgCiAgICAgICAgPGJ1dHRvbiBpb24tYnV0dG9uIChjbGljayk9InRlc3QoKSI+VGVzdDwvYnV0dG9uPgogICAgICAgIAogICAgICA8L2Rpdj4K</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd1c2VyOicsIHRoaXMudXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VzZXJzWzBdOiAnLCB1c2Vyc1swXSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdXNlci5waWN0dXJlcyA9IFt1c2VyLm5hbWUubGFzdF07Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1394,8 +1406,8 @@
         <entry>qall</entry>
         <entry>lw</entry>
         <entry>q</entry>
-        <entry>wq</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
