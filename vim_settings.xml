@@ -300,8 +300,11 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" timestamp="1496026350181">
-        <mark key="^" line="13" column="24" />
+      <file name="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" timestamp="1496094805949">
+        <mark key="[" line="18" column="29" />
+        <mark key="]" line="18" column="35" />
+        <mark key="." line="18" column="35" />
+        <mark key="^" line="18" column="35" />
       </file>
       <file name="$USER_HOME$/dev/projects/fire/src/pages/tabs/tabs.html" timestamp="1495853198451">
         <mark key="[" line="0" column="0" />
@@ -345,10 +348,11 @@
         <mark key="." line="5" column="29" />
         <mark key="^" line="5" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chore/src/app/models/User.ts" timestamp="1496024260751">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
+      <file name="$USER_HOME$/dev/projects/chore/src/app/models/User.ts" timestamp="1496094547593">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="17" />
+        <mark key="." line="6" column="17" />
+        <mark key="^" line="6" column="17" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-list.component.ts" timestamp="1494809318900">
         <mark key="[" line="18" column="0" />
@@ -356,11 +360,11 @@
         <mark key="." line="18" column="1" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chore/src/app/models/Group.ts" timestamp="1496024252554">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/dev/projects/chore/src/app/models/Group.ts" timestamp="1496094529869">
+        <mark key="[" line="6" column="6" />
+        <mark key="]" line="6" column="8" />
+        <mark key="^" line="6" column="8" />
+        <mark key="." line="6" column="8" />
       </file>
       <file name="$USER_HOME$/dev/projects/fire/src/app/services/users.service.ts" timestamp="1495937059284">
         <mark key="'" line="8" column="18" />
@@ -876,12 +880,12 @@
         <mark key="." line="3" column="16" />
         <mark key="^" line="3" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chore/tslint.json" timestamp="1496092197280">
-        <mark key="'" line="68" column="23" />
-        <mark key="[" line="115" column="13" />
-        <mark key="]" line="115" column="13" />
-        <mark key="^" line="114" column="10" />
-        <mark key="." line="115" column="13" />
+      <file name="$USER_HOME$/dev/projects/chore/tslint.json" timestamp="1496094866423">
+        <mark key="'" line="70" column="24" />
+        <mark key="[" line="11" column="15" />
+        <mark key="]" line="11" column="16" />
+        <mark key="^" line="11" column="17" />
+        <mark key="." line="11" column="16" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/services/authentication.service.ts" timestamp="1494971647327">
         <mark key="[" line="5" column="17" />
@@ -1202,6 +1206,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/projects/chore/src/app/services/group.service.ts" timestamp="1496095047656">
+        <mark key="'" line="27" column="12" />
+        <mark key="[" line="47" column="23" />
+        <mark key="]" line="47" column="22" />
+        <mark key="^" line="47" column="22" />
+        <mark key="." line="47" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/app.module.ts" timestamp="1493941508679">
         <mark key="[" line="25" column="54" />
         <mark key="]" line="25" column="54" />
@@ -1232,10 +1243,10 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chore/src/app/models/Task.ts" timestamp="1496094276316">
-        <mark key="[" line="2" column="15" />
-        <mark key="]" line="3" column="17" />
-        <mark key="." line="3" column="17" />
+      <file name="$USER_HOME$/dev/projects/chore/src/app/models/Task.ts" timestamp="1496094890340">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="18" />
+        <mark key="." line="4" column="0" />
         <mark key="^" line="3" column="17" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/header-collapse/app-collapse.component.ts" timestamp="1493337532966">
@@ -1298,11 +1309,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="4" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
-      <jump line="6" column="22" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/services/sidebar.service.ts" />
-      <jump line="5" column="31" filename="$USER_HOME$/dev/htdocs/sails/sidebar-module/src/app/app.component.ts" />
-      <jump line="4" column="33" filename="$USER_HOME$/dev/htdocs/sails/sidebar-module/src/app/app.component.ts" />
       <jump line="4" column="68" filename="$USER_HOME$/dev/htdocs/sails/sidebar-module/src/app/sidebar/sidebar-container.component.ts" />
       <jump line="6" column="63" filename="$USER_HOME$/dev/htdocs/sails/sidebar-module/src/app/sidebar/sidebar-container.component.ts" />
       <jump line="32" column="27" filename="$USER_HOME$/dev/htdocs/sails/sidebar-module/tslint.json" />
@@ -1398,10 +1404,15 @@
       <jump line="19" column="1" filename="$USER_HOME$/dev/projects/chore/src/app/app.module.ts" />
       <jump line="24" column="46" filename="$USER_HOME$/dev/projects/chore/src/app/pages/dashboard.component.ts" />
       <jump line="83" column="23" filename="$USER_HOME$/dev/projects/chore/src/app/pages/dashboard.component.ts" />
+      <jump line="14" column="5" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
+      <jump line="115" column="12" filename="$USER_HOME$/dev/projects/chore/tslint.json" />
+      <jump line="70" column="24" filename="$USER_HOME$/dev/projects/chore/tslint.json" />
+      <jump line="27" column="12" filename="$USER_HOME$/dev/projects/chore/src/app/services/group.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1430,16 +1441,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text>Top</text>
+        <text>curly</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibGVmdCI+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICBuYW1lOiBzdHJpbmc7CiAgc3RhcnRUaW1lOiBEYXRlOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">ewogIA==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1454,40 +1465,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHN0YXJ0VGltZTogRGF0ZTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgbmFtZTogc3RyaW5nCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibGVmdCI+CiAgICAgICAgPG1kLWNhcmQtdGl0bGU+e3t0YXNrLm5hbWV9fTwvbWQtY2FyZC10aXRsZT4KICAgICAgICAKICAgICAgPC9kaXY+CiAgICAgIAogICAgICA8ZGl2IGNsYXNzPSJyaWdodCI+CiAgICAgICAgPGJ1dHRvbiBtZC1idXR0b24+TElLRTwvYnV0dG9uPgogICAgICAgIDxidXR0b24gbWQtYnV0dG9uPlNIQVJFPC9idXR0b24+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICBdCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHsKICAgICAgaWQ6IDEyMywKICAgICAgbmFtZTogJzU3NyBQcmluY2V0b24nCiAgICB9LAogICAgewogICAgICBpZDogMTExLAogICAgICBuYW1lOiAnTW9tXCdzIEhvdXNlJwogICAgfSwK</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAogICAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8YnV0dG9uIG1kLWJ1dHRvbj5MSUtFPC9idXR0b24+CiAgICAgICAgPGJ1dHRvbiBtZC1idXR0b24+U0hBUkU8L2J1dHRvbj4K</text>
+        <text encoding="base64">fTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Top</last-search>
+      <last-search>curly</last-search>
       <last-offset />
-      <last-pattern>Top</last-pattern>
+      <last-pattern>curly</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>back</last-substitute>
       <last-dir>1</last-dir>
@@ -1495,8 +1506,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Dash</entry>
-        <entry>dash</entry>
         <entry>App</entry>
         <entry>of</entry>
         <entry>go</entry>
@@ -1515,6 +1524,8 @@
         <entry>pink</entry>
         <entry>trail</entry>
         <entry>Top</entry>
+        <entry>prefer</entry>
+        <entry>curly</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
