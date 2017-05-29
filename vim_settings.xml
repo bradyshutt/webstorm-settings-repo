@@ -137,7 +137,8 @@
         <mark key="." line="5" column="16" />
         <mark key="^" line="5" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/models/User.ts" timestamp="1495938674050">
+      <file name="$USER_HOME$/dev/projects/fire/src/app/models/User.ts" timestamp="1496014239270">
+        <mark key="'" line="7" column="10" />
         <mark key="[" line="3" column="11" />
         <mark key="]" line="5" column="5" />
         <mark key="." line="3" column="11" />
@@ -197,9 +198,10 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/shared/pipes/age.pipe.ts" timestamp="1496013048519">
-        <mark key="[" line="5" column="2" />
-        <mark key="]" line="10" column="1" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/shared/pipes/age.pipe.ts" timestamp="1496014731603">
+        <mark key="'" line="9" column="40" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="1" />
         <mark key="." line="10" column="1" />
         <mark key="^" line="10" column="1" />
       </file>
@@ -422,12 +424,11 @@
         <mark key="^" line="10" column="6" />
         <mark key="." line="10" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" timestamp="1496012617341">
-        <mark key="'" line="25" column="31" />
-        <mark key="[" line="9" column="53" />
-        <mark key="]" line="9" column="70" />
-        <mark key="^" line="9" column="70" />
-        <mark key="." line="9" column="70" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" timestamp="1496016511674">
+        <mark key="[" line="21" column="239" />
+        <mark key="]" line="22" column="13" />
+        <mark key="." line="22" column="13" />
+        <mark key="^" line="22" column="13" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/autoreload.js" timestamp="1491494823513">
         <mark key="[" line="4" column="45" />
@@ -458,6 +459,12 @@
         <mark key="]" line="5" column="27" />
         <mark key="." line="5" column="21" />
         <mark key="^" line="5" column="21" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/fire/src/app/shared/shared.module.ts" timestamp="1496014757003">
+        <mark key="[" line="17" column="14" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/tut/src/app/app.module.ts" timestamp="1487977210073">
         <mark key="[" line="15" column="30" />
@@ -875,12 +882,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" timestamp="1495937329637">
-        <mark key="'" line="42" column="12" />
-        <mark key="[" line="27" column="14" />
-        <mark key="]" line="27" column="14" />
-        <mark key="." line="27" column="14" />
-        <mark key="^" line="27" column="14" />
+      <file name="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" timestamp="1496014763932">
+        <mark key="'" line="43" column="0" />
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="29" column="16" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center.component.ts" timestamp="1494819702670">
         <mark key="[" line="3" column="0" />
@@ -1169,15 +1176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/dashboard.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/models/book.ts" />
-      <jump line="64" column="17" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" />
-      <jump line="9" column="33" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
-      <jump line="60" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
-      <jump line="14" column="25" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end-v0/src/app/admin/nav/nav-sidebar.component.ts" />
-      <jump line="43" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end-v0/src/app/admin/nav/nav-sidebar.component.ts" />
-      <jump line="57" column="4" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
       <jump line="72" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
       <jump line="27" column="70" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
       <jump line="61" column="4" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
@@ -1262,17 +1260,26 @@
       <jump line="14" column="17" filename="$USER_HOME$/dev/projects/fire/src/app/pages/home.ts" />
       <jump line="19" column="31" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
       <jump line="7" column="18" filename="$USER_HOME$/dev/projects/fire/src/app/services/users.service.ts" />
-      <jump line="40" column="12" filename="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" />
       <jump line="9" column="4" filename="$USER_HOME$/dev/projects/fire/src/app/services/user.service.ts" />
       <jump line="17" column="60" filename="$USER_HOME$/dev/projects/fire/src/app/services/user.service.ts" />
       <jump line="27" column="25" filename="$USER_HOME$/dev/projects/fire/src/app/services/user.service.ts" />
       <jump line="33" column="32" filename="$USER_HOME$/dev/projects/fire/src/app/services/user.service.ts" />
       <jump line="38" column="28" filename="$USER_HOME$/dev/projects/fire/src/app/pages/home.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
+      <jump line="7" column="10" filename="$USER_HOME$/dev/projects/fire/src/app/models/User.ts" />
+      <jump line="14" column="23" filename="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" />
+      <jump line="40" column="2" filename="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" />
+      <jump line="9" column="40" filename="$USER_HOME$/dev/projects/fire/src/app/shared/pipes/age.pipe.ts" />
+      <jump line="24" column="12" filename="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/projects/fire/src/app/app.module.ts" />
+      <jump line="29" column="4" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
+      <jump line="34" column="6" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
+      <jump line="23" column="3" filename="$USER_HOME$/dev/projects/fire/src/app/components/user-card.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>ncMarkSweepGC</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPC9pb24tY2FyZC1jb250ZW50PgogICAgPC9pb24tY2FyZD4K</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1301,16 +1308,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ncMarkSweepGC</text>
+        <text>border-box;</text>
       </register>
       <register name="/" type="4">
-        <text>back</text>
+        <text>Serv</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">LVhYOitVc2VDb25jTWFya1N3ZWVwR0MK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlvbi1pdGVtPgogICAgICAgICAgICAgIDxpb24taWNvbiBuYW1lPSJsZWFmIiBpdGVtLWxlZnQ+PC9pb24taWNvbj4KICAgICAgICAgICAgICBIZXJib2xvZ3kKICAgICAgICAgICAgICA8aW9uLWljb24gbmFtZT0icm9zZSIgaXRlbS1yaWdodD48L2lvbi1pY29uPgogICAgICAgICAgICA8L2lvbi1pdGVtPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">LVhYOk1heFBlcm1TaXplPTEwMjRtCg==</text>
+        <text encoding="base64">ICAgICAgPC9pb24tY2FyZC1jb250ZW50PgogICAgPC9pb24tY2FyZD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1325,40 +1332,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQ29tcH0K</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA8YnV0dG9uIGlvbi1idXR0b24gKGNsaWNrKT0idGVzdCgpIj5UZXN0PC9idXR0b24+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9pb24taXRlbS1zbGlkaW5nPgogICAgICAgICAgPC9pb24tbGlzdD4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkaXYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgIDwvaW9uLWl0ZW0tb3B0aW9ucz4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgPGlvbi1pY29uIG5hbWU9Im1haWwiPjwvaW9uLWljb24+CiAgICAgICAgICAgICAgICAgIEVtYWlsCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8dXNlci1jYXJkIFt1c2VyXT0idXNlciIgKm5nSWY9InVzZXIiID48L3VzZXItY2FyZD4gPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8aW9uLWl0ZW0tb3B0aW9ucyBzaWRlPSJyaWdodCI+CiAgICAgICAgICAgICAgICA8YnV0dG9uIGlvbi1idXR0b24gY29sb3I9InByaW1hcnkiPgo=</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgPHVzZXItY2FyZCBbdXNlcl09InVzZXIiICpuZ0lmPSJ1c2VyIiA+PC91c2VyLWNhcmQ+CiAgICAgICAgCiAgICAgICAgPGJ1dHRvbiBpb24tYnV0dG9uIChjbGljayk9InRlc3QoKSI+VGVzdDwvYnV0dG9uPgogICAgICAgIAogICAgICA8L2Rpdj4K</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2lvbi1pdGVtLW9wdGlvbnM+CiAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3VzZXJzWzBdOiAnLCB1c2Vyc1swXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgQ2FsbAogICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxidXR0b24gaW9uLWJ1dHRvbiBjb2xvcj0ic2Vjb25kYXJ5Ij4KICAgICAgICAgICAgICAgICAgPGlvbi1pY29uIG5hbWU9ImNhbGwiPjwvaW9uLWljb24+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>back</last-search>
+      <last-search>Serv</last-search>
       <last-offset />
-      <last-pattern>back</last-pattern>
+      <last-pattern>Serv</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>back</last-substitute>
       <last-dir>1</last-dir>
@@ -1366,8 +1373,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ignore</entry>
-        <entry>ig</entry>
         <entry>prom</entry>
         <entry>prime</entry>
         <entry>Anim</entry>
@@ -1386,6 +1391,8 @@
         <entry>cris</entry>
         <entry>const</entry>
         <entry>no-tra</entry>
+        <entry>age</entry>
+        <entry>Serv</entry>
       </history-search>
       <history-cmd>
         <entry>73</entry>
@@ -1403,11 +1410,11 @@
         <entry>e</entry>
         <entry>qw</entry>
         <entry>w'</entry>
-        <entry>qall</entry>
         <entry>lw</entry>
+        <entry>wq</entry>
+        <entry>qall</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -1416,7 +1423,7 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed T</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="vim">
+      <shortcut-conflict owner="ide">
         <text>ctrl pressed H</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
