@@ -45,12 +45,12 @@
         <mark key="^" line="3" column="20" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" timestamp="1495760088191">
-        <mark key="'" line="9" column="16" />
-        <mark key="[" line="79" column="19" />
-        <mark key="]" line="79" column="23" />
-        <mark key="^" line="79" column="23" />
-        <mark key="." line="79" column="23" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" timestamp="1496160350426">
+        <mark key="'" line="21" column="8" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="56" column="5" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.scss" timestamp="1494970706492">
         <mark key="[" line="0" column="0" />
@@ -349,11 +349,11 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" timestamp="1495737744768">
-        <mark key="[" line="20" column="22" />
-        <mark key="]" line="20" column="29" />
-        <mark key="." line="20" column="29" />
-        <mark key="^" line="20" column="29" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" timestamp="1496158732357">
+        <mark key="[" line="59" column="21" />
+        <mark key="]" line="59" column="21" />
+        <mark key="." line="59" column="21" />
+        <mark key="^" line="59" column="21" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/models.js" timestamp="1493840612236">
         <mark key="[" line="30" column="12" />
@@ -643,6 +643,11 @@
         <mark key="." line="2" column="22" />
         <mark key="^" line="2" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/editor/editor.service.ts" timestamp="1496160468270">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/services/book.service.ts" timestamp="1495740867486">
         <mark key="[" line="1" column="25" />
         <mark key="]" line="1" column="25" />
@@ -905,12 +910,12 @@
         <mark key="^" line="44" column="48" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" timestamp="1495761042231">
-        <mark key="'" line="14" column="21" />
-        <mark key="[" line="36" column="8" />
-        <mark key="]" line="36" column="8" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" timestamp="1496160454167">
+        <mark key="'" line="25" column="39" />
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
         <mark key="^" line="36" column="8" />
-        <mark key="." line="36" column="8" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/editor/edit-book-basic/edit-book-basic.component.ts" timestamp="1495141347172">
         <mark key="'" line="69" column="28" />
@@ -970,12 +975,12 @@
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/styles.css" timestamp="1495760417009">
-        <mark key="'" line="29" column="0" />
-        <mark key="[" line="14" column="17" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="15" column="0" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/styles.css" timestamp="1496160021259">
+        <mark key="'" line="38" column="0" />
+        <mark key="[" line="15" column="1" />
+        <mark key="]" line="18" column="14" />
+        <mark key="." line="18" column="14" />
+        <mark key="^" line="18" column="14" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/header-buttons/header-buttons.component.ts" timestamp="1493337503860">
         <mark key="[" line="7" column="13" />
@@ -1088,7 +1093,7 @@
         <mark key="^" line="34" column="7" />
         <mark key="." line="34" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" timestamp="1495761478388">
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" timestamp="1496158560043">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="24" />
         <mark key="." line="49" column="0" />
@@ -1144,12 +1149,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" timestamp="1495753853503">
-        <mark key="'" line="70" column="24" />
-        <mark key="[" line="118" column="12" />
-        <mark key="]" line="118" column="12" />
-        <mark key="." line="118" column="12" />
-        <mark key="^" line="118" column="12" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" timestamp="1496159809883">
+        <mark key="'" line="58" column="34" />
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="17" />
+        <mark key="." line="11" column="17" />
+        <mark key="^" line="11" column="17" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/sidebar-module/src/app/sidebar/sidebar.module.ts" timestamp="1495755629052">
         <mark key="[" line="23" column="0" />
@@ -1176,23 +1181,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="26" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="68" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="83" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="86" column="29" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="87" column="30" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="88" column="24" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="89" column="35" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="90" column="35" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
-      <jump line="32" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end-v0/tslint.json" />
-      <jump line="28" column="18" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" />
-      <jump line="29" column="3" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app.module.ts" />
-      <jump line="27" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/app-routing.module.ts" />
-      <jump line="43" column="56" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
-      <jump line="98" column="11" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
-      <jump line="21" column="80" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
-      <jump line="37" column="75" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
       <jump line="3" column="44" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/styles.css" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/styles.css" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/node_modules/normalize-css/normalize.css" />
@@ -1276,10 +1264,27 @@
       <jump line="14" column="21" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
       <jump line="10" column="37" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/editor/editor.component.ts" />
       <jump line="47" column="24" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" />
+      <jump line="14" column="5" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="83" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="113" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="11" column="41" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="15" column="42" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="118" column="12" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
+      <jump line="40" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="49" column="4" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="6" column="40" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="58" column="34" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/tslint.json" />
+      <jump line="7" column="1" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="84" column="27" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="19" column="8" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar.component.ts" />
+      <jump line="54" column="29" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
+      <jump line="51" column="19" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
+      <jump line="25" column="39" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1iYXNpczogMjUwcHg7Cg==</text>
+        <text encoding="base64">ICAvL3B1YmxpYyBpc09wZW46IGJvb2xlYW4gPSBmYWxzZTsKCiAgLy8gc2V0RGF0YShkYXRhOiBhbnkpIHsKICAvLyAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIGRhdGE6JywgZGF0YSk7CiAgLy8gICB0aGlzLmRhdGFTb3VyY2UubmV4dChkYXRhKTsKICAvLyB9CgogIC8vIGNoYW5nZSgpIHsKICAvLwogIC8vICAgdGhpcy5lZGl0b3JDb250cm9sU291cmNlLm5leHQoKQogIC8vIH0KCg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1308,16 +1313,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>250</text>
+        <text encoding="base64">IGNsYXNzPSIi</text>
       </register>
       <register name="/" type="4">
-        <text>back</text>
+        <text>togg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1iYXNpczogMjUwcHg7Cg==</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMTBweCAxNXB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1zaHJpbms6IDE7Cg==</text>
+        <text encoding="base64">ICAvL3B1YmxpYyBpc09wZW46IGJvb2xlYW4gPSBmYWxzZTsKCiAgLy8gc2V0RGF0YShkYXRhOiBhbnkpIHsKICAvLyAgIGNvbnNvbGUubG9nKCdzZXR0aW5nIGRhdGE6JywgZGF0YSk7CiAgLy8gICB0aGlzLmRhdGFTb3VyY2UubmV4dChkYXRhKTsKICAvLyB9CgogIC8vIGNoYW5nZSgpIHsKICAvLwogIC8vICAgdGhpcy5lZGl0b3JDb250cm9sU291cmNlLm5leHQoKQogIC8vIH0KCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1332,40 +1337,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1iYXNpczogZmlsbDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGxldCB0YWJsZSA9ICQoJyNlYm9va1RhYmxlJykuRGF0YVRhYmxlKHsKICAgIC8vICAgYWpheDogewogICAgLy8gICAgIHVybDogJy9hcGkvYm9va3MnLAogICAgLy8gICAgIGRhdGFTcmM6ICdkYXRhJwogICAgLy8gICB9LAogICAgLy8gICBidXR0b25zOiBbCiAgICAvLyAgICAgICdlZGl0JywKICAgIC8vICAgXSwKICAgIC8vICAgLy9zZXJ2ZXJTaWRlOiB0cnVlLAogICAgLy8gICBjb2x1bW5zOiBbCiAgICAvLyAgICAgeyBkYXRhOiAnaW1hZ2VzJywgICByZW5kZXI6IChkYXRhKSA9PiBgPGltZyBzcmM9IiR7aW1nQmFzZX0vcHJvZHVjdHMvJHtkYXRhWydjb3ZlckZ1bGxSZXMnXX0iYCB9LAogICAgLy8gICAgIHsgZGF0YTogJ2lkJywgICAgICAgcmVuZGVyOiAoZGF0YSkgPT4gYDxpbnB1dCB2YWx1ZT0iJHtkYXRhfSIgc2l6ZT0iMTAiPmAgfSwKICAgIC8vICAgICB7IGRhdGE6ICd0aXRsZScgfSwKICAgIC8vICAgICB7IGRhdGE6ICd3ZWJzaXRlVmlzaWJpbGl0eScsIHJlbmRlcjogKGRhdGEpID0+IGRhdGEgPT09ICdhZG1pbk9ubHknID8gJ0FkbWluIE9ubHknIDogZGF0YSA9PT0gJ3VucmVzdHJpY3RlZCcgPyAnVW5yZXN0cmljdGVkJyA6IGRhdGEgfSwKICAgIC8vICAgICB7IGRhdGE6ICdhdXRob3JzJywgIHJlbmRlcjogKGRhdGEpID0+IGRhdGEuam9pbignLCAnKSB9CiAgICAvLyAgIF0KICAgIC8vIH0pOwogICAgLy8KICAgIC8vIC8vIEFmdGVyIHRhYmxlIGZpbmlzaGVzIGxvYWRpbmcsIGFkZCBjbGljayBoYW5kbGVycyB0byBpZAogICAgLy8gdGFibGUub24oJ2luaXQnLCAoKSA9PiB7CiAgICAvLyAgIHRhYmxlLmNvbHVtbigxKS5ub2RlcygpLm1hcCgoY2VsbCkgPT4gewogICAgLy8gICAgIGxldCAkaW5wdXQgPSAkKGNlbGwpLmNoaWxkcmVuKCk7CiAgICAvLyAgICAgbGV0IGlkID0gJGlucHV0WzBdLnZhbHVlOwogICAgLy8gICAgIC8vIENvcHkgdGV4dCB0byBjbGlwYm9hcmQgb24gY2xpY2sKICAgIC8vICAgICAkaW5wdXQub24oJ2NsaWNrJywgKCkgPT4gewogICAgLy8gICAgICAgbGV0IGF1eCA9IGRvY3VtZW50LmNyZWF0ZUVsZW1lbnQoJ2lucHV0Jyk7CiAgICAvLyAgICAgICBhdXguc2V0QXR0cmlidXRlKCd2YWx1ZScsIGlkKTsKICAgIC8vICAgICAgIGRvY3VtZW50LmJvZHkuYXBwZW5kQ2hpbGQoYXV4KTsKICAgIC8vICAgICAgIGF1eC5zZWxlY3QoKTsKICAgIC8vICAgICAgIGRvY3VtZW50LmV4ZWNDb21tYW5kKCdjb3B5Jyk7CiAgICAvLyAgICAgICBkb2N1bWVudC5ib2R5LnJlbW92ZUNoaWxkKGF1eCk7CiAgICAvLyAgICAgICAkKCc8ZGl2IGNsYXNzPSJhbGVydCBhbGVydC1pbmZvIGFsZXJ0LWRpc21pc3NpYmxlIiByb2xlPSJhbGVydCI+Q29waWVkITwvZGl2PicpCiAgICAvLyAgICAgICAgIC5jc3MoewogICAgLy8gICAgICAgICAgICdwYWRkaW5nJzogJzAnLAogICAgLy8gICAgICAgICAgICdtYXJnaW4nOiAnMXB4JywKICAgIC8vICAgICAgICAgICAndGV4dC1hbGlnbic6ICdjZW50ZXInCiAgICAvLyAgICAgICAgIH0pCiAgICAvLyAgICAgICAgIC5pbnNlcnRCZWZvcmUoJGlucHV0KQogICAgLy8gICAgICAgICAuZGVsYXkoMjAwMCkKICAgIC8vICAgICAgICAgLmZhZGVPdXQoKTsKICAgIC8vCiAgICAvLyAgICAgfSk7CiAgICAvLyAgIH0pCiAgICAvLyB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAuc2lkZWJhciB7CiAgICAgIHdpZHRoOiA0OHB4OwogICAgfQogICAgCiAgICAuc2lkZWJhci5vcGVuIHsKICAgICAgd2lkdGg6IDI1MHB4OwogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgcGFkZGluZzogMTBweDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC5zaWRlYmFyIHsKICAgICAgd2lkdGg6IDQ4cHg7CiAgICB9CiAgICAKICAgIC5zaWRlYmFyLm9wZW4gewogICAgICB3aWR0aDogMjUwcHg7CiAgICB9CiAgICAK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1zaHJpbms6IDE7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgZmxleC1ncm93OiAxOwo=</text>
+        <text encoding="base64">ICAgIC5zaQo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBmb250LWZhbWlseTogIlJhbGV3YXkiLCBBcmlhbCwgSGVsdmV0aWNhLCBzYW5zLXNlcmlmOwo=</text>
+        <text encoding="base64">CiAgICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICNuYXYtdG9nZ2xlOmhvdmVyIHsKICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>back</last-search>
+      <last-search>togg</last-search>
       <last-offset />
-      <last-pattern>back</last-pattern>
+      <last-pattern>togg</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>back</last-substitute>
       <last-dir>1</last-dir>
@@ -1373,9 +1378,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Admin</entry>
-        <entry>border-box</entry>
-        <entry>html</entry>
         <entry>servi</entry>
         <entry>app</entry>
         <entry encoding="base64">XDxuYXZiYXJcPg==</entry>
@@ -1393,6 +1395,9 @@
         <entry>position</entry>
         <entry>ora</entry>
         <entry>back</entry>
+        <entry>white</entry>
+        <entry>curl</entry>
+        <entry>togg</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zb3J0</entry>
@@ -1411,8 +1416,8 @@
         <entry>action VimWindowRight</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>qall</entry>
         <entry>w</entry>
       </history-cmd>
