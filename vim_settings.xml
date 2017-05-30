@@ -114,12 +114,12 @@
         <mark key="." line="4" column="22" />
         <mark key="^" line="4" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook-popup/edit-ebook-basic.component.ts" timestamp="1496169744062">
-        <mark key="'" line="14" column="32" />
-        <mark key="[" line="18" column="87" />
-        <mark key="]" line="18" column="104" />
-        <mark key="." line="18" column="104" />
-        <mark key="^" line="18" column="104" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook-popup/edit-ebook-basic.component.ts" timestamp="1496171089251">
+        <mark key="'" line="44" column="17" />
+        <mark key="[" line="14" column="65" />
+        <mark key="]" line="14" column="73" />
+        <mark key="." line="14" column="73" />
+        <mark key="^" line="14" column="73" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/controllers/SectionsController.js" timestamp="1492718709020">
         <mark key="[" line="18" column="0" />
@@ -994,10 +994,11 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/models/book.ts" timestamp="1496167331273">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="20" />
-        <mark key="." line="3" column="21" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/models/book.ts" timestamp="1496171133303">
+        <mark key="[" line="15" column="11" />
+        <mark key="]" line="15" column="10" />
+        <mark key="." line="15" column="10" />
+        <mark key="^" line="15" column="10" />
       </file>
       <file name="$USER_HOME$/mathtv-ionic/tut/src/pages/hello-ionic/hello-ionic.ts" timestamp="1487975901550">
         <mark key="[" line="5" column="44" />
@@ -1237,7 +1238,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="10" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.component.ts" />
       <jump line="32" column="16" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
       <jump line="85" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
       <jump line="70" column="6" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav.component.ts" />
@@ -1334,13 +1334,14 @@
       <jump line="17" column="32" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook-popup/edit-ebook-basic.component.ts" />
       <jump line="3" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/components/model-editor-select.component.ts" />
       <jump line="8" column="39" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/components/model-editor-text.component.ts" />
-      <jump line="14" column="32" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook-popup/edit-ebook-basic.component.ts" />
       <jump line="7" column="9" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/components/model-editor-chips.component.ts" />
       <jump line="13" column="9" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/components/model-editor-chips.component.ts" />
+      <jump line="14" column="45" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook-popup/edit-ebook-basic.component.ts" />
+      <jump line="44" column="17" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook-popup/edit-ebook-basic.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>values2</text>
+        <text>ever</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1369,13 +1370,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>values2</text>
+        <text>ever</text>
       </register>
       <register name="/" type="4">
         <text>full</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bWQtaW5wdXQtY29udGFpbmVyIFtuZ0NsYXNzXT0ieydmdWxsLXdpZHRoJzogZnVsbFdpZHRofSI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDwhLS0gVGl0bGUgLS0+CiAgICAgICAgICA8eHl6LW1vZGVsLWVkaXRvci10ZXh0IFttb2RlbF09ImJvb2sudGl0bGUiIGxhYmVsPSJUaXRsZSIgW2lubGluZV09InRydWUiIFtmdWxsV2lkdGhdPSJ0cnVlIj48L3h5ei1tb2RlbC1lZGl0b3ItdGV4dD4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">LndyYXBwZXIuZnVsbC13aWR0aCB7CiAgZGlzcGxheTogZmxleDsKICBhbGlnbi1pdGVtczogY2VudGVyOwp9Cg==</text>
@@ -1420,7 +1421,7 @@
         <text encoding="base64">ZGlzcGxheTogZmxleDsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action PreviousTab</text>
       </register>
     </registers>
     <search>
@@ -1474,8 +1475,8 @@
         <entry>58</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>w</entry>
+        <entry>action PreviousTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
