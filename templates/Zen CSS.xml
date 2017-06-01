@@ -8,8 +8,4 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="b" value="bottom:$END$;" description="bottom:...;" toReformat="true" toShortenFQNames="true" />
-  <template name="bg" value="background:#$VAR0$;" description="background:...;" toReformat="true" toShortenFQNames="true">
-    <variable name="VAR0" expression="" defaultValue="&quot;000&quot;" alwaysStopAt="true" />
-  </template>
 </templateSet>
