@@ -1192,11 +1192,11 @@
         <mark key="." line="8" column="3" />
         <mark key="^" line="8" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/components/model-editor-json.component.ts" timestamp="1496352038572">
-        <mark key="'" line="34" column="3" />
-        <mark key="[" line="1" column="42" />
-        <mark key="]" line="1" column="41" />
-        <mark key="." line="1" column="41" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/components/model-editor-json.component.ts" timestamp="1496352238129">
+        <mark key="'" line="30" column="3" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
         <mark key="^" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/styles.css" timestamp="1495760417009">
@@ -1434,8 +1434,8 @@
       <jump line="17" column="20" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/.angular-cli.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>,</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgLmxhYmVsLmxhYmVsMiB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmVkOwogICAgICB9Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1473,7 +1473,7 @@
         <text encoding="base64">ICAgICAgIm5vZGVfbW9kdWxlcy9AdHlwZXMiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0eXBlcyI6IFtdCg==</text>
+        <text encoding="base64">ICAgICAgLmxhYmVsLmxhYmVsMiB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmVkOwogICAgICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1488,31 +1488,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIm5vZGVfbW9kdWxlcy9AdHlwZXMiCg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIDxkaXYgY2xhc3M9ImxhYmVsIGxhYmVsMiI+CiAgICAgICAgPGgyPkxhYmVsMiEhPC9oMj4KICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGVjbGFyZSB2YXIgcmVxdWlyZTogYW55Owo=</text>
+        <text encoding="base64">ICAgICJ0eXBlcyI6IFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgIm5vZGVfbW9kdWxlcy9AdHlwZXMiCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBzdHlsZXM6IFtyZXF1aXJlKCdlZGl0b3ItY29tcG9uZW50cy5jc3MnKV0K</text>
+        <text encoding="base64">ZGVjbGFyZSB2YXIgcmVxdWlyZTogYW55Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICBgCiAgICAubGFiZWwubGFiZWwyIHsKICAgICAgCiAgICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsKICAKICAgIH0KICBgXQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGtrCg==</text>
+        <text encoding="base64">ICBzdHlsZXM6IFtyZXF1aXJlKCdlZGl0b3ItY29tcG9uZW50cy5jc3MnKV0K</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgICAubGFiZWwyIHsKICAgICAgCiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICBgCiAgICAubGFiZWwubGFiZWwyIHsKICAgICAgCiAgICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsKICAKICAgIH0KICBgXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">LmxhYmVsLmxhYmVsMiB7CiAgYmFja2dyb3VuZC1jb2xvcjogcmVkOwogIAp9Cgo=</text>
+        <text encoding="base64">ICAgIGtrCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
