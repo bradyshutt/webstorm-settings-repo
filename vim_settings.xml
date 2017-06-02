@@ -226,12 +226,12 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.module.ts" timestamp="1496347339320">
-        <mark key="'" line="53" column="9" />
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="1" />
-        <mark key="^" line="11" column="1" />
-        <mark key="." line="11" column="1" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/admin.module.ts" timestamp="1496362167567">
+        <mark key="'" line="54" column="9" />
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="60" column="20" />
+        <mark key="^" line="60" column="20" />
+        <mark key="." line="60" column="20" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/sidebar-header/sidebar-header.component.scss" timestamp="1493338755577">
         <mark key="[" line="0" column="0" />
@@ -485,9 +485,12 @@
         <mark key="." line="5" column="25" />
         <mark key="^" line="5" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook/edit-ebook-popup.component.ts" timestamp="1496359908087">
-        <mark key="'" line="48" column="4" />
-        <mark key="^" line="67" column="23" />
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook/edit-ebook-popup.component.ts" timestamp="1496362355959">
+        <mark key="'" line="52" column="4" />
+        <mark key="[" line="25" column="36" />
+        <mark key="]" line="25" column="35" />
+        <mark key="^" line="25" column="35" />
+        <mark key="." line="25" column="35" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/typings.d.ts" timestamp="1496352795043">
         <mark key="[" line="2" column="25" />
@@ -869,6 +872,13 @@
         <mark key="." line="5" column="39" />
         <mark key="^" line="5" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook/edit-ebook-chapters.component.ts" timestamp="1496362150731">
+        <mark key="'" line="4" column="35" />
+        <mark key="[" line="8" column="21" />
+        <mark key="]" line="8" column="22" />
+        <mark key="." line="8" column="22" />
+        <mark key="^" line="8" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/components/model-editor-json.component.ts" timestamp="1496359522526">
         <mark key="'" line="30" column="3" />
         <mark key="[" line="32" column="0" />
@@ -972,7 +982,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="52" column="26" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
       <jump line="56" column="26" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
       <jump line="70" column="26" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
       <jump line="31" column="62" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
@@ -1072,10 +1081,11 @@
       <jump line="78" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
       <jump line="12" column="8" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/ebook-manager.component.ts" />
       <jump line="15" column="0" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/core/login.component.ts" />
+      <jump line="4" column="35" filename="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/ebook-manager/edit-ebook/edit-ebook-chapters.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>json-tweaks</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1104,16 +1114,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>json-tweaks</text>
       </register>
       <register name="/" type="4">
         <text>form</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtZC10YWIgbGFiZWw9IkJhc2ljIj4KICAgICAgICAgICAgPHh5ei1lZGl0LWVib29rLWJhc2ljIFtib29rXT0iYm9vayI+PC94eXotZWRpdC1lYm9vay1iYXNpYz4KICAgICAgICAgIDwvbWQtdGFiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxtZC10YWIgbGFiZWw9IkpTT04gVHdlYWtzIj4KICAgICAgICAgICAgPHh5ei1lZGl0LWVib29rLWpzb24tdHdlYWtzIFtib29rXT0iYm9vayI+PC94eXotZWRpdC1lYm9vay1qc29uLXR3ZWFrcz4KICAgICAgICAgIDwvbWQtdGFiPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1128,34 +1138,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxtZC10YWIgbGFiZWw9IkpTT04gVHdlYWtzIj4KICAgICAgICAgICAgPHh5ei1lZGl0LWVib29rLWpzb24tdHdlYWtzIFtib29rXT0iYm9vayI+PC94eXotZWRpdC1lYm9vay1qc29uLXR3ZWFrcz4KICAgICAgICAgIDwvbWQtdGFiPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgYmxhY2s7Cg==</text>
+        <text encoding="base64">ICAgIE1vZGVsRWRpdG9yRmlsZUNvbXBvbmVudCwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgYmxhY2s7Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgd2lkdGg6IDc1JTsKICAgICAgbWFyZ2luOiBhdXRvCg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgPC9wcmU+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgICAgPHRhYmxlPgogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQgY2xhc3M9ImxhYmVsIj5UaXRsZTwvdGQ+CiAgICAgICAgICAgIDx0ZD48eHl6LW1vZGVsLWVkaXRvci10ZXh0IFttb2RlbF09ImJvb2sudGl0bGUiPjwveHl6LW1vZGVsLWVkaXRvci10ZXh0PjwvdGQ+CiAgICAgICAgICA8L3RyPgogICAgICAgICAgCiAgICAgICAgICA8dHI+CiAgICAgICAgICAgIDx0ZCBjbGFzcz0ibGFiZWwiPlB1Ymxpc2hlcjwvdGQ+CiAgICAgICAgICAgIDx0ZD48eHl6LW1vZGVsLWVkaXRvci10ZXh0IFttb2RlbF09ImJvb2sucHVibGlzaGVyIj48L3h5ei1tb2RlbC1lZGl0b3ItdGV4dD48L3RkPgogICAgICAgICAgPC90cj4KICAgICAgICAKICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRkIGNsYXNzPSJsYWJlbCI+QXV0aG9yczwvdGQ+CiAgICAgICAgICAgIDx0ZD48eHl6LW1vZGVsLWVkaXRvci1jaGlwcyBbY2hpcHNdPSJhdXRob3JDaGlwcyI+PC94eXotbW9kZWwtZWRpdG9yLWNoaXBzPjwvdGQ+CiAgICAgICAgICA8L3RyPgogIAogICAgICAgICAgPHRyPgogICAgICAgICAgICA8dGQgY2xhc3M9ImxhYmVsIj5UeXBlPC90ZD4KICAgICAgICAgICAgPHRkPjx4eXotbW9kZWwtZWRpdG9yLXNlbGVjdCBbb3B0aW9uc109InR5cGVPcHRpb25zIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtmdWxsV2lkdGhdPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxlY3RlZF09ImJvb2sudHlwZSIgPjwveHl6LW1vZGVsLWVkaXRvci1zZWxlY3Q+PC90ZD4KICAgICAgICAgIDwvdHI+CiAgICAgICAgICAKICAgICAgICAgIDx0cj4KICAgICAgICAgICAgPHRkIGNsYXNzPSJsYWJlbCI+VmlzaWJpbGl0eTwvdGQ+CiAgICAgICAgICAgIDx0ZD48eHl6LW1vZGVsLWVkaXRvci1zZWxlY3QgW29wdGlvbnNdPSJ2aXNpYmlsaXR5T3B0aW9ucyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbZnVsbFdpZHRoXT0idHJ1ZSIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbc2VsZWN0ZWRdPSJib29rLndlYnNpdGVWaXNpYmlsaXR5IiA+PC94eXotbW9kZWwtZWRpdG9yLXNlbGVjdD48L3RkPgogICAgICAgICAgPC90cj4KICAgICAgICAgIAogICAgICAgICAgCiAgICAgICAgPC90YWJsZT4K</text>
+      <register name="6" type="4">
+        <text encoding="base64">ICAgICAgPGRpdj4KICAgICAgICA8eHl6LW1vZGVsLWVkaXRvci1qc29uIFt2YWx1ZV09ImJvb2suaW50ZXJhY3RpdmVFYm9va09wdGlvbnMiIFtmdWxsV2lkdGhdPSJ0cnVlIj4KICAgICAgICAgIDxzcGFuIHh5elRlbXBsYXRlPSJ0aXRsZSI+SW50ZXJhY3RpdmUgRWJvb2sgT3B0aW9uczwvc3Bhbj4KICAgICAgICA8L3h5ei1tb2RlbC1lZGl0b3ItanNvbj4KICAgICAgPC9kaXY+CiAgICAgIAogICAgICA8ZGl2PgogICAgICAgIDx4eXotbW9kZWwtZWRpdG9yLWpzb24gW3ZhbHVlXT0iYm9vay5pbnRlcmFjdGl2ZUxpbmtzQWRqdXN0bWVudHMiIFtmdWxsV2lkdGhdPSJ0cnVlIj4KICAgICAgICAgIDxzcGFuIHh5elRlbXBsYXRlPSJ0aXRsZSI+SW50ZXJhY3RpdmUgTGlua3MgQWRqdXN0bWVudHM8L3NwYW4+CiAgICAgICAgPC94eXotbW9kZWwtZWRpdG9yLWpzb24+CiAgICAgIDwvZGl2PgogICAgCiAgICAgIDxkaXY+CiAgICAgICAgPHh5ei1tb2RlbC1lZGl0b3ItanNvbiBbdmFsdWVdPSJib29rLnByb2JsZW1TZXRBZGp1c3RtZW50cyIgW2Z1bGxXaWR0aF09InRydWUiPgogICAgICAgICAgPHNwYW4geHl6VGVtcGxhdGU9InRpdGxlIj5Qcm9ibGVtIFNldCBBZGp1c3RtZW50czwvc3Bhbj4KICAgICAgICA8L3h5ei1tb2RlbC1lZGl0b3ItanNvbj4KICAgICAgPC9kaXY+</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIDxkaXY+PC9kaXY+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0ibGVmdCI+Cg==</text>
+        <text encoding="base64">ICAgICAgZGlzcGxheTogYmxvY2s7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC5sZWZ0IHsKICAgICAgcGFkZGluZzogMjBweAogICAgfQogIAogICAgLnJpZ2h0IHsKICAgICAgcGFkZGluZzogMjBweDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgYmxhY2s7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1209,8 +1219,8 @@
         <entry>q</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>w</entry>
         <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
