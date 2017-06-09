@@ -175,11 +175,11 @@
         <mark key="^" line="32" column="24" />
         <mark key="." line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chor/front-end/proxy.conf.json" timestamp="1496462893472">
+      <file name="$USER_HOME$/dev/projects/chor/front-end/proxy.conf.json" timestamp="1496986848138">
         <mark key="[" line="2" column="15" />
-        <mark key="]" line="2" column="24" />
-        <mark key="^" line="2" column="24" />
-        <mark key="." line="2" column="24" />
+        <mark key="]" line="2" column="21" />
+        <mark key="^" line="2" column="21" />
+        <mark key="." line="2" column="21" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end-v2/.angular-cli.json" timestamp="1495733845204">
         <mark key="[" line="23" column="50" />
@@ -1302,7 +1302,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://api.yourdomai.com</text>
+        <text>api</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1331,7 +1331,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://api.yourdomai.com</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
         <text>.group</text>
@@ -1435,8 +1435,8 @@
         <entry>w'</entry>
         <entry>lw</entry>
         <entry>wq</entry>
-        <entry>qall</entry>
         <entry>q</entry>
+        <entry>qall</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
