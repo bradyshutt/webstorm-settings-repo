@@ -211,11 +211,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" timestamp="1496462798948">
-        <mark key="[" line="60" column="3" />
-        <mark key="]" line="60" column="3" />
-        <mark key="." line="60" column="3" />
-        <mark key="^" line="60" column="3" />
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" timestamp="1496989274946">
+        <mark key="[" line="43" column="41" />
+        <mark key="]" line="43" column="41" />
+        <mark key="." line="43" column="41" />
+        <mark key="^" line="43" column="41" />
       </file>
       <file name="$USER_HOME$/dev/projects/chore/src/app/components/sidebar.component.ts" timestamp="1496110922708">
         <mark key="'" line="13" column="76" />
@@ -1070,6 +1070,9 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/login.component.ts" timestamp="1496987696620">
+        <mark key="'" line="85" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/heroes-routing.module.ts" timestamp="1494810239900">
         <mark key="[" line="20" column="35" />
         <mark key="]" line="20" column="35" />
@@ -1199,8 +1202,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="33" filename="$USER_HOME$/dev/projects/chore/src/app/app.module.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/app.module.ts" />
       <jump line="29" column="28" filename="$USER_HOME$/dev/projects/chore/src/app/app.module.ts" />
       <jump line="12" column="9" filename="$USER_HOME$/dev/projects/chore/src/app/app.module.ts" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/app.module.ts" />
@@ -1299,10 +1300,12 @@
       <jump line="33" column="4" filename="$USER_HOME$/dev/projects/chore/src/app/components/sidebar.component.ts" />
       <jump line="29" column="27" filename="$USER_HOME$/dev/projects/chore/src/app/components/group-view.component.ts" />
       <jump line="11" column="76" filename="$USER_HOME$/dev/projects/chore/src/app/components/sidebar.component.ts" />
+      <jump line="85" column="22" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/login.component.ts" />
+      <jump line="29" column="31" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>api</text>
+        <text>j</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1331,7 +1334,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>api</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>.group</text>
@@ -1340,7 +1343,7 @@
         <text encoding="base64">ICAgICAgaGVpZ2h0OiAnNDAwcHgnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBsZXQgdXNlciA9IE1PQ0tfVVNFUlMuZmluZCgodSkgPT4gdS51c2VybmFtZSA9PT0gdXNlcm5hbWUpOwogICAgICAgIHJldHVybiB1c2VyOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1355,31 +1358,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBsZXQgcmVzdWx0ID0gCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAKICAgCg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHRoaXMuZGlhbG9nLm9wZW4oQWRkR3JvdXBDb21wb25lbnQpOwo=</text>
+        <text encoding="base64">CgogIAogIC8vICBsb2dpbih1c2VybmFtZTogc3RyaW5nLCBwYXNzd29yZDogc3RyaW5nKTogUHJvbWlzZTxVc2VyPiB7CiAvLyByZXR1cm4gbmV3IFByb21pc2UoKHJlc29sdmUsIHJlamVjdCkgPT4gewogLy8gICBsZXQgdXNlciA9IE1PQ0tfVVNFUlMuZmluZCgodSkgPT4gdS51c2VybmFtZSA9PT0gdXNlcm5hbWUpOwogLy8gICBjb25zb2xlLmxvZygnZm91bmQgbW9jayB1c2VyOicsIHVzZXIpOwogLy8KIC8vICAgaWYgKCF1c2VyKQogLy8gICAgIHJldHVybiBzZXRUaW1lb3V0KCgpID0+IHJlamVjdCh7ZXJyb3JNZXNzYWdlOiBgVXNlciAiJHt1c2VybmFtZX0iIG5vdCBmb3VuZC5gfSksIDEwMDApOwogLy8KIC8vICAgY29uc29sZS5sb2coJ3VwMTogJywgdXNlci5wYXNzd29yZCk7CiAvLyAgIGNvbnNvbGUubG9nKCd1cDI6ICcsIHBhc3N3b3JkKTsKIC8vICAgaWYgKHVzZXIucGFzc3dvcmQgIT09IHBhc3N3b3JkKQogLy8gICAgIHJldHVybiBzZXRUaW1lb3V0KCgpID0+IHJlamVjdCh7ZXJyb3JNZXNzYWdlOiAnSW52YWxpZCB1c2VybmFtZS9wYXNzd29yZCBjb21iaW5hdGlvbi4nfSksIDEwMDApOwogLy8KIC8vICAgbGV0IGR1cFVzZXI6IFVzZXIgPSA8VXNlcj4gT2JqZWN0LmFzc2lnbih7fSwgdXNlcik7CiAvLyAgIGRlbGV0ZSBkdXBVc2VyLnBhc3N3b3JkOwogLy8gICBsb2NhbFN0b3JhZ2Uuc2V0SXRlbSgndXNlcicsIEpTT04uc3RyaW5naWZ5KGR1cFVzZXIpKTsKIC8vICAgcmV0dXJuIHNldFRpbWVvdXQoKCkgPT4gcmVzb2x2ZShkdXBVc2VyKSwgMTAwMCk7CiAvLyB9KTsKIC8vIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5zZWxlY3RlZE9wdGlvbiA9IHJlc3VsdDsK</text>
+        <text encoding="base64">ICBnZXRBY3RpdmVVc2VyKCk6IFVzZXIgewogICAgbGV0IHVzZXIgPSBsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgndXNlcicpOwogICAgcmV0dXJuIHVzZXIgPyA8VXNlcj5KU09OLnBhcnNlKHVzZXIpIDogbnVsbDsKICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGFsZXJ0KCdBZGQgZ3JvdXAhJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IoKSB7IH0K</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogeWVsbG93Owo=</text>
+        <text encoding="base64">awo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
