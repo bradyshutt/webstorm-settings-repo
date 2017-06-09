@@ -106,6 +106,13 @@
         <mark key="." line="14" column="17" />
         <mark key="^" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/dashboard.component.ts" timestamp="1496997711481">
+        <mark key="'" line="49" column="26" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="38" />
+        <mark key="^" line="49" column="38" />
+        <mark key="." line="49" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/projects/chore/src/app/app-routing.module.ts" timestamp="1496092017106">
         <mark key="'" line="13" column="23" />
         <mark key="[" line="30" column="0" />
@@ -175,7 +182,8 @@
         <mark key="^" line="32" column="24" />
         <mark key="." line="32" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chor/front-end/proxy.conf.json" timestamp="1496986848138">
+      <file name="$USER_HOME$/dev/projects/chor/front-end/proxy.conf.json" timestamp="1496995988208">
+        <mark key="'" line="5" column="0" />
         <mark key="[" line="2" column="15" />
         <mark key="]" line="2" column="21" />
         <mark key="^" line="2" column="21" />
@@ -211,12 +219,11 @@
         <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" timestamp="1496991534702">
-        <mark key="'" line="10" column="91" />
-        <mark key="[" line="56" column="87" />
-        <mark key="]" line="57" column="7" />
-        <mark key="." line="57" column="7" />
-        <mark key="^" line="57" column="7" />
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" timestamp="1496997818020">
+        <mark key="'" line="22" column="40" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/dev/projects/chore/src/app/components/sidebar.component.ts" timestamp="1496110922708">
         <mark key="'" line="13" column="76" />
@@ -254,6 +261,13 @@
         <mark key="]" line="4" column="17" />
         <mark key="^" line="4" column="17" />
         <mark key="." line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user-resolver.service.ts" timestamp="1496997745857">
+        <mark key="'" line="17" column="39" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="21" column="10" />
       </file>
       <file name="$USER_HOME$/dev/projects/fire/src/app/pages/tabs.ts" timestamp="1495935330398">
         <mark key="[" line="8" column="51" />
@@ -303,6 +317,13 @@
         <mark key="]" line="3" column="20" />
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" timestamp="1496997677778">
+        <mark key="'" line="156" column="32" />
+        <mark key="[" line="155" column="40" />
+        <mark key="]" line="155" column="40" />
+        <mark key="^" line="155" column="40" />
+        <mark key="." line="155" column="40" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/admin/admin-routing.module.ts" timestamp="1494909274330">
         <mark key="[" line="18" column="37" />
@@ -469,6 +490,12 @@
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
         <mark key="^" line="22" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/models/Task.ts" timestamp="1496995986248">
+        <mark key="[" line="5" column="6" />
+        <mark key="]" line="5" column="6" />
+        <mark key="." line="5" column="6" />
+        <mark key="^" line="5" column="6" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/config/autoreload.js" timestamp="1491494823513">
         <mark key="[" line="4" column="45" />
@@ -916,6 +943,10 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/components/sidebar.component.ts" timestamp="1496996647419">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="101" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center.component.ts" timestamp="1494819702670">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -976,9 +1007,10 @@
         <mark key="^" line="42" column="27" />
         <mark key="." line="42" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/models/Group.ts" timestamp="1496991212370">
-        <mark key="[" line="62" column="7" />
-        <mark key="]" line="60" column="6" />
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/models/Group.ts" timestamp="1496993720132">
+        <mark key="'" line="60" column="6" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="62" column="16" />
         <mark key="^" line="60" column="6" />
         <mark key="." line="62" column="7" />
       </file>
@@ -1012,12 +1044,12 @@
         <mark key="^" line="23" column="3" />
         <mark key="." line="23" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" timestamp="1496991242024">
-        <mark key="'" line="10" column="32" />
-        <mark key="[" line="14" column="31" />
-        <mark key="]" line="14" column="31" />
-        <mark key="^" line="14" column="29" />
-        <mark key="." line="14" column="31" />
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" timestamp="1496996899550">
+        <mark key="'" line="40" column="45" />
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="^" line="81" column="8" />
+        <mark key="." line="82" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/editor/edit-book-basic/edit-book-basic.component.ts" timestamp="1495760491131">
         <mark key="[" line="3" column="34" />
@@ -1097,8 +1129,12 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="51" />
       </file>
-      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/login.component.ts" timestamp="1496987696620">
-        <mark key="'" line="85" column="22" />
+      <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/login.component.ts" timestamp="1496997315857">
+        <mark key="'" line="89" column="28" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="76" />
+        <mark key="^" line="87" column="25" />
+        <mark key="." line="87" column="25" />
       </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/heroes/heroes-routing.module.ts" timestamp="1494810239900">
         <mark key="[" line="20" column="35" />
@@ -1229,47 +1265,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="64" column="20" filename="$USER_HOME$/dev/projects/chore/src/app/pages/dashboard.component.ts" />
-      <jump line="13" column="23" filename="$USER_HOME$/dev/projects/chore/src/app/app-routing.module.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/chore/tslint.json" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/projects/chore/tslint.json" />
-      <jump line="71" column="6" filename="$USER_HOME$/dev/projects/chore/src/app/pages/dashboard.component.ts" />
-      <jump line="11" column="5" filename="$USER_HOME$/dev/projects/chore/src/app/pages/dashboard.component.ts" />
-      <jump line="68" column="23" filename="$USER_HOME$/dev/projects/chore/tslint.json" />
-      <jump line="19" column="1" filename="$USER_HOME$/dev/projects/chore/src/app/app.module.ts" />
-      <jump line="24" column="46" filename="$USER_HOME$/dev/projects/chore/src/app/pages/dashboard.component.ts" />
-      <jump line="83" column="23" filename="$USER_HOME$/dev/projects/chore/src/app/pages/dashboard.component.ts" />
-      <jump line="14" column="5" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="115" column="12" filename="$USER_HOME$/dev/projects/chore/tslint.json" />
-      <jump line="70" column="24" filename="$USER_HOME$/dev/projects/chore/tslint.json" />
-      <jump line="27" column="12" filename="$USER_HOME$/dev/projects/chore/src/app/services/group.service.ts" />
-      <jump line="48" column="30" filename="$USER_HOME$/dev/projects/chore/src/app/services/group.service.ts" />
-      <jump line="6" column="17" filename="$USER_HOME$/dev/projects/chore/src/app/models/User.ts" />
-      <jump line="2" column="16" filename="$USER_HOME$/dev/projects/chore/src/app/models/Task.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/services/group.service.ts" />
-      <jump line="3" column="7" filename="$USER_HOME$/dev/projects/chore/src/app/models/Group.ts" />
-      <jump line="19" column="3" filename="$USER_HOME$/dev/projects/chore/src/app/models/Group.ts" />
-      <jump line="21" column="46" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="38" column="8" filename="$USER_HOME$/dev/projects/chore/src/app/models/User.ts" />
-      <jump line="13" column="30" filename="$USER_HOME$/dev/projects/chore/src/app/services/group.service.ts" />
-      <jump line="8" column="55" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="0" column="1" filename="$USER_HOME$/dev/projects/chore/src/app/services/group.service.ts" />
-      <jump line="15" column="49" filename="$USER_HOME$/dev/projects/chore/src/app/services/user-resolver.service.ts" />
-      <jump line="40" column="2" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="79" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/pages/dashboard.component.ts" />
-      <jump line="41" column="39" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="2" column="3" filename="$USER_HOME$/dev/projects/chore/src/app/models/User.ts" />
-      <jump line="27" column="76" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="25" column="67" filename="$USER_HOME$/dev/projects/chore/src/app/services/user.service.ts" />
-      <jump line="19" column="50" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
-      <jump line="13" column="14" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
-      <jump line="39" column="3" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
-      <jump line="25" column="50" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
-      <jump line="92" column="14" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
-      <jump line="64" column="5" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
-      <jump line="26" column="86" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
       <jump line="41" column="29" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
       <jump line="58" column="0" filename="$USER_HOME$/dev/projects/chore/src/app/pages/login.component.ts" />
@@ -1329,10 +1324,51 @@
       <jump line="10" column="32" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
       <jump line="55" column="14" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
       <jump line="10" column="91" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
+      <jump line="19" column="35" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="60" column="6" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/Group.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/Group.ts" />
+      <jump line="23" column="52" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="27" column="35" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="41" column="23" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="59" column="25" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
+      <jump line="73" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
+      <jump line="68" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
+      <jump line="22" column="40" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
+      <jump line="78" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
+      <jump line="19" column="1" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="32" column="59" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="21" column="69" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="49" column="48" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="3" column="35" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="134" column="5" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="5" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/proxy.conf.json" />
+      <jump line="13" column="70" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/sidebar.component.ts" />
+      <jump line="17" column="20" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/dashboard.component.ts" />
+      <jump line="17" column="53" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="40" column="45" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
+      <jump line="154" column="8" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="131" column="48" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="18" column="38" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="153" column="33" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="141" column="5" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="19" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/login.component.ts" />
+      <jump line="24" column="9" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="173" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="20" column="90" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="138" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="89" column="28" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/login.component.ts" />
+      <jump line="26" column="52" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="174" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="30" column="5" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="155" column="27" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="156" column="32" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
+      <jump line="49" column="26" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/dashboard.component.ts" />
+      <jump line="17" column="39" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user-resolver.service.ts" />
+      <jump line="74" column="1" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1361,16 +1397,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>user</text>
+        <text>add</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnZ3JvdXBJZDogJywgZ3JvdXBJZCk7Cg==</text>
+        <text encoding="base64">ICBnZXRVc2VyKHVzZXJJRCk6IFByb21pc2U8YW55PiB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1385,49 +1421,47 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG1kLWlucHV0LWNvbnRhaW5lcj4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aGUuCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPC9tZC1pbnB1dC1jb250YWluZXI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdGhpcy5ncm91cFNlcnZpY2UuZ2V0R3JvdXAoKQo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gIG1kLWJ1dHRvbiAoY2xpY2spPSJhZGRNeVRhc2soKSI+PC9idXR0b24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBsCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAogICAgICAgICAgPGJ1dHRvbiAgbWQtYnV0dG9uIChjbGljayk9ImFkZE15VGFzaygpIj48aSBjbGFzcz0iZmEgZmEtcGx1cyI+PC9pPjwvYnV0dG9uPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IG1kSW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlRhc2tOYW1lIiBbKG5nTW9kZWwpXT0ibmV3VGFzay50YXNrTmFtZSI+Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IG1kSW5wdXQgdHlwZT0idGV4dCIgcGxhY2Vob2xkZXI9IlRhc2tOYW1lIiBbKG5nTW9kZWwpXT0ibmV3VGFzay50YXNrTmFtZSI+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHJlamVjdCgnR3JvdXAgbm90IGZvdW5kJyksIDUwMCk7CiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGFza05hbWU6IG51bGwsCiAgICAgICAgICAgIGdyb3VwSWQ6IG51bGwsCiAgICAgICAgICAgIHVzZXJJZDogbnVsbAogICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>user</last-search>
+      <last-search>add</last-search>
       <last-offset />
-      <last-pattern>user</last-pattern>
+      <last-pattern>add</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>back</last-substitute>
+      <last-substitute>user</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>const</entry>
-        <entry>no-tra</entry>
         <entry>age</entry>
         <entry>Serv</entry>
         <entry>User</entry>
@@ -1446,9 +1480,10 @@
         <entry>co.group</entry>
         <entry>.group</entry>
         <entry>user</entry>
+        <entry>map</entry>
+        <entry>add</entry>
       </history-search>
       <history-cmd>
-        <entry>73</entry>
         <entry>56</entry>
         <entry>action VimWindowRight</entry>
         <entry>443</entry>
@@ -1467,6 +1502,7 @@
         <entry>wq</entry>
         <entry>qall</entry>
         <entry>q</entry>
+        <entry>15</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
