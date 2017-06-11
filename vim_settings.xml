@@ -15,11 +15,11 @@
         <mark key="^" line="0" column="6" />
         <mark key="." line="0" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" timestamp="1497138956669">
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="63" />
-        <mark key="." line="23" column="63" />
-        <mark key="^" line="23" column="113" />
+      <file name="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" timestamp="1497143072962">
+        <mark key="[" line="17" column="29" />
+        <mark key="]" line="17" column="29" />
+        <mark key="." line="17" column="29" />
+        <mark key="^" line="17" column="36" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home-page.component.scss" timestamp="1487979299695">
         <mark key="[" line="25" column="27" />
@@ -993,6 +993,13 @@
         <mark key="^" line="95" column="13" />
         <mark key="." line="96" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" timestamp="1497142287248">
+        <mark key="'" line="7062" column="49" />
+        <mark key="[" line="15881" column="736" />
+        <mark key="]" line="15881" column="735" />
+        <mark key="^" line="15881" column="735" />
+        <mark key="." line="15881" column="735" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center.component.ts" timestamp="1494819702670">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -1329,60 +1336,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/User.ts" />
-      <jump line="58" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/User.ts" />
-      <jump line="7" column="9" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/User.ts" />
-      <jump line="56" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/User.ts" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/User.ts" />
-      <jump line="52" column="8" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="20" column="25" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="8" column="11" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/User.ts" />
-      <jump line="59" column="17" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/Group.ts" />
-      <jump line="17" column="31" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="10" column="32" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="55" column="14" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="10" column="91" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="19" column="35" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="60" column="6" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/Group.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/models/Group.ts" />
-      <jump line="23" column="52" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="27" column="35" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="41" column="23" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="59" column="25" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="73" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="68" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="22" column="40" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="78" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="19" column="1" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="32" column="59" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="21" column="69" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="49" column="48" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="3" column="35" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="134" column="5" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="5" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/proxy.conf.json" />
-      <jump line="13" column="70" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/sidebar.component.ts" />
-      <jump line="17" column="20" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/dashboard.component.ts" />
-      <jump line="17" column="53" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="154" column="8" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="131" column="48" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="18" column="38" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="153" column="33" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="141" column="5" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/login.component.ts" />
-      <jump line="24" column="9" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="173" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="138" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="89" column="28" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/pages/login.component.ts" />
-      <jump line="26" column="52" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="174" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="30" column="5" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="155" column="27" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="156" column="32" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="17" column="39" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user-resolver.service.ts" />
-      <jump line="74" column="1" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" />
-      <jump line="183" column="18" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
-      <jump line="9" column="1" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
-      <jump line="147" column="41" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
       <jump line="15" column="31" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
       <jump line="184" column="0" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/components/group-view.component.ts" />
       <jump line="78" column="11" filename="$USER_HOME$/dev/projects/chor/front-end/src/app/services/group.service.ts" />
@@ -1429,10 +1382,64 @@
       <jump line="19" column="9" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
       <jump line="17" column="36" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
       <jump line="51" column="0" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="12" column="76" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="16" column="81" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="20" column="46" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="50" column="18" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="64" column="0" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="77" column="0" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="60" column="18" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="33" column="5" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="36" column="11" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="65" column="16" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="28" column="7" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="63" column="16" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="62" column="4" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="70" column="16" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="24" column="39" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="71" column="26" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="8" column="111" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="67" column="4" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="15907" column="16" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="15881" column="16" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="16166" column="27" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="16204" column="27" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="16222" column="44" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="16227" column="37" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="16229" column="31" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="6" column="36" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="358" column="20" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="412" column="27" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="415" column="28" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="424" column="44" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="426" column="16" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="443" column="20" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="470" column="8" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="508" column="30" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="519" column="34" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="572" column="22" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="1887" column="34" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="3776" column="30" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="3777" column="31" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="3778" column="23" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="3779" column="23" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="5160" column="31" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="5688" column="53" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="6018" column="23" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="6300" column="23" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="7062" column="49" filename="$USER_HOME$/dev/projects/todayidid/node_modules/@angular/material/@angular/material.js" />
+      <jump line="7" column="59" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="10" column="15" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="66" column="9" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="9" column="29" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="68" column="3" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
+      <jump line="31" column="0" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICNybGE9InJvdXRlckxpbmtBY3RpdmUi</text>
+        <text>_</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1461,16 +1468,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICNybGE9InJvdXRlckxpbmtBY3RpdmUi</text>
+        <text>_</text>
       </register>
       <register name="/" type="4">
-        <text>router</text>
+        <text>output</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC9kZWVwLy5tYXQtdGFiLWxpbmtzIHsK</text>
+        <text encoding="base64">ICAgIG5hdiBhIGRpdiB7CiAgICAgIG9wYWNpdHk6IDEhaW1wb3J0YW50OwogICAgICBjb2xvcjogcmVkOwogICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYm9yZGVyOiAxcHggc29saWQgYmxhY2s7Cg==</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1485,40 +1492,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogaW5saW5lLWZsZXg7Cg==</text>
+        <text encoding="base64">ICAgICAgCiAgICAgIDxuYXYgbWQtdGFiLW5hdi1iYXI+CiAgICAgICAgPGEgbWQtdGFiLWxpbmsgcm91dGVyTGluaz0iL2Rhc2hib2FyZCIgcm91dGVyTGlua0FjdGl2ZSAjcmxhPSJyb3V0ZXJMaW5rQWN0aXZlIiBbYWN0aXZlXT0icmxhLmlzQWN0aXZlIj4KICAgICAgICAgIDxtZC1pY29uPmhvbWU8L21kLWljb24+CiAgICAgICAgPC9hPgogICAgICAgIAogICAgICAgIDxhIG1kLXRhYi1saW5rIHJvdXRlckxpbms9Ii9icm93c2UiIHJvdXRlckxpbmtBY3RpdmUgI3JsYT0icm91dGVyTGlua0FjdGl2ZSIgW2FjdGl2ZV09InJsYS5pc0FjdGl2ZSI+CiAgICAgICAgICA8bWQtaWNvbj5zZWFyY2g8L21kLWljb24+CiAgICAgICAgPC9hPgogICAgICAgIAogICAgICAgIDxhIG1kLXRhYi1saW5rIHJvdXRlckxpbms9Ii9jcmVhdGUtcG9zdCIgcm91dGVyTGlua0FjdGl2ZSAjcmxhPSJyb3V0ZXJMaW5rQWN0aXZlIiBbYWN0aXZlXT0icmxhLmlzQWN0aXZlIj4KICAgICAgICAgIDxtZC1pY29uPmFkZF9ib3g8L21kLWljb24+CiAgICAgICAgPC9hPgogICAgICAgIAogICAgICAgIDxhIG1kLXRhYi1saW5rIHJvdXRlckxpbms9Ii9wcm9maWxlIiByb3V0ZXJMaW5rQWN0aXZlICNybGE9InJvdXRlckxpbmtBY3RpdmUiIFthY3RpdmVdPSJybGEuaXNBY3RpdmUiPgogICAgICAgICAgPG1kLWljb24+YWNjb3VudF9ib3g8L21kLWljb24+CiAgICAgICAgPC9hPgogIAogICAgICAgIDxhIG1kLXRhYi1saW5rIHJvdXRlckxpbms9Ii9zZXR0aW5ncyIgcm91dGVyTGlua0FjdGl2ZSAjcmxhPSJyb3V0ZXJMaW5rQWN0aXZlIiBbYWN0aXZlXT0icmxhLmlzQWN0aXZlIj4KICAgICAgICAgIDxtZC1pY29uPnNldHRpbmdzPC9tZC1pY29uPgogICAgICAgIDwvYT4KICAgICAgICAKICAgICAgPC9uYXY+CiAgCiAgICAgIDxkaXYgY2xhc3M9Im91dGxldC1jb250YWluZXIiPgogICAgICAgIDxyb3V0ZXItb3V0bGV0Pjwvcm91dGVyLW91dGxldD4KICAgICAgPC9kaXY+CiAgICAgIAogICAgPC9kaXY+CiAgYCwKICBzdHlsZXM6IFtgCiAgICAub3V0bGV0LWNvbnRhaW5lciB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6IGdyZWVuOwogICAgICBkaXNwbGF5OiBmbGV4OwogICAgICBmbGV4LWdyb3c6IDE7CiAgICAgIGZsZXgtZGlyZWN0aW9uOiBjb2x1bW47CiAgICAgIGFsaWduLWl0ZW1zOiBzdHJldGNoOwogICAgICAKICAgIH0KICAgIC53cmFwcGVyIHsKICAgICAgYmFja2dyb3VuZC1jb2xvcjogY3lhbjsKICAgICAgZGlzcGxheTogZmxleDsKICAgICAgZmxleC1kaXJlY3Rpb246IGNvbHVtbi1yZXZlcnNlOwogICAgICBmbGV4LWdyb3c6IDE7CiAgICAgIGhlaWdodDogMTAwJTsKICAgIH0KICAgIC9kZWVwLy5tYXQtdGFiLWxpbmtzIHsKICAgICAgZGlzcGxheTogZmxleDsKICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsKICAgIH0KICAgIG5hdiBhIHsKICAgICAgZGlzcGxheTogaW5saW5lLWZsZXg7CiAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgICBmbGV4LWdyb3c6IDE7CiAgICAgIGFsaWduLWl0ZW1zOiBjZW50ZXI7CiAgICB9CiAgICBuYXYgYSBkaXYgewogICAgICBvcGFjaXR5OiAxIWltcG9ydGFudDsKICAgICAgY29sb3I6IHJlZDsKICAgIH0KICAgIAogIGBdCn0pCmV4cG9ydCBjbGFzcyBMYXlvdXRDb21wb25lbnQgaW1wbGVtZW50cyBPbkluaXQgewogIAogIG5hdkxpbmtzID0gWwogICAgeyBsYWJlbDogJ0Rhc2hib2FyZCcsIGxpbms6ICcvZGFzaGJvYXJkJyB9LAogICAgeyBsYWJlbDogJ0Jyb3dzZScsIGxpbms6ICcvYnJvd3NlJyB9LAogICAgeyBsYWJlbDogJysnLCBsaW5rOiAnL25ldy1wb3N0JyB9LAogICAgeyBsYWJlbDogJ1Byb2ZpbGUnLCBsaW5rOiAnL3Byb2ZpbGUnIH0sCiAgICB7IGxhYmVsOiAnU2V0dGluZycsIGxpbms6ICcvc2V0dGluZ3MnIH0sCiAgXTsKICAKICBjb25zdHJ1Y3RvcigpIHsgfQoKICBuZ09uSW5pdCgpIHsKICB9Cgp9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgPCEtLSAKICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC9kZWVwLy5tYXQtdGFiLWxpbmtzIHsK</text>
+        <text encoding="base64">ICAgICAgLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAKCg==</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">ICAgIG5hdiB7CiAgICB9</text>
+        <text encoding="base64">ICAgICAgPG1kLXRhYi1ncm91cD4KICAgICAgICA8bWQtdGFiIGxhYmVsPSJPbmUiPgogICAgICAgICAgPGgxPlNvbWUgdGFiIGNvbnRlbnQ8L2gxPgogICAgICAgICAgPHA+Li4uPC9wPgogICAgICAgIDwvbWQtdGFiPgogICAgICAgIDxtZC10YWIgbGFiZWw9IlR3byI+CiAgICAgICAgICA8aDE+U29tZSBtb3JlIHRhYiBjb250ZW50PC9oMT4KICAgICAgICAgIDxwPi4uLjwvcD4KICAgICAgICA8L21kLXRhYj4KICAgICAgPC9tZC10YWItZ3JvdXA+CiAg</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgZGlzcGxheTogZmxleDsKICAgICAgYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luOiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>router</last-search>
+      <last-search>output</last-search>
       <last-offset />
-      <last-pattern>router</last-pattern>
+      <last-pattern>output</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>input</last-substitute>
       <last-dir>1</last-dir>
@@ -1526,16 +1533,12 @@
     </search>
     <history>
       <history-search>
-        <entry>Top</entry>
-        <entry>prefer</entry>
-        <entry>curly</entry>
         <entry>id</entry>
         <entry encoding="base64">XDxlcnJcPg==</entry>
         <entry encoding="base64">XDxyZW1vdmVcPg==</entry>
         <entry>!</entry>
         <entry>act</entry>
         <entry>this</entry>
-        <entry>active</entry>
         <entry>co.group</entry>
         <entry>.group</entry>
         <entry>user</entry>
@@ -1546,6 +1549,10 @@
         <entry>no-inf</entry>
         <entry>red</entry>
         <entry>router</entry>
+        <entry>routerLin</entry>
+        <entry>active</entry>
+        <entry>change</entry>
+        <entry>output</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
@@ -1561,12 +1568,12 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>e</entry>
         <entry>qw</entry>
-        <entry>w'</entry>
         <entry>lw</entry>
         <entry>qall</entry>
         <entry>15</entry>
         <entry>wq</entry>
         <entry>q</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
