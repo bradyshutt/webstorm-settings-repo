@@ -57,4 +57,10 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
+  <template name="init-routing" value="import { NgModule } from '@angular/core';&#10;import { RouterModule, Routes } from '@angular/router';&#10;&#10;import { PageNotFoundComponent } from './not-found.component';&#10;&#10;const appRoutes: Routes = [&#10;  { path: '',   redirectTo: '/heroes', pathMatch: 'full' },&#10;  { path: '**', component: PageNotFoundComponent }&#10;];&#10;@NgModule({&#10;  imports: [&#10;    RouterModule.forRoot(appRoutes)&#10;  ],&#10;  exports: [&#10;    RouterModule&#10;  ]&#10;})&#10;&#10;export class AppRoutingModule {}&#10;" description="Init angular 4 routing module" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
 </templateSet>
