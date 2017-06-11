@@ -72,11 +72,12 @@
       <option name="HTML_TEXT" value="false" />
     </context>
   </template>
-  <template name="ng-ngModel" value="[(ngModel)]=&quot;$BINDING$&quot;" description="Angular2 ngModel" toReformat="false" toShortenFQNames="true">
+  <template name="ng-model" value="[(ngModel)]=&quot;$BINDING$&quot;" description="Angular2 ngModel" toReformat="false" toShortenFQNames="true">
     <variable name="BINDING" expression="" defaultValue="&quot;binding&quot;" alwaysStopAt="true" />
     <context>
       <option name="HTML" value="true" />
       <option name="HTML_TEXT" value="false" />
+      <option name="TypeScript" value="true" />
     </context>
   </template>
   <template name="ng-ngStyle" value="[ngStyle]=&quot;{$STYLE$: $EXPRESSION$}&quot;" description="Angular2 ngStyle" toReformat="false" toShortenFQNames="true">
