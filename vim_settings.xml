@@ -367,11 +367,11 @@
       <file name="$USER_HOME$/dev/projects/todayidid/client/node_modules/@angular/http/src/http.d.ts" timestamp="1497229440371">
         <mark key="'" line="83" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.html" timestamp="1497395583410">
-        <mark key="[" line="12" column="24" />
-        <mark key="]" line="12" column="24" />
-        <mark key="." line="12" column="24" />
-        <mark key="^" line="15" column="5" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.html" timestamp="1497399794616">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+        <mark key="^" line="16" column="57" />
       </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" timestamp="1496462798948">
         <mark key="[" line="60" column="3" />
@@ -675,11 +675,11 @@
         <mark key="^" line="18" column="18" />
         <mark key="." line="5" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/shared.module.ts" timestamp="1497394496766">
-        <mark key="[" line="14" column="65" />
-        <mark key="]" line="14" column="78" />
-        <mark key="." line="14" column="78" />
-        <mark key="^" line="14" column="78" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/shared.module.ts" timestamp="1497396475636">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="0" />
+        <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/app/pages/home/home-page.component.scss" timestamp="1487979299695">
         <mark key="[" line="25" column="27" />
@@ -1313,11 +1313,11 @@
         <mark key="^" line="1" column="4" />
         <mark key="." line="1" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.scss" timestamp="1497395068381">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-        <mark key="^" line="3" column="14" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.scss" timestamp="1497400029322">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="^" line="23" column="33" />
+        <mark key="." line="17" column="0" />
       </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/components/add-group.component.ts" timestamp="1497000209026">
         <mark key="'" line="25" column="24" />
@@ -1814,8 +1814,8 @@
       <jump line="19" column="3" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1844,16 +1844,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>=&quot;true&quot;</text>
       </register>
       <register name="/" type="4">
         <text>ext</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gbWQtbWVudS1pdGVtPiBTZXR0aW5ncyA8L2J1dHRvbj4KICAgICAgICAgIDxidXR0b24gbWQtbWVudS1pdGVtPiBIZWxwIDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAuZHJvcGRvd24tbWVudSB7CiAgICBiYWNrZ3JvdW5kLWNvbG9yOiBjeWFuOwogIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1868,31 +1868,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vZGlzcGxheTogZmxleDsKICAgIC8vYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvL2Rpc3BsYXk6IGZsZXg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAvL2ZsZXg6IDEgMSBhdXRvOwogIC8vanVzdGlmeS1jb250ZW50OiBzcGFjZS1iZXR3ZWVuOwogIC8vYWxpZ24taXRlbXM6IGNlbnRlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">QnJvd3NlckFuaW1hdGlvbnNNb2R1bGUK</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iZHJvcGRvd24tbWVudSIgZnhIaWRlLmx0LW1kPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQnJvd3NlckFuaW1hdGlvbnNNb2R1bGUgfSBmcm9tICdAYW5ndWxhci9wbGF0Zm9ybS1icm93c2VyL2FuaW1hdGlvbnMnOwo=</text>
+        <text encoding="base64">PGRpdiBjbGFzcz0iZHJvcGRvd24tbWVudSIgZnhIaWRlLmx0LW1kPgo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgZnhGbGV4PSIxIDEgYXV0byI+PC9kaXY+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICAgIDxkaXYgZnhGbGV4PSIxIDEgYXV0byI+PC9kaXY+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
