@@ -508,12 +508,12 @@
         <mark key="^" line="2" column="27" />
         <mark key="." line="2" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app-shell/app-shell.component.html" timestamp="1497560145410">
+      <file name="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app-shell/app-shell.component.html" timestamp="1497562294406">
         <mark key="'" line="21" column="38" />
-        <mark key="[" line="5" column="22" />
-        <mark key="]" line="5" column="25" />
-        <mark key="^" line="5" column="25" />
-        <mark key="." line="5" column="25" />
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="45" />
+        <mark key="^" line="6" column="45" />
+        <mark key="." line="6" column="45" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/shared/shared-components.module.ts" timestamp="1494022422852">
         <mark key="[" line="6" column="93" />
@@ -1870,7 +1870,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>contact</text>
+        <text>x</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1899,7 +1899,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>contact</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
         <text>trail</text>
