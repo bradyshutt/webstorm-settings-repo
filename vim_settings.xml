@@ -78,6 +78,12 @@
         <mark key="." line="11" column="50" />
         <mark key="^" line="16" column="57" />
       </file>
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/index.html" timestamp="1497643107438">
+        <mark key="[" line="7" column="13" />
+        <mark key="]" line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/projects/chore/src/app/components/add-group.component.ts" timestamp="1496110685104">
         <mark key="[" line="14" column="63" />
         <mark key="]" line="14" column="65" />
@@ -654,6 +660,13 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
         <mark key="^" line="14" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/manifest.webapp" timestamp="1497643090063">
+        <mark key="'" line="20" column="6" />
+        <mark key="[" line="18" column="5" />
+        <mark key="]" line="18" column="5" />
+        <mark key="^" line="18" column="5" />
+        <mark key="." line="18" column="5" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/pipes/visibility.pipe.ts" timestamp="1493927180649">
         <mark key="[" line="15" column="0" />
@@ -1770,11 +1783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="27" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/dashboard.component.ts" />
-      <jump line="11" column="27" filename="$USER_HOME$/dev/projects/todayidid/src/app/core/services/post.service.ts" />
-      <jump line="40" column="28" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/dashboard.component.ts" />
-      <jump line="16" column="232" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/dashboard.component.ts" />
-      <jump line="43" column="27" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/dashboard.component.ts" />
       <jump line="38" column="19" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
       <jump line="37" column="27" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/dashboard.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/projects/todayidid/src/app/main/layout.component.ts" />
@@ -1870,10 +1878,15 @@
       <jump line="17" column="42" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app.component.html" />
       <jump line="16" column="45" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app.component.html" />
       <jump line="27" column="28" filename="$USER_HOME$/dev/projects/hacker-news-reader/.angular-cli.json" />
+      <jump line="45" column="0" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/manifest.webapp" />
+      <jump line="46" column="0" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/manifest.webapp" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/manifest.webapp" />
+      <jump line="4" column="0" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/manifest.webapp" />
+      <jump line="41" column="6" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/manifest.webapp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>a</text>
+        <text>stylesheet</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1902,7 +1915,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>stylesheet</text>
       </register>
       <register name="/" type="4">
         <text>css</text>
@@ -1911,7 +1924,7 @@
         <text encoding="base64">ICBoZWlnaHQ6IDM0MHB4Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvZGVlcC9kZAo=</text>
+        <text encoding="base64">ICAgIHsKICAgICAgInNyYyI6ICIvYW5kcm9pZC1jaHJvbWUtMzZ4MzYucG5nIiwKICAgICAgInNpemVzIjogIjM2eDM2IiwKICAgICAgInR5cGUiOiAiaW1hZ2UvcG5nIiwKICAgICAgImRlbnNpdHkiOiAwLjc1CiAgICB9LAogICAgewogICAgICAic3JjIjogIi9hbmRyb2lkLWNocm9tZS00OHg0OC5wbmciLAogICAgICAic2l6ZXMiOiAiNDh4NDgiLAogICAgICAidHlwZSI6ICJpbWFnZS9wbmciLAogICAgICAiZGVuc2l0eSI6IDEKICAgIH0sCiAgICB7CiAgICAgICJzcmMiOiAiL2FuZHJvaWQtY2hyb21lLTcyeDcyLnBuZyIsCiAgICAgICJzaXplcyI6ICI3Mng3MiIsCiAgICAgICJ0eXBlIjogImltYWdlL3BuZyIsCiAgICAgICJkZW5zaXR5IjogMS41CiAgICB9LAogICAgewogICAgICAic3JjIjogIi9hbmRyb2lkLWNocm9tZS05Nng5Ni5wbmciLAogICAgICAic2l6ZXMiOiAiOTZ4OTYiLAogICAgICAidHlwZSI6ICJpbWFnZS9wbmciLAogICAgICAiZGVuc2l0eSI6IDIKICAgIH0sCiAgICB7CiAgICAgICJzcmMiOiAiL2FuZHJvaWQtY2hyb21lLTE0NHgxNDQucG5nIiwKICAgICAgInNpemVzIjogIjE0NHgxNDQiLAogICAgICAidHlwZSI6ICJpbWFnZS9wbmciLAogICAgICAiZGVuc2l0eSI6IDMKICAgIH0sCiAgICB7CiAgICAgICJzcmMiOiAiL2FuZHJvaWQtY2hyb21lLTE5MngxOTIucG5nIiwKICAgICAgInNpemVzIjogIjE5MngxOTIiLAogICAgICAidHlwZSI6ICJpbWFnZS9wbmciLAogICAgICAiZGVuc2l0eSI6IDQKICAgIH0K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1926,19 +1939,19 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAvZGVlcC9kZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtYXJnaW4ta2VmdDogMCAxNXB4Owo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgYmxhY2s7Cg==</text>
+        <text encoding="base64">ICBtYXJnaW4ta2VmdDogMCAxNXB4Owo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBoZWlnaHQ6IDQwMHB4Owo=</text>
+        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgYmxhY2s7Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICBoZWlnaHQ6IDQwMHB4Owo=</text>
@@ -1947,13 +1960,13 @@
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICBoZWlnaHQ6IDQwMHB4Owo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICBib3gtc2l6aW5nOiBib3JkZXItYm94Owo=</text>
+      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2007,8 +2020,8 @@
         <entry>qall</entry>
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
