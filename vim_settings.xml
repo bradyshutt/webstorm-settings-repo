@@ -64,6 +64,11 @@
         <mark key="^" line="8" column="26" />
         <mark key="." line="6" column="38" />
       </file>
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/shared/story/story.ts" timestamp="1497728533476">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/admin/crisis-center-routing.module.ts" timestamp="1494728568323">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="47" column="42" />
@@ -1398,19 +1403,19 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497727146956">
-        <mark key="'" line="35" column="5" />
-        <mark key="[" line="31" column="34" />
-        <mark key="]" line="31" column="34" />
-        <mark key="^" line="25" column="12" />
-        <mark key="." line="31" column="34" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497729538070">
+        <mark key="'" line="46" column="5" />
+        <mark key="[" line="25" column="30" />
+        <mark key="]" line="25" column="30" />
+        <mark key="." line="25" column="30" />
+        <mark key="^" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497727477294">
-        <mark key="'" line="5" column="34" />
-        <mark key="[" line="31" column="36" />
-        <mark key="]" line="31" column="41" />
-        <mark key="." line="31" column="41" />
-        <mark key="^" line="31" column="41" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497729509355">
+        <mark key="'" line="58" column="17" />
+        <mark key="[" line="15" column="71" />
+        <mark key="]" line="15" column="72" />
+        <mark key="." line="15" column="72" />
+        <mark key="^" line="15" column="72" />
       </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/components/sidebar.component.ts" timestamp="1497000300675">
         <mark key="[" line="12" column="0" />
@@ -1938,8 +1943,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="18" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/featured-videos/featured-videos.component.ts" />
-      <jump line="35" column="19" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/home.component.html" />
       <jump line="5" column="0" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/math-topics/math-topics.component.scss" />
       <jump line="5" column="16" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/featured-videos/featured-videos.component.html" />
       <jump line="10" column="1" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/featured-videos/featured-videos.component.scss" />
@@ -2038,10 +2041,12 @@
       <jump line="32" column="18" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" />
       <jump line="39" column="5" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" />
       <jump line="12" column="17" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.html" />
+      <jump line="43" column="8" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" />
+      <jump line="49" column="17" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>$</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2070,16 +2075,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text>output</text>
+        <text>flat</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBvdXRwdXQgPSAnaGknOwo=</text>
+        <text encoding="base64">ICBwcml2YXRlIG5ld1N0b3J5QXZhaWxhYmxlU291cmNlID0gbmV3IFN1YmplY3Q8U3Rvcnk+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB9KQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2094,40 +2099,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBuZXdTdG9yaWVzLnN1YnNjcmliZSgobmV3U3Rvcmllc0xpc3QpID0+IHsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICA8cD57e291dHB1dH19PC9wPgo=</text>
+        <text encoding="base64">ICAgIHRoaXMuaG5zLmdldExhdGVzdFN0b3J5KCkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMub3V0cHV0ID0gJ2hpJwo=</text>
+        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSgpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBtb2RlbCA9IHsKICAgIG91dHB1dDogJ2hpJwogIH07Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBtb2RlbC5vdXRwdXQgPSAnaGknOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgdGhpcy5sYXN0U3RvcnkgPQo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMub3V0cHV0ID0gCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3V0cHV0ID0geyB0ZXN0OiAndGVzdCcsCiAgICAgIHRlc3QyOiAndGVzdDInCiAgICB9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>output</last-search>
+      <last-search>flat</last-search>
       <last-offset />
-      <last-pattern>output</last-pattern>
+      <last-pattern>flat</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>input</last-substitute>
       <last-dir>1</last-dir>
@@ -2135,7 +2140,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isOpen</entry>
         <entry encoding="base64">XDxhdXRob3JDaGlwc1w+</entry>
         <entry>share</entry>
         <entry>attr</entry>
@@ -2155,6 +2159,7 @@
         <entry>app</entry>
         <entry>const</entry>
         <entry>output</entry>
+        <entry>flat</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
