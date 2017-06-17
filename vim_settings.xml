@@ -132,6 +132,9 @@
         <mark key="." line="13" column="7" />
         <mark key="^" line="13" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" timestamp="1497659621099">
+        <mark key="'" line="73" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/book-manager/book-manager.routing.ts" timestamp="1490926860960">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="6" column="25" />
@@ -417,6 +420,10 @@
         <mark key="^" line="59" column="49" />
         <mark key="." line="59" column="49" />
       </file>
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/tsconfig.json" timestamp="1497659906815">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="13" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/auth.service.ts" timestamp="1494908305035">
         <mark key="[" line="20" column="16" />
         <mark key="]" line="21" column="27" />
@@ -617,11 +624,6 @@
         <mark key="]" line="0" column="15" />
         <mark key="^" line="0" column="15" />
         <mark key="." line="0" column="15" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/node_modules/@angular/material/_theming.scss" timestamp="1497646249459">
-        <mark key="'" line="659" column="1" />
-        <mark key="[" line="923" column="0" />
-        <mark key="]" line="923" column="12" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar/sidebar.module.ts" timestamp="1495754063921">
         <mark key="[" line="11" column="27" />
@@ -970,11 +972,6 @@
         <mark key="." line="86" column="7" />
         <mark key="^" line="87" column="7" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/shell.component.scss" timestamp="1497558056388">
-        <mark key="'" line="12" column="4" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular4_CLI_Starter/angular-cli.json" timestamp="1491938355420">
         <mark key="[" line="25" column="0" />
         <mark key="]" line="25" column="48" />
@@ -1080,8 +1077,11 @@
         <mark key="." line="20" column="29" />
         <mark key="^" line="20" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/package.json" timestamp="1497648826539">
-        <mark key="'" line="47" column="5" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/package.json" timestamp="1497660104358">
+        <mark key="'" line="43" column="10" />
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/sidebar-module/src/app/sidebar/sidebar.component.ts" timestamp="1495755850579">
         <mark key="[" line="9" column="0" />
@@ -1196,6 +1196,12 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="5" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/tsconfig.app.json" timestamp="1497659916753">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="9" />
+        <mark key="." line="7" column="9" />
+        <mark key="^" line="7" column="9" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/angular-router-tutorial/src/app/crisis-center/crisis-center-home.component.ts" timestamp="1494819752772">
         <mark key="[" line="5" column="36" />
         <mark key="]" line="5" column="36" />
@@ -1309,10 +1315,6 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="19" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/pages/home/home-routing.module.ts" timestamp="1497558243159">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="10" column="5" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/ui-components/components/heading/heading.component.css" timestamp="1490932504173">
         <mark key="[" line="1" column="10" />
         <mark key="]" line="2" column="22" />
@@ -1368,17 +1370,19 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497656007307">
-        <mark key="'" line="16" column="31" />
-        <mark key="[" line="26" column="54" />
-        <mark key="]" line="26" column="55" />
-        <mark key="." line="26" column="54" />
-        <mark key="^" line="26" column="54" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497659861568">
+        <mark key="'" line="17" column="31" />
+        <mark key="[" line="17" column="32" />
+        <mark key="]" line="17" column="63" />
+        <mark key="." line="17" column="63" />
+        <mark key="^" line="17" column="63" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497656106322">
-        <mark key="[" line="5" column="19" />
-        <mark key="]" line="3" column="20" />
-        <mark key="." line="3" column="20" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497659801922">
+        <mark key="'" line="1" column="34" />
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="45" />
+        <mark key="^" line="8" column="45" />
+        <mark key="." line="8" column="45" />
       </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/components/sidebar.component.ts" timestamp="1497000300675">
         <mark key="[" line="12" column="0" />
@@ -1657,6 +1661,13 @@
         <mark key="^" line="33" column="51" />
         <mark key="." line="33" column="51" />
       </file>
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/core.module.ts" timestamp="1497659786465">
+        <mark key="'" line="10" column="18" />
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
+      </file>
       <file name="$USER_HOME$/dev/projects/todayidid/src/app/main/main-routing.module.ts" timestamp="1497223146560">
         <mark key="'" line="16" column="30" />
         <mark key="[" line="24" column="60" />
@@ -1848,10 +1859,6 @@
         <mark key="^" line="7" column="3" />
         <mark key="." line="7" column="3" />
       </file>
-      <file name="/mathtv-theme.scss" timestamp="1497646601721">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="50" />
-      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/models/book.ts" timestamp="1496960486176">
         <mark key="'" line="28" column="4" />
         <mark key="[" line="28" column="0" />
@@ -1884,12 +1891,12 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/app.module.ts" timestamp="1497652500588">
-        <mark key="'" line="22" column="8" />
-        <mark key="[" line="22" column="8" />
-        <mark key="]" line="2" column="18" />
-        <mark key="^" line="2" column="18" />
-        <mark key="." line="22" column="13" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/app.module.ts" timestamp="1497659814366">
+        <mark key="'" line="24" column="8" />
+        <mark key="[" line="22" column="18" />
+        <mark key="]" line="23" column="14" />
+        <mark key="^" line="23" column="14" />
+        <mark key="." line="23" column="14" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/shared/shared.module.ts" timestamp="1497571060859">
         <mark key="[" line="23" column="15" />
@@ -1905,40 +1912,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="66" column="21" filename="$USER_HOME$/dev/projects/todayidid/client/node_modules/@angular/http/src/http.d.ts" />
-      <jump line="43" column="4" filename="$USER_HOME$/dev/projects/todayidid/client/node_modules/@angular/http/src/http.d.ts" />
-      <jump line="81" column="32" filename="$USER_HOME$/dev/projects/todayidid/client/node_modules/@angular/http/src/http.d.ts" />
-      <jump line="83" column="4" filename="$USER_HOME$/dev/projects/todayidid/client/node_modules/@angular/http/src/http.d.ts" />
-      <jump line="19" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/.angular-cli.json" />
-      <jump line="53" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/.angular-cli.json" />
-      <jump line="4" column="13" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="16" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app-routing.module.ts" />
-      <jump line="15" column="42" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app-routing.module.ts" />
-      <jump line="4" column="17" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home-routing.module.ts" />
-      <jump line="4" column="19" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.ts" />
-      <jump line="10" column="16" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.module.ts" />
-      <jump line="17" column="13" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home-routing.module.ts" />
-      <jump line="13" column="16" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.module.ts" />
-      <jump line="12" column="24" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.ts" />
-      <jump line="23" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/mathtv-theme.scss" />
-      <jump line="21" column="17" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/.angular-cli.json" />
-      <jump line="2" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/styles.scss" />
-      <jump line="12" column="40" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/mathtv-theme.scss" />
-      <jump line="14" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/mathtv-theme.scss" />
-      <jump line="13" column="37" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/mathtv-theme.scss" />
-      <jump line="635" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@angular/material/_theming.scss" />
-      <jump line="5" column="19" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="19" column="3" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" />
-      <jump line="17" column="12" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/tslint.json" />
-      <jump line="12" column="23" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/home.component.html" />
-      <jump line="16" column="19" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/home-routing.module.ts" />
-      <jump line="5" column="19" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/shell.component.html" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/shell.component.html" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/shell.component.html" />
-      <jump line="12" column="4" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/home/shell.component.scss" />
-      <jump line="17" column="2" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app-routing.module.ts" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app-routing.module.ts" />
-      <jump line="27" column="0" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app-routing.module.ts" />
       <jump line="32" column="0" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app-routing.module.ts" />
       <jump line="16" column="17" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app.module.ts" />
       <jump line="42" column="1" filename="$USER_HOME$/dev/work/mathtv/sails/mathtv-3.0/src/app/app-routing.module.ts" />
@@ -2005,10 +1978,44 @@
       <jump line="2" column="35" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/app.module.ts" />
       <jump line="22" column="8" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/app.module.ts" />
       <jump line="6" column="53" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/app.component.html" />
+      <jump line="2" column="16" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" />
+      <jump line="1" column="34" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" />
+      <jump line="173" column="0" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="28" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="153" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="157" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="166" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="170" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="176" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="180" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="186" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="190" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="196" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="200" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="206" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="208" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="216" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="220" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="23" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="228" column="2" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="17" column="0" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="101" column="13" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="249" column="16" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="319" column="12" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="334" column="15" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="360" column="16" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="368" column="10" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="369" column="9" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="403" column="12" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="67" column="66" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="73" column="9" filename="$USER_HOME$/dev/projects/hacker-news-reader/node_modules/firebase/firebase.d.ts" />
+      <jump line="10" column="18" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/core.module.ts" />
+      <jump line="43" column="10" filename="$USER_HOME$/dev/projects/hacker-news-reader/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>^</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2037,16 +2044,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>^</text>
       </register>
       <register name="/" type="4">
-        <text>wid</text>
+        <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEZvcm1zTW9kdWxlLAo=</text>
+        <text encoding="base64">ICAgICJ0eXBlUm9vdHMiOiBbCiAgICAgICJub2RlX21vZHVsZXMvQHR5cGVzIgogICAgXSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PGJyPgo=</text>
+        <text encoding="base64">ICAgICJ0eXBlcyI6IFtdCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2061,40 +2068,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBiYXNlID0gJ2h0dHBzOi8vaGFja2VyLW5ld3MuZmlyZWJhc2Vpby5jb20vdjAnOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAKPC9tZC1jYXJkPgo=</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiA7Cg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBjb2xvcjogcmVkOwo=</text>
+        <text encoding="base64">ICBhcGkuY2hpbGQoYCR7dHlwZX1zdG9yaWVzYCkub24oJ3ZhbHVlJywgc25hcHNob3QgPT4gewoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">cmVxdWlyZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0IHsgRmlyZWJhc2UgfSBmcm9tICdmaXJlYmFzZSc7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ampqamsK</text>
+        <text encoding="base64">PGJyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>wid</last-search>
+      <last-search>fire</last-search>
       <last-offset />
-      <last-pattern>wid</last-pattern>
+      <last-pattern>fire</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>input</last-substitute>
       <last-dir>1</last-dir>
@@ -2102,9 +2109,6 @@
     </search>
     <history>
       <history-search>
-        <entry>eb</entry>
-        <entry>ebook</entry>
-        <entry>cli</entry>
         <entry>user</entry>
         <entry>userNavO</entry>
         <entry>isOpen</entry>
@@ -2122,6 +2126,9 @@
         <entry>sasss</entry>
         <entry>sass</entry>
         <entry>wid</entry>
+        <entry>class</entry>
+        <entry>url</entry>
+        <entry>fire</entry>
       </history-search>
       <history-cmd>
         <entry>56</entry>
