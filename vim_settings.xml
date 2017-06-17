@@ -1398,19 +1398,19 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497725129480">
-        <mark key="'" line="37" column="5" />
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="37" column="14" />
-        <mark key="." line="32" column="0" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497727146956">
+        <mark key="'" line="35" column="5" />
+        <mark key="[" line="31" column="34" />
+        <mark key="]" line="31" column="34" />
+        <mark key="^" line="25" column="12" />
+        <mark key="." line="31" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497724660976">
-        <mark key="'" line="4" column="34" />
-        <mark key="[" line="27" column="49" />
-        <mark key="]" line="27" column="53" />
-        <mark key="." line="27" column="53" />
-        <mark key="^" line="27" column="53" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497727477294">
+        <mark key="'" line="5" column="34" />
+        <mark key="[" line="31" column="36" />
+        <mark key="]" line="31" column="41" />
+        <mark key="." line="31" column="41" />
+        <mark key="^" line="31" column="41" />
       </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/components/sidebar.component.ts" timestamp="1497000300675">
         <mark key="[" line="12" column="0" />
@@ -2040,8 +2040,8 @@
       <jump line="12" column="17" filename="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICA8cD57e291dHB1dH19PC9wPgo=</text>
+      <register name="&quot;" type="4">
+        <text>]</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2070,7 +2070,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>{{output}}</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>output</text>
@@ -2079,7 +2079,7 @@
         <text encoding="base64">ICBvdXRwdXQgPSAnaGknOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8cD57e291dHB1dH19PC9wPgo=</text>
+        <text encoding="base64">ICAgICAgICB9KQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2094,31 +2094,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMub3V0cHV0ID0gJ2hpJwo=</text>
+        <text encoding="base64">ICAgICAgICBuZXdTdG9yaWVzLnN1YnNjcmliZSgobmV3U3Rvcmllc0xpc3QpID0+IHsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBtb2RlbCA9IHsKICAgIG91dHB1dDogJ2hpJwogIH07Cg==</text>
+        <text encoding="base64">ICA8cD57e291dHB1dH19PC9wPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBtb2RlbC5vdXRwdXQgPSAnaGknOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub3V0cHV0ID0gJ2hpJwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBtb2RlbCA9IHsKICAgIG91dHB1dDogJ2hpJwogIH07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHRoaXMub3V0cHV0ID0gCg==</text>
+        <text encoding="base64">ICBtb2RlbC5vdXRwdXQgPSAnaGknOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMub3V0cHV0ID0geyB0ZXN0OiAndGVzdCcsCiAgICAgIHRlc3QyOiAndGVzdDInCiAgICB9OwoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbGV0IGhpID0ge2hpOiAnaGknfTsK</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMub3V0cHV0ID0gCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMub3V0cHV0ID0geyB0ZXN0OiAndGVzdCcsCiAgICAgIHRlc3QyOiAndGVzdDInCiAgICB9OwoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
