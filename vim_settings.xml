@@ -1403,19 +1403,19 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497729538070">
-        <mark key="'" line="46" column="5" />
-        <mark key="[" line="25" column="30" />
-        <mark key="]" line="25" column="30" />
-        <mark key="." line="25" column="30" />
-        <mark key="^" line="25" column="30" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497734217628">
+        <mark key="'" line="47" column="5" />
+        <mark key="[" line="33" column="20" />
+        <mark key="]" line="33" column="23" />
+        <mark key="." line="33" column="23" />
+        <mark key="^" line="33" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497729509355">
-        <mark key="'" line="58" column="17" />
-        <mark key="[" line="15" column="71" />
-        <mark key="]" line="15" column="72" />
-        <mark key="." line="15" column="72" />
-        <mark key="^" line="15" column="72" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497734633380">
+        <mark key="'" line="59" column="17" />
+        <mark key="[" line="44" column="29" />
+        <mark key="]" line="44" column="29" />
+        <mark key="." line="44" column="29" />
+        <mark key="^" line="43" column="40" />
       </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/components/sidebar.component.ts" timestamp="1497000300675">
         <mark key="[" line="12" column="0" />
@@ -2046,7 +2046,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>$</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2075,7 +2075,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>flat</text>
@@ -2084,7 +2084,7 @@
         <text encoding="base64">ICBwcml2YXRlIG5ld1N0b3J5QXZhaWxhYmxlU291cmNlID0gbmV3IFN1YmplY3Q8U3Rvcnk+KCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gdGhpcy5sYXN0U3RvcnkgPQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2099,31 +2099,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgdGhpcy5uZXdTdG9yeUF2YWlsYWJsZVNvdXJjZS5uZXh0KHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaG5zLmdldExhdGVzdFN0b3J5KCkK</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3NuYXBzaG90OicsIHNuYXBzaG90KTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSgpCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0KCkK</text>
+        <text encoding="base64">ICAgIHRoaXMuaG5zLmdldExhdGVzdFN0b3J5KCkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5sYXN0U3RvcnkgPQo=</text>
+        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSgpCg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0KCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2179,8 +2179,8 @@
         <entry>diff</entry>
         <entry>kw</entry>
         <entry>wq</entry>
-        <entry>qall</entry>
         <entry>q</entry>
+        <entry>qall</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
