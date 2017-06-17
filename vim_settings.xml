@@ -1370,19 +1370,19 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497659861568">
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/api-test/api-test.component.ts" timestamp="1497721444594">
         <mark key="'" line="17" column="31" />
-        <mark key="[" line="17" column="32" />
-        <mark key="]" line="17" column="63" />
-        <mark key="." line="17" column="63" />
-        <mark key="^" line="17" column="63" />
+        <mark key="[" line="23" column="5" />
+        <mark key="]" line="23" column="5" />
+        <mark key="." line="23" column="5" />
+        <mark key="^" line="23" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497659801922">
-        <mark key="'" line="1" column="34" />
-        <mark key="[" line="8" column="35" />
-        <mark key="]" line="8" column="45" />
-        <mark key="^" line="8" column="45" />
-        <mark key="." line="8" column="45" />
+      <file name="$USER_HOME$/dev/projects/hacker-news-reader/src/app/core/hackernews.service.ts" timestamp="1497721563481">
+        <mark key="'" line="3" column="34" />
+        <mark key="[" line="36" column="19" />
+        <mark key="]" line="36" column="23" />
+        <mark key="^" line="36" column="23" />
+        <mark key="." line="36" column="23" />
       </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/components/sidebar.component.ts" timestamp="1497000300675">
         <mark key="[" line="12" column="0" />
@@ -2015,7 +2015,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>^</text>
+        <text encoding="base64">OiBTdWJqZWN0PD4=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2044,16 +2044,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>^</text>
+        <text encoding="base64">OiBTdWJqZWN0PD4=</text>
       </register>
       <register name="/" type="4">
         <text>fire</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0eXBlUm9vdHMiOiBbCiAgICAgICJub2RlX21vZHVsZXMvQHR5cGVzIgogICAgXSwK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5ldmVudHNTb3VyY2UubmV4dChzbmFwc2hvdCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJ0eXBlcyI6IFtdCg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2068,31 +2068,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICJ0eXBlcyI6IFtdCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBhcGkuY2hpbGQoYCR7dHlwZX1zdG9yaWVzYCkub24oJ3ZhbHVlJywgc25hcHNob3QgPT4gewoK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">cmVxdWlyZSgpCg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0IHsgRmlyZWJhc2UgfSBmcm9tICdmaXJlYmFzZSc7Cg==</text>
+        <text encoding="base64">ICBhcGkuY2hpbGQoYCR7dHlwZX1zdG9yaWVzYCkub24oJ3ZhbHVlJywgc25hcHNob3QgPT4gewoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGJyPgo=</text>
+        <text encoding="base64">cmVxdWlyZSgpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
