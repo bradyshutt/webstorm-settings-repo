@@ -1306,6 +1306,12 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/styles.scss" timestamp="1498086438764">
+        <mark key="[" line="6" column="28" />
+        <mark key="]" line="6" column="28" />
+        <mark key="^" line="6" column="44" />
+        <mark key="." line="6" column="28" />
+      </file>
       <file name="$USER_HOME$/dev/projects/chore/.angular-cli.json" timestamp="1496105487386">
         <mark key="[" line="21" column="38" />
         <mark key="]" line="21" column="61" />
@@ -1939,7 +1945,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>rd</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1968,7 +1974,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>rd</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>border-bo</text>
