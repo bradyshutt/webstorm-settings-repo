@@ -1191,13 +1191,13 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" timestamp="1498264787721">
-        <mark key="'" line="84" column="49" />
-        <mark key="i" line="57" column="41" />
-        <mark key="[" line="60" column="32" />
-        <mark key="]" line="60" column="32" />
-        <mark key="^" line="61" column="42" />
-        <mark key="." line="60" column="38" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" timestamp="1498265897722">
+        <mark key="'" line="85" column="49" />
+        <mark key="i" line="58" column="41" />
+        <mark key="[" line="88" column="37" />
+        <mark key="]" line="88" column="45" />
+        <mark key="^" line="88" column="45" />
+        <mark key="." line="88" column="45" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/example-resolver.service.ts" timestamp="1498240082259">
         <mark key="[" line="10" column="0" />
@@ -2033,7 +2033,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>res</text>
+        <text>flatMap</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2062,7 +2062,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>res</text>
+        <text>flatMap</text>
       </register>
       <register name="/" type="4">
         <text>clic</text>
