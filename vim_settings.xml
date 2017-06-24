@@ -481,8 +481,8 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/topic.ts" timestamp="1498177377490">
-        <mark key="'" line="18" column="1" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/topic.ts" timestamp="1498266646911">
+        <mark key="'" line="23" column="30" />
         <mark key="[" line="41" column="19" />
         <mark key="]" line="41" column="19" />
         <mark key="^" line="41" column="19" />
@@ -1191,8 +1191,8 @@
         <mark key="^" line="23" column="26" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" timestamp="1498265897722">
-        <mark key="'" line="85" column="49" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" timestamp="1498266543172">
+        <mark key="'" line="84" column="28" />
         <mark key="i" line="58" column="41" />
         <mark key="[" line="88" column="37" />
         <mark key="]" line="88" column="45" />
@@ -1260,8 +1260,8 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/resources.ts" timestamp="1498245224109">
-        <mark key="'" line="14" column="60" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/resources.ts" timestamp="1498266658358">
+        <mark key="'" line="9" column="13" />
         <mark key="[" line="11" column="25" />
         <mark key="]" line="11" column="25" />
         <mark key="^" line="11" column="25" />
@@ -1930,9 +1930,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/video-player-resolver.service.ts" />
-      <jump line="35" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/core.module.ts" />
-      <jump line="9" column="54" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/core.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/core.module.ts" />
       <jump line="27" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" />
       <jump line="53" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" />
@@ -2030,6 +2027,9 @@
       <jump line="85" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" />
       <jump line="22" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" />
       <jump line="75" column="49" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" />
+      <jump line="84" column="28" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" />
+      <jump line="23" column="30" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/topic.ts" />
+      <jump line="9" column="13" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/resources.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -2111,7 +2111,7 @@
         <text encoding="base64">ICAgICAgdGhpcy5uZXh0RXhhbXBsZSA9IG51bGw7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2164,9 +2164,9 @@
         <entry>action VimWindowRight</entry>
         <entry>action VimWindowDown</entry>
         <entry>q</entry>
+        <entry>w</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
-        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
