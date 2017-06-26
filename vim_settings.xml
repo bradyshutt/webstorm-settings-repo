@@ -236,11 +236,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="21" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/accordion-item.ts" timestamp="1498515966973">
-        <mark key="[" line="6" column="2" />
-        <mark key="]" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-        <mark key="^" line="6" column="5" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/accordion-item.ts" timestamp="1498519944432">
+        <mark key="[" line="12" column="11" />
+        <mark key="]" line="12" column="12" />
+        <mark key="." line="12" column="12" />
+        <mark key="^" line="12" column="23" />
       </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/guards/auth.guard.ts" timestamp="1494731758407">
         <mark key="[" line="15" column="34" />
@@ -630,12 +630,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" timestamp="1498519519977">
-        <mark key="'" line="132" column="35" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="^" line="38" column="5" />
-        <mark key="." line="41" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" timestamp="1498520402779">
+        <mark key="'" line="159" column="31" />
+        <mark key="[" line="125" column="38" />
+        <mark key="]" line="125" column="43" />
+        <mark key="." line="125" column="43" />
+        <mark key="^" line="125" column="43" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/book-manager/components/smartTables/smartTables.component.ts" timestamp="1490928036710">
         <mark key="[" line="9" column="16" />
@@ -1945,9 +1945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="37" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/utils/is-undefined-or-null.ts" />
-      <jump line="3664" column="29" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@types/node/index.d.ts" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" />
       <jump line="155" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" />
       <jump line="15" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" />
       <jump line="31" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/video-player-popup/video-player-popup.component.ts" />
@@ -2038,17 +2035,20 @@
       <jump line="87" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="80" column="22" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="129" column="38" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
-      <jump line="160" column="19" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="154" column="17" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="114" column="41" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="162" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="123" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="125" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="126" column="35" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
+      <jump line="160" column="27" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
+      <jump line="128" column="33" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
+      <jump line="138" column="33" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
+      <jump line="159" column="31" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>lastParamName</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2077,13 +2077,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>lastParamName</text>
       </register>
       <register name="/" type="4">
         <text>merge</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGUucXVlcnlQYXJhbXMuc3Vic2NyaWJlKChxdWVyeVBhcmFtcykgPT4gY29uc29sZS5sb2coJ1JvdXRlIFF1ZXJ5IFBhcmFtcyAgdXBkYXRlZDonLCBxdWVyeVBhcmFtcykpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2l0ZW0ubGFzdFBhcmFtTmFtZScsIGl0ZW0ubGFzdFBhcmFtTmFtZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -2126,7 +2126,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -2177,11 +2177,11 @@
         <entry>29</entry>
         <entry>26</entry>
         <entry>qall</entry>
-        <entry>q</entry>
         <entry>g</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
+        <entry>q</entry>
         <entry>w</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
