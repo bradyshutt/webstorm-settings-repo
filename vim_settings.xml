@@ -630,12 +630,12 @@
         <mark key="." line="20" column="27" />
         <mark key="^" line="20" column="27" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" timestamp="1498516979621">
-        <mark key="'" line="123" column="12" />
-        <mark key="[" line="42" column="25" />
-        <mark key="]" line="42" column="25" />
-        <mark key="." line="42" column="25" />
-        <mark key="^" line="125" column="52" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" timestamp="1498519519977">
+        <mark key="'" line="132" column="35" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="38" column="5" />
+        <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/pages/book-manager/components/smartTables/smartTables.component.ts" timestamp="1490928036710">
         <mark key="[" line="9" column="16" />
@@ -1403,11 +1403,11 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/resolvers/topic-resolver.service.ts" timestamp="1498514840954">
-        <mark key="[" line="13" column="34" />
-        <mark key="]" line="13" column="34" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="13" column="34" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/resolvers/topic-resolver.service.ts" timestamp="1498517880751">
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="19" />
+        <mark key="^" line="13" column="19" />
+        <mark key="." line="13" column="19" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.spec.ts" timestamp="1498078486816">
         <mark key="'" line="18" column="24" />
@@ -1945,8 +1945,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/instructor-icon/instructor-icon.component.ts" />
-      <jump line="6" column="47" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/instructor-icon/instructor-icon.component.ts" />
       <jump line="1" column="37" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/utils/is-undefined-or-null.ts" />
       <jump line="3664" column="29" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@types/node/index.d.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.ts" />
@@ -2045,10 +2043,12 @@
       <jump line="114" column="41" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="162" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
       <jump line="123" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
+      <jump line="125" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
+      <jump line="126" column="35" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>resolved: {</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2077,16 +2077,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>resolved: {</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>etm</text>
+        <text>merge</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgbGV0IHRvcGljQmFzZVVybCA9IGl0ZW0ubGluay5zcGxpdCgnLycpLnNsaWNlKDEsIDMpLmpvaW4oJy8nKTsKICAgICAgdGhpcy5yb3V0ZXIubmF2aWdhdGUoW3RvcGljQmFzZVVybCwgaXRlbS5wYXJhbXNdKTsK</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGUucXVlcnlQYXJhbXMuc3Vic2NyaWJlKChxdWVyeVBhcmFtcykgPT4gY29uc29sZS5sb2coJ1JvdXRlIFF1ZXJ5IFBhcmFtcyAgdXBkYXRlZDonLCBxdWVyeVBhcmFtcykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMucm91dGVyLm5hdmlnYXRlKFtpdGVtLmxpbmtdKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2099,40 +2099,40 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0l0ZW0gbGluazogJywgaXRlbS5saW5rKTsKICAgICAgY29uc29sZS5sb2coJ0l0ZW0gcGFyYW1zOiAnLCBpdGVtLnBhcmFtcyk7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBpZiAodGhpcy5zdWJ0b3BpY0luZGV4ICE9IG51bGwgJiYgdGhpcy5zdWJ0b3BpY0luZGV4ICE9IHVuZGVmaW5lZCkgewogICAgICAgIC8vICAgdGhpcy5vcGVuSW5kZXggPQogICAgICAgIC8vCiAgICAgICAgLy8gfQo=</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGUucGFyYW1zLnN1YnNjcmliZSgocGFyYW1zKSA9PiB7CiAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5yb3V0ZXIubmF2aWdhdGUoW2l0ZW0ubGlua10pOwo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ0l0ZW0gbGluayBiYXNlOiAnLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BBQUFSQU1TOicsIHBhcmFtcyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb290VG9waWM6ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1BBQUFSQU1TOicsIHBhcmFtcyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHRoaXMucm91dGUudXJsLnN1YnNjcmliZSgodXJsKSA9PiBjb25zb2xlLmxvZygnUm91dGUgdXJsIHVwZGF0ZWQnKSk7CiAgICB0aGlzLnJvdXRlLnBhcmFtTWFwLnN1YnNjcmliZSgocGFyYW1NYXApID0+IGNvbnNvbGUubG9nKCdSb3V0ZSBQYXJhbSBNYXAgIHVwZGF0ZWQuJykpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgIAogICAgLy8gdGhpcy5yb3V0ZS5xdWVyeVBhcmFtTWFwLnN1YnNjcmliZSgocXVlcnlQYXJhbU1hcCkgPT4gY29uc29sZS5sb2coJ1JvdXRlIFF1ZXJ5IFBhcmFtIE1hcCAgdXBkYXRlZDonLCBxdWVyeVBhcmFtTWFwKSk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>etm</last-search>
+      <last-search>merge</last-search>
       <last-offset />
-      <last-pattern>etm</last-pattern>
+      <last-pattern>merge</last-pattern>
       <last-replace>btn</last-replace>
       <last-substitute>cl</last-substitute>
       <last-dir>1</last-dir>
@@ -2140,8 +2140,6 @@
     </search>
     <history>
       <history-search>
-        <entry>resour</entry>
-        <entry>nextExam</entry>
         <entry>open(</entry>
         <entry>cl</entry>
         <entry>?</entry>
@@ -2160,6 +2158,8 @@
         <entry>statu</entry>
         <entry>path</entry>
         <entry>etm</entry>
+        <entry>pres</entry>
+        <entry>merge</entry>
       </history-search>
       <history-cmd>
         <entry>w'</entry>
@@ -2180,8 +2180,8 @@
         <entry>q</entry>
         <entry>g</entry>
         <entry>action NextTab</entry>
-        <entry>w</entry>
         <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
