@@ -645,12 +645,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/package.json" timestamp="1498603431945">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/package.json" timestamp="1498605910000">
         <mark key="'" line="17" column="31" />
-        <mark key="[" line="58" column="38" />
-        <mark key="]" line="58" column="68" />
-        <mark key="." line="58" column="68" />
-        <mark key="^" line="58" column="68" />
+        <mark key="[" line="59" column="22" />
+        <mark key="]" line="59" column="27" />
+        <mark key="." line="59" column="27" />
+        <mark key="^" line="59" column="27" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/resources.service.spec.ts" timestamp="1498078353508">
         <mark key="[" line="10" column="34" />
@@ -1231,11 +1231,11 @@
         <mark key="^" line="12" column="48" />
         <mark key="." line="12" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/sw-precache-config.js" timestamp="1498603632525">
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="^" line="14" column="26" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/sw-precache-config.js" timestamp="1498605829722">
+        <mark key="[" line="18" column="19" />
+        <mark key="]" line="18" column="27" />
+        <mark key="^" line="18" column="27" />
+        <mark key="." line="18" column="27" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/pipes/visibility.pipe.ts" timestamp="1493927180649">
         <mark key="[" line="15" column="0" />
@@ -2039,7 +2039,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/?utm</text>
+        <text>sw-precache --verbose --config=sw-precache-config.js</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2068,13 +2068,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/?utm</text>
+        <text>sw-precache --verbose --config=sw-precache-config.js</text>
       </register>
       <register name="/" type="4">
         <text>new Vid</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICdkaXN0L2Fzc2V0cy9pbWFnZXMvKicsCg==</text>
+        <text encoding="base64">ICAgICJwcmVjYWNoZSI6ICJzdy1wcmVjYWNoZSAtLXZlcmJvc2UgLS1jb25maWc9c3ctcHJlY2FjaGUtY29uZmlnLmpzIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo=</text>
