@@ -645,12 +645,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/package.json" timestamp="1498605910000">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/package.json" timestamp="1498606584191">
         <mark key="'" line="17" column="31" />
-        <mark key="[" line="59" column="22" />
-        <mark key="]" line="59" column="27" />
-        <mark key="." line="59" column="27" />
-        <mark key="^" line="59" column="27" />
+        <mark key="[" line="60" column="28" />
+        <mark key="]" line="60" column="28" />
+        <mark key="." line="60" column="28" />
+        <mark key="^" line="60" column="28" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/resources.service.spec.ts" timestamp="1498078353508">
         <mark key="[" line="10" column="34" />
@@ -2039,7 +2039,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>sw-precache --verbose --config=sw-precache-config.js</text>
+        <text encoding="base64">ICYmIG5wbSBydW4gcHJlY2FjaGUg</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2068,7 +2068,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sw-precache --verbose --config=sw-precache-config.js</text>
+        <text encoding="base64">ICYmIG5wbSBydW4gcHJlY2FjaGUg</text>
       </register>
       <register name="/" type="4">
         <text>new Vid</text>
