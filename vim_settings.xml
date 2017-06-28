@@ -341,6 +341,12 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/scripts/deploy-app" timestamp="1498618928847">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+        <mark key="^" line="34" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Starter/src/app/layouts/full-layout.component.scss" timestamp="1490986888570">
         <mark key="[" line="1" column="13" />
         <mark key="]" line="1" column="12" />
@@ -646,12 +652,12 @@
         <mark key="^" line="18" column="37" />
         <mark key="." line="18" column="37" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/package.json" timestamp="1498606584191">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/package.json" timestamp="1498618577103">
         <mark key="'" line="17" column="31" />
-        <mark key="[" line="60" column="28" />
-        <mark key="]" line="60" column="28" />
-        <mark key="." line="60" column="28" />
-        <mark key="^" line="60" column="28" />
+        <mark key="[" line="60" column="21" />
+        <mark key="]" line="60" column="21" />
+        <mark key="." line="60" column="21" />
+        <mark key="^" line="60" column="19" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/resources.service.spec.ts" timestamp="1498078353508">
         <mark key="[" line="10" column="34" />
@@ -2048,8 +2054,22 @@
       <jump line="16" column="25" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>algebra</text>
+      <register name="&quot;" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2078,7 +2098,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>algebra</text>
+        <text>#</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
@@ -2086,8 +2106,22 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGV4YW1wbGVzOiAnaHR0cHM6Ly9tYXRodHYuY29tL3NjaG9vbF9pbWFnZXMvZXhhbXBsZXMnLAo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPGJ1dHRvbiBtZC1tZW51LWl0ZW0gcm91dGVyTGluaz0iL3RvcGljL2FsZ2VicmEiIGNsYXNzPSJidG4iPkJhc2ljIE1hdGg8L2J1dHRvbj4KICAgICAgPGJ1dHRvbiBtZC1tZW51LWl0ZW0gcm91dGVyTGluaz0iL3RvcGljL3RyaWdvbm9tZXRyeSIgY2xhc3M9ImJ0biI+VHJpZ29ub21ldHJ5PC9idXR0b24+Cg==</text>
+      <register name="1" type="8">
+        <text>#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2100,31 +2134,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gbWQtbWVudS1pdGVtIHJvdXRlckxpbms9Ii90b3BpYy9hbGdlYnJhIiBjbGFzcz0iYnRuIj5BbGdlYnJhPC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIG1kLW1lbnUtaXRlbSByb3V0ZXJMaW5rPSIvdG9waWMvZ2VvbWV0cnkiIGNsYXNzPSJidG4iPkdlb21ldHJ5PC9idXR0b24+Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHsKICAgICAgdXJsUGF0dGVybjogL3NjaG9vbHNcLm1hdGh0dlwuY29tLywKICAgICAgaGFuZGxlcjogJ25ldHdvcmtGaXJzdCcKICAgIH0sCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">bnBtIHJ1biBidWlsZC1wcm9kCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICJidWlsZC1wcm9kIjogIm5nIGJ1aWxkIC0tcHJvZCAtLWFvdCAtLW91dHB1dC1wYXRoIGRlcGxveSIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgPGJ1dHRvbiBtZC1tZW51LWl0ZW0gcm91dGVyTGluaz0iL3RvcGljL2FsZ2VicmEiIGNsYXNzPSJidG4iPkJhc2ljIE1hdGg8L2J1dHRvbj4KICAgICAgPGJ1dHRvbiBtZC1tZW51LWl0ZW0gcm91dGVyTGluaz0iL3RvcGljL3RyaWdvbm9tZXRyeSIgY2xhc3M9ImJ0biI+VHJpZ29ub21ldHJ5PC9idXR0b24+Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gbWQtbWVudS1pdGVtIHJvdXRlckxpbms9Ii90b3BpYy9hbGdlYnJhIiBjbGFzcz0iYnRuIj5BbGdlYnJhPC9idXR0b24+CiAgICAgICAgICA8YnV0dG9uIG1kLW1lbnUtaXRlbSByb3V0ZXJMaW5rPSIvdG9waWMvZ2VvbWV0cnkiIGNsYXNzPSJidG4iPkdlb21ldHJ5PC9idXR0b24+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICJkZXBsbyIK</text>
+        <text encoding="base64">ICAgIHsKICAgICAgdXJsUGF0dGVybjogL3NjaG9vbHNcLm1hdGh0dlwuY29tLywKICAgICAgaGFuZGxlcjogJ25ldHdvcmtGaXJzdCcKICAgIH0sCg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JywK</text>
+        <text encoding="base64">ICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEiPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICB1c2VNb2NrRGF0YTogZmFsc2UsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2176,12 +2210,12 @@
         <entry>26</entry>
         <entry>g</entry>
         <entry>action VimWindowRight</entry>
-        <entry>wq</entry>
         <entry>qall</entry>
         <entry>action PreviousTab</entry>
-        <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action VimWindowDown</entry>
+        <entry>wq</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
