@@ -1604,8 +1604,8 @@
         <mark key="^" line="18" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/manifest.json" timestamp="1498605087681">
-        <mark key="[" line="11" column="18" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/manifest.json" timestamp="1498607679925">
+        <mark key="[" line="13" column="31" />
         <mark key="]" line="13" column="31" />
         <mark key="^" line="13" column="31" />
         <mark key="." line="13" column="31" />
@@ -2039,7 +2039,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ICYmIG5wbSBydW4gcHJlY2FjaGUg</text>
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2068,7 +2068,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICYmIG5wbSBydW4gcHJlY2FjaGUg</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>new Vid</text>
