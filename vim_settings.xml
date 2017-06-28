@@ -341,11 +341,11 @@
         <mark key="." line="20" column="25" />
         <mark key="^" line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/scripts/deploy-app" timestamp="1498618928847">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-        <mark key="^" line="34" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/scripts/deploy-app" timestamp="1498620098955">
+        <mark key="[" line="34" column="21" />
+        <mark key="]" line="34" column="20" />
+        <mark key="." line="34" column="20" />
+        <mark key="^" line="34" column="20" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface-2.0/Angular2_CLI_Starter/src/app/layouts/full-layout.component.scss" timestamp="1490986888570">
         <mark key="[" line="1" column="13" />
@@ -2054,22 +2054,8 @@
       <jump line="16" column="25" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="8">
-        <text>#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#
-#</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHN1YnRyZWUgcHVzaCAtLXByZWZpeCBkaXN0IG9yaWdpbiBkZXBsb3k=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2098,13 +2084,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>#</text>
+        <text encoding="base64">IHN1YnRyZWUgcHVzaCAtLXByZWZpeCBkaXN0IG9yaWdpbiBkZXBsb3k=</text>
       </register>
       <register name="/" type="4">
         <text>math</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGV4YW1wbGVzOiAnaHR0cHM6Ly9tYXRodHYuY29tL3NjaG9vbF9pbWFnZXMvZXhhbXBsZXMnLAo=</text>
+        <text encoding="base64">Z2l0IHN1YnRyZWUgcHVzaCAtLXByZWZpeCBkaXN0IG9yaWdpbiBkZXBsb3kK</text>
       </register>
       <register name="1" type="8">
         <text>#
@@ -2161,7 +2147,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -2215,8 +2201,8 @@
         <entry>action NextTab</entry>
         <entry>action VimWindowDown</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
