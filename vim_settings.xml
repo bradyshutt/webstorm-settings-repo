@@ -994,12 +994,12 @@
         <mark key="." line="8" column="31" />
         <mark key="^" line="8" column="31" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" timestamp="1498664549765">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" timestamp="1498665222060">
         <mark key="'" line="14" column="30" />
-        <mark key="[" line="47" column="42" />
-        <mark key="]" line="47" column="41" />
-        <mark key="^" line="47" column="41" />
-        <mark key="." line="47" column="41" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="50" column="5" />
+        <mark key="^" line="40" column="25" />
+        <mark key="." line="41" column="28" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/api/responses/ok.ts" timestamp="1491498772306">
         <mark key="[" line="13" column="7" />
@@ -1439,12 +1439,12 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/resolvers/topic-resolver.service.ts" timestamp="1498615489117">
-        <mark key="'" line="15" column="32" />
-        <mark key="[" line="35" column="46" />
-        <mark key="]" line="35" column="46" />
-        <mark key="." line="35" column="46" />
-        <mark key="^" line="35" column="46" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/resolvers/topic-resolver.service.ts" timestamp="1498665354459">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="29" column="19" />
+        <mark key="]" line="29" column="19" />
+        <mark key="." line="29" column="19" />
+        <mark key="^" line="29" column="18" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.spec.ts" timestamp="1498078486816">
         <mark key="'" line="18" column="24" />
@@ -2103,7 +2103,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>topic</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2132,13 +2132,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>topic</text>
       </register>
       <register name="/" type="4">
         <text>video</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IHRvIHNlY3Rpb25JbmRleA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGxldCBzZWN0aW9uOiBUb3BpYzsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIAo=</text>
