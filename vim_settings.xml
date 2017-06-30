@@ -749,11 +749,11 @@
         <mark key="]" line="88" column="108" />
         <mark key="." line="88" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1498785158295">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1498786019869">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="7" column="15" />
-        <mark key="]" line="7" column="28" />
-        <mark key="." line="7" column="28" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
         <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list-v2/example-list-v2.component.html" timestamp="1498674638669">
@@ -1362,11 +1362,11 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/sw-precache-config.js" timestamp="1498614802380">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="^" line="14" column="35" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/sw-precache-config.js" timestamp="1498786930560">
+        <mark key="[" line="18" column="24" />
+        <mark key="]" line="18" column="24" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="18" column="24" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/pipes/visibility.pipe.ts" timestamp="1493927180649">
         <mark key="[" line="15" column="0" />
@@ -2205,7 +2205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>http://mathtv.com/</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2234,13 +2234,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://mathtv.com/</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVuXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>/assets/images/instructors</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHsKICAgICAgdXJsUGF0dGVybjogL2RldlwuXC9tYXRodHZcLmNvbS8sCiAgICAgIGhhbmRsZXI6ICduZXR3b3JrRmlyc3QnCiAgICB9LAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
@@ -2333,11 +2333,11 @@
         <entry>86</entry>
         <entry>53</entry>
         <entry>68</entry>
-        <entry>wq</entry>
         <entry>qall</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>wq</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
