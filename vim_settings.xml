@@ -51,7 +51,8 @@
         <mark key="." line="6" column="5" />
         <mark key="^" line="6" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.ts" timestamp="1498847624601">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.ts" timestamp="1498850083445">
+        <mark key="'" line="127" column="11" />
         <mark key="[" line="129" column="0" />
         <mark key="]" line="129" column="0" />
         <mark key="." line="129" column="0" />
@@ -1553,6 +1554,9 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="44" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/resources-bar/resources-bar.component.ts" timestamp="1498850104765">
+        <mark key="'" line="5" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/sidebar-module/src/app/app.module.ts" timestamp="1495754745548">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="18" column="16" />
@@ -2109,8 +2113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="53" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/video-player-popup/video-player-popup.component.ts" />
-      <jump line="59" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/video-player-popup/video-player-popup.component.ts" />
       <jump line="9" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/series.ts" />
       <jump line="54" column="34" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/video-player-popup/video-player-popup.component.ts" />
       <jump line="16" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/series2.ts" />
@@ -2209,6 +2211,8 @@
       <jump line="153" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.ts" />
       <jump line="137" column="90" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.ts" />
       <jump line="123" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.ts" />
+      <jump line="127" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.ts" />
+      <jump line="5" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/resources-bar/resources-bar.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
