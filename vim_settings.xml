@@ -1361,11 +1361,11 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/sw-precache-config.js" timestamp="1498790055660">
-        <mark key="[" line="29" column="7" />
-        <mark key="]" line="30" column="4" />
-        <mark key="." line="30" column="4" />
-        <mark key="^" line="30" column="4" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/sw-precache-config.js" timestamp="1498791392874">
+        <mark key="[" line="26" column="22" />
+        <mark key="]" line="26" column="23" />
+        <mark key="." line="26" column="23" />
+        <mark key="^" line="19" column="22" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/pipes/visibility.pipe.ts" timestamp="1493927180649">
         <mark key="[" line="15" column="0" />
@@ -2198,7 +2198,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>articles</text>
+        <text>networkFirst</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2227,7 +2227,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>articles</text>
+        <text>networkFirst</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVuXD4=</text>
