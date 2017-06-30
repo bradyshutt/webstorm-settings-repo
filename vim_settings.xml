@@ -749,12 +749,12 @@
         <mark key="]" line="88" column="108" />
         <mark key="." line="88" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1498784030798">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1498785158295">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="5" column="32" />
-        <mark key="]" line="5" column="32" />
-        <mark key="." line="5" column="32" />
-        <mark key="^" line="5" column="32" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="28" />
+        <mark key="." line="7" column="28" />
+        <mark key="^" line="7" column="28" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list-v2/example-list-v2.component.html" timestamp="1498674638669">
         <mark key="'" line="2" column="8" />
@@ -2205,7 +2205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/</text>
+        <text>http://mathtv.com/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2234,13 +2234,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>http://mathtv.com/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVuXD4=</text>
       </register>
       <register name="0" type="4">
-        <text>class=&quot;page-wrapper&quot;</text>
+        <text>/assets/images/instructors</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAK</text>
