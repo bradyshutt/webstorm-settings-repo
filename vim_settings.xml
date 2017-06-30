@@ -749,12 +749,12 @@
         <mark key="]" line="88" column="108" />
         <mark key="." line="88" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1498689572800">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1498784030798">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="5" column="37" />
-        <mark key="]" line="5" column="43" />
-        <mark key="." line="5" column="43" />
-        <mark key="^" line="5" column="43" />
+        <mark key="[" line="5" column="32" />
+        <mark key="]" line="5" column="32" />
+        <mark key="." line="5" column="32" />
+        <mark key="^" line="5" column="32" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list-v2/example-list-v2.component.html" timestamp="1498674638669">
         <mark key="'" line="2" column="8" />
@@ -2205,7 +2205,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>/</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2234,7 +2234,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUaGVuXD4=</text>
