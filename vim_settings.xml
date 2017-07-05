@@ -651,12 +651,12 @@
         <mark key="^" line="4" column="15" />
         <mark key="." line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" timestamp="1499286367113">
-        <mark key="'" line="183" column="1" />
-        <mark key="[" line="93" column="21" />
-        <mark key="]" line="94" column="24" />
-        <mark key="." line="94" column="24" />
-        <mark key="^" line="94" column="24" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" timestamp="1499289727680">
+        <mark key="'" line="60" column="0" />
+        <mark key="[" line="38" column="25" />
+        <mark key="]" line="40" column="19" />
+        <mark key="^" line="40" column="19" />
+        <mark key="." line="40" column="19" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-interface/src/app/ui-components/components/heading/heading.component.css" timestamp="1490932504173">
         <mark key="[" line="1" column="10" />
@@ -782,10 +782,10 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="4" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" timestamp="1499278221650">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="134" column="29" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" timestamp="1499289629300">
+        <mark key="'" line="20" column="0" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="26" column="14" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy-container.directive.ts" timestamp="1499148786156">
         <mark key="'" line="18" column="0" />
@@ -2000,11 +2000,12 @@
         <mark key="." line="46" column="46" />
         <mark key="^" line="46" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" timestamp="1499283358340">
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="." line="46" column="0" />
-        <mark key="^" line="42" column="31" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" timestamp="1499289653946">
+        <mark key="'" line="32" column="11" />
+        <mark key="[" line="32" column="29" />
+        <mark key="]" line="32" column="70" />
+        <mark key="^" line="32" column="70" />
+        <mark key="." line="32" column="70" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end-v2/.angular-cli.json" timestamp="1495733845204">
         <mark key="[" line="23" column="50" />
@@ -2287,110 +2288,110 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="75" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.html" />
-      <jump line="114" column="7" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.scss" />
-      <jump line="20" column="75" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topics-accordion/topics-accordion.component.html" />
-      <jump line="26" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/series-list/series-list.component.ts" />
-      <jump line="19" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/main.ts" />
-      <jump line="20" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/main.ts" />
-      <jump line="10" column="15" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/main.ts" />
-      <jump line="14" column="56" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/pages/pages-routing.module.ts" />
-      <jump line="8" column="13" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/pages/scrollspy-test/scrollspy-test.component.ts" />
-      <jump line="15" column="55" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/pages/pages-routing.module.ts" />
-      <jump line="128" column="16" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="8" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="9" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="10" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="11" column="6" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="16" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="17" column="6" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="23" column="42" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="30" column="6" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="36" column="37" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="50" column="13" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.scss" />
-      <jump line="129" column="7" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.scss" />
-      <jump line="6" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="5" column="30" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/sidenav/sidenav.component.ts" />
-      <jump line="3" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/sidenav/sidenav.component.html" />
-      <jump line="15" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="34" column="63" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="39" column="7" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="14" column="35" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/sidenav/sidenav.component.html" />
-      <jump line="50" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/sidenav/sidenav.component.scss" />
-      <jump line="48" column="2" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.scss" />
-      <jump line="39" column="6" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="93" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="21" column="8" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.scss" />
-      <jump line="4" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.scss" />
-      <jump line="100" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="69" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="92" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="40" column="8" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="44" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="54" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="76" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="80" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="91" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="95" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="117" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="138" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="119" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="97" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="99" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="2" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="77" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="177" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.scss" />
-      <jump line="39" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="42" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="64" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="78" column="24" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="114" column="8" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="111" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="110" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="108" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="107" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="105" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="104" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="102" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="101" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="81" column="22" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="171" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="100" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="178" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="175" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="157" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="143" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="118" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="89" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="152" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="159" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="142" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="77" column="32" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="132" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="54" column="24" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="37" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="42" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="33" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="73" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="179" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="46" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
-      <jump line="127" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="78" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="5" column="8" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="13" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="63" column="3" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="317" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="218" column="5" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
-      <jump line="199" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
       <jump line="180" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
       <jump line="19" column="42" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/index.html" />
+      <jump line="47" column="24" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="51" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="44" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="95" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="106" column="37" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="107" column="29" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="163" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="169" column="2" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="207" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="208" column="27" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="250" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="282" column="3" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="296" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="77" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="120" column="3" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="81" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="6" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="5" column="51" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="18" column="27" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="33" column="8" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="42" column="41" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="67" column="63" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="70" column="43" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="3" column="43" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="1" column="44" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="19" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="23" column="31" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="21" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="48" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="55" column="15" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="66" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="17" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="55" column="17" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="84" column="2" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="32" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="33" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="16" column="7" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="24" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="105" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="235" column="15" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="263" column="15" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="43" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="49" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="117" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="125" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="150" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="142" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="131" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="127" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="123" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="20" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
+      <jump line="34" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="7" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="32" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="41" column="22" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="44" column="24" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="56" column="22" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="62" column="16" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="74" column="22" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="75" column="22" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="96" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="101" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="146" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="172" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="35" column="13" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="297" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="293" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="285" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="281" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="277" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="272" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="267" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="262" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="255" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="245" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="240" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="230" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="219" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="210" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="201" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="193" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="188" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="179" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="175" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="168" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="161" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="156" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="152" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="147" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="139" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="128" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="124" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="118" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="108" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
+      <jump line="61" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/appv2.component.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAvL2JhY2tncm91bmQtY29sb3I6ICMwMEFBOEQ7Cg==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2419,16 +2420,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ym93ZXJfY29tcG9uZW50cy9wb2x5bWVyL3BvbHltZXIuaHRtbCI+</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>deep</text>
+        <text>url</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9ImltcG9ydCIgaHJlZj0iYXNzZXRzL2Jvd2VyX2NvbXBvbmVudHMvcG9seW1lci9wb2x5bWVyLmh0bWwiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxsaSAqbmdGb3I9ImxldCB0b3BpYyBvZiBtYXRoVG9waWNzIj4KICAgICAgICAgICAgPGJ1dHRvbiBtZC1idXR0b24gW3JvdXRlckxpbmtdPSJ0b3BpYy5saW5rIiA+CiAgICAgICAgICAgICAgPGkgY2xhc3M9Int7dG9waWMuZmxhdGljb259fSI+PC9pPgogICAgICAgICAgICAgIDwhLS08bWQtaWNvbj57e3RvcGljLmljb24gPyB0b3BpYy5pY29uIDogJ2xhYmVsJ319PC9tZC1pY29uPi0tPgogICAgICAgICAgICAgIDxzcGFuPnt7dG9waWMubGFiZWx9fTwvc3Bhbj4KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8L2xpPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAvL2JhY2tncm91bmQtY29sb3I6ICMwMEFBOEQ7Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2486,51 +2487,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
+        <text encoding="base64">ICAtLWFwcC1oZWFkZXItc2hhZG93OiB7CiAgICBib3gtc2hhZG93OiBpbnNldCAwcHggNXB4IDJweCAtM3B4IHJnYmEoMjUwLCAwLCAwLCAwLjIpOwogIH07Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IGJsdWU7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>assets/
-assets/
-assets/
-assets/
-assets/
-assets/
-assets/
-assets/
-assets/</text>
+      <register name="4" type="2">
+        <text encoding="base64">fQoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICA8bGluayByZWw9ImltcG9ydCIgaHJlZj0iYXNzZXRzL2Jvd2VyX2NvbXBvbmVudHMvcG9seW1lci9wb2x5bWVyLmh0bWwiPgogIDxsaW5rIHJlbD0iaW1wb3J0IiBocmVmPSJhc3NldHMvYm93ZXJfY29tcG9uZW50cy9wYXBlci1pbnB1dC9wYXBlci1pbnB1dC5odG1sIj4KICA8bGluayByZWw9ImltcG9ydCIgaHJlZj0iYXNzZXRzL2Jvd2VyX2NvbXBvbmVudHMvcGFwZXItYnV0dG9uL3BhcGVyLWJ1dHRvbi5odG1sIj4KICA8bGluayByZWw9ImltcG9ydCIgaHJlZj0iYXNzZXRzL2Jvd2VyX2NvbXBvbmVudHMvYXBwLWxheW91dC9hcHAtbGF5b3V0Lmh0bWwiPgogIDxsaW5rIHJlbD0iaW1wb3J0IiBocmVmPSJhc3NldHMvYm93ZXJfY29tcG9uZW50cy9hcHAtbGF5b3V0L2FwcC1zY3JvbGwtZWZmZWN0cy9hcHAtc2Nyb2xsLWVmZmVjdHMuaHRtbCI+CiAgPGxpbmsgcmVsPSJpbXBvcnQiIGhyZWY9ImFzc2V0cy9ib3dlcl9jb21wb25lbnRzL3BhcGVyLWljb24tYnV0dG9uL3BhcGVyLWljb24tYnV0dG9uLmh0bWwiPgogIDxsaW5rIHJlbD0iaW1wb3J0IiBocmVmPSJhc3NldHMvYm93ZXJfY29tcG9uZW50cy9pcm9uLWljb25zL2lyb24taWNvbnMuaHRtbCI+CiAgPGxpbmsgcmVsPSJpbXBvcnQiIGhyZWY9ImFzc2V0cy9ib3dlcl9jb21wb25lbnRzL3BhcGVyLWl0ZW0vcGFwZXItaXRlbS5odG1sIj4KICA8bGluayByZWw9ImltcG9ydCIgaHJlZj0iYXNzZXRzL2Jvd2VyX2NvbXBvbmVudHMvcGFwZXItbGlzdGJveC9wYXBlci1saXN0Ym94Lmh0bWwiPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">cGFwZXItaXRlbSB7Cn0K</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICBoZWlnaHQ6IDU0cHg7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICNiYWNrZ3JvdW5kUmVhckxheWVyIHsK</text>
+        <text encoding="base64">ICAgICAgICA8L2FwcC10b29sYmFyPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deep</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern>deep</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>0.3</last-replace>
       <last-substitute>0.45</last-substitute>
       <last-dir>1</last-dir>
@@ -2538,26 +2531,26 @@ assets/</text>
     </search>
     <history>
       <history-search>
-        <entry>tran</entry>
-        <entry>red</entry>
-        <entry>scoll</entry>
-        <entry>scrol</entry>
-        <entry>scroll</entry>
-        <entry>sidenav-b</entry>
-        <entry>sidenav</entry>
-        <entry>..</entry>
-        <entry>slot</entry>
-        <entry>recip</entry>
-        <entry>pesto</entry>
-        <entry>url</entry>
-        <entry>moa</entry>
-        <entry>eff</entry>
-        <entry>fade</entry>
-        <entry>[con</entry>
         <entry>main</entry>
         <entry>*</entry>
         <entry>--</entry>
         <entry>deep</entry>
+        <entry>-title</entry>
+        <entry>top</entry>
+        <entry>top-tool</entry>
+        <entry>bottom-to</entry>
+        <entry>conden</entry>
+        <entry>eff</entry>
+        <entry>drawer</entry>
+        <entry>fav</entry>
+        <entry>pos</entry>
+        <entry>.content</entry>
+        <entry>app-header</entry>
+        <entry>list</entry>
+        <entry>center</entry>
+        <entry>border</entry>
+        <entry>img</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>s/index/idx/g</entry>
@@ -2576,9 +2569,9 @@ assets/</text>
         <entry>actionlist</entry>
         <entry>source ~/.ideavimrc</entry>
         <entry>action AceAction</entry>
-        <entry>action NextTab</entry>
         <entry>q</entry>
         <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
