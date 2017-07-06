@@ -1047,6 +1047,11 @@
         <mark key="." line="4" column="17" />
         <mark key="^" line="4" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/polymer.json" timestamp="1499300756377">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="7" column="29" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/video-player/video-player.component.ts" timestamp="1498239640033">
         <mark key="'" line="22" column="31" />
         <mark key="[" line="23" column="29" />
@@ -2385,8 +2390,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/package.json" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJwcmVjYWNoZSI6ICJzdy1wcmVjYWNoZSAtLXJvb3Q9ZGlzdCAtLXZlcmJvc2UgLS1jb25maWc9c3ctcHJlY2FjaGUtY29uZmlnLmpzIiwK</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2415,7 +2420,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>400</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>moa</text>
@@ -2424,7 +2429,7 @@
         <text encoding="base64">ICBtaW4taGVpZ2h0OiA0MDBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJwcmVjYWNoZSI6ICJzdy1wcmVjYWNoZSAtLXJvb3Q9ZGlzdCAtLXZlcmJvc2UgLS1jb25maWc9c3ctcHJlY2FjaGUtY29uZmlnLmpzIiwK</text>
+        <text encoding="base64">ICAgICAgImpzIjogeyAibWluaWZ5IjogZmFsc2UgfQo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2482,37 +2487,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICJwcmVjYWNoZSI6ICJzdy1wcmVjYWNoZSAtLXJvb3Q9ZGlzdCAtLXZlcmJvc2UgLS1jb25maWc9c3ctcHJlY2FjaGUtY29uZmlnLmpzIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGEgcm91dGVyTGluaz0iL2hvbWUiIChjbGljayk9IiFkcmF3ZXIucGVyc2lzdGVudCAmJiBkcmF3ZXIuY2xvc2UoKSI+CiAgICAgICAgICAgIDwvYT4K</text>
+        <text encoding="base64">ICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9Im1vYXItc2Nyb2xsIj5tb2FyIHNjcm9sbHo8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGEgcm91dGVyTGluaz0iL2hvbWUiIChjbGljayk9IiFkcmF3ZXIucGVyc2lzdGVudCAmJiBkcmF3ZXIuY2xvc2UoKSI+CiAgICAgICAgICAgIDwvYT4K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxkaXYgY2xhc3M9Im1vYXItc2Nyb2xsIj5tb2FyIHNjcm9sbHo8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Lm1vYXItc2Nyb2xsIHsKICBoZWlnaHQ6IDEyMDBweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDA4MDAwOwp9Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICBoZWlnaHQ6IDEwMCU7Cg==</text>
+        <text encoding="base64">Lm1vYXItc2Nyb2xsIHsKICBoZWlnaHQ6IDEyMDBweDsKICBiYWNrZ3JvdW5kLWNvbG9yOiAjMDA4MDAwOwp9Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8L2E+Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICBoZWlnaHQ6IDEwMCU7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8YT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICA8L2E+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -2566,8 +2571,8 @@
         <entry>action AceAction</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
