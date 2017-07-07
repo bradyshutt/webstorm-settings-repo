@@ -715,11 +715,12 @@
         <mark key="." line="20" column="24" />
         <mark key="^" line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/topic.service.ts" timestamp="1499454539407">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/topic.service.ts" timestamp="1499456336778">
         <mark key="'" line="24" column="22" />
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
+        <mark key="[" line="35" column="50" />
+        <mark key="]" line="36" column="75" />
+        <mark key="." line="36" column="75" />
+        <mark key="^" line="36" column="75" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/video-player-popup/video-player-popup.component.scss" timestamp="1498681655393">
         <mark key="'" line="57" column="1" />
@@ -966,7 +967,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1019,9 +1020,9 @@
         <entry>action AceAction</entry>
         <entry>qall</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
