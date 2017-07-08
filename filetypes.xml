@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webapp" type="JSON" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="deploy-app" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
