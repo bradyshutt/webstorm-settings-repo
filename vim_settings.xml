@@ -1089,7 +1089,7 @@
         <mark key="." line="5" column="22" />
         <mark key="^" line="5" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1499561708245">
+      <file name="/Dummy.txt" timestamp="1499562735439">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/partials/sidebar.ejs" timestamp="1493334642528">
@@ -1191,6 +1191,13 @@
         <mark key="]" line="1" column="22" />
         <mark key="." line="1" column="22" />
         <mark key="^" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/dev/workspace/redux-test-complete-bkup/src/app/app.module.ts" timestamp="1499562819290">
+        <mark key="'" line="41" column="39" />
+        <mark key="[" line="42" column="6" />
+        <mark key="]" line="42" column="6" />
+        <mark key="^" line="42" column="5" />
+        <mark key="." line="42" column="6" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/index.html" timestamp="1493334091997">
         <mark key="[" line="4" column="32" />
@@ -2387,9 +2394,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="25" column="13" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/pages/pages-routing.module.ts" />
-      <jump line="49" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/pages/pages-routing.module.ts" />
-      <jump line="20" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/drawer.component.ts" />
       <jump line="17" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/drawer.component.ts" />
       <jump line="8" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/drawer.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/drawer.component.html" />
@@ -2487,10 +2491,13 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/workspace/redux-test-complete/src/app/app.component.html" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/workspace/redux-test-complete/src/app/app.component.html" />
       <jump line="10" column="2" filename="$USER_HOME$/dev/workspace/redux-test-complete/src/app/app.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/workspace/redux-test-complete-bkup/src/app/app.module.ts" />
+      <jump line="41" column="39" filename="$USER_HOME$/dev/workspace/redux-test-complete-bkup/src/app/app.module.ts" />
+      <jump line="34" column="16" filename="$USER_HOME$/dev/workspace/redux-test-complete-bkup/src/app/common/index.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">IGhvc3Q6IHsKICcod2luZG93OnJlc2l6ZSknOiAnb25XaW5kb3dSZXNpemUoJGV2ZW50KScKIH0K</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2519,10 +2526,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>layout.actions</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>null</text>
+        <text>metaReducer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QENvbXBvbmVudCh7CiAgc2VsZWN0b3I6ICdhcHAtcm9vdCcsCiAgdGVtcGxhdGVVcmw6ICcuL2FwcC5jb21wb25lbnQuaHRtbCcsCiAgc3R5bGVVcmxzOiBbJy4vYXBwLmNvbXBvbmVudC5jc3MnXSwKICAvKgogICBBZGQgdGhpcyB0byB5b3VyIEFwcENvbXBvbmVudCB0byBsaXN0ZW4gZm9yIHdpbmRvdyByZXNpemUgZXZlbnRzCiAgIC8qCiAgaG9zdDogewogICAgJyh3aW5kb3c6cmVzaXplKSc6ICdvbldpbmRvd1Jlc2l6ZSgkZXZlbnQpJwogIH0KfSkK</text>
@@ -2620,18 +2627,16 @@
       </register>
     </registers>
     <search>
-      <last-search>null</last-search>
+      <last-search>metaReducer</last-search>
       <last-offset />
-      <last-pattern>null</last-pattern>
+      <last-pattern>metaReducer</last-pattern>
       <last-replace>0.3</last-replace>
       <last-substitute>0.45</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>idx</entry>
-        <entry>ind</entry>
         <entry>isSe</entry>
         <entry>ub</entry>
         <entry>click</entry>
@@ -2650,6 +2655,8 @@
         <entry>white</entry>
         <entry>switch</entry>
         <entry>null</entry>
+        <entry>create</entry>
+        <entry>metaReducer</entry>
       </history-search>
       <history-cmd>
         <entry>action VimWindowRight</entry>
