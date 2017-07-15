@@ -798,12 +798,12 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/topic.service.ts" timestamp="1500080985780">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/topic.service.ts" timestamp="1500083480158">
         <mark key="'" line="101" column="30" />
-        <mark key="[" line="64" column="77" />
-        <mark key="]" line="64" column="77" />
-        <mark key="." line="64" column="77" />
-        <mark key="^" line="64" column="77" />
+        <mark key="[" line="68" column="25" />
+        <mark key="]" line="68" column="32" />
+        <mark key="." line="68" column="32" />
+        <mark key="^" line="68" column="32" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/redux/index.ts" timestamp="1500053923656">
         <mark key="'" line="48" column="27" />
@@ -937,7 +937,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>from</text>
+        <text>Topics</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -966,7 +966,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>from</text>
+        <text>Topics</text>
       </register>
       <register name="/" type="4">
         <text>ch</text>
@@ -1076,8 +1076,8 @@
         <entry>qall</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
         <entry>103</entry>
+        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
         <entry>w</entry>
       </history-cmd>
