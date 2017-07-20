@@ -310,6 +310,9 @@
         <mark key="^" line="26" column="18" />
         <mark key="." line="91" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.html" timestamp="1500582503730">
+        <mark key="'" line="34" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.directive.ts" timestamp="1499107293211">
         <mark key="'" line="8" column="41" />
         <mark key="[" line="4" column="26" />
@@ -415,12 +418,11 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.scss" timestamp="1499297593688">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.scss" timestamp="1500582583501">
         <mark key="'" line="19" column="12" />
-        <mark key="[" line="8" column="15" />
-        <mark key="]" line="8" column="16" />
-        <mark key="^" line="8" column="13" />
-        <mark key="." line="8" column="16" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/video-player-popup/video-player-popup.component.html" timestamp="1498682304106">
         <mark key="'" line="88" column="52" />
@@ -835,7 +837,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="3" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" />
       <jump line="45" column="60" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" />
       <jump line="21" column="2" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" />
       <jump line="39" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.ts" />
@@ -935,10 +936,11 @@
       <jump line="34" column="13" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/virtual-list-item/virtual-list-item.component.ts" />
       <jump line="10" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.html" />
       <jump line="0" column="17" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.html" />
+      <jump line="34" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/home.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>true</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -976,7 +978,7 @@
         <text encoding="base64">ICAgIHRoaXMuZmlsdGVyQnlTdWJ0b3BpYyA9IHRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICA8ZGl2ICpuZ0Zvcj0ibGV0IGl0ZW0gb2YgaXRlbXMiIFtuZ0NsYXNzXT0iWyBpdGVtLmlzVG9waWMgPyAndG9waWMtdGl0bGUtY29udGFpbmVyLWxldmVsLScgKyBpdGVtLmRhdGEubGV2ZWwgOiAnJyBdIj4KICAgIDxkaXY+CiAgICA8aDIgKm5nSWY9Iml0ZW0uaXNUb3BpYzsgZWxzZSBleGFtcGxlIiBpZD0ie3tpdGVtLmRhdGEuZm9ybWF0dGVkTmFtZX19Ij4KICAgICAge3tpdGVtLmRhdGEubmFtZX19CiAgICA8L2gyPgogICAgPCEtLTxoMiAqbmdJZj0iaXRlbS5pc1RvcGljOyBlbHNlIGV4YW1wbGUiIFtuZ0NsYXNzXT0iJ3RvcGljLXRpdGxlLWxldmVsLScgKyBpdGVtLmRhdGEubGV2ZWwiPi0tPgogICAgICA8IS0te3tpdGVtLmRhdGEubmFtZX19LS0+CiAgICA8IS0tPC9oMj4tLT4KCiAgICA8bmctdGVtcGxhdGUgI2V4YW1wbGU+CiAgICAgIDx4eXotZXhhbXBsZSBbZXhhbXBsZV09Iml0ZW0uZGF0YSI+PC94eXotZXhhbXBsZT4KICAgICAgPHNwYW4gY2xhc3M9ImRpdmlkZXIiPjwvc3Bhbj4KICAgIDwvbmctdGVtcGxhdGU+CiAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -995,31 +997,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8ZGl2ICpuZ0Zvcj0ibGV0IGl0ZW0gb2YgaXRlbXMiIFtuZ0NsYXNzXT0iWyBpdGVtLmlzVG9waWMgPyAndG9waWMtdGl0bGUtY29udGFpbmVyLWxldmVsLScgKyBpdGVtLmRhdGEubGV2ZWwgOiAnJyBdIj4KICAgIDxkaXY+CiAgICA8aDIgKm5nSWY9Iml0ZW0uaXNUb3BpYzsgZWxzZSBleGFtcGxlIiBpZD0ie3tpdGVtLmRhdGEuZm9ybWF0dGVkTmFtZX19Ij4KICAgICAge3tpdGVtLmRhdGEubmFtZX19CiAgICA8L2gyPgogICAgPCEtLTxoMiAqbmdJZj0iaXRlbS5pc1RvcGljOyBlbHNlIGV4YW1wbGUiIFtuZ0NsYXNzXT0iJ3RvcGljLXRpdGxlLWxldmVsLScgKyBpdGVtLmRhdGEubGV2ZWwiPi0tPgogICAgICA8IS0te3tpdGVtLmRhdGEubmFtZX19LS0+CiAgICA8IS0tPC9oMj4tLT4KCiAgICA8bmctdGVtcGxhdGUgI2V4YW1wbGU+CiAgICAgIDx4eXotZXhhbXBsZSBbZXhhbXBsZV09Iml0ZW0uZGF0YSI+PC94eXotZXhhbXBsZT4KICAgICAgPHNwYW4gY2xhc3M9ImRpdmlkZXIiPjwvc3Bhbj4KICAgIDwvbmctdGVtcGxhdGU+CiAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LndyYXBwZXIgewogIGhlaWdodDogMTUwcHg7Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBibGFjazsK</text>
+        <text encoding="base64">LndyYXBwZXIgewogIGhlaWdodDogMTUwcHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBncmVlbjsKICBib3JkZXI6IDFweCBzb2xpZCBibGFjazsK</text>
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBibGFjazsK</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiBncmVlbjsKICBib3JkZXI6IDFweCBzb2xpZCBibGFjazsK</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIFZpcnR1YWxMaXN0SXRlbUNvbXBvbmVudCwK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIFZpcnR1YWxMaXN0SXRlbUNvbXBvbmVudCwK</text>
