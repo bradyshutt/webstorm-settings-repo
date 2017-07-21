@@ -686,12 +686,12 @@
         <mark key="." line="70" column="64" />
         <mark key="^" line="70" column="64" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/redux/topic-page/topic-page.reducer.ts" timestamp="1500331694331">
-        <mark key="'" line="31" column="40" />
-        <mark key="[" line="32" column="27" />
-        <mark key="]" line="32" column="27" />
-        <mark key="^" line="31" column="26" />
-        <mark key="." line="32" column="27" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/redux/topic-page/topic-page.reducer.ts" timestamp="1500598262878">
+        <mark key="'" line="32" column="40" />
+        <mark key="[" line="41" column="57" />
+        <mark key="]" line="41" column="57" />
+        <mark key="^" line="41" column="57" />
+        <mark key="." line="41" column="57" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/typography.scss" timestamp="1499291770122">
         <mark key="'" line="20" column="0" />
@@ -955,7 +955,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -984,7 +984,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>parent</text>
