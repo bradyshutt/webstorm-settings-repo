@@ -615,12 +615,12 @@
         <mark key="." line="29" column="64" />
         <mark key="^" line="29" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" timestamp="1500687633610">
-        <mark key="'" line="26" column="49" />
-        <mark key="[" line="27" column="28" />
-        <mark key="]" line="27" column="28" />
-        <mark key="." line="27" column="28" />
-        <mark key="^" line="27" column="28" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" timestamp="1500690832859">
+        <mark key="'" line="67" column="36" />
+        <mark key="[" line="53" column="31" />
+        <mark key="]" line="53" column="42" />
+        <mark key="^" line="53" column="42" />
+        <mark key="." line="53" column="42" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/video-player/video-player.component.ts" timestamp="1500681349444">
         <mark key="'" line="72" column="61" />
@@ -770,7 +770,8 @@
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="29" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy-element.directive.ts" timestamp="1500685587009">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy-element.directive.ts" timestamp="1500688991210">
+        <mark key="'" line="17" column="29" />
         <mark key="[" line="17" column="59" />
         <mark key="]" line="17" column="59" />
         <mark key="." line="17" column="59" />
@@ -826,11 +827,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
-      <jump line="60" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
-      <jump line="77" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
-      <jump line="59" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
-      <jump line="64" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
       <jump line="84" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
       <jump line="42" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
       <jump line="32" column="45" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.scss" />
@@ -925,11 +921,16 @@
       <jump line="13" column="114" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.html" />
       <jump line="21" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.module.ts" />
       <jump line="15" column="16" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.module.ts" />
-      <jump line="26" column="49" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" />
+      <jump line="26" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" />
+      <jump line="2" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" />
+      <jump line="8" column="30" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" />
+      <jump line="17" column="29" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy-element.directive.ts" />
+      <jump line="61" column="24" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" />
+      <jump line="64" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>j</text>
+        <text>yScroll</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -958,16 +959,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>j</text>
+        <text>yScroll</text>
       </register>
       <register name="/" type="4">
-        <text>scroll</text>
+        <text>document</text>
       </register>
-      <register name="0" type="4">
-        <text>xyzScrollspyElement</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd5U2Nyb2xsOiAnLCB5U2Nyb2xsKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -986,43 +987,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvL2JhY2tncm91bmQtY29sb3I6ICNiYWJhYmE7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICB0ZXh0LWFsaWduOiBjZW50ZXI7CiAgLy9iYWNrZ3JvdW5kLWNvbG9yOiAjYmFiYWJhOwo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdDdXJyZW50VGFyZ2V0czogJywgcHJldlRhcmdldC5pZCwgJ0AgeT0nLCBwcmV2VGFyZ2V0LnkpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvL2hlaWdodDogMzZweDsK</text>
+        <text encoding="base64">ICAgICAgcHJldlRhcmdldCA9IHRoaXMudGFyZ2V0c1tpZHgrK107Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAvL21hcmdpbi10b3A6IDIwcHg7CiAgLy9tYXJnaW4tbGVmdDogMTBweDsK</text>
+        <text encoding="base64">ICAgIGxldCBwcmV2VGFyZ2V0ID0gdGhpcy50YXJnZXRzW2lkeF07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBib3JkZXItYm90dG9tOiAxcHggc29saWQgcmdiYSg2LDI1NSwzLDAuNDMpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBwcmV2VGFyZ2V0ID0gdGhpcy50YXJnZXRzW2lkeF07Cg==</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JGJhY2tncm91bmQtY29sb3I6ICNmNWY1ZjU7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZ2JhKDI1NSw5LDAsMC4yNik7Cg==</text>
+        <text encoding="base64">ICAgIGlmICh1c2VEb2N1bWVudCkgewogICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvL2ZsZXg6IDEgMSBhdXRvOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>scroll</last-search>
+      <last-search>document</last-search>
       <last-offset />
-      <last-pattern>scroll</last-pattern>
+      <last-pattern>document</last-pattern>
       <last-replace>xyz</last-replace>
       <last-substitute encoding="base64">XDx0b3BpY3NBY2NvcmRpb25cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -1030,7 +1031,6 @@
     </search>
     <history>
       <history-search>
-        <entry>top</entry>
         <entry>gg</entry>
         <entry>stick</entry>
         <entry>rev</entry>
@@ -1050,6 +1050,7 @@
         <entry>openDr</entry>
         <entry>back</entry>
         <entry>scroll</entry>
+        <entry>document</entry>
       </history-search>
       <history-cmd>
         <entry>s/\(\.\.\/\)+/ass</entry>
