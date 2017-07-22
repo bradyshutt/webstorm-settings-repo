@@ -615,12 +615,12 @@
         <mark key="." line="29" column="64" />
         <mark key="^" line="29" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" timestamp="1500003562637">
-        <mark key="'" line="63" column="45" />
-        <mark key="[" line="25" column="46" />
-        <mark key="]" line="25" column="5" />
-        <mark key="." line="25" column="5" />
-        <mark key="^" line="25" column="5" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" timestamp="1500687633610">
+        <mark key="'" line="26" column="49" />
+        <mark key="[" line="27" column="28" />
+        <mark key="]" line="27" column="28" />
+        <mark key="." line="27" column="28" />
+        <mark key="^" line="27" column="28" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/video-player/video-player.component.ts" timestamp="1500681349444">
         <mark key="'" line="72" column="61" />
@@ -826,7 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
       <jump line="113" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
       <jump line="60" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
       <jump line="77" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
@@ -926,10 +925,11 @@
       <jump line="13" column="114" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.html" />
       <jump line="21" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.module.ts" />
       <jump line="15" column="16" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.module.ts" />
+      <jump line="26" column="49" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Ly9bc2Nyb2xsc3B5SWRdPSJpdGVtLmRhdGFbJ2Zvcm1hdHRlZE5hbWUnXSI+</text>
+        <text>j</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -958,7 +958,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Ly9bc2Nyb2xsc3B5SWRdPSJpdGVtLmRhdGFbJ2Zvcm1hdHRlZE5hbWUnXSI+</text>
+        <text>j</text>
       </register>
       <register name="/" type="4">
         <text>scroll</text>
