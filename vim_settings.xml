@@ -363,11 +363,11 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.html" timestamp="1500686681610">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.html" timestamp="1500691411719">
         <mark key="'" line="13" column="114" />
-        <mark key="[" line="13" column="144" />
-        <mark key="]" line="13" column="144" />
-        <mark key="." line="13" column="113" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="13" column="139" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/instructor-icon/instructor-icon.component.ts" timestamp="1498679523942">
@@ -615,12 +615,12 @@
         <mark key="." line="29" column="64" />
         <mark key="^" line="29" column="62" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" timestamp="1500690832859">
-        <mark key="'" line="67" column="36" />
-        <mark key="[" line="53" column="31" />
-        <mark key="]" line="53" column="42" />
-        <mark key="^" line="53" column="42" />
-        <mark key="." line="53" column="42" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" timestamp="1500691211825">
+        <mark key="'" line="59" column="36" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="." line="54" column="0" />
+        <mark key="^" line="36" column="42" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/video-player/video-player.component.ts" timestamp="1500681349444">
         <mark key="'" line="72" column="61" />
@@ -929,8 +929,8 @@
       <jump line="64" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>yScroll</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICB4eXpTY3JvbGxzcHlDb250YWluZXIK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -959,16 +959,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>yScroll</text>
+        <text encoding="base64">eHl6U2Nyb2xsc3B5RWxlbWVudCBbc2Nyb2xsc3B5SWRdPSJpdGVtLmRhdGFbJ2Zvcm1hdHRlZE5hbWUnXSIgIA==</text>
       </register>
       <register name="/" type="4">
         <text>document</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd5U2Nyb2xsOiAnLCB5U2Nyb2xsKTsK</text>
+        <text encoding="base64">ICAgICAgPGgyICpuZ0lmPSJpdGVtLmlzVG9waWM7IGVsc2UgZXhhbXBsZSIgaWQ9Int7aXRlbS5kYXRhWydmb3JtYXR0ZWROYW1lJ119fSIgeHl6U2Nyb2xsc3B5RWxlbWVudCBbc2Nyb2xsc3B5SWRdPSJpdGVtLmRhdGFbJ2Zvcm1hdHRlZE5hbWUnXSIgID4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
+        <text encoding="base64">ICAgICB4eXpTY3JvbGxzcHlDb250YWluZXIK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -987,34 +987,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC8vIGlmICh0aGlzLmNvbnRhaW5lclJlZlR5cGUgPT09ICdjZW50ZXInKSB7CiAgICAvLyAgIHlTY3JvbGwgKz0gdGhpcy5jb250YWluZXIuY2xpZW50SGVpZ2h0IC8gMjsKICAgIC8vIH0gZWxzZSBpZiAodGhpcy5jb250YWluZXJSZWZUeXBlID09PSAnd2luZG93JykgewogICAgLy8gICB5U2Nyb2xsICs9ICh0aGlzLmNvbnRhaW5lci5jbGllbnRIZWlnaHQgKiAzIC8gNCk7CiAgICAvLyAgIHlTY3JvbGwgKz0gdGhpcy5jb250YWluZXIuY2xpZW50SGVpZ2h0IC8gMjsKICAgIC8vIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdDdXJyZW50VGFyZ2V0czogJywgcHJldlRhcmdldC5pZCwgJ0AgeT0nLCBwcmV2VGFyZ2V0LnkpOwo=</text>
+        <text encoding="base64">ICBnZXQgeSgpIHsKICAgIHJldHVybiB0aGlzLmVsLmdldEJvdW5kaW5nQ2xpZW50UmVjdCgpLnRvcDsKICB9Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcHJldlRhcmdldCA9IHRoaXMudGFyZ2V0c1tpZHgrK107Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGxldCBwcmV2VGFyZ2V0ID0gdGhpcy50YXJnZXRzW2lkeF07Cg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCd5U2Nyb2xsMjogJywgeVNjcm9sbCk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGxldCBwcmV2VGFyZ2V0ID0gdGhpcy50YXJnZXRzW2lkeF07Cg==</text>
+        <text encoding="base64">ICAgIHlTY3JvbGwgLT0gIHRoaXMuY29udGFpbmVyLmNsaWVudEhlaWdodCAvIDI7Cg==</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCkK</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGlmICh1c2VEb2N1bWVudCkgewogICAgfQo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIGNvbnNvbGUubG9nKCdDdXJyZW50VGFyZ2V0czogJywgcHJldlRhcmdldC5pZCwgJ0AgeT0nLCBwcmV2VGFyZ2V0LnkpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1063,7 +1063,6 @@
         <entry>s/app/xyz/</entry>
         <entry>23</entry>
         <entry>103</entry>
-        <entry>action AceAction</entry>
         <entry>action GotoNextError</entry>
         <entry>qalll</entry>
         <entry>qall</entry>
@@ -1072,6 +1071,7 @@
         <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action AceAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
