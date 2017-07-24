@@ -240,12 +240,12 @@
         <mark key="^" line="55" column="1" />
         <mark key="." line="55" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" timestamp="1500919660205">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" timestamp="1500936544062">
         <mark key="'" line="32" column="30" />
-        <mark key="[" line="43" column="17" />
-        <mark key="]" line="44" column="20" />
-        <mark key="." line="44" column="20" />
-        <mark key="^" line="44" column="20" />
+        <mark key="[" line="36" column="14" />
+        <mark key="]" line="36" column="15" />
+        <mark key="." line="36" column="15" />
+        <mark key="^" line="36" column="15" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/featured-videos/featured-videos.component.ts" timestamp="1499990220750">
         <mark key="'" line="31" column="3" />
@@ -930,7 +930,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>p</text>
+        <text>5</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -959,7 +959,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>5</text>
       </register>
       <register name="/" type="4">
         <text>other</text>
