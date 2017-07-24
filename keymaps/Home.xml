@@ -28,12 +28,14 @@
   </action>
   <action id="EditorDecreaseFontSize">
     <keyboard-shortcut first-keystroke="ctrl meta minus" />
+    <keyboard-shortcut first-keystroke="ctrl alt minus" />
   </action>
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
   </action>
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl meta equals" />
+    <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
