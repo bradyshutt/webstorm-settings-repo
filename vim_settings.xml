@@ -804,12 +804,12 @@
         <mark key="^" line="20" column="24" />
         <mark key="." line="20" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/redux/index.ts" timestamp="1500934569635">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/redux/index.ts" timestamp="1500935807811">
         <mark key="'" line="84" column="25" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="23" column="14" />
-        <mark key="." line="60" column="0" />
+        <mark key="[" line="53" column="14" />
+        <mark key="]" line="53" column="14" />
+        <mark key="^" line="53" column="14" />
+        <mark key="." line="53" column="14" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/video-player-popup/video-player-popup.component.scss" timestamp="1498681655393">
         <mark key="'" line="57" column="1" />
@@ -929,8 +929,8 @@
       <jump line="8" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">fQo=</text>
+      <register name="&quot;" type="4">
+        <text>p</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -959,7 +959,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>other</text>
@@ -968,7 +968,7 @@
         <text encoding="base64">ICBicm93c2VyOiByZXNwb25zaXZlU3RhdGVSZWR1Y2VyLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNpdmVTdG9yZUVuaGFuY2VyLAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -984,17 +984,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
+        <text encoding="base64">ICAgIHJlc3BvbnNpdmVTdG9yZUVuaGFuY2VyLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICB9IGVsc2Ugewo=</text>
       </register>
-      <register name="5" type="8">
-        <text>Layout
-Layout</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAK</text>
@@ -1002,17 +1001,18 @@ Layout</text>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+      <register name="7" type="8">
+        <text>Layout
+Layout</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc3QK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2lkZWJhcgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
