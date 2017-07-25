@@ -245,12 +245,12 @@
         <mark key="^" line="55" column="1" />
         <mark key="." line="55" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" timestamp="1500939569545">
-        <mark key="'" line="34" column="19" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" timestamp="1500940659617">
+        <mark key="'" line="33" column="12" />
         <mark key="[" line="33" column="29" />
-        <mark key="]" line="33" column="33" />
-        <mark key="." line="33" column="33" />
-        <mark key="^" line="33" column="33" />
+        <mark key="]" line="33" column="35" />
+        <mark key="." line="33" column="35" />
+        <mark key="^" line="33" column="35" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/featured-videos/featured-videos.component.ts" timestamp="1499990220750">
         <mark key="'" line="31" column="3" />
@@ -550,8 +550,8 @@
         <mark key="." line="47" column="140" />
         <mark key="^" line="47" column="140" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store/src/ng2.d.ts" timestamp="1500937644036">
-        <mark key="'" line="3" column="12" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store/src/ng2.d.ts" timestamp="1500940667901">
+        <mark key="'" line="19" column="17" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1500593732405">
         <mark key="'" line="10" column="0" />
@@ -951,17 +951,17 @@
       <jump line="12" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/redux/index.ts" />
       <jump line="41" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/redux/index.ts" />
       <jump line="15" column="24" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store/src/ng2.d.ts" />
-      <jump line="19" column="71" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store/src/ng2.d.ts" />
       <jump line="3" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store/src/ng2.d.ts" />
       <jump line="5" column="41" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store/src/store.d.ts" />
       <jump line="6" column="32" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
       <jump line="5" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store/index.d.ts" />
-      <jump line="33" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" />
       <jump line="34" column="19" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" />
+      <jump line="33" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" />
+      <jump line="19" column="17" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store/src/ng2.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>reducer</text>
+        <text>store</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -990,7 +990,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>reducer</text>
+        <text>store</text>
       </register>
       <register name="/" type="4">
         <text>create</text>
