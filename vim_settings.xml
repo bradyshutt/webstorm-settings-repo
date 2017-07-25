@@ -99,6 +99,12 @@
         <mark key="." line="8" column="2" />
         <mark key="^" line="8" column="2" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/core.module.ts" timestamp="1501006290863">
+        <mark key="[" line="30" column="8" />
+        <mark key="]" line="30" column="8" />
+        <mark key="^" line="30" column="8" />
+        <mark key="." line="30" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/sidebar/sidebar.component.ts" timestamp="1495754140339">
         <mark key="[" line="13" column="19" />
         <mark key="]" line="14" column="17" />
@@ -395,9 +401,6 @@
         <mark key="." line="19" column="40" />
         <mark key="^" line="19" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/examples-list/examples-list.component.scss" timestamp="1500858913604">
-        <mark key="'" line="92" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/username.pipe.ts" timestamp="1496990578862">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -548,6 +551,13 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" timestamp="1501008690227">
+        <mark key="'" line="57" column="39" />
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="33" column="0" />
+        <mark key="^" line="31" column="5" />
+        <mark key="." line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/admin/nav/notifications.component.ts" timestamp="1495128251348">
         <mark key="[" line="3" column="17" />
         <mark key="]" line="3" column="20" />
@@ -661,6 +671,12 @@
         <mark key="]" line="7" column="12" />
         <mark key="^" line="8" column="32" />
         <mark key="." line="7" column="12" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/not-found-page.component.ts" timestamp="1501004308763">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
+        <mark key="^" line="20" column="24" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.spec.ts" timestamp="1498078486816">
         <mark key="'" line="18" column="24" />
@@ -873,6 +889,12 @@
         <mark key="^" line="15" column="35" />
         <mark key="." line="15" column="34" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/app.component.scss" timestamp="1501000973559">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/projects/mydrive/front-end/src/app/auth.guard.ts" timestamp="1494727035738">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
@@ -918,6 +940,11 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="9" column="14" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/reducers/layout.ts" timestamp="1501008736459">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/sidebar-header/sidebar-header.component.html" timestamp="1493337073398">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="2" column="14" />
@@ -951,8 +978,11 @@
         <mark key="." line="51" column="0" />
         <mark key="^" line="62" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/example.ts" timestamp="1500251037114">
-        <mark key="'" line="46" column="45" />
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/todos/components/todos-page.component.ts" timestamp="1501004753420">
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="14" />
+        <mark key="." line="3" column="14" />
+        <mark key="^" line="3" column="14" />
       </file>
       <file name="$USER_HOME$/dev/projects/chore/src/styles.css" timestamp="1496026499743">
         <mark key="[" line="7" column="0" />
@@ -1017,6 +1047,19 @@
         <mark key="]" line="10" column="5" />
         <mark key="^" line="10" column="5" />
         <mark key="." line="10" column="5" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/todos/todos.module.ts" timestamp="1501004993171">
+        <mark key="'" line="13" column="41" />
+        <mark key="[" line="13" column="22" />
+        <mark key="]" line="3" column="17" />
+        <mark key="^" line="3" column="17" />
+        <mark key="." line="13" column="40" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/components/sidenav.component.ts" timestamp="1501008203071">
+        <mark key="[" line="7" column="6" />
+        <mark key="]" line="8" column="17" />
+        <mark key="." line="8" column="17" />
+        <mark key="^" line="8" column="17" />
       </file>
       <file name="$USER_HOME$/dev/projects/fire/tslint.json" timestamp="1495934364841">
         <mark key="[" line="4" column="6" />
@@ -1159,9 +1202,6 @@
         <mark key="." line="16" column="15" />
         <mark key="^" line="16" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/topics-tree/topics-tree.component.html" timestamp="1500859390949">
-        <mark key="'" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/video.ts" timestamp="1500251384311">
         <mark key="'" line="5" column="0" />
         <mark key="[" line="33" column="79" />
@@ -1232,6 +1272,13 @@
         <mark key="^" line="1" column="29" />
         <mark key="." line="3" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" timestamp="1501001141024">
+        <mark key="'" line="17" column="28" />
+        <mark key="[" line="21" column="16" />
+        <mark key="]" line="21" column="16" />
+        <mark key="^" line="21" column="16" />
+        <mark key="." line="21" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/series-list/series-list.component.scss" timestamp="1499311334796">
         <mark key="'" line="48" column="0" />
         <mark key="[" line="43" column="8" />
@@ -1272,12 +1319,6 @@
         <mark key="]" line="23" column="30" />
         <mark key="^" line="23" column="28" />
         <mark key="." line="23" column="29" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/topics-tree/topics-tree.component.ts" timestamp="1500859971393">
-        <mark key="'" line="29" column="32" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="19" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/topics-accordion.component.ts" timestamp="1498673051065">
         <mark key="'" line="92" column="63" />
@@ -1460,6 +1501,12 @@
         <mark key="^" line="6" column="25" />
         <mark key="." line="6" column="25" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/routes.ts" timestamp="1501004621977">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="19" />
+        <mark key="." line="11" column="19" />
+        <mark key="^" line="11" column="19" />
+      </file>
       <file name="$USER_HOME$/dev/projects/todayidid/src/typings.d.ts" timestamp="1497149862622">
         <mark key="[" line="2" column="21" />
         <mark key="]" line="2" column="31" />
@@ -1594,6 +1641,12 @@
         <mark key="]" line="146" column="27" />
         <mark key="^" line="146" column="27" />
         <mark key="." line="146" column="27" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/components/toolbar.component.ts" timestamp="1501004984191">
+        <mark key="[" line="16" column="41" />
+        <mark key="]" line="16" column="41" />
+        <mark key="." line="16" column="41" />
+        <mark key="^" line="16" column="41" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/topics.service.ts" timestamp="1498067739868">
         <mark key="'" line="26" column="51" />
@@ -1738,6 +1791,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
         <mark key="^" line="10" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/styles.scss" timestamp="1501000981056">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="2" column="7" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/htdocs/xyz_websites/MathTV-Website-3.0/src/mtv-colors.scss" timestamp="1488306594930">
         <mark key="[" line="3" column="11" />
@@ -1901,6 +1960,13 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="15" column="56" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/app.module.ts" timestamp="1501006299111">
+        <mark key="'" line="22" column="28" />
+        <mark key="[" line="21" column="14" />
+        <mark key="]" line="21" column="22" />
+        <mark key="." line="21" column="22" />
+        <mark key="^" line="21" column="22" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/sidebar-header/sidebar-header.component.ts" timestamp="1493337691445">
         <mark key="[" line="9" column="20" />
         <mark key="]" line="9" column="25" />
@@ -2020,6 +2086,12 @@
         <mark key="^" line="42" column="5" />
         <mark key="." line="42" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/app.component.ts" timestamp="1501000424943">
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/xyztextbooks_sails_framework/views/admin/index.html" timestamp="1493334091997">
         <mark key="[" line="4" column="32" />
         <mark key="]" line="4" column="33" />
@@ -2079,6 +2151,13 @@
         <mark key="]" line="54" column="33" />
         <mark key="." line="54" column="33" />
         <mark key="^" line="54" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/shared/shared.module.ts" timestamp="1501004336539">
+        <mark key="'" line="3" column="42" />
+        <mark key="[" line="16" column="14" />
+        <mark key="]" line="16" column="14" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="14" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-header/header-collapse/header-collapse.component.scss" timestamp="1493338745710">
         <mark key="[" line="0" column="0" />
@@ -2242,6 +2321,12 @@
         <mark key="." line="7" column="9" />
         <mark key="^" line="7" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/todos/components/todos-list-page.component.ts" timestamp="1501004768229">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="6" column="16" />
+        <mark key="." line="6" column="16" />
+      </file>
       <file name="$USER_HOME$/dev/workspace/redux-test/.angular-cli.json" timestamp="1499553289863">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -2255,15 +2340,19 @@
         <mark key="." line="26" column="41" />
         <mark key="^" line="15" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/tslint.json" timestamp="1501001163387">
+        <mark key="'" line="109" column="10" />
+        <mark key="[" line="118" column="7" />
+        <mark key="]" line="118" column="7" />
+        <mark key="." line="118" column="8" />
+        <mark key="^" line="112" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/featured-videos/featured-videos.component.ts" timestamp="1499990220750">
         <mark key="'" line="31" column="3" />
         <mark key="[" line="30" column="24" />
         <mark key="]" line="31" column="3" />
         <mark key="^" line="31" column="3" />
         <mark key="." line="31" column="3" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/watch-page.component.html" timestamp="1500257718170">
-        <mark key="'" line="73" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/services/authentication.service.ts" timestamp="1494971647327">
         <mark key="[" line="5" column="17" />
@@ -2397,6 +2486,12 @@
         <mark key="]" line="20" column="3" />
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app.component.ts" timestamp="1501003718863">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="9" column="26" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/redux/layout/layout.reducer.ts" timestamp="1500681762923">
         <mark key="'" line="57" column="28" />
@@ -2632,14 +2727,17 @@
         <mark key="^" line="10" column="9" />
         <mark key="." line="10" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/components/nav-item.component.ts" timestamp="1501004840525">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="7" />
+        <mark key="^" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/editor.component.html" timestamp="1493942594226">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="24" />
         <mark key="." line="10" column="24" />
         <mark key="^" line="10" column="24" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/watch-page.component.ts" timestamp="1500258004383">
-        <mark key="'" line="1" column="31" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/virtual-list-item/virtual-list-item.component.html" timestamp="1500511417729">
         <mark key="[" line="3" column="4" />
@@ -2684,6 +2782,12 @@
         <mark key="^" line="25" column="53" />
         <mark key="." line="25" column="54" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/index.html" timestamp="1501001453571">
+        <mark key="[" line="13" column="18" />
+        <mark key="]" line="13" column="18" />
+        <mark key="^" line="13" column="8" />
+        <mark key="." line="13" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/services/user.service.ts" timestamp="1494974235448">
         <mark key="[" line="23" column="44" />
         <mark key="]" line="23" column="44" />
@@ -2702,6 +2806,12 @@
         <mark key="." line="9" column="21" />
         <mark key="^" line="9" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/reducers/index.ts" timestamp="1501005815195">
+        <mark key="[" line="53" column="45" />
+        <mark key="]" line="53" column="45" />
+        <mark key="." line="53" column="45" />
+        <mark key="^" line="53" column="89" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/types/instructor.ts" timestamp="1498687342867">
         <mark key="'" line="16" column="48" />
         <mark key="[" line="9" column="9" />
@@ -2714,6 +2824,13 @@
         <mark key="]" line="131" column="0" />
         <mark key="." line="131" column="0" />
         <mark key="^" line="131" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/components/layout.component.ts" timestamp="1501008600402">
+        <mark key="'" line="10" column="36" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+        <mark key="^" line="5" column="72" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/sidenav/sidenav.component.ts" timestamp="1499274858643">
         <mark key="'" line="5" column="30" />
@@ -2772,6 +2889,12 @@
         <mark key="^" line="8" column="13" />
         <mark key="." line="8" column="13" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/actions/layout.ts" timestamp="1501008733731">
+        <mark key="[" line="5" column="39" />
+        <mark key="]" line="5" column="43" />
+        <mark key="." line="5" column="43" />
+        <mark key="^" line="5" column="43" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin-front-end/src/app/dashboard/dashboard-routing.module.ts" timestamp="1494968365391">
         <mark key="[" line="3" column="57" />
         <mark key="]" line="3" column="57" />
@@ -2799,29 +2922,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="79" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="16" column="5" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
-      <jump line="99" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
-      <jump line="2" column="7" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.html" />
-      <jump line="4" column="46" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.html" />
-      <jump line="62" column="3" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
-      <jump line="73" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
-      <jump line="77" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
-      <jump line="80" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
-      <jump line="34" column="6" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
-      <jump line="38" column="10" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
-      <jump line="39" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
-      <jump line="20" column="61" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/directives/mathjax.directive.ts" />
-      <jump line="70" column="45" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
-      <jump line="71" column="54" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
-      <jump line="29" column="22" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
-      <jump line="55" column="17" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/topic-page.component.scss" />
-      <jump line="24" column="29" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="11" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/render-button.directive.ts" />
-      <jump line="65" column="46" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" />
-      <jump line="64" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="144" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="50" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
       <jump line="149" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
       <jump line="67" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
       <jump line="28" column="37" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
@@ -2899,10 +2999,33 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/topics-tree/topics-tree.component.html" />
       <jump line="19" column="25" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/topics-tree/topics-tree.component.ts" />
       <jump line="29" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/topics-tree/topics-tree.component.ts" />
+      <jump line="2" column="33" filename="$USER_HOME$/dev/projects/redux-todo/src/app/app.module.ts" />
+      <jump line="3" column="42" filename="$USER_HOME$/dev/projects/redux-todo/src/app/shared/shared.module.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/projects/redux-todo/tslint.json" />
+      <jump line="54" column="18" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
+      <jump line="21" column="16" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
+      <jump line="5" column="3" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
+      <jump line="57" column="0" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
+      <jump line="39" column="31" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
+      <jump line="19" column="17" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
+      <jump line="17" column="28" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
+      <jump line="109" column="10" filename="$USER_HOME$/dev/projects/redux-todo/tslint.json" />
+      <jump line="9" column="71" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
+      <jump line="13" column="41" filename="$USER_HOME$/dev/projects/redux-todo/src/app/todos/todos.module.ts" />
+      <jump line="22" column="28" filename="$USER_HOME$/dev/projects/redux-todo/src/app/app.module.ts" />
+      <jump line="27" column="48" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
+      <jump line="34" column="16" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
+      <jump line="4" column="43" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
+      <jump line="44" column="1" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
+      <jump line="10" column="9" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
+      <jump line="22" column="4" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
+      <jump line="9" column="5" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/components/layout.component.ts" />
+      <jump line="10" column="36" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/components/layout.component.ts" />
+      <jump line="57" column="39" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>at</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -2931,16 +3054,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>at</text>
+        <text>Open</text>
       </register>
       <register name="/" type="4">
-        <text>document</text>
+        <text>app</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
+      <register name="0" type="4">
+        <text>[open]=&quot;showSidenav$ | async&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIE1hdGhKYXguSHViLlF1ZXVlKFsnVHlwZXNldCcsIE1hdGhKYXguSHViLCB0aGlzLmVsUmVmLm5hdGl2ZUVsZW1lbnRdKTsK</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -2959,43 +3082,43 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIE1hdGhKYXguSHViLlF1ZXVlKFsnVHlwZXNldCcsIE1hdGhKYXguSHViLCB0aGlzLmVsUmVmLm5hdGl2ZUVsZW1lbnRdKTsK</text>
+        <text encoding="base64">CiAgZmlyZSgpIHsKICAgIGNvbnNvbGUubG9nKCdmaXJlJyk7CiAgICB0aGlzLmJhY2tkcm9wQ2xpY2suZW1pdCgpOwogIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGJhY2tncm91bmQtY29sb3I6IHJlZDsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdGF0aWM6IHRydWUsCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaXJlJyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiByZWQ7Cg==</text>
+        <text encoding="base64">ICAgICAgW29wZW5dPSJzaG93U2lkZW5hdiQgfCBhc3luYyIK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIDxtZC1zaWRlbmF2IFtvcGVuZWRdPSJvcGVuIj4KICAgICAgCiAgICAgIDxtZC1uYXYtbGlzdD4KICAgICAgICA8bmctY29udGVudD48L25nLWNvbnRlbnQ+CiAgICAgIDwvbWQtbmF2LWxpc3Q+CiAgICAgIAogICAgPC9tZC1zaWRlbmF2PgogIAo=</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAtLT4K</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDwhLS0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnVG9waWMgY2hhbmd0ZWQhJyk7CiAgICAgICAgdGhpcy5pdGVtcyA9IFtdOwogICAgICAgIHRoaXMuYWxsSXRlbXMgPSBbXTsKICAgICAgICB0aGlzLmdldEFsbEl0ZW1zKCk7CiAgICAgICAgdGhpcy5pdGVtc0luZGV4ID0gMDsKICAgICAgICB0aGlzLmxvYWROZXh0KCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>document</last-search>
+      <last-search>app</last-search>
       <last-offset />
-      <last-pattern>document</last-pattern>
+      <last-pattern>app</last-pattern>
       <last-replace>xyz</last-replace>
       <last-substitute encoding="base64">XDx0b3BpY3NBY2NvcmRpb25cPg==</last-substitute>
       <last-dir>1</last-dir>
@@ -3003,8 +3126,6 @@
     </search>
     <history>
       <history-search>
-        <entry>down</entry>
-        <entry>name</entry>
         <entry>close</entry>
         <entry>space</entry>
         <entry>switch</entry>
@@ -3020,9 +3141,11 @@
         <entry>raw</entry>
         <entry>el.</entry>
         <entry>el.scr</entry>
-        <entry>css</entry>
-        <entry>white</entry>
         <entry>prefer</entry>
+        <entry>white</entry>
+        <entry>scss</entry>
+        <entry>css</entry>
+        <entry>app</entry>
       </history-search>
       <history-cmd>
         <entry>Action</entry>
@@ -3042,8 +3165,8 @@
         <entry>wq</entry>
         <entry>kw</entry>
         <entry>action AceAction</entry>
-        <entry>q</entry>
         <entry>qall</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
