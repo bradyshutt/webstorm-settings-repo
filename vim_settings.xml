@@ -251,12 +251,11 @@
         <mark key="." line="52" column="3" />
         <mark key="^" line="52" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/layout.component.ts" timestamp="1501041995439">
-        <mark key="'" line="5" column="58" />
-        <mark key="[" line="5" column="26" />
-        <mark key="]" line="5" column="26" />
-        <mark key="^" line="14" column="5" />
-        <mark key="." line="5" column="26" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/layout.component.ts" timestamp="1501043278803">
+        <mark key="[" line="41" column="6" />
+        <mark key="]" line="41" column="22" />
+        <mark key="." line="41" column="22" />
+        <mark key="^" line="41" column="22" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/instructor.service.ts" timestamp="1499986244870">
         <mark key="'" line="13" column="26" />
@@ -766,12 +765,12 @@
         <mark key="^" line="31" column="43" />
         <mark key="." line="31" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.ts" timestamp="1501041791347">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.ts" timestamp="1501043354866">
         <mark key="'" line="6" column="11" />
-        <mark key="[" line="35" column="6" />
-        <mark key="]" line="35" column="17" />
-        <mark key="^" line="35" column="17" />
-        <mark key="." line="35" column="17" />
+        <mark key="[" line="33" column="19" />
+        <mark key="]" line="33" column="19" />
+        <mark key="^" line="33" column="59" />
+        <mark key="." line="33" column="19" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/models/pages.ts" timestamp="1501035277531">
         <mark key="[" line="37" column="1" />
@@ -1112,7 +1111,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">ZnVsbHNjcmVlbiA=</text>
+        <text>p</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1141,7 +1140,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVsbHNjcmVlbiA=</text>
+        <text>p</text>
       </register>
       <register name="/" type="4">
         <text>drawer</text>
@@ -1152,7 +1151,7 @@
   box-shadow: 3px 0 10px 1px rgba(0,0,0,0.21);</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxuZy1jb250ZW50IHNlbGVjdD0ieHl6LXRvb2xiYXIiPjwvbmctY29udGVudD4KICAgIDxkaXYgY2xhc3M9InBhZ2Utd3JhcHBlciI+CiAgICAgIDxyb3V0ZXItb3V0bGV0Pjwvcm91dGVyLW91dGxldD4KICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1189,34 +1188,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qLnRvb2xiYXIgeyovCiAgICAgIC8qaGVpZ2h0OiA2MHB4OzsqLwogICAgICAvKmNvbG9yOiAjZmZmOyovCiAgICAgIC8qYmFja2dyb3VuZC1pbWFnZTogdXJsKCJodHRwczovL3ZpYS5wbGFjZWhvbGRlci5jb20vMTAwMHg5MCIpOyovCiAgICAgIC8qYmFja2dyb3VuZC1zaXplOiAxMDAlIDEwMCU7Ki8KICAgICAgLypwb3NpdGlvbjogZml4ZWQ7Ki8KICAgIC8qfSovCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgPG5nLWNvbnRlbnQgc2VsZWN0PSJ4eXotdG9vbGJhciI+PC9uZy1jb250ZW50PgogICAgICA8ZGl2IGNsYXNzPSJwYWdlLXdyYXBwZXIiPgogICAgICAgIDxyb3V0ZXItb3V0bGV0Pjwvcm91dGVyLW91dGxldD4KICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgIHRvcDogMDsKICAgIGxlZnQ6IDA7CiAgICByaWdodDogMDsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgIDxuZy1jb250ZW50IHNlbGVjdD0ieHl6LXRvb2xiYXIiPjwvbmctY29udGVudD4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDwvCg==</text>
+        <text encoding="base64">ICAgICAgdG9wOiAwOwogICAgICBsZWZ0OiAwOwogICAgICByaWdodDogMDsK</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiA2MHB4Owo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgYm94LXNoYWRvdzogaW5zZXQgMHB4IDVweCA2cHggLTNweCByZ2JhKDAsIDAsIDAsIDAuNCkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAKICAgICAgICA8IS0tPHBhcGVyLWxpc3Rib3ggKGNsaWNrKT0iIWRyYXdlci5wZXJzaXN0ZW50ICYmIGRyYXdlci5jbG9zZSgpIj4tLT4KICAgICAgICA8IS0tPHBhcGVyLWxpc3Rib3g+LS0+CiAgICAgICAgICA8IS0tPHBhcGVyLWl0ZW0gKm5nRm9yPSJsZXQgcGFnZSBvZiBwYWdlcyIgW3JvdXRlckxpbmtdPSJwYWdlLmxpbmsiPi0tPgogICAgICAgIDwhLS08c3Bhbj4tLT4KICAgICAgICA8IS0tPG1kLWljb24+e3twYWdlLmljb24gPyBwYWdlLmljb24gOiAnbGFiZWwnfX08L21kLWljb24+LS0+CiAgICAgICAgPCEtLXt7cGFnZS5sYWJlbH19LS0+CiAgICAgICAgPCEtLTwvc3Bhbj4tLT4KICAgICAgICAgIDwhLS08L3BhcGVyLWl0ZW0+LS0+CiAgICAgICAgPCEtLTwvcGFwZXItbGlzdGJveD4tLT4KICAgICAgPCEtLTwvZGl2Pi0tPgo=</text>
+        <text encoding="base64">ICAgICAgY29sb3I6ICNmZmY7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1269,11 +1268,11 @@
         <entry>qall</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
-        <entry>action NextTab</entry>
         <entry>action AceAction</entry>
         <entry>action VimWindowRight</entry>
         <entry>action VimWindowLeft</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
