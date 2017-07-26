@@ -250,12 +250,12 @@
         <mark key="." line="52" column="3" />
         <mark key="^" line="52" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/layout.component.ts" timestamp="1501033235912">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/layout.component.ts" timestamp="1501034441496">
         <mark key="'" line="5" column="37" />
-        <mark key="[" line="10" column="31" />
-        <mark key="]" line="11" column="5" />
-        <mark key="." line="11" column="5" />
-        <mark key="^" line="11" column="5" />
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="17" column="3" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/instructor.service.ts" timestamp="1499986244870">
         <mark key="'" line="13" column="26" />
@@ -557,10 +557,10 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" timestamp="1501030817307">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.html" timestamp="1501034430010">
         <mark key="'" line="19" column="110" />
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="66" column="13" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="80" />
         <mark key="." line="39" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" timestamp="1500670530978">
@@ -755,11 +755,11 @@
         <mark key="^" line="31" column="43" />
         <mark key="." line="31" column="44" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.ts" timestamp="1501033294897">
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="15" />
-        <mark key="." line="3" column="15" />
-        <mark key="^" line="3" column="15" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.ts" timestamp="1501034417977">
+        <mark key="[" line="10" column="24" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/video-player-popup/video-player-popup.component.html" timestamp="1498674577629">
         <mark key="'" line="70" column="18" />
@@ -1091,8 +1091,8 @@
       <jump line="5" column="37" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/layout.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>app</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgPCEtLS0tPgo=</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1127,10 +1127,10 @@
         <text>Routing</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
+        <text encoding="base64">PGFwcC1kcmF3ZXItbGF5b3V0IHJlc3BvbnNpdmUtd2lkdGg9IjEyODBweCIgZm9yY2VOYXJyb3c9InRydWUiID4KICA8IS0tIG5hdiBwYW5lbCAtLT4KICA8YXBwLWRyYXdlciBpZD0iZHJhd2VyIiAjZHJhd2VyIHN3aXBlLW9wZW4gc2xvdD0iZHJhd2VyIiBuby1mb2N1cy10cmFwPSJ0cnVlIiA+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">ICAgIDxwPgogICAgICBhcHAgV29ya3MhCiAgICA8L3A+</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgPCEtLS0tPgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1167,37 +1167,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICA8IS0tLS0+Cg==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIDxwPgogICAgICBhcHAgV29ya3MhCiAgICA8L3A+</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBKb2xseSBnb29kIQo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBKb2xseSBnb29kIQo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CiAgY29uc3RydWN0b3IoKSB7IH0KCiAgbmdPbkluaXQoKSB7CiAgfQo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgCiAgICAgIAo=</text>
+      </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action VimWindowLeft</text>
       </register>
     </registers>
     <search>
@@ -1233,7 +1233,6 @@
         <entry>Routing</entry>
       </history-search>
       <history-cmd>
-        <entry>s/\(\.\.\/\)\+/ass</entry>
         <entry>s/\(\.\.\/\)\+/\/src\/assets\/styles\/</entry>
         <entry>s/\/src/..\/..\//</entry>
         <entry>s/\/src/..\/../</entry>
@@ -1249,10 +1248,11 @@
         <entry>qall</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>action VimWindowRight</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>w</entry>
+        <entry>action NextTab</entry>
+        <entry>action VimWindowRight</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action VimWindowLeft</entry>
       </history-cmd>
       <history-expr />
       <history-input />
