@@ -6,7 +6,6 @@
   </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
-    <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
@@ -88,8 +87,8 @@
   </action>
   <action id="ZoomCurrentWindow" />
   <action id="com.karateca.jstoolbox.torelated.GoToTestAction">
-    <keyboard-shortcut first-keystroke="alt t" />
     <keyboard-shortcut first-keystroke="ctrl meta t" />
     <keyboard-shortcut first-keystroke="alt s" />
+    <keyboard-shortcut first-keystroke="ctrl t" />
   </action>
 </keymap>
