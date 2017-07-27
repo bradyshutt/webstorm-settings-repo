@@ -1063,8 +1063,8 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/containers/topic-page-revised.component.ts" timestamp="1501197095095">
-        <mark key="'" line="65" column="134" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/containers/topic-page-revised.component.ts" timestamp="1501198462648">
+        <mark key="'" line="76" column="18" />
         <mark key="[" line="35" column="91" />
         <mark key="]" line="35" column="91" />
         <mark key="." line="35" column="91" />
@@ -1092,7 +1092,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="49" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/drawer.component.ts" />
       <jump line="25" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/drawer.component.ts" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/drawer.component.ts" />
       <jump line="10" column="7" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.ts" />
@@ -1192,6 +1191,7 @@
       <jump line="28" column="97" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/actions/topic-page.actions.ts" />
       <jump line="63" column="134" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/containers/topic-page-revised.component.ts" />
       <jump line="68" column="91" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
+      <jump line="76" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/containers/topic-page-revised.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1353,8 +1353,8 @@
         <entry>action VimWindowLeft</entry>
         <entry>qall</entry>
         <entry>q</entry>
-        <entry>action PreviousTab</entry>
         <entry>w</entry>
+        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
