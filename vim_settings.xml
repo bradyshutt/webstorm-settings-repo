@@ -542,11 +542,11 @@
         <mark key="." line="25" column="9" />
         <mark key="^" line="25" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/services/topic-id-resolver.service.ts" timestamp="1501196991027">
-        <mark key="[" line="17" column="23" />
-        <mark key="]" line="17" column="4" />
-        <mark key="^" line="17" column="4" />
-        <mark key="." line="17" column="4" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/services/topic-id-resolver.service.ts" timestamp="1501199289437">
+        <mark key="[" line="21" column="32" />
+        <mark key="]" line="21" column="36" />
+        <mark key="^" line="21" column="36" />
+        <mark key="." line="21" column="36" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/models/root-math-topics.ts" timestamp="1501035071717">
         <mark key="[" line="30" column="31" />
@@ -1063,10 +1063,10 @@
         <mark key="." line="34" column="0" />
         <mark key="^" line="41" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/containers/topic-page-revised.component.ts" timestamp="1501198462648">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/containers/topic-page-revised.component.ts" timestamp="1501199152752">
         <mark key="'" line="76" column="18" />
-        <mark key="[" line="35" column="91" />
-        <mark key="]" line="35" column="91" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="88" column="2" />
         <mark key="." line="35" column="91" />
         <mark key="^" line="35" column="91" />
       </file>
@@ -1195,7 +1195,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Sub</text>
+        <text>route</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1224,13 +1224,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Sub</text>
+        <text>route</text>
       </register>
       <register name="/" type="4">
         <text>chan</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldEFjdGl2ZVRvcGljUGF0aCA9IGNyZWF0ZVNlbGVjdG9yKGdldFRvcGljUGFnZVN0YXRlLCBmcm9tVG9waWNQYWdlLmdldFRvcGljSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygneHJvdXRlOiAnLCByb3V0ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gZXhwb3J0IGNvbnN0IGdldFN1YlN1YnRvcGljSWQgPSAoc3RhdGU6IFN0YXRlKSA9PiBzdGF0ZS5zdWJTdWJ0b3BpY0lkOwo=</text>
@@ -1300,7 +1300,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>action NextTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1353,9 +1353,9 @@
         <entry>action VimWindowLeft</entry>
         <entry>qall</entry>
         <entry>q</entry>
-        <entry>w</entry>
-        <entry>action PreviousTab</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
