@@ -1052,10 +1052,11 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page-revised/components/topic-tree.component.ts" timestamp="1501129567779">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page-revised/components/topic-tree.component.ts" timestamp="1501131097579">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="13" column="41" />
+        <mark key="]" line="13" column="41" />
+        <mark key="." line="13" column="41" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/watch-page.component.scss" timestamp="1500087302184">
         <mark key="'" line="90" column="2" />
@@ -1529,6 +1530,11 @@
         <mark key="]" line="5" column="8" />
         <mark key="^" line="5" column="6" />
         <mark key="." line="5" column="8" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page-revised/components/topic-tree-item.component.ts" timestamp="1501131338816">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/reducers/settings.reducer.ts" timestamp="1501124286140">
         <mark key="'" line="20" column="112" />
@@ -3103,7 +3109,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3" column="42" filename="$USER_HOME$/dev/projects/redux-todo/src/app/shared/shared.module.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/projects/redux-todo/tslint.json" />
       <jump line="54" column="18" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
       <jump line="21" column="16" filename="$USER_HOME$/dev/projects/redux-todo/.angular-cli.json" />
@@ -3203,10 +3208,11 @@
       <jump line="16" column="26" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/topic-page.component.html" />
       <jump line="26" column="29" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page-revised/components/topic-tree.component.ts" />
       <jump line="11" column="23" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page-revised/components/topic-tree.component.ts" />
+      <jump line="23" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page-revised/components/topic-tree.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3235,16 +3241,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.topic</text>
+        <text>elementIndex</text>
       </register>
       <register name="/" type="4">
         <text>topics</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIC5pdGVtIGlucHV0W3R5cGU9Y2hlY2tib3hdOmNoZWNrZWQgKyBsYWJlbCArIHNwYW4gewo=</text>
+        <text encoding="base64">ICAgICAgaGVpZ2h0OiBpbmhlcml0OwogICAgICB3aWR0aDogaW5oZXJpdDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3263,34 +3269,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgcGFkZGluZzogM3B4OwogICAgICBtYXJnaW46IDRweDsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gY2xhc3M9InRvcGljIj57e3RvcGljLm5hbWV9fTwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgCiAgICA8L2Rpdj4K</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIC5pdGVtIGlucHV0W3R5cGU9Y2hlY2tib3hdOmNoZWNrZWQgKyBsYWJlbCArIHNwYW4gewogICAgICAKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC50b3BpYyB7CiAgICAgIGJhY2tncm91bmQtY29sb3I6IGJsdWU7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWEK</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9Iml0ZW0iICpuZ0Zvcj0ibGV0IHRvcGljIG9mIHRvcGljLmNoaWxkcmVuOyBsZXQgaWR4ID0gaW5kZXgiPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
