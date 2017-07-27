@@ -212,6 +212,13 @@
         <mark key="^" line="20" column="3" />
         <mark key="." line="20" column="3" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/effects/drawer.ts" timestamp="1501118733126">
+        <mark key="'" line="17" column="68" />
+        <mark key="[" line="15" column="13" />
+        <mark key="]" line="15" column="18" />
+        <mark key="^" line="15" column="18" />
+        <mark key="." line="15" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/projects/chor/front-end/src/app/services/user.service.ts" timestamp="1496462798948">
         <mark key="[" line="60" column="3" />
         <mark key="]" line="60" column="3" />
@@ -940,7 +947,7 @@
         <mark key="^" line="11" column="13" />
         <mark key="." line="9" column="14" />
       </file>
-      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/reducers/layout.ts" timestamp="1501008736459">
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/reducers/layout.ts" timestamp="1501117729878">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
@@ -1960,12 +1967,12 @@
         <mark key="." line="25" column="0" />
         <mark key="^" line="15" column="56" />
       </file>
-      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/app.module.ts" timestamp="1501006299111">
-        <mark key="'" line="22" column="28" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="21" column="22" />
-        <mark key="." line="21" column="22" />
-        <mark key="^" line="21" column="22" />
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/app.module.ts" timestamp="1501118742330">
+        <mark key="'" line="24" column="28" />
+        <mark key="[" line="25" column="27" />
+        <mark key="]" line="25" column="39" />
+        <mark key="." line="25" column="39" />
+        <mark key="^" line="25" column="39" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/admin/src/app/app-sidebar/sidebar-header/sidebar-header.component.ts" timestamp="1493337691445">
         <mark key="[" line="9" column="20" />
@@ -2733,6 +2740,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/dev/projects/redux-todo/src/app/core/effects/layout.ts" timestamp="1501118770304">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="." line="23" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/editor/editor.component.html" timestamp="1493942594226">
         <mark key="[" line="10" column="15" />
         <mark key="]" line="10" column="24" />
@@ -2922,9 +2934,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="149" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
-      <jump line="67" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
-      <jump line="28" column="37" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
       <jump line="51" column="57" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.component.ts" />
       <jump line="27" column="59" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.ts" />
       <jump line="11" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/examples-list/examples-list.component.scss" />
@@ -3022,10 +3031,13 @@
       <jump line="9" column="5" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/components/layout.component.ts" />
       <jump line="10" column="36" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/components/layout.component.ts" />
       <jump line="57" column="39" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/containers/app-page.component.ts" />
+      <jump line="18" column="25" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/effects/drawer.ts" />
+      <jump line="3" column="21" filename="$USER_HOME$/dev/projects/redux-todo/node_modules/@ngrx/effects/src/actions.d.ts" />
+      <jump line="11" column="68" filename="$USER_HOME$/dev/projects/redux-todo/src/app/core/effects/drawer.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaHR0cDogSHR0cCwK</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3054,7 +3066,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Open</text>
+        <text>Drawer</text>
       </register>
       <register name="/" type="4">
         <text>app</text>
@@ -3063,7 +3075,7 @@
         <text>[open]=&quot;showSidenav$ | async&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgaHR0cDogSHR0cCwK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3082,34 +3094,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CiAgZmlyZSgpIHsKICAgIGNvbnNvbGUubG9nKCdmaXJlJyk7CiAgICB0aGlzLmJhY2tkcm9wQ2xpY2suZW1pdCgpOwogIH0K</text>
+        <text encoding="base64">aW1wb3J0IHsgSHR0cCB9IGZyb20gJ0Bhbmd1bGFyL2h0dHAnOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaXJlJyk7Cg==</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZyhhY3Rpb24pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgW29wZW5dPSJzaG93U2lkZW5hdiQgfCBhc3luYyIK</text>
+        <text encoding="base64">CiAgZmlyZSgpIHsKICAgIGNvbnNvbGUubG9nKCdmaXJlJyk7CiAgICB0aGlzLmJhY2tkcm9wQ2xpY2suZW1pdCgpOwogIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIDxtZC1zaWRlbmF2IFtvcGVuZWRdPSJvcGVuIj4KICAgICAgCiAgICAgIDxtZC1uYXYtbGlzdD4KICAgICAgICA8bmctY29udGVudD48L25nLWNvbnRlbnQ+CiAgICAgIDwvbWQtbmF2LWxpc3Q+CiAgICAgIAogICAgPC9tZC1zaWRlbmF2PgogIAo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAtLT4K</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdmaXJlJyk7Cg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0K</text>
+        <text encoding="base64">ICAgICAgW29wZW5dPSJzaG93U2lkZW5hdiQgfCBhc3luYyIK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIDxtZC1zaWRlbmF2IFtvcGVuZWRdPSJvcGVuIj4KICAgICAgCiAgICAgIDxtZC1uYXYtbGlzdD4KICAgICAgICA8bmctY29udGVudD48L25nLWNvbnRlbnQ+CiAgICAgIDwvbWQtbmF2LWxpc3Q+CiAgICAgIAogICAgPC9tZC1zaWRlbmF2PgogIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
