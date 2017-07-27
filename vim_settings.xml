@@ -160,11 +160,12 @@
         <mark key="." line="12" column="77" />
         <mark key="^" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/effects/topic-page.effects.ts" timestamp="1501183596362">
-        <mark key="[" line="12" column="89" />
-        <mark key="]" line="12" column="89" />
-        <mark key="." line="12" column="89" />
-        <mark key="^" line="12" column="89" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/effects/topic-page.effects.ts" timestamp="1501184665593">
+        <mark key="'" line="12" column="82" />
+        <mark key="[" line="13" column="27" />
+        <mark key="]" line="13" column="40" />
+        <mark key="." line="13" column="40" />
+        <mark key="^" line="13" column="40" />
       </file>
       <file name="$USER_HOME$/dev/workspace/redux-test-complete/src/app/app.component.ts" timestamp="1499562392212">
         <mark key="'" line="19" column="2" />
@@ -310,12 +311,12 @@
         <mark key="^" line="29" column="136" />
         <mark key="." line="29" column="136" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" timestamp="1501183270345">
-        <mark key="'" line="20" column="45" />
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="36" column="0" />
-        <mark key="." line="36" column="0" />
-        <mark key="^" line="20" column="0" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" timestamp="1501184881864">
+        <mark key="'" line="40" column="15" />
+        <mark key="[" line="40" column="26" />
+        <mark key="]" line="40" column="42" />
+        <mark key="." line="40" column="42" />
+        <mark key="^" line="40" column="42" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/featured-videos/featured-videos.component.ts" timestamp="1499990220750">
         <mark key="'" line="31" column="3" />
@@ -1072,10 +1073,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="25" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/drawer.component.ts" />
-      <jump line="18" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/layout.component.ts" />
-      <jump line="111" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/drawer.component.ts" />
-      <jump line="32" column="8" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/drawer.component.ts" />
       <jump line="35" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/drawer.component.ts" />
       <jump line="48" column="44" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/layout.component.ts" />
       <jump line="6" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.ts" />
@@ -1172,10 +1169,14 @@
       <jump line="22" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
       <jump line="48" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
       <jump line="67" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
+      <jump line="12" column="82" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/effects/topic-page.effects.ts" />
+      <jump line="5" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/router-store/src/router_store_module.d.ts" />
+      <jump line="40" column="15" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" />
+      <jump line="2" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/effects/src/effects.module.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -1204,7 +1205,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>''</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>dev</text>
@@ -1280,7 +1281,7 @@
         <text encoding="base64">ICAgICAgLnN3aXRjaE1hcCgodG9waWNJZCkgPT4gdGhpcy50b3BpY1NlcnZpY2UuZ2V0VG9waWModG9waWNJZCkpCg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1332,10 +1333,10 @@
         <entry>action VimWindowRight</entry>
         <entry>action VimWindowLeft</entry>
         <entry>qall</entry>
-        <entry>action PreviousTab</entry>
-        <entry>w</entry>
         <entry>action NextTab</entry>
+        <entry>action PreviousTab</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
