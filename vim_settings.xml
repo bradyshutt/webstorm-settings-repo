@@ -573,12 +573,12 @@
         <mark key="." line="12" column="16" />
         <mark key="^" line="12" column="16" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" timestamp="1501289171674">
-        <mark key="'" line="28" column="56" />
-        <mark key="[" line="74" column="22" />
-        <mark key="]" line="74" column="22" />
-        <mark key="." line="74" column="22" />
-        <mark key="^" line="74" column="22" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" timestamp="1501290078724">
+        <mark key="'" line="51" column="19" />
+        <mark key="[" line="76" column="30" />
+        <mark key="]" line="76" column="30" />
+        <mark key="." line="76" column="30" />
+        <mark key="^" line="76" column="30" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/topic-examples/topic-examples.component.ts" timestamp="1501278924711">
         <mark key="[" line="23" column="0" />
@@ -958,7 +958,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="4" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/topic.service.ts" />
       <jump line="37" column="3" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/components/topic-tree.component.ts" />
       <jump line="12" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/components/topic-tree.component.ts" />
       <jump line="48" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page-revised/components/topic-tree-item.component.ts" />
@@ -1058,10 +1057,11 @@
       <jump line="44" column="33" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
       <jump line="40" column="47" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
       <jump line="29" column="56" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
+      <jump line="50" column="19" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>p</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="h" type="4">
         <text>:</text>
@@ -1093,16 +1093,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>p</text>
+        <text>modules</text>
       </register>
       <register name="/" type="4">
         <text>getC</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">Li4ubW9kdWxlcy5tYXAoKG1vZCkgPT4gWydSZXF1aXJlJywgTWF0aEpheC5BamF4LCBtb2Rd</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdOZWVkZWQgbW9kdWxlczogJywgcmVxdWlyZWRNb2R1bGVzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1139,34 +1139,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAoY2FjaGVkID09IG51bGwpID8gbnVsbCA6IEpTT04ucGFyc2UoY2FjaGVkKTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdMb2FkaW5nIG1vZHVsZXM6ICcsIHRvTG9hZCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdMb2FkaW5nIE1hdGhKYXggTW9kdWxlczogJywgWwogICAgICAuLi5yZXF1aXJlZE1vZHVsZXMubWFwKChtb2QpID0+IFsnUmVxdWlyZScsIE1hdGhKYXguQWpheCwgbW9kXSkKICAgIF0pOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdHZXR0aW5nIHJlbmRlcmVkIEhUTUwgZnJvbSBjYWNoZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLmxvYWRlZE1hdGhKYXhNb2R1bGVzW10K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdHZXR0aW5nIHJlbmRlcmVkIEhUTUwgZnJvbSBjYWNoZScpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtb2R1bGVzLm1hcCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC4oKSA9PiByZXNvbHZlKCkK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLigpID0+IHJlc29sdmUoKQo=</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgLy8gcmV0dXJuIHJlc29sdmUoKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnR2V0dGluZyByZW5kZXIgZnJvbSBjYWNoZX4nKTsK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1215,7 +1215,6 @@
         <entry>qalll</entry>
         <entry>s</entry>
         <entry>action GotoNextError</entry>
-        <entry>action AceAction</entry>
         <entry>qall</entry>
         <entry>qal</entry>
         <entry>wq</entry>
@@ -1224,6 +1223,7 @@
         <entry>action VimWindowLeft</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>action AceAction</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
