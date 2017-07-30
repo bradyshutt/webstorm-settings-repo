@@ -2102,12 +2102,11 @@
         <mark key="^" line="1" column="23" />
         <mark key="." line="1" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/effects/layout.effects.ts" timestamp="1501381490504">
-        <mark key="'" line="16" column="35" />
-        <mark key="[" line="16" column="27" />
-        <mark key="]" line="16" column="27" />
-        <mark key="." line="16" column="34" />
-        <mark key="^" line="15" column="3" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/effects/layout.effects.ts" timestamp="1501382312421">
+        <mark key="[" line="48" column="39" />
+        <mark key="]" line="48" column="39" />
+        <mark key="^" line="48" column="39" />
+        <mark key="." line="48" column="39" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/latest-admin/src/app/pipes/visibility.pipe.ts" timestamp="1493927180649">
         <mark key="[" line="15" column="0" />
@@ -3270,8 +3269,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="210" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@swimlane/ngx-datatable/release/components/datatable.component.d.ts" />
-      <jump line="212" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@swimlane/ngx-datatable/release/components/datatable.component.d.ts" />
       <jump line="215" column="9" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@swimlane/ngx-datatable/release/components/datatable.component.d.ts" />
       <jump line="216" column="9" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@swimlane/ngx-datatable/release/components/datatable.component.d.ts" />
       <jump line="221" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@swimlane/ngx-datatable/release/components/datatable.component.d.ts" />
@@ -3370,10 +3367,12 @@
       <jump line="5" column="9" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@ngrx/effects/src/index.js" />
       <jump line="1" column="24" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@ngrx/effects/src/util.d.ts" />
       <jump line="16" column="35" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/effects/layout.effects.ts" />
+      <jump line="19" column="3" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/effects/layout.effects.ts" />
+      <jump line="26" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/effects/layout.effects.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="j" type="4">
         <keys>
@@ -3402,16 +3401,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
         <text>slide</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFNlYXJjaFJlc3VsdHNWaXNpYmxlID0gY3JlYXRlU2VsZWN0b3IoZ2V0TGF5b3V0U3RhdGUsIGZyb21MYXlvdXQuZ2V0U2VhcmNoUmVzdWx0c1Zpc2libGUpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICByZXR1cm4gc3VidG9waWMubmFtZS5pbmNsdWRlcyhxdWVyeSkgfHwgbWF0Y2hpbmdTdWJTdWJ0b3BpY3MgIT0gbnVsbDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC5tYXAoKGFjdGlvbikgPT4gYWN0aW9uLnF1ZXJ5KQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGxldCBtYXRjaGluZ1N1YnRvcGljcyA9ICF0b3BpYy5oYXNDaGlsZHJlbgogICAgICAgICAgICA/IG51bGwKICAgICAgICAgICAgOiB0b3BpYy5jaGlsZHJlbi5maWx0ZXIoKHN1YnRvcGljKSA9PiB7CiAgICAgICAgICAgICAgLyogU2VhcmNoIFN1YnRvcGljcyAqLwogICAgICAgICAgICAKICAgICAgICAgICAgICBsZXQgbWF0Y2hpbmdTdWJTdWJ0b3BpY3MgPSAhc3VidG9waWMuaGFzQ2hpbGRyZW4KICAgICAgICAgICAgICAgID8gbnVsbAogICAgICAgICAgICAgICAgOiBzdWJ0b3BpYy5jaGlsZHJlbi5maWx0ZXIoKHN1YlN1YnRvcGljKSA9PiB7CiAgICAgICAgICAgICAgICAgIC8qIFNlYXJjaCBTdWJTdWJ0b3BpY3MgKi8KICAgICAgICAgICAgICAgICAgcmV0dXJuIHN1YlN1YnRvcGljLm5hbWUuaW5jbHVkZXMocXVlcnkpOwogICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgcmV0dXJuIHN1YnRvcGljLm5hbWUuaW5jbHVkZXMocXVlcnkpIHx8IG1hdGNoaW5nU3ViU3VidG9waWNzICE9IG51bGw7CiAgICAgICAgICAgICAgCiAgICAgICAgICAgIH0pOwogIAogICAgICAgICAgcmV0dXJuIHRvcGljLm5hbWUuaW5jbHVkZXMocXVlcnkpIHx8IG1hdGNoaW5nU3VidG9waWNzICE9IG51bGw7CiAgICAgICAgCiAgICAgICAgfSkK</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -3430,34 +3429,34 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIEVmZmVjdHNNb2R1bGUuZm9yUm9vdChbVG9waWNQYWdlRWZmZWN0c10pLAo=</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHp6Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAodG9waWMubmFtZS5pbmNsdWRlcyhxdWVyeSkpIHx8CiAgICAgICAgICAgICAgdG9waWMuaGFzQ2hpbGRyZW4gJiYgCiAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIC8+IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIHJldHVybiAodG9waWMubmFtZS5pbmNsdWRlcyhxdWVyeSkpIHx8CiAgICAgICAgICAgICAgdG9waWMuaGFzQ2hpbGRyZW4gJiYgCiAgICAgICAgICAKICAgICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcmV0dXJuIE9iamVjdC5hc3NpZ24oe30sIHN0YXRlLCB7IHByZWZlcnJlZExhbmd1YWdlSWQ6ICgpLnByZWZlcnJlZExhbmd1YWdlSWQgfSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgLy8gbGV0ICA9IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAKICAgICAgICAgICAgICAK</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJ0ZXh0Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBpZiAobWF0Y2hpbmdHcmFuZGNoaWxkcmVuKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gbWQtYnV0dG9uIChjbGljayk9InRvZ2dsZVNlYXJjaC5lbWl0KCkiPlNlYXJjaDwvYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
