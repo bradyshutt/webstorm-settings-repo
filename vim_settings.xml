@@ -27,6 +27,13 @@
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/resolvers/topic-resolver.service.ts" timestamp="1501444368567">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar.component.spec.ts" timestamp="1501446847690">
+        <mark key="'" line="43" column="8" />
+        <mark key="[" line="51" column="2" />
+        <mark key="]" line="51" column="2" />
+        <mark key="." line="51" column="2" />
+        <mark key="^" line="51" column="2" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="2" column="38" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/settings/settings.component.spec.ts" />
@@ -40,19 +47,52 @@
       <jump line="56" column="8" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
       <jump line="60" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
       <jump line="4" column="45" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
+      <jump line="23" column="27" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar.component.spec.ts" />
+      <jump line="45" column="8" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar.component.spec.ts" />
+      <jump line="36" column="27" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar.component.spec.ts" />
     </jumps>
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAKICAK</text>
       </register>
-      <register name=":" type="4">
-        <text>w</text>
+      <register name="-" type="4">
+        <text>.not.toBeNull();</text>
       </register>
       <register name="/" type="4">
         <text>Res</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICBpdCgnc2hvdWxkIGNvbnRhaW4gYW4gaW1hZ2Ugd2l0aCBgdGl0bGUtaW1hZ2VgIGNsYXNzJywgKCkgPT4gewo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAKICAK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAKICAK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUm91dGVyTW9kdWxlIH0gZnJvbSAnQGFuZ3VsYXIvcm91dGVyJzsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRlID0gZml4dHVyZS5kZWJ1Z0VsZW1lbnQucXVlcnkoQnkuY3NzKCdpbWcnKSk7CiAgICBlbCA9IGRlLm5hdGl2ZUVsZW1lbnQ7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICBsZXQgdGl0bGVJbWFnZTogRGVidWdFbGVtZW50Owo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICovCg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -67,9 +107,14 @@
         <entry>Res</entry>
       </history-search>
       <history-cmd>
+        <entry>qall</entry>
         <entry>w</entry>
       </history-cmd>
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
