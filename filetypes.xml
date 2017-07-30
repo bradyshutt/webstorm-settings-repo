@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="webapp" type="JSON" />
+      <mapping pattern="featured-video.ts" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="deploy-app" type="PLAIN_TEXT" />
       <mapping ext="opts" type="PLAIN_TEXT" />
