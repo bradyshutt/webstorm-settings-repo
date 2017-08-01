@@ -71,6 +71,9 @@
         <mark key="." line="58" column="9" />
         <mark key="^" line="58" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/models/video.ts" timestamp="1501622909626">
+        <mark key="'" line="57" column="33" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-viewer/topics-viewer.component.scss" timestamp="1498068777422">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="11" column="13" />
@@ -159,6 +162,9 @@
         <mark key="]" line="18" column="30" />
         <mark key="." line="18" column="30" />
         <mark key="^" line="18" column="37" />
+      </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/components/video-player/video-player.component.html" timestamp="1501625044540">
+        <mark key="'" line="37" column="36" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/containers/app.component.ts" timestamp="1501611697017">
         <mark key="'" line="28" column="11" />
@@ -460,6 +466,13 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="33" column="6" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/containers/watch-page.component.ts" timestamp="1501625726065">
+        <mark key="'" line="53" column="25" />
+        <mark key="[" line="48" column="32" />
+        <mark key="]" line="48" column="35" />
+        <mark key="." line="48" column="35" />
+        <mark key="^" line="48" column="35" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/assets/styles/elevation.scss" timestamp="1500059111244">
         <mark key="'" line="2" column="0" />
         <mark key="[" line="2" column="0" />
@@ -574,6 +587,9 @@
         <mark key="." line="148" column="0" />
         <mark key="^" line="31" column="43" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/components/video-player/video-player.component.ts" timestamp="1501625029321">
+        <mark key="'" line="7" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/.angular-cli.json" timestamp="1500320849197">
         <mark key="'" line="22" column="42" />
         <mark key="[" line="23" column="38" />
@@ -635,6 +651,13 @@
         <mark key="]" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/containers/watch-page.component.html" timestamp="1501625743836">
+        <mark key="'" line="10" column="53" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="^" line="10" column="117" />
+        <mark key="." line="13" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/scrollspy/scrollspy-container.directive.ts" timestamp="1500685418201">
         <mark key="'" line="18" column="37" />
         <mark key="[" line="4" column="13" />
@@ -683,12 +706,12 @@
         <mark key="." line="47" column="140" />
         <mark key="^" line="47" column="140" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1500593732405">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/environments/environment.prod.ts" timestamp="1501625142694">
         <mark key="'" line="10" column="0" />
-        <mark key="[" line="2" column="34" />
-        <mark key="]" line="2" column="37" />
-        <mark key="." line="2" column="37" />
-        <mark key="^" line="2" column="37" />
+        <mark key="[" line="7" column="23" />
+        <mark key="]" line="7" column="23" />
+        <mark key="." line="7" column="23" />
+        <mark key="^" line="7" column="41" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list-v2/example-list-v2.component.html" timestamp="1498674638669">
         <mark key="'" line="2" column="8" />
@@ -868,6 +891,13 @@
         <mark key="^" line="8737" column="22" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/models/breadcrumb.ts" timestamp="1501607699935" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/components/video-extras.component.ts" timestamp="1501623497323">
+        <mark key="'" line="36" column="74" />
+        <mark key="[" line="38" column="63" />
+        <mark key="]" line="38" column="63" />
+        <mark key="." line="38" column="63" />
+        <mark key="^" line="38" column="7" />
+      </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/components/topic-tree/topic-tree.component.scss" timestamp="1501536238461">
         <mark key="[" line="37" column="41" />
         <mark key="]" line="37" column="10" />
@@ -1061,17 +1091,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="54" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="44" column="33" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="40" column="47" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="29" column="56" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="50" column="19" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="61" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="32" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="24" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/index.html" />
-      <jump line="42" column="6" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="87" column="50" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
-      <jump line="95" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
       <jump line="99" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
       <jump line="102" column="21" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
       <jump line="55" column="18" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
@@ -1161,10 +1180,21 @@
       <jump line="71" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.scss" />
       <jump line="53" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
+      <jump line="42" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/containers/watch-page.component.ts" />
+      <jump line="13" column="20" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/containers/watch-page.component.ts" />
+      <jump line="12" column="53" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/containers/watch-page.component.html" />
+      <jump line="46" column="32" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/containers/watch-page.component.ts" />
+      <jump line="47" column="26" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/containers/watch-page.component.ts" />
+      <jump line="57" column="33" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/models/video.ts" />
+      <jump line="36" column="74" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/components/video-extras.component.ts" />
+      <jump line="50" column="25" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/containers/watch-page.component.ts" />
+      <jump line="33" column="32" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/models/video.ts" />
+      <jump line="7" column="38" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
+      <jump line="37" column="36" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/components/video-player/video-player.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyByZXNwb25zaXZlU3RhdGVSZWR1Y2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="h" type="4">
         <text>:</text>
@@ -1196,16 +1226,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>k</text>
+        <text>to</text>
       </register>
       <register name="/" type="4">
         <text>julieta</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBjcm9zc0Jyb3dzZXIodHJhbnNmb3JtLCByb3RhdGUoMGRlZykpOwo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ1NhdmUgdmlkZW8gdG8gY2FjaGUuLi4nKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyByZXNwb25zaXZlU3RhdGVSZWR1Y2VyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1235,37 +1265,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICA8IS0tPGRpdiBjbGFzcz0idmlkZW8tb3B0aW9ucyI+LS0+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LnN1YmhlYWRlciB7CiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLDAsMCwuMzIpOwogIGNvbG9yOiByZ2JhKDAsMCwwLC44Nyk7Cn0K</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goKGVycikgPT4geyBjb25zb2xlLmVycm9yKCdhbiBlcnJvciBvY2N1cnJlZDogJywgZXJyKSB9KTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtZC1pbnB1dC1jb250YWluZXIgW2Zsb2F0UGxhY2Vob2xkZXJdPSduZXZlcic+Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGhlbigoKSA9PiBjb25zb2xlLmxvZygnVmlkZW8gYWRkZWQgdG8gY2FjaGUnKSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAuY2F0Y2goKGVycikgPT4geyBjb25zb2xlLmVycm9yKCdhbiBlcnJvciBvY2N1cnJlZDogJywgZXJyKSB9KTsK</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBjcm9zc0Jyb3dzZXIodHJhbnNmb3JtLCByb3RhdGUoMGRlZykpOwogIEBpbmNsdWRlIGNyb3NzQnJvd3Nlcih0cmFuc2l0aW9uLCAuNXMgZWFzZS1pbi1vdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAuCg==</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLy13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgLy8tbW96LXRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogIC8vLW8tdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgLy90cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>action NextTab</text>
       </register>
     </registers>
     <search>
@@ -1316,11 +1346,11 @@
         <entry>action GotoNextError</entry>
         <entry>wq</entry>
         <entry>action AceAction</entry>
-        <entry>action NextTab</entry>
-        <entry>action PreviousTab</entry>
         <entry>qall</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>action PreviousTab</entry>
+        <entry>action NextTab</entry>
       </history-cmd>
       <history-expr />
       <history-input />
