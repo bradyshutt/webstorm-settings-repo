@@ -229,12 +229,10 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" timestamp="1501532980530">
-        <mark key="'" line="74" column="89" />
-        <mark key="[" line="37" column="59" />
-        <mark key="]" line="37" column="66" />
-        <mark key="." line="37" column="66" />
-        <mark key="^" line="37" column="66" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" timestamp="1501618857851">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/example-list/example-list.component.html" timestamp="1498662979220">
         <mark key="'" line="1" column="16" />
@@ -1057,7 +1055,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="11" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
       <jump line="31" column="54" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
       <jump line="44" column="33" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
       <jump line="40" column="47" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/services/mathjax-render-service.service.ts" />
@@ -1157,10 +1154,11 @@
       <jump line="44" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.scss" />
       <jump line="71" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.scss" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/components/toolbar.component.scss" />
+      <jump line="53" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyByZXNwb25zaXZlU3RhdGVSZWR1Y2VyCg==</text>
       </register>
       <register name="h" type="4">
         <text>:</text>
@@ -1192,7 +1190,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[</text>
+        <text>k</text>
       </register>
       <register name="/" type="4">
         <text>julieta</text>
@@ -1201,7 +1199,7 @@
         <text encoding="base64">ICBAaW5jbHVkZSBjcm9zc0Jyb3dzZXIodHJhbnNmb3JtLCByb3RhdGUoMGRlZykpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyByZXNwb25zaXZlU3RhdGVSZWR1Y2VyCg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1231,16 +1229,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LnN1YmhlYWRlciB7CiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLDAsMCwuMzIpOwogIGNvbG9yOiByZ2JhKDAsMCwwLC44Nyk7Cn0K</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxtZC1pbnB1dC1jb250YWluZXIgW2Zsb2F0UGxhY2Vob2xkZXJdPSduZXZlcic+Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">LnN1YmhlYWRlciB7CiAgYmFja2dyb3VuZC1jb2xvcjogcmdiYSgwLDAsMCwuMzIpOwogIGNvbG9yOiByZ2JhKDAsMCwwLC44Nyk7Cn0K</text>
+      </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAaW5jbHVkZSBjcm9zc0Jyb3dzZXIodHJhbnNmb3JtLCByb3RhdGUoMGRlZykpOwogIEBpbmNsdWRlIGNyb3NzQnJvd3Nlcih0cmFuc2l0aW9uLCAuNXMgZWFzZS1pbi1vdXQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxtZC1pbnB1dC1jb250YWluZXIgW2Zsb2F0UGxhY2Vob2xkZXJdPSduZXZlcic+Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -1249,19 +1247,19 @@
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAvLy13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgLy8tbW96LXRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogIC8vLW8tdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgLy90cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsK</text>
+        <text encoding="base64">ICBAaW5jbHVkZSBjcm9zc0Jyb3dzZXIodHJhbnNmb3JtLCByb3RhdGUoMGRlZykpOwogIEBpbmNsdWRlIGNyb3NzQnJvd3Nlcih0cmFuc2l0aW9uLCAuNXMgZWFzZS1pbi1vdXQpOwo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAvL3RyYW5zaXRpb246IC41cyBlYXNlLWluLW91dDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAvLy13ZWJraXQtdHJhbnNpdGlvbjogLjVzIGVhc2UtaW4tb3V0OwogIC8vLW1vei10cmFuc2l0aW9uOiAuNXMgZWFzZS1pbi1vdXQ7CiAgLy8tby10cmFuc2l0aW9uOiAuNXMgZWFzZS1pbi1vdXQ7Cg==</text>
+        <text encoding="base64">ICAvLy13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgLy8tbW96LXRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogIC8vLW8tdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgLy90cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>qall</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1314,9 +1312,9 @@
         <entry>action AceAction</entry>
         <entry>q</entry>
         <entry>action NextTab</entry>
-        <entry>w</entry>
         <entry>action PreviousTab</entry>
         <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
