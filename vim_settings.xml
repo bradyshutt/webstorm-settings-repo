@@ -1259,7 +1259,7 @@
         <text encoding="base64">ICAvLy13ZWJraXQtdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgLy8tbW96LXRyYW5zZm9ybTogcm90YXRlKDBkZWcpOwogIC8vLW8tdHJhbnNmb3JtOiByb3RhdGUoMGRlZyk7CiAgLy90cmFuc2Zvcm06IHJvdGF0ZSgwZGVnKTsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -1310,11 +1310,11 @@
         <entry>action GotoNextError</entry>
         <entry>wq</entry>
         <entry>action AceAction</entry>
-        <entry>q</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>qall</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
