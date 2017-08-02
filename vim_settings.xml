@@ -242,7 +242,8 @@
         <mark key="^" line="54" column="34" />
         <mark key="." line="54" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" timestamp="1501618857851">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" timestamp="1501705692152">
+        <mark key="'" line="39" column="16" />
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
         <mark key="." line="53" column="0" />
@@ -1107,10 +1108,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="67" column="2" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/shared.module.ts" />
-      <jump line="68" column="7" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/shared.module.ts" />
-      <jump line="21" column="9" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/shared.module.ts" />
-      <jump line="23" column="14" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/shared.module.ts" />
       <jump line="18" column="12" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/components/math-topics/math-topics.component.ts" />
       <jump line="9" column="92" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/components/math-topics/math-topics.component.ts" />
       <jump line="12" column="19" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/home/containers/home.component.ts" />
@@ -1207,6 +1204,10 @@
       <jump line="12" column="40" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/components/series-list/series-list.component.ts" />
       <jump line="14" column="23" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/watch-page/components/series-list/series-list.component.ts" />
       <jump line="36" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/polyfills.ts" />
+      <jump line="33" column="1" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
+      <jump line="1" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
+      <jump line="3" column="40" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
+      <jump line="39" column="16" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/reducers/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1245,7 +1246,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>julieta</text>
+        <text>storeLo</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aW5kb3cuc2Nyb2xsKHt0b3A6IDAsIGxlZnQ6IDAsIGJlaGF2aW9yOiAnc21vb3RoJ30pCg==</text>
@@ -1315,9 +1316,9 @@
       </register>
     </registers>
     <search>
-      <last-search>julieta</last-search>
+      <last-search>storeLo</last-search>
       <last-offset />
-      <last-pattern>julieta</last-pattern>
+      <last-pattern>storeLo</last-pattern>
       <last-replace>xyz</last-replace>
       <last-substitute encoding="base64">XDxmcm9tUm9vdFw+</last-substitute>
       <last-dir>1</last-dir>
@@ -1325,8 +1326,6 @@
     </search>
     <history>
       <history-search>
-        <entry>this.render</entry>
-        <entry>getC</entry>
         <entry>cacheRen</entry>
         <entry>queue</entry>
         <entry>Queue</entry>
@@ -1345,6 +1344,8 @@
         <entry>for</entry>
         <entry>jul</entry>
         <entry>julieta</entry>
+        <entry>logger</entry>
+        <entry>storeLo</entry>
       </history-search>
       <history-cmd>
         <entry>s/\/src/..\/../</entry>
