@@ -19,11 +19,8 @@
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/example.ts" timestamp="1501556995675">
         <mark key="'" line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" timestamp="1501559157414">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" timestamp="1501632999405">
         <mark key="'" line="196" column="17" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="142" column="0" />
-        <mark key="." line="142" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/instructor.ts" timestamp="1501467568787">
         <mark key="'" line="78" column="0" />
@@ -278,6 +275,12 @@
         <mark key="." line="54" column="0" />
         <mark key="^" line="13" column="9" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/reducers/watch-page.reducer.spec.ts" timestamp="1501633349786">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/actions/featured-videos.actions.ts" timestamp="1501452289415">
         <mark key="[" line="18" column="32" />
         <mark key="]" line="18" column="47" />
@@ -483,7 +486,7 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIDwhLS1bcm91dGVyTGlua109Ilt2aWRlby5leGFtcGxlLndhdGNoVXJsLCB7aW5zdHJ1Y3RvcjogaWR4fV0iPi0tPgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -518,12 +521,12 @@
       </history-search>
       <history-cmd>
         <entry>action AceAction</entry>
-        <entry>qall</entry>
         <entry>wq</entry>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
