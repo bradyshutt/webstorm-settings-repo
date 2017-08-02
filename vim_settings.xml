@@ -1312,7 +1312,7 @@
         <text encoding="base64">LyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKgogKiBBUFBMSUNBVElPTiBJTVBPUlRTCiAqLwoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -1363,11 +1363,11 @@
         <entry>action GotoNextError</entry>
         <entry>wq</entry>
         <entry>action AceAction</entry>
-        <entry>qall</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
