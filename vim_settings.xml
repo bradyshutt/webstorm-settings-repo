@@ -229,12 +229,12 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/objectives/services/objective-examples-resolver.service.ts" timestamp="1501787151166">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/objectives/services/objective-examples-resolver.service.ts" timestamp="1501788745886">
         <mark key="'" line="22" column="81" />
-        <mark key="[" line="22" column="92" />
-        <mark key="]" line="23" column="3" />
-        <mark key="." line="23" column="3" />
-        <mark key="^" line="23" column="3" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="26" column="104" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/accordion-item.component.spec.ts" timestamp="1498078445096">
         <mark key="'" line="38" column="2" />
@@ -411,12 +411,12 @@
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/objectives/containers/objective-page.component.ts" timestamp="1501783138101">
-        <mark key="'" line="15" column="13" />
-        <mark key="[" line="11" column="24" />
-        <mark key="]" line="11" column="25" />
-        <mark key="^" line="11" column="25" />
-        <mark key="." line="11" column="25" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/objectives/containers/objective-page.component.ts" timestamp="1501788915140">
+        <mark key="'" line="16" column="13" />
+        <mark key="[" line="14" column="29" />
+        <mark key="]" line="14" column="42" />
+        <mark key="^" line="14" column="42" />
+        <mark key="." line="14" column="42" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/styles.scss" timestamp="1499304849563">
         <mark key="'" line="17" column="0" />
@@ -1322,8 +1322,8 @@
       <jump line="2" column="17" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/core/models/objective.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCgob2JqKSA9PiBvYmouZGVzY3JpcHRpb24pLmluY2x1ZGVzKChvYmopID0+ICkpCg==</text>
+      <register name="&quot;" type="4">
+        <text>Route</text>
       </register>
       <register name="h" type="4">
         <text>:</text>
@@ -1355,16 +1355,16 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.de</text>
+        <text>Route</text>
       </register>
       <register name="/" type="4">
         <text>SearchResult</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBwYXRoOiAnd2F0Y2gnLAogICAgbG9hZENoaWxkcmVuOiAnYXBwL3dhdGNoLXBhZ2Uvd2F0Y2gtcGFnZS5tb2R1bGUjV2F0Y2hQYWdlTW9kdWxlJywKICB9LAo=</text>
+      <register name="0" type="4">
+        <text>matchingExamples.length</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgLm1hcCgob2JqKSA9PiBvYmouZGVzY3JpcHRpb24pLmluY2x1ZGVzKChvYmopID0+ICkpCg==</text>
+        <text encoding="base64">aW1wb3J0IHsgUm91dGUgfSBmcm9tICdAYW5ndWxhci9yb3V0ZXInOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1382,34 +1382,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">QENvbXBvbmVudCh7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHJldHVybiBudWxsOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>{
+        
+      
+      }</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRocm93IG5ldyBFcnJvcigiTWV0aG9kIG5vdCBpbXBsZW1lbnRlZC4iKTsK</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="v" type="4">
         <text encoding="base64">IC0gRHVyYXRpb246ICcsIHBlcmZvcm1hbmNlLm5vdygpIC0gdGhpcy5zdGFydFRpbWUgKydtcycpOw==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="w" type="4">
         <text>jddkJ^jj</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ewo=</text>
+        <text encoding="base64">ICAgICAgLm1hcCgob2JqKSA9PiBvYmouZGVzY3JpcHRpb24pLmluY2x1ZGVzKChvYmopID0+ICkpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
