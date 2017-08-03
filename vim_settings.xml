@@ -229,12 +229,12 @@
         <mark key="." line="14" column="14" />
         <mark key="^" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/objectives/services/objective-examples-resolver.service.ts" timestamp="1501785324947">
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/objectives/services/objective-examples-resolver.service.ts" timestamp="1501787151166">
         <mark key="'" line="22" column="81" />
         <mark key="[" line="22" column="92" />
-        <mark key="]" line="23" column="0" />
-        <mark key="." line="23" column="0" />
-        <mark key="^" line="22" column="147" />
+        <mark key="]" line="23" column="3" />
+        <mark key="." line="23" column="3" />
+        <mark key="^" line="23" column="3" />
       </file>
       <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/shared/components/topics-accordion/accordion-item.component.spec.ts" timestamp="1498078445096">
         <mark key="'" line="38" column="2" />
@@ -1412,7 +1412,7 @@
         <text encoding="base64">ewo=</text>
       </register>
       <register name=":" type="4">
-        <text>action PreviousTab</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -1465,9 +1465,9 @@
         <entry>qall</entry>
         <entry>wq</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>action NextTab</entry>
         <entry>action PreviousTab</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
