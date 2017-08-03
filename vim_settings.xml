@@ -188,8 +188,8 @@
         <mark key="." line="25" column="87" />
         <mark key="^" line="25" column="87" />
       </file>
-      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/redux-responsive/lib/util/createEnhancer.js" timestamp="1501711053103">
-        <mark key="'" line="12" column="68" />
+      <file name="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/redux-responsive/lib/util/createEnhancer.js" timestamp="1501720111712">
+        <mark key="'" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/dev/workspace/redux-test-complete/src/app/app.component.ts" timestamp="1499562392212">
         <mark key="'" line="19" column="2" />
@@ -1062,7 +1062,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/containers/topic-page.component.scss" />
       <jump line="33" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/containers/topic-page.component.scss" />
       <jump line="39" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/containers/topic-page.component.scss" />
       <jump line="38" column="0" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/topic-page/components/topic-tree/topic-tree-component.scss" />
@@ -1162,6 +1161,7 @@
       <jump line="12" column="68" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/redux-responsive/lib/util/createEnhancer.js" />
       <jump line="40" column="57" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/src/app/app.module.ts" />
       <jump line="12" column="59" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/@ngrx/store-devtools/src/instrument.d.ts" />
+      <jump line="24" column="22" filename="$USER_HOME$/dev/htdocs/sails/mathtv-website-v3.0/node_modules/redux-responsive/lib/util/createEnhancer.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
