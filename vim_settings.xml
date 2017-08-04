@@ -16,6 +16,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="17" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/responsive_store_module.ts" timestamp="1501873315766">
+        <mark key="[" line="60" column="13" />
+        <mark key="]" line="60" column="13" />
+        <mark key="." line="60" column="13" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/objectives/services/objective-examples-resolver.service.ts" timestamp="1501817328892">
         <mark key="'" line="27" column="17" />
         <mark key="[" line="23" column="0" />
@@ -133,11 +138,11 @@
         <mark key="." line="27" column="0" />
         <mark key="^" line="26" column="71" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/app.module.ts" timestamp="1501542453947">
-        <mark key="[" line="26" column="19" />
-        <mark key="]" line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="26" column="27" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/app.module.ts" timestamp="1501873220682">
+        <mark key="[" line="40" column="62" />
+        <mark key="]" line="41" column="42" />
+        <mark key="^" line="41" column="42" />
+        <mark key="." line="41" column="42" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/example-card/example-card.component.scss" timestamp="1501818416334">
         <mark key="'" line="8" column="0" />
@@ -322,12 +327,12 @@
         <mark key="." line="28" column="34" />
         <mark key="^" line="4" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/reducers/index.ts" timestamp="1501555661459">
-        <mark key="'" line="30" column="34" />
-        <mark key="[" line="30" column="34" />
-        <mark key="]" line="30" column="35" />
-        <mark key="." line="30" column="35" />
-        <mark key="^" line="95" column="104" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/reducers/index.ts" timestamp="1501873345449">
+        <mark key="'" line="8" column="85" />
+        <mark key="[" line="32" column="11" />
+        <mark key="]" line="32" column="27" />
+        <mark key="." line="32" column="27" />
+        <mark key="^" line="32" column="27" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/components/featured-videos/featured-videos.component.spec.ts" timestamp="1501470438039">
         <mark key="[" line="58" column="2" />
@@ -439,7 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/topic.ts" />
       <jump line="1" column="17" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/models/breadcrumb.ts" />
       <jump line="41" column="25" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/topic.ts" />
       <jump line="107" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/topic.ts" />
@@ -539,64 +543,64 @@
       <jump line="120" column="30" filename="$USER_HOME$/dev/projects/ngrx-responsive-store/src/responsive_store_module.ts" />
       <jump line="232" column="55" filename="$USER_HOME$/dev/projects/ngrx-responsive-store/src/responsive_store_module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/projects/ngrx-responsive-store/src/responsive_store_module.ts" />
+      <jump line="8" column="85" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/reducers/index.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>breakpoints</text>
+        <text>ResponsiveReducerState</text>
       </register>
       <register name="-" type="4">
-        <text>breakpoints</text>
+        <text>ResponsiveReducerState</text>
       </register>
       <register name="/" type="4">
-        <text>const</text>
+        <text>dev</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBtZWRpYVR5cGU6IHN0cmluZzsKICBvcmllbnRhdGlvbjogc3RyaW5nOwogIGlzOiBhbnk7Cg==</text>
+        <text encoding="base64">ICBicm93c2VyOiBSZXNwb25zaXZlUmVkdWNlclN0YXRlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f;r,0j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgd2luZG93Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgY29uc3QgbWVkaWFUeXBlID0gIGdldE1lZGlhVHlwZShtYXRjaE1lZGlhLCBtZWRpYVF1ZXJpZXMsIGluZmluaXR5KTsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAvLyBsZXNzVGhhbjogYW55OwogIC8vIGdyZWF0ZXJUaGFuOiBhbnk7Cg==</text>
+        <text encoding="base64">aW1wb3J0IAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3aW5kb3c6IFdpbmRvdwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHRoaXMuc2V0VXBTdGF0ZVJvbGxiYWNrRXZlbnRzKCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBwcml2YXRlIHNldFVwU3RhdGVSb2xsYmFja0V2ZW50cygpOiB2b2lkIHsKICAgIC8vIHRoaXMucm91dGVyLmV2ZW50cy5zdWJzY3JpYmUoZSA9PiB7CiAgICAvLyAgIGlmIChlIGluc3RhbmNlb2YgUm91dGVzUmVjb2duaXplZCkgewogICAgLy8gICAgIHRoaXMubGFzdFJvdXRlc1JlY29nbml6ZWQgPSBlOwogICAgLy8gICB9IGVsc2UgaWYgKGUgaW5zdGFuY2VvZiBOYXZpZ2F0aW9uQ2FuY2VsKSB7CiAgICAvLyAgICAgdGhpcy5kaXNwYXRjaFJvdXRlckNhbmNlbChlKTsKICAgIC8vICAgfSBlbHNlIGlmIChlIGluc3RhbmNlb2YgTmF2aWdhdGlvbkVycm9yKSB7CiAgICAvLyAgICAgdGhpcy5kaXNwYXRjaFJvdXRlckVycm9yKGUpOwogICAgLy8gICB9CiAgICAvLyB9KTsKICB9CiAgCg==</text>
+        <text encoding="base64">Ly8gaW1wb3J0IHsgQXBwQ29tcG9uZW50IH0gZnJvbSAnLi9hcHAuY29tcG9uZW50JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBwcml2YXRlIG5hdmlnYXRlSWZOZWVkZWQoKTogdm9pZCB7CiAgICAvLyBpZiAoCiAgICAvLyAgICF0aGlzLnN0b3JlU3RhdGVbJ3JvdXRlclJlZHVjZXInXSB8fAogICAgLy8gICAhdGhpcy5zdG9yZVN0YXRlWydyb3V0ZXJSZWR1Y2VyJ10uc3RhdGUKICAgIC8vICkgewogICAgLy8gICByZXR1cm47CiAgICAvLyB9CiAgICAvLyBpZiAodGhpcy5kaXNwYXRjaFRyaWdnZXJlZEJ5Um91dGVyKSByZXR1cm47CiAgICAvLwogICAgLy8gaWYgKHRoaXMucm91dGVyLnVybCAhPT0gdGhpcy5zdG9yZVN0YXRlWydyb3V0ZXJSZWR1Y2VyJ10uc3RhdGUudXJsKSB7CiAgICAvLyAgIHRoaXMubmF2aWdhdGlvblRyaWdnZXJlZEJ5RGlzcGF0Y2ggPSB0cnVlOwogICAgLy8gICB0aGlzLnJvdXRlci5uYXZpZ2F0ZUJ5VXJsKHRoaXMuc3RvcmVTdGF0ZVsncm91dGVyUmVkdWNlciddLnN0YXRlLnVybCk7CiAgICAvLyB9CiAgfQogIAo=</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAK</text>
       </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgd2luZG93Cg==</text>
+      </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>const</last-search>
+      <last-search>dev</last-search>
       <last-offset />
-      <last-pattern>const</last-pattern>
+      <last-pattern>dev</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>serach</entry>
         <entry>search</entry>
         <entry>onPage</entry>
         <entry encoding="base64">XDxhbGxJdGVtc1w+</entry>
@@ -616,15 +620,16 @@
         <entry>curl</entry>
         <entry>dispatch</entry>
         <entry>const</entry>
+        <entry>dev</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qall</entry>
         <entry>action AceAction</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>wq</entry>
+        <entry>qall</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
