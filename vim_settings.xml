@@ -663,7 +663,7 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ0dvdCBjYWNoZTogJywgY2FjaGUpOwogICAgICAgICAgICBjYWNoZS5hZGQodmlkZW8udmlkZW9VcmwpOwogICAgICAgICAgICBjb25zb2xlLmxvZygnaycpOwogICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -709,8 +709,8 @@
         <entry>qall</entry>
         <entry>qal</entry>
         <entry>wq</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
