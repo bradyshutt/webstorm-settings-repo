@@ -86,10 +86,10 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" timestamp="1502142001506">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" timestamp="1502229650081">
         <mark key="'" line="26" column="0" />
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="23" />
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="25" />
         <mark key="." line="22" column="23" />
         <mark key="^" line="22" column="23" />
       </file>
@@ -621,7 +621,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcS5tb2RlID0gJ25vLWNvcnMnOwo=</text>
+        <text encoding="base64">ICAgICAgc2hvd01hdGhNZW51OiB0cnVlLAo=</text>
       </register>
       <register name="-" type="4">
         <text>settings</text>
@@ -630,7 +630,7 @@
         <text>Extr</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiaHR0cDovL3d3dy5tYXRodHYuY29tL3ZpZGVvcyIsCiAgICAic2VjdXJlIjogZmFsc2UsCiAgICAiY2hhbmdlT3JpZ2luIjogdHJ1ZSwKICAgICJwYXRoUmV3cml0ZSI6IHsKICAgICAgIl4vdmlkZW9zIjogIiIKICAgIH0sCiAgICAibG9nTGV2ZWwiOiAiZGVidWciCg==</text>
+        <text encoding="base64">ICAgICAgc2hvd01hdGhNZW51OiB0cnVlLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgIHJlcS5tb2RlID0gJ25vLWNvcnMnOwo=</text>
