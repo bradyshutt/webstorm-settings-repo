@@ -85,6 +85,13 @@
         <mark key="." line="22" column="24" />
         <mark key="^" line="22" column="24" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/reducers/custom-router-serializer.module.ts" timestamp="1502387409502">
+        <mark key="j" line="11" column="0" />
+        <mark key="[" line="4" column="2" />
+        <mark key="]" line="4" column="12" />
+        <mark key="." line="4" column="12" />
+        <mark key="^" line="4" column="12" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" timestamp="1502229650081">
         <mark key="'" line="26" column="0" />
         <mark key="[" line="22" column="0" />
@@ -653,10 +660,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LOG_IN</text>
+        <text>RouterStateSerializer</text>
       </register>
       <register name="-" type="4">
-        <text>LOG_IN</text>
+        <text>RouterStateSerializer</text>
       </register>
       <register name="/" type="4">
         <text>Extr</text>
@@ -665,34 +672,34 @@
         <text encoding="base64">ZXhwb3J0IGNsYXNzIExvZ0luQWN0aW9uIGltcGxlbWVudHMgQWN0aW9uIHsKICByZWFkb25seSB0eXBlID0gTE9HX0lOOwp9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB8IExvZ091dEFjdGlvbgo=</text>
+        <text encoding="base64">ICBSb3V0ZXJTdGF0ZVNlcmlhbGl6ZXIK</text>
       </register>
       <register name="q" type="4">
         <text>f;r,0j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZXhwb3J0IGNsYXNzIExvZ0luQWN0aW9uIGltcGxlbWVudHMgQWN0aW9uIHsKICByZWFkb25seSB0eXBlID0gTE9HX0lOOwo=</text>
+        <text encoding="base64">ICB8IExvZ091dEFjdGlvbgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zdHJ1Y3RvcihwdWJsaWMgKSB7fQo=</text>
+        <text encoding="base64">ZXhwb3J0IGNsYXNzIExvZ0luQWN0aW9uIGltcGxlbWVudHMgQWN0aW9uIHsKICByZWFkb25seSB0eXBlID0gTE9HX0lOOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">LyogRHJhd2VyIEFjdGlvbnMgKi8K</text>
+        <text encoding="base64">ICBjb25zdHJ1Y3RvcihwdWJsaWMgKSB7fQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LyogRHJhd2VyIEFjdGlvbnMgKi8K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgZnJvbVJvb3QgZnJvbSAnLi4vLi4vcmVkdWNlcnMnOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">aW1wb3J0ICogYXMgbGF5b3V0IGZyb20gJy4uL2FjdGlvbnMvbGF5b3V0LmFjdGlvbnMnOwppbXBvcnQgKiBhcyBmcm9tUm9vdCBmcm9tICcuLi8uLi9yZWR1Y2Vycyc7Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgZnJvbVJvb3QgZnJvbSAnLi4vLi4vcmVkdWNlcnMnOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgbGF5b3V0IGZyb20gJy4uL2FjdGlvbnMvbGF5b3V0LmFjdGlvbnMnOwppbXBvcnQgKiBhcyBmcm9tUm9vdCBmcm9tICcuLi8uLi9yZWR1Y2Vycyc7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
