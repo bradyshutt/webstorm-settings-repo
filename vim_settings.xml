@@ -702,7 +702,7 @@
         <text encoding="base64">CmdpdCBkaWZmLWluZGV4IC0tcXVpZXQgLS1jYWNoZWQgSEVBRAppZiBbWyAkPyA9PSAxIF1dOyB0aGVuCiAgIGVjaG8gIlRoZSBnaXQgcmVwbyBpcyBkaXJ0eS4gQ2xlYW4gdXAgYmVmb3JlIGRlcGxveWluZy4iCiAgIGV4aXQgMApmaQoK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -747,10 +747,10 @@
         <entry>qa</entry>
         <entry>qal</entry>
         <entry>82</entry>
-        <entry>qall</entry>
-        <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>q</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
