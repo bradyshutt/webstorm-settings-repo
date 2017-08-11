@@ -722,7 +722,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qa</text>
       </register>
     </registers>
     <search>
@@ -764,13 +764,13 @@
         <entry>source ~/.ideavimrc</entry>
         <entry>action SplitHorizontally</entry>
         <entry>action SplitVertically</entry>
-        <entry>qa</entry>
         <entry>qal</entry>
         <entry>82</entry>
         <entry>wq</entry>
         <entry>qall</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qa</entry>
       </history-cmd>
       <history-expr />
       <history-input />
