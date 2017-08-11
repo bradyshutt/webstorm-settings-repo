@@ -681,7 +681,7 @@
         <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qall</text>
       </register>
     </registers>
     <search>
@@ -726,10 +726,10 @@
         <entry>qa</entry>
         <entry>qal</entry>
         <entry>82</entry>
-        <entry>qall</entry>
         <entry>q</entry>
         <entry>wq</entry>
         <entry>w</entry>
+        <entry>qall</entry>
       </history-cmd>
       <history-expr />
       <history-input />
