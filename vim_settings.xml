@@ -43,11 +43,11 @@
         <mark key="^" line="23" column="23" />
         <mark key="." line="23" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/main.ts" timestamp="1502470669161">
-        <mark key="[" line="19" column="15" />
-        <mark key="]" line="19" column="18" />
-        <mark key="^" line="19" column="18" />
-        <mark key="." line="19" column="18" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/main.ts" timestamp="1503356307781">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+        <mark key="^" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/tslint.json" timestamp="1502909699013">
         <mark key="'" line="0" column="0" />
@@ -567,11 +567,12 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" timestamp="1503006221524">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" timestamp="1503357643288">
         <mark key="'" line="28" column="11" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="76" column="23" />
+        <mark key="]" line="91" column="40" />
+        <mark key="." line="91" column="39" />
+        <mark key="^" line="94" column="13" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/XYZAdmin/src/app/core/containers/app-root.component.ts" timestamp="1502903726599">
         <mark key="[" line="19" column="14" />
@@ -1217,19 +1218,19 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/topic/{{topic.path}}</text>
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>/topic/{{topic.path}}</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
         <text>depth</text>
       </register>
-      <register name="0" type="4">
-        <text>[routerLink]=&quot;video.route&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdTZXJ2aWNlV29ya2VyIHJlZ2lzdHJhdGlvbiBzdWNjZXNzZnVsIHdpdGggc2NvcGU6ICcsIHJlZ2lzdHJhdGlvbi5zY29wZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBjb25zb2xlLmxvZygncDonLHBhcmVudCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1243,28 +1244,29 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVnaXN0cmF0aW9uLnVwZGF0ZSgpOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgY2VsbAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAogICAgc3RvcmUgPSBUZXN0QmVkLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+      <register name="9" type="8">
+        <text>//
+//</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
