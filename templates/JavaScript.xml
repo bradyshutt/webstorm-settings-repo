@@ -73,7 +73,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="mochachai" value="import * as mocha from 'mocha';&#10;import * as chai from 'chai';&#10;import chaiHttp = require('chai-http');&#10;&#10;import app from '../src/app';&#10;&#10;chai.use(chaiHttp);&#10;const expect = chai.expect;&#10;&#10;describe('$TEST_NAME$', () =&gt; {&#10;&#10;    it('should $DO_THIS$', () =&gt; {&#10;        $END$&#10;    });&#10;});" toReformat="false" toShortenFQNames="true">
+  <template name="mochachai" value="import * as mocha from 'mocha';&#10;import * as chai from 'chai';&#10;import chaiHttp = require('chai-http');&#10;&#10;import app from '../src/app';&#10;&#10;chai.use(chaiHttp);&#10;const expect = chai.expect;&#10;&#10;describe('$TEST_NAME$', () =&gt; {&#10;&#10;    it('should $DO_THIS$', () =&gt; {&#10;        $END$&#10;    });&#10;});" description="" toReformat="false" toShortenFQNames="true">
     <variable name="TEST_NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="DO_THIS" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
