@@ -681,12 +681,11 @@
         <mark key="." line="36" column="16" />
         <mark key="^" line="36" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" timestamp="1503953592936">
-        <mark key="'" line="39" column="66" />
-        <mark key="[" line="38" column="205" />
-        <mark key="]" line="38" column="204" />
-        <mark key="." line="38" column="204" />
-        <mark key="^" line="38" column="204" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" timestamp="1503955539355">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="^" line="40" column="176" />
+        <mark key="." line="55" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/XYZAdmin/src/app/core/containers/app-root.component.ts" timestamp="1502903726599">
         <mark key="[" line="19" column="14" />
@@ -972,12 +971,12 @@
         <mark key="^" line="28" column="18" />
         <mark key="." line="28" column="13" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/example.ts" timestamp="1503952653192">
-        <mark key="'" line="36" column="22" />
-        <mark key="[" line="47" column="43" />
-        <mark key="]" line="47" column="43" />
-        <mark key="." line="47" column="43" />
-        <mark key="^" line="47" column="43" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/example.ts" timestamp="1503954924172">
+        <mark key="'" line="48" column="0" />
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="45" column="43" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/directives/katex.directive.ts" timestamp="1503946440203">
         <mark key="'" line="23" column="1" />
@@ -1295,7 +1294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="128" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/katex-example/katex-example.component.ts" />
       <jump line="105" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/katex-example/katex-example.component.ts" />
       <jump line="6" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/katex-example/katex-example.component.ts" />
       <jump line="42" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/katex-example/katex-example.component.ts" />
@@ -1395,13 +1393,14 @@
       <jump line="38" column="82" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" />
       <jump line="39" column="66" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/index.html" />
       <jump line="74" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/shared.module.ts" />
+      <jump line="50" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/example.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICA8L3NjcmlwdD4K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9kaXY+</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Safe</text>
@@ -1410,7 +1409,7 @@
         <text encoding="base64">ICAgIC4uLlBJUEVTLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICA8L3NjcmlwdD4K</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1431,28 +1430,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICA8c2NyaXB0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gW2lubmVySFRNTF09ImV4YW1wbGUua2F0ZXhNYXJrdXAgfCBzYWZlSHRtbCI+PC9zcGFuPjwvZGl2Pgo=</text>
+        <text encoding="base64">Y3Jvc3NvcmlnaW49ImFub255bW91cyIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC4uLlBJUEVTLAo=</text>
+        <text encoding="base64">ICA8IS0taHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvS2FUZVgvMC44LjMva2F0ZXgubWluLmpzLS0+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBsaW4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIFNhZmVIdG1sUGlwZSwK</text>
+        <text encoding="base64">ICA8bGluayByZWw9InN0eWxlc2hlZXQiIGhyZWY9Imh0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL0thVGVYLzAuOC4zL2thdGV4Lm1pbi5jc3MiIGludGVncml0eT0ic2hhMzg0LVhGZ3lWekN3dW1aZ1NnNkY4NWdiaDZldi9CVldnUDdRQWIxVjNHT2NoV1FQaWZ1c1pUVTBPRG5Rc3lzQks2MUYiIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPgogIGxpbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">CnZhciBuPTA7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIAogICAgaWYgKHRoaXMuaGFzTWFya3VwICYmIG4rKyA8IDMpIGNvbnNvbGUubG9nKGRhdGEpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
