@@ -837,10 +837,10 @@
         <mark key="." line="12" column="95" />
         <mark key="^" line="12" column="77" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/proxy.conf.json" timestamp="1503952023316">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/proxy.conf.json" timestamp="1504124567997">
         <mark key="'" line="1" column="12" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="14" column="21" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="55" />
         <mark key="." line="14" column="21" />
         <mark key="^" line="14" column="21" />
       </file>
@@ -1253,7 +1253,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiaHR0cHM6Ly9kZXYubWF0aHR2LmNvbS9hc3NldHMvY2FwdGlvbnMiLAo=</text>
       </register>
       <register name="-" type="4">
         <text>?</text>
@@ -1262,7 +1262,7 @@
         <text>video</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXY+CiAgICAgIDx2aWRlbyBpZD0ibXktdmlkZW8iIGNsYXNzPSJ2aWRlby1qcyIgY29udHJvbHMgcHJlbG9hZD0iYXV0byIgd2lkdGg9IjY0MCIgaGVpZ2h0PSIyNjQiIGRhdGEtc2V0dXA9Int9Ij4KICAgICAgICA8c291cmNlIHNyYz0iY3VycmVudFZpZGVvIiB0eXBlPSd2aWRlby9tcDQnPgogICAgICA8L3ZpZGVvPgogICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICJ0YXJnZXQiOiAiaHR0cHM6Ly9kZXYubWF0aHR2LmNvbS9hc3NldHMvY2FwdGlvbnMiLAo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
