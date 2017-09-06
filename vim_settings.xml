@@ -1259,12 +1259,12 @@
         <mark key="^" line="18" column="11" />
         <mark key="." line="18" column="11" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/proxy.conf.json" timestamp="1504654259356">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/proxy.conf.json" timestamp="1504722335406">
         <mark key="'" line="32" column="0" />
-        <mark key="[" line="23" column="37" />
-        <mark key="]" line="23" column="39" />
-        <mark key="." line="23" column="39" />
-        <mark key="^" line="23" column="39" />
+        <mark key="[" line="33" column="52" />
+        <mark key="]" line="33" column="73" />
+        <mark key="." line="33" column="73" />
+        <mark key="^" line="33" column="73" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-extras/video-extras.component.scss" timestamp="1503343734325">
         <mark key="'" line="31" column="0" />
@@ -1877,11 +1877,11 @@
       <jump line="48" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@ngrx/router-store/src/router_store_module.d.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Ci8qKgo=</text>
+      <register name="&quot;" type="4">
+        <text>veschool_images</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>veschool_images</text>
       </register>
       <register name="/" type="4">
         <text>success</text>
