@@ -9,6 +9,7 @@
     <keyboard-shortcut first-keystroke="meta t" />
     <keyboard-shortcut first-keystroke="alt t" />
   </action>
+  <action id="AddToFavoritesPopup" />
   <action id="ChangesView.Commit">
     <keyboard-shortcut first-keystroke="meta g" second-keystroke="meta c" />
   </action>
@@ -35,6 +36,10 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl meta equals" />
     <keyboard-shortcut first-keystroke="shift ctrl alt equals" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift meta f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="GotoAction">
     <keyboard-shortcut first-keystroke="shift meta a" />
