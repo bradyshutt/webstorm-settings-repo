@@ -994,6 +994,9 @@
         <mark key="^" line="13" column="5" />
         <mark key="." line="13" column="5" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/topic-routes.ts" timestamp="1505238651685">
+        <mark key="'" line="10" column="15" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.scss" timestamp="1504203468090">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="132" column="4" />
@@ -1437,7 +1440,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="169" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
       <jump line="187" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
       <jump line="24" column="10" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
       <jump line="167" column="17" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
@@ -1537,6 +1539,7 @@
       <jump line="94" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
       <jump line="99" column="22" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
       <jump line="108" column="23" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
+      <jump line="10" column="15" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/topic-routes.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1610,7 +1613,7 @@
         <text encoding="base64">ICAiLi4vbm9kZV9tb2R1bGVzL3ZpZGVvLmpzL2Rpc3QvdmlkZW8ubWluLmpzIiwK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>qal</text>
       </register>
     </registers>
     <search>
@@ -1663,9 +1666,9 @@
         <entry>294</entry>
         <entry>action AceAction</entry>
         <entry>wq</entry>
-        <entry>qal</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>qal</entry>
       </history-cmd>
       <history-expr />
       <history-input />
