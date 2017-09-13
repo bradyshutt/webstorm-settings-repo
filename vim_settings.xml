@@ -665,7 +665,7 @@
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
@@ -719,8 +719,8 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>qal</entry>
         <entry>action AceAction</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
