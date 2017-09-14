@@ -229,11 +229,12 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" timestamp="1505417319873">
-        <mark key="'" line="5" column="23" />
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" timestamp="1505420941802">
+        <mark key="'" line="6" column="23" />
+        <mark key="[" line="20" column="105" />
+        <mark key="]" line="20" column="112" />
+        <mark key="." line="20" column="112" />
+        <mark key="^" line="20" column="112" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.scss" timestamp="1505156324462">
         <mark key="'" line="0" column="0" />
@@ -590,17 +591,17 @@
       <jump line="5" column="23" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>prod</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyAqbmdJZj0iaXNTdGFnaW5nIiBzcmM9Ii4uL2Fzc2V0cy9pbWFnZXMvbWF0aHR2LWxvZ28tc2luZ2xlLWxpbmUtbm8tY29tLWdyYXlib3JkZXItc2NhbGVkLnBuZyIgYWx0PSJNYXRoVFYiIGNsYXNzPSJ0aXRsZS1pbWFnZSI+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>prod</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Objec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAicHJvZCI6ICJlbnZpcm9ubWVudHMvZW52aXJvbm1lbnQucHJvZC50cyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGltZyAqbmdJZj0iaXNTdGFnaW5nIiBzcmM9Ii4uL2Fzc2V0cy9pbWFnZXMvbWF0aHR2LWxvZ28tc2luZ2xlLWxpbmUtbm8tY29tLWdyYXlib3JkZXItc2NhbGVkLnBuZyIgYWx0PSJNYXRoVFYiIGNsYXNzPSJ0aXRsZS1pbWFnZSI+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IHsgT2JqZWN0aXZlc01vZHVsZSB9IGZyb20gJy4vb2JqZWN0aXZlcy9vYmplY3RpdmVzLm1vZHVsZSc7Cg==</text>
