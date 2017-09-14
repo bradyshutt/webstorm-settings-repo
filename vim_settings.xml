@@ -108,11 +108,6 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/@swimlane/ngx-datatable/src/utils/translate.ts" timestamp="1505333657985">
-        <mark key="'" line="9" column="7" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="9" column="64" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/katex-example/katex-example.component.ts" timestamp="1504220656351">
         <mark key="'" line="10" column="2" />
         <mark key="[" line="81" column="0" />
@@ -228,8 +223,8 @@
         <mark key="]" line="8" column="24" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" timestamp="1504827325957">
-        <mark key="'" line="50" column="38" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" timestamp="1505417319873">
+        <mark key="'" line="5" column="23" />
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
         <mark key="." line="43" column="0" />
@@ -466,6 +461,12 @@
         <mark key="]" line="17" column="44" />
         <mark key="." line="20" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.scss" timestamp="1505417337036">
+        <mark key="[" line="8" column="20" />
+        <mark key="]" line="8" column="26" />
+        <mark key="." line="8" column="26" />
+        <mark key="^" line="8" column="26" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.ts" timestamp="1505155115720">
         <mark key="'" line="5" column="23" />
         <mark key="[" line="11" column="37" />
@@ -487,7 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="26" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/effects/layout.effects.ts" />
       <jump line="251" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
       <jump line="97" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
       <jump line="23" column="29" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/services/topic-resolver.service.ts" />
@@ -587,19 +587,20 @@
       <jump line="70" column="110" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.ts" />
       <jump line="3" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/models/page.ts" />
       <jump line="79" column="8" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.ts" />
+      <jump line="5" column="23" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>]</text>
+        <text>#CCCCCC</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>#CCCCCC</text>
       </register>
       <register name="/" type="4">
         <text>Objec</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICB7CiAgICBwYXRoOiAnJywKICAgIGNvbXBvbmVudDogT2JqZWN0aXZlTGlzdFBhZ2VDb21wb25lbnQKICB9Cg==</text>
+        <text encoding="base64">ICBiYWNrZ3JvdW5kLWNvbG9yOiAjQ0NDQ0NDOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Ly8gaW1wb3J0IHsgT2JqZWN0aXZlc01vZHVsZSB9IGZyb20gJy4vb2JqZWN0aXZlcy9vYmplY3RpdmVzLm1vZHVsZSc7Cg==</text>
