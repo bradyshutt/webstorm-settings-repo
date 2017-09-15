@@ -91,8 +91,8 @@
         <mark key="." line="44" column="50" />
         <mark key="^" line="44" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/.angular-cli.json" timestamp="1505420299261">
-        <mark key="'" line="28" column="16" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/.angular-cli.json" timestamp="1505503359087">
+        <mark key="'" line="23" column="35" />
         <mark key="[" line="38" column="45" />
         <mark key="]" line="38" column="51" />
         <mark key="." line="38" column="51" />
@@ -176,12 +176,6 @@
         <mark key="]" line="80" column="60" />
         <mark key="." line="80" column="60" />
         <mark key="^" line="80" column="60" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/playlists.module.ts" timestamp="1505496790067">
-        <mark key="[" line="9" column="16" />
-        <mark key="]" line="11" column="31" />
-        <mark key="^" line="11" column="31" />
-        <mark key="." line="11" column="31" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" timestamp="1505494544303">
         <mark key="'" line="6" column="23" />
@@ -404,9 +398,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="13" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/objectives/services/objective.service.ts" />
-      <jump line="33" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/objectives/objectives.module.ts" />
-      <jump line="14" column="30" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/services/topic-resolver.service.ts" />
       <jump line="273" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
       <jump line="18" column="30" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/topic-page.module.ts" />
       <jump line="263" column="30" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
@@ -504,6 +495,9 @@
       <jump line="10" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/actions/playlist.actions.ts" />
       <jump line="43" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/actions/playlist.actions.ts" />
       <jump line="67" column="17" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/actions/playlist.actions.ts" />
+      <jump line="29" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/.angular-cli.json" />
+      <jump line="64" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/.angular-cli.json" />
+      <jump line="23" column="35" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/.angular-cli.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -513,7 +507,7 @@
         <text>watchHistory</text>
       </register>
       <register name="/" type="4">
-        <text>scss</text>
+        <text>css</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ZXhwb3J0IGNvbnN0IGdldFdhdGNoSGlzdG9yeSA9IChzdGF0ZTogU3RhdGUpID0+IHN0YXRlLndhdGNoSGlzdG9yeTsK</text>
@@ -553,9 +547,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scss</last-search>
+      <last-search>css</last-search>
       <last-offset />
-      <last-pattern>scss</last-pattern>
+      <last-pattern>css</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -563,7 +557,6 @@
     </search>
     <history>
       <history-search>
-        <entry>prime</entry>
         <entry>Tree</entry>
         <entry encoding="base64">XDxnZXRSb290VG9waWNzXD4=</entry>
         <entry>getRootTopic</entry>
@@ -583,6 +576,7 @@
         <entry>Series</entry>
         <entry>Objec</entry>
         <entry>scss</entry>
+        <entry>css</entry>
       </history-search>
       <history-cmd>
         <entry>qo</entry>
