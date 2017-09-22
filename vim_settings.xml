@@ -93,8 +93,8 @@
         <mark key="." line="65" column="0" />
         <mark key="^" line="65" column="9" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/app.module.ts" timestamp="1505412066130">
-        <mark key="'" line="46" column="5" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/app.module.ts" timestamp="1506109106719">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="46" column="17" />
@@ -286,11 +286,6 @@
         <mark key="]" line="17" column="1" />
         <mark key="^" line="17" column="1" />
         <mark key="." line="17" column="1" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example-math/example-math.component.scss" timestamp="1505755852040">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/components/playlists-list/playlists-list.component.ts" timestamp="1505752814049">
         <mark key="'" line="11" column="23" />
@@ -566,6 +561,9 @@
         <mark key="." line="11" column="13" />
         <mark key="^" line="11" column="13" />
       </file>
+      <file name="/Dummy.txt" timestamp="1506109000756">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/MathTV-Admin-2.0/src/styles.scss" timestamp="1506103999492">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -590,16 +588,17 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="22" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/core/core-routes.ts" timestamp="1506103358226">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/app-routes.ts" timestamp="1506103418417">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="30" column="1" />
         <mark key="." line="23" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/index.html" timestamp="1506109307690">
+        <mark key="[" line="4" column="43" />
+        <mark key="]" line="5" column="14" />
+        <mark key="^" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/models/playlist.ts" timestamp="1505752393630">
         <mark key="[" line="4" column="6" />
@@ -609,7 +608,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/actions/user.actions.ts" />
       <jump line="83" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/actions/user.actions.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/actions/user.actions.ts" />
       <jump line="10" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/actions/playlist.actions.ts" />
@@ -709,6 +707,7 @@
       <jump line="264" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/node_modules/@nebular/theme/components/menu/menu.component.js" />
       <jump line="7" column="13" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/pages.component.ts" />
       <jump line="28" column="27" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/@theme/layouts/sample/sample.layout.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/app.module.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
