@@ -28,11 +28,12 @@
         <mark key="^" line="70" column="53" />
         <mark key="." line="70" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" timestamp="1505499686841">
-        <mark key="[" line="46" column="74" />
-        <mark key="]" line="46" column="75" />
-        <mark key="." line="46" column="75" />
-        <mark key="^" line="46" column="73" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" timestamp="1506381854167">
+        <mark key="'" line="22" column="28" />
+        <mark key="[" line="13" column="56" />
+        <mark key="]" line="13" column="59" />
+        <mark key="." line="13" column="59" />
+        <mark key="^" line="13" column="59" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/confirm-modal/confirm-modal.component.ts" timestamp="1504828355658">
         <mark key="[" line="6" column="0" />
@@ -384,12 +385,12 @@
         <mark key="]" line="32" column="0" />
         <mark key="." line="32" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/proxy.conf.json" timestamp="1505777408092">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/proxy.conf.json" timestamp="1506381932149">
         <mark key="'" line="18" column="25" />
-        <mark key="[" line="24" column="15" />
-        <mark key="]" line="24" column="46" />
-        <mark key="." line="24" column="42" />
-        <mark key="^" line="24" column="42" />
+        <mark key="[" line="24" column="31" />
+        <mark key="]" line="24" column="35" />
+        <mark key="." line="24" column="35" />
+        <mark key="^" line="24" column="35" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/@theme/theme.module.ts" timestamp="1506118743569">
         <mark key="'" line="78" column="17" />
@@ -956,7 +957,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="17" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/vertical-volume-control/vertical-volume-control.component.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.prod.ts" />
       <jump line="11" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/MathTV-Admin-2.0/package.json" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/app-routes.ts" />
@@ -1056,13 +1056,14 @@
       <jump line="83" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/xyz-theme.scss" />
       <jump line="45" column="20" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/books/edit-book-tab-basic/edit-book-tab-basic.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/books/edit-book-tab-basic/edit-book-tab-basic.component.scss" />
+      <jump line="22" column="28" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Km5nSWY9ImJvb2siIA==</text>
+        <text>https://drop.bshutt.com:8443</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Km5nSWY9ImJvb2siIA==</text>
+        <text>https://drop.bshutt.com:8443</text>
       </register>
       <register name="/" type="4">
         <text>compo</text>
@@ -1250,9 +1251,9 @@ $md-warn: (
         <entry encoding="base64">JzwsJz53</entry>
         <entry>action AceAction</entry>
         <entry>92</entry>
-        <entry>qal</entry>
         <entry>q</entry>
         <entry>wq</entry>
+        <entry>qal</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
