@@ -28,12 +28,12 @@
         <mark key="^" line="70" column="53" />
         <mark key="." line="70" column="53" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" timestamp="1506381854167">
-        <mark key="'" line="22" column="28" />
-        <mark key="[" line="13" column="56" />
-        <mark key="]" line="13" column="59" />
-        <mark key="." line="13" column="59" />
-        <mark key="^" line="13" column="59" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" timestamp="1506383716567">
+        <mark key="'" line="20" column="32" />
+        <mark key="[" line="29" column="91" />
+        <mark key="]" line="29" column="99" />
+        <mark key="." line="29" column="99" />
+        <mark key="^" line="29" column="99" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/confirm-modal/confirm-modal.component.ts" timestamp="1504828355658">
         <mark key="[" line="6" column="0" />
@@ -926,6 +926,12 @@
         <mark key="^" line="64" column="16" />
         <mark key="." line="65" column="15" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/user.effects.ts" timestamp="1506383350733">
+        <mark key="[" line="18" column="45" />
+        <mark key="]" line="18" column="45" />
+        <mark key="." line="18" column="45" />
+        <mark key="^" line="18" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/shared.module.ts" timestamp="1505755199902">
         <mark key="'" line="98" column="14" />
         <mark key="[" line="65" column="0" />
@@ -957,10 +963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.prod.ts" />
-      <jump line="11" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/MathTV-Admin-2.0/package.json" />
-      <jump line="35" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/app-routes.ts" />
-      <jump line="6" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/app.module.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/tslint.json" />
       <jump line="62" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/tslint.json" />
       <jump line="45" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
@@ -1057,146 +1059,53 @@
       <jump line="45" column="20" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/books/edit-book-tab-basic/edit-book-tab-basic.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/books/edit-book-tab-basic/edit-book-tab-basic.component.scss" />
       <jump line="22" column="28" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
+      <jump line="12" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
+      <jump line="13" column="80" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
+      <jump line="18" column="22" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
+      <jump line="20" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>https://drop.bshutt.com:8443</text>
+        <text encoding="base64">and0OiBsb2NhbFN0b3JhZ2Uuand0LCA=</text>
       </register>
       <register name="-" type="4">
-        <text>https://drop.bshutt.com:8443</text>
+        <text encoding="base64">and0OiBsb2NhbFN0b3JhZ2Uuand0LCA=</text>
       </register>
       <register name="/" type="4">
         <text>compo</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxkaXYgKm5nSWY9ImJvb2siIGNsYXNzPSJ3cmFwcGVyIj4KICAKICAgICAgPHRhYmxlPgogICAgICAgIDx0cj4KICAgICAgICAgIDx0ZCBjbGFzcz0ibGFiZWwiPlRpdGxlPC90ZD4KICAgICAgICAgIDx0ZD48eHl6LW1vZGVsLWVkaXRvci10ZXh0IFttb2RlbF09ImJvb2sudGl0bGUiPjwveHl6LW1vZGVsLWVkaXRvci10ZXh0PjwvdGQ+CiAgICAgICAgPC90cj4KICAgIAogICAgICAgIDx0cj4KICAgICAgICAgIDx0ZCBjbGFzcz0ibGFiZWwiPlB1Ymxpc2hlcjwvdGQ+CiAgICAgICAgICA8dGQ+PHh5ei1tb2RlbC1lZGl0b3ItdGV4dCBbbW9kZWxdPSJib29rLnB1Ymxpc2hlciI+PC94eXotbW9kZWwtZWRpdG9yLXRleHQ+PC90ZD4KICAgICAgICA8L3RyPgogICAgCiAgICAgICAgPHRyPgogICAgICAgICAgPHRkIGNsYXNzPSJsYWJlbCI+QXV0aG9yczwvdGQ+CiAgICAgICAgICA8dGQ+PHh5ei1tb2RlbC1lZGl0b3ItY2hpcHMgW2NoaXBzXT0iYXV0aG9yQ2hpcHMiPjwveHl6LW1vZGVsLWVkaXRvci1jaGlwcz48L3RkPgogICAgICAgIDwvdHI+CiAgICAKICAgICAgICA8dHI+CiAgICAgICAgICA8dGQgY2xhc3M9ImxhYmVsIj5UeXBlPC90ZD4KICAgICAgICAgIDx0ZD48eHl6LW1vZGVsLWVkaXRvci1zZWxlY3QgW29wdGlvbnNdPSJ0eXBlT3B0aW9ucyIKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgW2Z1bGxXaWR0aF09InRydWUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtzZWxlY3RlZF09ImJvb2sudHlwZSIgPjwveHl6LW1vZGVsLWVkaXRvci1zZWxlY3Q+PC90ZD4KICAgICAgICA8L3RyPgogICAgCiAgICAgICAgPHRyPgogICAgICAgICAgPHRkIGNsYXNzPSJsYWJlbCI+VmlzaWJpbGl0eTwvdGQ+CiAgICAgICAgICA8dGQ+PHh5ei1tb2RlbC1lZGl0b3Itc2VsZWN0IFtvcHRpb25zXT0idmlzaWJpbGl0eU9wdGlvbnMiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIFtmdWxsV2lkdGhdPSJ0cnVlIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBbc2VsZWN0ZWRdPSJib29rLndlYnNpdGVWaXNpYmlsaXR5IiA+PC94eXotbW9kZWwtZWRpdG9yLXNlbGVjdD48L3RkPgogICAgICAgIDwvdHI+CiAgCiAgCiAgICAgIDwvdGFibGU+CiAgICA8L2Rpdj4KCiAgYCwKICBzdHlsZXM6IFtgCiAgICB0YWJsZSB7CiAgICAgIHdpZHRoOiA3NSU7CiAgICB9CiAgICB0YWJsZSB0ciB0ZCB7CiAgICAgIC8qcGFkZGluZzogMTVweCAwOyovCiAgICAgIGhlaWdodDogODBweDsKICAgIH0KICAKICAgIHRhYmxlIHRyIHRkLmxhYmVsIHsKICAgICAgdGV4dC1hbGlnbjogbGVmdDsKICAgICAgZm9udC13ZWlnaHQ6IDkwMDsKICAgICAgcGFkZGluZy1yaWdodDogMjBweDsKICAgICAgdmVydGljYWwtYWxpZ246IG1pZGRsZTsKICAgIH0KICAKICAgIC53cmFwcGVyIHsKICAgICAgZGlzcGxheTogZmxleDsKICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICBvdmVyZmxvdzogc2Nyb2xsOwogICAgICBwYWRkaW5nOiAyMHB4OwogICAgICBqdXN0aWZ5LWNvbnRlbnQ6IGNlbnRlcjsKICAgIH0KICAKCgo=</text>
+        <text encoding="base64">ICAgIGxldCBoZWFkZXJzID0gbmV3IEhlYWRlcnMoKTsKICAgIGhlYWRlcnMuYXBwZW5kKCd4LWFjY2Vzcy10b2tlbicsIGxvY2FsU3RvcmFnZS5qd3QpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBzdHlsZXM6IFtgCiAgICBgXQo=</text>
+        <text encoding="base64">ICAgIGxldCBoZWFkZXJzID0gbmV3IEhlYWRlcnMoKTsK</text>
       </register>
       <register name="q" type="4">
         <text>^fAde4jj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRhYmxlIHsKICAgICAgd2lkdGg6IDc1JTsKICAgIH0KICAgIHRhYmxlIHRyIHRkIHsKICAgICAgLypwYWRkaW5nOiAxNXB4IDA7Ki8KICAgICAgaGVpZ2h0OiA4MHB4OwogICAgfQogIAogICAgdGFibGUgdHIgdGQubGFiZWwgewogICAgICB0ZXh0LWFsaWduOiBsZWZ0OwogICAgICBmb250LXdlaWdodDogOTAwOwogICAgICBwYWRkaW5nLXJpZ2h0OiAyMHB4OwogICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgfQogIAogICAgLndyYXBwZXIgewogICAgICBkaXNwbGF5OiBmbGV4OwogICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgIG92ZXJmbG93OiBzY3JvbGw7CiAgICAgIHBhZGRpbmc6IDIwcHg7CiAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgfQogIAoK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMuYXBwZW5kKCd4LWFjY2Vzcy10b2tlbicsIGxvY2FsU3RvcmFnZS5qd3QpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxwPgogICAgICBlZGl0LWJvb2stdGFiLWJhc2ljIFdvcmtzIQogICAgPC9wPgogIGAsCg==</text>
+        <text encoding="base64">ICAgICAgLm1hcChyZXMgPT4gcmVzLmpzb24oKSkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LyogRm9yIHVzZSBpbiBzcmMvbGliL2NvcmUvdGhlbWluZy9fcGFsZXR0ZS5zY3NzICovCg==</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0KGVudmlyb25tZW50LmFwaUJhc2UgKyAnL3VzZXJzL3VzZXInLCBvcHRpb25zfSkK</text>
       </register>
-      <register name="6" type="4">
-        <text>$md-main: (
-  50 : #e5eae3,
-  100 : #becab8,
-  200 : #93a789,
-  300 : #68835a,
-  400 : #476936,
-  500 : #274e13,
-  600 : #234711,
-  700 : #1d3d0e,
-  800 : #17350b,
-  900 : #0e2506,
-  A100 : #7dff61,
-  A200 : #53ff2e,
-  A400 : #2cfa00,
-  A700 : #27e100,
-  contrast: (
-    50 : #000000,
-    100 : #000000,
-    200 : #000000,
-    300 : #ffffff,
-    400 : #ffffff,
-    500 : #ffffff,
-    600 : #ffffff,
-    700 : #ffffff,
-    800 : #ffffff,
-    900 : #ffffff,
-    A100 : #000000,
-    A200 : #000000,
-    A400 : #000000,
-    A700 : #000000,
-  )
-);
-
-$md-accent: (
-  50 : #f9fcfe,
-  100 : #f1f6fb,
-  200 : #e7f1f9,
-  300 : #ddebf7,
-  400 : #d6e6f5,
-  500 : #cfe2f3,
-  600 : #cadff1,
-  700 : #c3daef,
-  800 : #bdd6ed,
-  900 : #b2cfea,
-  A100 : #ffffff,
-  A200 : #ffffff,
-  A400 : #ffffff,
-  A700 : #ffffff,
-  contrast: (
-    50 : #000000,
-    100 : #000000,
-    200 : #000000,
-    300 : #000000,
-    400 : #000000,
-    500 : #000000,
-    600 : #000000,
-    700 : #000000,
-    800 : #000000,
-    900 : #000000,
-    A100 : #000000,
-    A200 : #000000,
-    A400 : #000000,
-    A700 : #000000,
-  )
-);
-
-$md-warn: (
-  50 : #f9e0e0,
-  100 : #f0b3b3,
-  200 : #e68080,
-  300 : #db4d4d,
-  400 : #d42626,
-  500 : #cc0000,
-  600 : #c70000,
-  700 : #c00000,
-  800 : #b90000,
-  900 : #ad0000,
-  A100 : #ffd7d7,
-  A200 : #ffa4a4,
-  A400 : #ff7171,
-  A700 : #ff5858,
-  contrast: (
-    50 : #000000,
-    100 : #000000,
-    200 : #000000,
-    300 : #ffffff,
-    400 : #ffffff,
-    500 : #ffffff,
-    600 : #ffffff,
-    700 : #ffffff,
-    800 : #ffffff,
-    900 : #ffffff,
-    A100 : #000000,
-    A200 : #000000,
-    A400 : #000000,
-    A700 : #000000,
-  )
-);</text>
+      <register name="6" type="2">
+        <text encoding="base64">aW1wb3J0IHsgUmVxdWVzdE9wdGlvbnMgfSBmcm9tICdodHRwJzsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAiLi4vbm9kZV9tb2R1bGVzL0Bhbmd1bGFyL21hdGVyaWFsL3ByZWJ1aWx0LXRoZW1lcy9pbmRpZ28tcGluay5jc3MiLAo=</text>
+        <text encoding="base64">ICBzdHlsZXM6IFtgCiAgICBgXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIHRhYmxlIHsKICAgICAgd2lkdGg6IDc1JTsKICAgIH0KICAgIHRhYmxlIHRyIHRkIHsKICAgICAgLypwYWRkaW5nOiAxNXB4IDA7Ki8KICAgICAgaGVpZ2h0OiA4MHB4OwogICAgfQogIAogICAgdGFibGUgdHIgdGQubGFiZWwgewogICAgICB0ZXh0LWFsaWduOiBsZWZ0OwogICAgICBmb250LXdlaWdodDogOTAwOwogICAgICBwYWRkaW5nLXJpZ2h0OiAyMHB4OwogICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgfQogIAogICAgLndyYXBwZXIgewogICAgICBkaXNwbGF5OiBmbGV4OwogICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgIG92ZXJmbG93OiBzY3JvbGw7CiAgICAgIHBhZGRpbmc6IDIwcHg7CiAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgfQogIAoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQoK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -1292,6 +1201,9 @@ $md-warn: (
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
