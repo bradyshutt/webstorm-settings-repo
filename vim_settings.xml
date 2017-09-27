@@ -21,12 +21,12 @@
         <mark key="]" line="79" column="37" />
         <mark key="." line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" timestamp="1505752870861">
-        <mark key="'" line="58" column="26" />
-        <mark key="[" line="70" column="53" />
-        <mark key="]" line="70" column="53" />
-        <mark key="^" line="70" column="53" />
-        <mark key="." line="70" column="53" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" timestamp="1506528866132">
+        <mark key="'" line="104" column="11" />
+        <mark key="[" line="107" column="49" />
+        <mark key="]" line="107" column="50" />
+        <mark key="^" line="107" column="49" />
+        <mark key="." line="107" column="50" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" timestamp="1506383716567">
         <mark key="'" line="20" column="32" />
@@ -963,19 +963,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/tslint.json" />
-      <jump line="62" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/tslint.json" />
-      <jump line="45" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
-      <jump line="6" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/core/core-routes.ts" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/package.json" />
-      <jump line="4" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/package.json" />
-      <jump line="21" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/app-routes.ts" />
-      <jump line="0" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/app-routes.ts" />
-      <jump line="7" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/core/core-routes.ts" />
-      <jump line="13" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/app-routes.ts" />
-      <jump line="13" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/app.module.ts" />
-      <jump line="12" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/core/core.module.ts" />
-      <jump line="89" column="9" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/src/app/core/containers/login.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/MathTV-Admin-2.0/src/styles.scss" />
       <jump line="7" column="14" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/dashboard/dashboard.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/dashboard/dashboard.component.html" />
@@ -1063,58 +1050,71 @@
       <jump line="13" column="80" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
       <jump line="18" column="22" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
       <jump line="20" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/services/user.service.ts" />
+      <jump line="52" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="109" column="31" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="18" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="19" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="20" column="25" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="107" column="49" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="41" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="50" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="53" column="50" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="62" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="98" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
+      <jump line="104" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">and0OiBsb2NhbFN0b3JhZ2Uuand0LCA=</text>
+        <text>dismiss</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">and0OiBsb2NhbFN0b3JhZ2Uuand0LCA=</text>
+        <text>close</text>
       </register>
       <register name="/" type="4">
-        <text>compo</text>
+        <text>dis</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGxldCBoZWFkZXJzID0gbmV3IEhlYWRlcnMoKTsKICAgIGhlYWRlcnMuYXBwZW5kKCd4LWFjY2Vzcy10b2tlbicsIGxvY2FsU3RvcmFnZS5qd3QpOwo=</text>
+      <register name="0" type="4">
+        <text>dismiss</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGxldCBoZWFkZXJzID0gbmV3IEhlYWRlcnMoKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="q" type="4">
         <text>^fAde4jj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIC5tYXAoKGFjdGlvbjogdG9BdXRoLkxvZ2luU3VjY2Vzc0FjdGlvbikgPT4gYWN0aW9uLnBheWxvYWQpCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGhlYWRlcnMuYXBwZW5kKCd4LWFjY2Vzcy10b2tlbicsIGxvY2FsU3RvcmFnZS5qd3QpOwo=</text>
+        <text encoding="base64">ICAgIGxldCBoZWFkZXJzID0gbmV3IEhlYWRlcnMoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgLm1hcChyZXMgPT4gcmVzLmpzb24oKSkK</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0KGVudmlyb25tZW50LmFwaUJhc2UgKyAnL3VzZXJzL3VzZXInLCBvcHRpb25zfSkK</text>
+        <text encoding="base64">ICAgIGhlYWRlcnMuYXBwZW5kKCd4LWFjY2Vzcy10b2tlbicsIGxvY2FsU3RvcmFnZS5qd3QpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aW1wb3J0IHsgUmVxdWVzdE9wdGlvbnMgfSBmcm9tICdodHRwJzsK</text>
+        <text encoding="base64">ICAgICAgLm1hcChyZXMgPT4gcmVzLmpzb24oKSkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBzdHlsZXM6IFtgCiAgICBgXQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiB0aGlzLmh0dHAuZ2V0KGVudmlyb25tZW50LmFwaUJhc2UgKyAnL3VzZXJzL3VzZXInLCBvcHRpb25zfSkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHRhYmxlIHsKICAgICAgd2lkdGg6IDc1JTsKICAgIH0KICAgIHRhYmxlIHRyIHRkIHsKICAgICAgLypwYWRkaW5nOiAxNXB4IDA7Ki8KICAgICAgaGVpZ2h0OiA4MHB4OwogICAgfQogIAogICAgdGFibGUgdHIgdGQubGFiZWwgewogICAgICB0ZXh0LWFsaWduOiBsZWZ0OwogICAgICBmb250LXdlaWdodDogOTAwOwogICAgICBwYWRkaW5nLXJpZ2h0OiAyMHB4OwogICAgICB2ZXJ0aWNhbC1hbGlnbjogbWlkZGxlOwogICAgfQogIAogICAgLndyYXBwZXIgewogICAgICBkaXNwbGF5OiBmbGV4OwogICAgICBoZWlnaHQ6IDEwMCU7CiAgICAgIG92ZXJmbG93OiBzY3JvbGw7CiAgICAgIHBhZGRpbmc6IDIwcHg7CiAgICAgIGp1c3RpZnktY29udGVudDogY2VudGVyOwogICAgfQogIAoK</text>
+        <text encoding="base64">aW1wb3J0IHsgUmVxdWVzdE9wdGlvbnMgfSBmcm9tICdodHRwJzsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">fQoK</text>
+        <text encoding="base64">ICBzdHlsZXM6IFtgCiAgICBgXQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>compo</last-search>
+      <last-search>dis</last-search>
       <last-offset />
-      <last-pattern>compo</last-pattern>
+      <last-pattern>dis</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -1122,8 +1122,6 @@
     </search>
     <history>
       <history-search>
-        <entry>play</entry>
-        <entry>memo</entry>
         <entry>route</entry>
         <entry>nav</entry>
         <entry>rec</entry>
@@ -1142,6 +1140,8 @@
         <entry>const</entry>
         <entry>char</entry>
         <entry>compo</entry>
+        <entry>login</entry>
+        <entry>dis</entry>
       </history-search>
       <history-cmd>
         <entry>qall</entry>
