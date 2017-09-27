@@ -47,6 +47,13 @@
         <mark key="." line="16" column="21" />
         <mark key="^" line="16" column="21" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.ts" timestamp="1506541339909">
+        <mark key="'" line="10" column="0" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="103" column="21" />
+        <mark key="^" line="103" column="21" />
+        <mark key="." line="103" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/series-list/series-list.component.scss" timestamp="1505340592404">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="2" column="19" />
@@ -762,7 +769,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="7" column="14" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/dashboard/dashboard.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/dashboard/dashboard.component.html" />
       <jump line="59" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/dashboard/dashboard.component.html" />
       <jump line="11" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/pages-menu.ts" />
@@ -862,19 +868,20 @@
       <jump line="98" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
       <jump line="104" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
       <jump line="22" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/containers/home.component.ts" />
+      <jump line="10" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHsgbmFtZTogJ1N0dWR5IFNraWxscycsIHBhdGg6ICcnLCByb3V0ZTogWyAnLi4vdG9waWMvY2FsY3VsdXMnLCB7IHN1YnRvcGljOiBudWxsLCBzdWJzdWJ0b3BpYzogbnVsbCB9IF0gfSwK</text>
+      <register name="&quot;" type="4">
+        <text>url</text>
       </register>
       <register name="-" type="4">
-        <text>{{ l }}</text>
+        <text>url</text>
       </register>
       <register name="/" type="4">
-        <text>dis</text>
+        <text>regi</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8c3BhbiBjbGFzcz0ibGFiZWwiPnt7IHRvcGljLm5hbWUgfX08L3NwYW4+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxidXR0b24gbWQtYnV0dG9uIFtyb3V0ZXJMaW5rXT0iWycvcmVnaXN0ZXInXSIgKGNsaWNrKT0iY2xvc2VEcmF3ZXIuZW1pdCgpIj5SZWdpc3RlcjwvYnV0dG9uPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHsgbmFtZTogJ1N0dWR5IFNraWxscycsIHBhdGg6ICcnLCByb3V0ZTogWyAnLi4vdG9waWMvY2FsY3VsdXMnLCB7IHN1YnRvcGljOiBudWxsLCBzdWJzdWJ0b3BpYzogbnVsbCB9IF0gfSwK</text>
@@ -914,9 +921,9 @@
       </register>
     </registers>
     <search>
-      <last-search>dis</last-search>
+      <last-search>regi</last-search>
       <last-offset />
-      <last-pattern>dis</last-pattern>
+      <last-pattern>regi</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -924,7 +931,6 @@
     </search>
     <history>
       <history-search>
-        <entry>route</entry>
         <entry>nav</entry>
         <entry>rec</entry>
         <entry>Prob</entry>
@@ -944,6 +950,7 @@
         <entry>compo</entry>
         <entry>login</entry>
         <entry>dis</entry>
+        <entry>regi</entry>
       </history-search>
       <history-cmd>
         <entry>qall</entry>
