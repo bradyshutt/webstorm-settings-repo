@@ -523,6 +523,12 @@
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/vertical-volume-control/vertical-volume-control.component.ts" timestamp="1505928973653">
         <mark key="'" line="14" column="17" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/core/data/book.service.ts" timestamp="1506556594103">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/layout/sidenav.component.ts" timestamp="1506554954374">
         <mark key="'" line="54" column="31" />
         <mark key="[" line="45" column="6" />
@@ -920,11 +926,11 @@
       <jump line="51" column="31" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/layout/sidenav.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogcmVkOwo=</text>
+      <register name="&quot;" type="4">
+        <text>shared</text>
       </register>
       <register name="-" type="4">
-        <text>justify</text>
+        <text>shared</text>
       </register>
       <register name="/" type="4">
         <text>regi</text>
