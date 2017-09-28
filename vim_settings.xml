@@ -562,7 +562,8 @@
         <mark key="." line="25" column="108" />
         <mark key="^" line="25" column="108" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/sw-precache-config.js" timestamp="1506531425351">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/sw-precache-config.js" timestamp="1506569654064">
+        <mark key="'" line="16" column="7" />
         <mark key="[" line="34" column="24" />
         <mark key="]" line="34" column="23" />
         <mark key="^" line="34" column="23" />
@@ -1026,7 +1027,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="59" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/tslint.json" />
       <jump line="40" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/tslint.json" />
       <jump line="47" column="5" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/tslint.json" />
       <jump line="42" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/tslint.json" />
@@ -1126,6 +1126,7 @@
       <jump line="30" column="74" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/effects/auth.effects.ts" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.ts" />
       <jump line="20" column="46" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.ts" />
+      <jump line="16" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/sw-precache-config.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1135,7 +1136,7 @@
         <text>err</text>
       </register>
       <register name="/" type="4">
-        <text>first</text>
+        <text>kat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAganVzdGlmeS1zZWxmOiBjZW50ZXI7Cg==</text>
@@ -1175,9 +1176,9 @@
       </register>
     </registers>
     <search>
-      <last-search>first</last-search>
+      <last-search>kat</last-search>
       <last-offset />
-      <last-pattern>first</last-pattern>
+      <last-pattern>kat</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -1185,7 +1186,6 @@
     </search>
     <history>
       <history-search>
-        <entry>6</entry>
         <entry>theme</entry>
         <entry>COSMIC</entry>
         <entry>ngx</entry>
@@ -1205,6 +1205,7 @@
         <entry>username</entry>
         <entry>us</entry>
         <entry>first</entry>
+        <entry>kat</entry>
       </history-search>
       <history-cmd>
         <entry>qall</entry>
