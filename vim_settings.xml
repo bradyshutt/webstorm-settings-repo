@@ -673,6 +673,9 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="15" column="8" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/test-proj/node_modules/@xyz-textbooks/xyz-blocks/xyz-blocks.d.ts" timestamp="1506702258019">
+        <mark key="'" line="4" column="18" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" timestamp="1506614430313">
         <mark key="'" line="160" column="9" />
         <mark key="[" line="191" column="0" />
@@ -878,11 +881,12 @@
         <mark key="." line="2" column="79" />
         <mark key="^" line="2" column="79" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/test-proj/src/app/app.module.ts" timestamp="1506630778336">
-        <mark key="[" line="13" column="16" />
-        <mark key="]" line="13" column="16" />
-        <mark key="^" line="13" column="16" />
-        <mark key="." line="13" column="16" />
+      <file name="$USER_HOME$/dev/work/mathtv/test-proj/src/app/app.module.ts" timestamp="1506702176747">
+        <mark key="'" line="3" column="45" />
+        <mark key="[" line="3" column="30" />
+        <mark key="]" line="3" column="44" />
+        <mark key="^" line="3" column="44" />
+        <mark key="." line="3" column="44" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example-problem/example-problem.component.ts" timestamp="1505755151278">
         <mark key="[" line="9" column="30" />
@@ -917,8 +921,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="24" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
-      <jump line="40" column="14" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/core/core.module.ts" />
       <jump line="13" column="10" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/core/core.module.ts" />
@@ -1017,6 +1019,8 @@
       <jump line="1" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/xyz-blocks/src/app/app.component.html" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/xyz-blocks/tslint.json" />
       <jump line="0" column="4" filename="$USER_HOME$/dev/work/mathtv/test-proj/src/app/app.component.html" />
+      <jump line="3" column="45" filename="$USER_HOME$/dev/work/mathtv/test-proj/src/app/app.module.ts" />
+      <jump line="4" column="18" filename="$USER_HOME$/dev/work/mathtv/test-proj/node_modules/@xyz-textbooks/xyz-blocks/xyz-blocks.d.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
