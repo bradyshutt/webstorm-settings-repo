@@ -91,12 +91,12 @@
         <mark key="^" line="15" column="28" />
         <mark key="." line="15" column="28" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/video-icon/video-icon.component.scss" timestamp="1506970663070">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="14" column="15" />
-        <mark key="]" line="15" column="16" />
-        <mark key="." line="14" column="15" />
-        <mark key="^" line="15" column="16" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/video-icon/video-icon.component.scss" timestamp="1506971840437">
+        <mark key="'" line="85" column="0" />
+        <mark key="[" line="19" column="12" />
+        <mark key="]" line="19" column="12" />
+        <mark key="." line="19" column="13" />
+        <mark key="^" line="18" column="12" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-admin-v2.0/package.json" timestamp="1506102861188">
         <mark key="'" line="4" column="0" />
@@ -1052,10 +1052,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="104" column="11" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.ts" />
-      <jump line="119" column="41" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.ts" />
-      <jump line="174" column="3" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.scss" />
-      <jump line="184" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.scss" />
       <jump line="191" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.scss" />
       <jump line="199" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.scss" />
       <jump line="178" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.scss" />
@@ -1152,13 +1148,17 @@
       <jump line="33" column="80" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example/example.component.ts" />
       <jump line="25" column="28" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/video-icon/video-icon.component.ts" />
       <jump line="104" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/video-icon/video-icon.component.scss" />
+      <jump line="63" column="10" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/video-icon/video-icon.component.scss" />
+      <jump line="106" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/video-icon/video-icon.component.scss" />
+      <jump line="18" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/video-icon/video-icon.component.scss" />
+      <jump line="85" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/video-icon/video-icon.component.scss" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>80px;</text>
+        <text>8</text>
       </register>
       <register name="-" type="4">
-        <text>80px;</text>
+        <text>8</text>
       </register>
       <register name="/" type="4">
         <text>image</text>
@@ -1167,34 +1167,34 @@
         <text encoding="base64">ICB3aWR0aDogODBweDsKICBoZWlnaHQ6IDgwcHg7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <text>^fAde4jj^</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3aWR0aDogODBweDsKICBoZWlnaHQ6IDgwcHg7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICB3aWR0aDogODBweDsKICBoZWlnaHQ6IDgwcHg7Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICB3aWR0aDogODBweDsKICBoZWlnaHQ6IDgwcHg7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">KCgpID0+IHsKICBsZXQgbGFyZ2VzdE5hbWUgPSBJTlNUUlVDVE9SUy5yZWR1Y2UoKHB2LCBjdikgPT4gY3YubmFtZS5sZW5ndGggPiBwdi5uYW1lLmxlbmd0aCA/IGN2IDogcHYpOwogIGNvbnNvbGUubG9nKCdsYXJnZXN0TmFtZTonLCBsYXJnZXN0TmFtZSApOwp9KSgpCg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBibHVlOwo=</text>
+        <text encoding="base64">KCgpID0+IHsKICBsZXQgbGFyZ2VzdE5hbWUgPSBJTlNUUlVDVE9SUy5yZWR1Y2UoKHB2LCBjdikgPT4gY3YubmFtZS5sZW5ndGggPiBwdi5uYW1lLmxlbmd0aCA/IGN2IDogcHYpOwogIGNvbnNvbGUubG9nKCdsYXJnZXN0TmFtZTonLCBsYXJnZXN0TmFtZSApOwp9KSgpCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICBib3JkZXI6IDFweCBzb2xpZCBibHVlOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
