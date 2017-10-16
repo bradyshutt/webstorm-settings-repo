@@ -490,12 +490,12 @@
         <mark key="." line="47" column="32" />
         <mark key="^" line="58" column="33" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" timestamp="1506355494450">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="52" column="62" />
-        <mark key="]" line="52" column="69" />
-        <mark key="." line="52" column="69" />
-        <mark key="^" line="52" column="69" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" timestamp="1508176883953">
+        <mark key="'" line="43" column="5" />
+        <mark key="[" line="31" column="22" />
+        <mark key="]" line="31" column="27" />
+        <mark key="." line="31" column="27" />
+        <mark key="^" line="31" column="27" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/models/user.ts" timestamp="1506564723742">
         <mark key="'" line="10" column="0" />
@@ -725,14 +725,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="39" column="24" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
-      <jump line="87" column="41" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
-      <jump line="15" column="13" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-captions/video-captions.component.ts" />
-      <jump line="33" column="26" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
-      <jump line="41" column="26" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
-      <jump line="5" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/vertical-volume-control/vertical-volume-control.component.ts" />
-      <jump line="22" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-captions/video-captions.component.ts" />
-      <jump line="1" column="9" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/vertical-volume-control/vertical-volume-control.component.ts" />
       <jump line="34" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/vertical-volume-control/vertical-volume-control.component.ts" />
       <jump line="6" column="53" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-caption-control/video-caption-control.component.ts" />
       <jump line="13" column="49" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-caption-control/video-caption-control.component.ts" />
@@ -825,6 +817,14 @@
       <jump line="8" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/layout/layout.component.ts" />
       <jump line="0" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/layout/layout.component.ts" />
       <jump line="9" column="17" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/admin.component.ts" />
+      <jump line="12" column="30" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
+      <jump line="32" column="23" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
+      <jump line="38" column="5" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
+      <jump line="39" column="5" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
+      <jump line="40" column="5" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
+      <jump line="41" column="5" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
+      <jump line="42" column="5" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
+      <jump line="43" column="5" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/package.json" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -834,7 +834,7 @@
         <text>s</text>
       </register>
       <register name="/" type="4">
-        <text>max</text>
+        <text>kar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDx4eXotbGF5b3V0IFtzaWRlYmFyT3BlbmVkXT0ic2lkZWJhck9wZW5lZCQgfCBhc3luYyI+Cg==</text>
@@ -886,9 +886,9 @@
       </register>
     </registers>
     <search>
-      <last-search>max</last-search>
+      <last-search>kar</last-search>
       <last-offset />
-      <last-pattern>max</last-pattern>
+      <last-pattern>kar</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -896,10 +896,6 @@
     </search>
     <history>
       <history-search>
-        <entry>vol</entry>
-        <entry encoding="base64">XDxWZ0FQSVw+</entry>
-        <entry>scss</entry>
-        <entry>place</entry>
         <entry>console</entry>
         <entry>mode</entry>
         <entry>series</entry>
@@ -916,6 +912,10 @@
         <entry>vs</entry>
         <entry>line</entry>
         <entry>max</entry>
+        <entry>log</entry>
+        <entry>bow</entry>
+        <entry>bro</entry>
+        <entry>kar</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
