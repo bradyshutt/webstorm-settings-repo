@@ -160,6 +160,9 @@
         <mark key="." line="85" column="20" />
         <mark key="^" line="85" column="20" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/tslint.json" timestamp="1508168849098">
+        <mark key="'" line="13" column="8" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example/example.component.scss" timestamp="1507232734850">
         <mark key="'" line="25" column="15" />
         <mark key="[" line="80" column="16" />
@@ -308,6 +311,13 @@
         <mark key="]" line="24" column="35" />
         <mark key="." line="24" column="35" />
         <mark key="^" line="24" column="35" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/layout/layout.component.ts" timestamp="1508169661567">
+        <mark key="'" line="0" column="16" />
+        <mark key="[" line="46" column="16" />
+        <mark key="]" line="46" column="16" />
+        <mark key="." line="46" column="16" />
+        <mark key="^" line="46" column="6" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/components/login-form/login-form.component.ts" timestamp="1506564760894">
         <mark key="'" line="56" column="32" />
@@ -515,6 +525,12 @@
         <mark key="." line="13" column="69" />
         <mark key="^" line="13" column="68" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/layout/toolbar.component.ts" timestamp="1508169655693">
+        <mark key="[" line="18" column="17" />
+        <mark key="]" line="18" column="17" />
+        <mark key="." line="18" column="17" />
+        <mark key="^" line="8" column="5" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/pages-routing.module.ts" timestamp="1506128010408">
         <mark key="'" line="21" column="5" />
         <mark key="[" line="30" column="0" />
@@ -702,10 +718,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="103" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/utils/mock-objectives.ts" />
-      <jump line="60" column="28" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example/example.component.ts" />
-      <jump line="70" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
-      <jump line="68" column="40" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
       <jump line="16" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-captions/video-captions.component.scss" />
       <jump line="39" column="24" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
       <jump line="87" column="41" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
@@ -802,22 +814,26 @@
       <jump line="13" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/components/example-list-virtual-scroll/example-list-virtual-scroll.component.scss" />
       <jump line="4" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/components/example-list-virtual-scroll/example-list-virtual-scroll.component.scss" />
       <jump line="15" column="20" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/components/example-list-virtual-scroll/example-list-virtual-scroll.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/tslint.json" />
+      <jump line="13" column="8" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/tslint.json" />
+      <jump line="8" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/layout/layout.component.ts" />
+      <jump line="0" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/layout/layout.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>vw</text>
+        <text>: boolean</text>
       </register>
       <register name="-" type="4">
-        <text>vw</text>
+        <text>: boolean</text>
       </register>
       <register name="/" type="4">
-        <text>vs</text>
+        <text>max</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGhlaWdodDogMTAwJTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFtvcGVuZWRdPSJkcmF3ZXJPcGVuIgogICAgICAgICAgICAgICAgICAgbW9kZT0ib3ZlciIK</text>
+        <text encoding="base64">ICAgIHt7X29wZW5lZH19Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -835,37 +851,37 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFtvcGVuZWRdPSJkcmF3ZXJPcGVuIHx8IGlzTGFyZ2VTY3JlZW4iCiAgICAgICAgICAgICAgICAgICBbbW9kZV09ImlzTGFyZ2VTY3JlZW4gPyAnc2lkZScgOiAnb3ZlciciCg==</text>
+        <text encoding="base64">ICAgICAgLyogVFNMaW50ICovCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDwhLS1bb3BlbmVkXT0iZHJhd2VyT3BlbiB8fCBpc0xhcmdlU2NyZWVuIi0tPgogICAgICAgICAgICAgICAgICAgPCEtLVttb2RlXT0iaXNMYXJnZVNjcmVlbiA/ICdzaWRlJyA6ICdvdmVyJyItLT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFtvcGVuZWRdPSJkcmF3ZXJPcGVuIgogICAgICAgICAgICAgICAgICAgbW9kZT0ib3ZlciIK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFttb2RlXT0iaXNMYXJnZVNjcmVlbiA/ICdzaWRlJyA6ICdvdmVyJyIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFtvcGVuZWRdPSJkcmF3ZXJPcGVuIHx8IGlzTGFyZ2VTY3JlZW4iCiAgICAgICAgICAgICAgICAgICBbbW9kZV09ImlzTGFyZ2VTY3JlZW4gPyAnc2lkZScgOiAnb3ZlciciCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxzcGFuICpuZ0lmPSJpc0xhcmdlU2NyZWVuIj5BQkM8L3NwYW4+CiAgICA8c3BhbiAqbmdJZj0iIWlzTGFyZ2VTY3JlZW4iPlhZWjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIDwhLS1bb3BlbmVkXT0iZHJhd2VyT3BlbiB8fCBpc0xhcmdlU2NyZWVuIi0tPgogICAgICAgICAgICAgICAgICAgPCEtLVttb2RlXT0iaXNMYXJnZVNjcmVlbiA/ICdzaWRlJyA6ICdvdmVyJyItLT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIFttb2RlXT0iaXNMYXJnZVNjcmVlbiA/ICdzaWRlJyA6ICdvdmVyJyIK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIDxzcGFuICpuZ0lmPSJpc0xhcmdlU2NyZWVuIj5BQkM8L3NwYW4+CiAgICA8c3BhbiAqbmdJZj0iIWlzTGFyZ2VTY3JlZW4iPlhZWjwvc3Bhbj4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDxzcGFuPlhZWjwvc3Bhbj4K</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgIDxzcGFuICpuZ0lmPSJpc0xhcmdlU2NyZWVuIj5BQkM8L3NwYW4+CiAgICA8c3BhbiAqbmdJZj0iIWlzTGFyZ2VTY3JlZW4iPlhZWjwvc3Bhbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>vs</last-search>
+      <last-search>max</last-search>
       <last-offset />
-      <last-pattern>vs</last-pattern>
+      <last-pattern>max</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -873,8 +889,6 @@
     </search>
     <history>
       <history-search>
-        <entry>grid</entry>
-        <entry>scs</entry>
         <entry>vol</entry>
         <entry encoding="base64">XDxWZ0FQSVw+</entry>
         <entry>scss</entry>
@@ -893,6 +907,8 @@
         <entry encoding="base64">XDxpc0xhcmdlU2NyZWVuXD4=</entry>
         <entry>width</entry>
         <entry>vs</entry>
+        <entry>line</entry>
+        <entry>max</entry>
       </history-search>
       <history-cmd>
         <entry>q!</entry>
@@ -908,12 +924,12 @@
         <entry>116</entry>
         <entry>action AceAction</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>qa</entry>
         <entry>action code.align</entry>
         <entry>wq</entry>
         <entry>w'</entry>
         <entry>q</entry>
         <entry>qal</entry>
+        <entry>qa</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
