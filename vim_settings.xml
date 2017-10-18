@@ -135,12 +135,12 @@
         <mark key="^" line="52" column="58" />
         <mark key="." line="62" column="47" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/containers/home.component.ts" timestamp="1506966914240">
-        <mark key="'" line="42" column="16" />
-        <mark key="[" line="55" column="38" />
-        <mark key="]" line="55" column="38" />
-        <mark key="^" line="39" column="36" />
-        <mark key="." line="55" column="38" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/containers/home.component.ts" timestamp="1508349602281">
+        <mark key="'" line="66" column="45" />
+        <mark key="[" line="66" column="81" />
+        <mark key="]" line="66" column="81" />
+        <mark key="^" line="66" column="81" />
+        <mark key="." line="66" column="81" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/src/app/admin/books/edit-book-modal/edit-book-modal.component.ts" timestamp="1506362694755">
         <mark key="'" line="10" column="33" />
@@ -839,9 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer-login/drawer-login.component.ts" />
-      <jump line="99" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/shared.module.ts" />
-      <jump line="107" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/shared.module.ts" />
       <jump line="35" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
       <jump line="49" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
       <jump line="52" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
@@ -939,16 +936,19 @@
       <jump line="1" column="8" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/test.ts" />
       <jump line="19" column="36" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/test.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
+      <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/containers/home.component.ts" />
+      <jump line="60" column="45" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/containers/home.component.ts" />
+      <jump line="66" column="45" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/containers/home.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHwgYWRkQ29tbWFz</text>
+        <text encoding="base64">IHRoZSA=</text>
       </register>
       <register name="-" type="4">
-        <text>: any</text>
+        <text encoding="base64">IHRoZSA=</text>
       </register>
       <register name="/" type="4">
-        <text>scrub</text>
+        <text>go</text>
       </register>
       <register name="0" type="4">
         <text encoding="base64">IHwgYWRkQ29tbWFz</text>
@@ -1000,9 +1000,9 @@
       </register>
     </registers>
     <search>
-      <last-search>scrub</last-search>
+      <last-search>go</last-search>
       <last-offset />
-      <last-pattern>scrub</last-pattern>
+      <last-pattern>go</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,7 +1010,6 @@
     </search>
     <history>
       <history-search>
-        <entry>isL</entry>
         <entry>fromA</entry>
         <entry>isLogg</entry>
         <entry>err</entry>
@@ -1030,6 +1029,7 @@
         <entry>at</entry>
         <entry>con</entry>
         <entry>scrub</entry>
+        <entry>go</entry>
       </history-search>
       <history-cmd>
         <entry>action SplitHorizontally</entry>
