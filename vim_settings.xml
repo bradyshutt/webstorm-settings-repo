@@ -310,12 +310,12 @@
         <mark key="^" line="218" column="24" />
         <mark key="." line="231" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" timestamp="1508183619221">
-        <mark key="'" line="19" column="0" />
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="^" line="104" column="3" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" timestamp="1508183874045">
+        <mark key="'" line="21" column="35" />
+        <mark key="[" line="21" column="35" />
+        <mark key="]" line="21" column="38" />
+        <mark key="^" line="21" column="38" />
+        <mark key="." line="21" column="38" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/xyz-admin-v2.0/.angular-cli.json" timestamp="1506362027448">
         <mark key="'" line="52" column="3" />
@@ -765,7 +765,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.html" />
       <jump line="30" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.html" />
       <jump line="95" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.html" />
@@ -854,27 +853,28 @@
       <jump line="69" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.ts" />
       <jump line="70" column="9" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.ts" />
       <jump line="75" column="9" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.ts" />
-      <jump line="21" column="51" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" />
       <jump line="85" column="41" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.ts" />
       <jump line="89" column="28" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.ts" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.ts" />
       <jump line="100" column="21" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" />
       <jump line="99" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.ts" />
-      <jump line="22" column="29" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" />
       <jump line="89" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" />
       <jump line="18" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" />
       <jump line="60" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.ts" />
       <jump line="25" column="36" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.html" />
+      <jump line="106" column="3" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" />
+      <jump line="22" column="23" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" />
+      <jump line="21" column="35" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-required-modal/login-required-modal.component.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text>showDrawerLogin$ | async</text>
       </register>
       <register name="-" type="4">
-        <text>showLoginChanged($event)</text>
+        <text>showDrawerLogin$ | async</text>
       </register>
       <register name="/" type="4">
-        <text>err</text>
+        <text>show</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHRoaXMuc2hvd0RyYXdlckxvZ2luJCA9IHRoaXMuc3RvcmUuc2VsZWN0KGZyb21Sb290LmdldERyYXdlckxvZ2luVmlzaWJsZSk7CiAgICB0aGlzLmxvZ2luRXJyb3IkID0gdGhpcy5zdG9yZS5zZWxlY3QoZnJvbUF1dGguc2VsZWN0TG9naW5FcnJvcik7CiAgICB0aGlzLmxvZ2luUGVuZGluZyQgPSB0aGlzLnN0b3JlLnNlbGVjdChmcm9tQXV0aC5zZWxlY3RMb2dpblBlbmRpbmcpOwo=</text>
@@ -926,9 +926,9 @@
       </register>
     </registers>
     <search>
-      <last-search>err</last-search>
+      <last-search>show</last-search>
       <last-offset />
-      <last-pattern>err</last-pattern>
+      <last-pattern>show</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -936,8 +936,6 @@
     </search>
     <history>
       <history-search>
-        <entry>scr</entry>
-        <entry>html</entry>
         <entry>view</entry>
         <entry>modal</entry>
         <entry>#</entry>
@@ -956,6 +954,8 @@
         <entry>fromA</entry>
         <entry>isLogg</entry>
         <entry>err</entry>
+        <entry encoding="base64">XDxzaG93RHJhd2VyTG9naW5cPg==</entry>
+        <entry>show</entry>
       </history-search>
       <history-cmd>
         <entry>;w</entry>
