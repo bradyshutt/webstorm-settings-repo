@@ -307,6 +307,9 @@
         <mark key="." line="0" column="47" />
         <mark key="^" line="0" column="39" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/videogular2/src/controls/vg-scrub-bar/vg-scrub-bar.js" timestamp="1508436052821">
+        <mark key="'" line="88" column="27" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" timestamp="1508182546713">
         <mark key="'" line="52" column="4" />
       </file>
@@ -642,8 +645,8 @@
         <mark key="." line="23" column="44" />
         <mark key="^" line="23" column="43" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" timestamp="1508347973892">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" timestamp="1508435781331">
+        <mark key="'" line="33" column="16" />
         <mark key="[" line="99" column="0" />
         <mark key="]" line="99" column="0" />
         <mark key="." line="99" column="0" />
@@ -839,10 +842,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
-      <jump line="52" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" />
-      <jump line="29" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/auth/auth.module.ts" />
-      <jump line="75" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/shared.module.ts" />
       <jump line="43" column="30" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.ts" />
       <jump line="6" column="38" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.html" />
       <jump line="5" column="40" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/drawer/drawer.component.html" />
@@ -939,6 +938,10 @@
       <jump line="60" column="45" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/containers/home.component.ts" />
       <jump line="66" column="45" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/home/containers/home.component.ts" />
       <jump line="20" column="40" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-caption-control/video-caption-control.component.ts" />
+      <jump line="33" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-player/video-player.component.ts" />
+      <jump line="148" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/videogular2/src/controls/vg-scrub-bar/vg-scrub-bar.js" />
+      <jump line="65" column="8" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/videogular2/src/controls/vg-scrub-bar/vg-scrub-bar.js" />
+      <jump line="88" column="27" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/node_modules/videogular2/src/controls/vg-scrub-bar/vg-scrub-bar.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -948,7 +951,7 @@
         <text>, SimpleChanges</text>
       </register>
       <register name="/" type="4">
-        <text>go</text>
+        <text>mouseout</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKGNoYW5nZXMudmlkZW8ucHJldmlvdXNWYWx1ZS50ZXh0VHJhY2tzWzBdLmFjdGl2ZUN1ZXMgPSBbXSk7Cg==</text>
@@ -1000,9 +1003,9 @@
       </register>
     </registers>
     <search>
-      <last-search>go</last-search>
+      <last-search>mouseout</last-search>
       <last-offset />
-      <last-pattern>go</last-pattern>
+      <last-pattern>mouseout</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>selectU</last-substitute>
       <last-dir>1</last-dir>
@@ -1010,7 +1013,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fromA</entry>
         <entry>isLogg</entry>
         <entry>err</entry>
         <entry encoding="base64">XDxzaG93RHJhd2VyTG9naW5cPg==</entry>
@@ -1028,8 +1030,9 @@
         <entry>comm</entry>
         <entry>at</entry>
         <entry>con</entry>
-        <entry>scrub</entry>
         <entry>go</entry>
+        <entry>scrub</entry>
+        <entry>mouseout</entry>
       </history-search>
       <history-cmd>
         <entry>action SplitHorizontally</entry>
