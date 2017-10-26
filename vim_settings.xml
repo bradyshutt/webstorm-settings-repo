@@ -142,12 +142,12 @@
         <mark key="." line="80" column="28" />
         <mark key="^" line="85" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/effects/playlist.effects.ts" timestamp="1509044633060">
-        <mark key="'" line="73" column="30" />
-        <mark key="[" line="63" column="49" />
-        <mark key="]" line="63" column="49" />
-        <mark key="." line="63" column="49" />
-        <mark key="^" line="63" column="50" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/effects/playlist.effects.ts" timestamp="1509046078856">
+        <mark key="'" line="75" column="30" />
+        <mark key="[" line="62" column="21" />
+        <mark key="]" line="63" column="3" />
+        <mark key="." line="63" column="3" />
+        <mark key="^" line="63" column="3" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" timestamp="1508774588030">
         <mark key="'" line="16" column="0" />
@@ -528,12 +528,12 @@
         <mark key="^" line="54" column="45" />
         <mark key="." line="54" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/playlist.service.ts" timestamp="1509045136825">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/playlist.service.ts" timestamp="1509045980212">
         <mark key="'" line="56" column="34" />
-        <mark key="[" line="26" column="25" />
-        <mark key="]" line="26" column="25" />
-        <mark key="." line="26" column="25" />
-        <mark key="^" line="56" column="34" />
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="61" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/vertical-volume-control/vertical-volume-control.component.ts" timestamp="1507313433782">
         <mark key="'" line="16" column="51" />
@@ -937,11 +937,11 @@
       <jump line="56" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/playlist.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>_</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIGxldCBib2R5ID0geyBwbGF5bGlzdDogSlNPTi5zdHJpbmdpZnkocGxheWxpc3QpIH07Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -950,7 +950,7 @@
         <text encoding="base64">ICAgIGxldCBoZWFkZXJzID0gbmV3IEhlYWRlcnMoKTsKICAgIGhlYWRlcnMuYXBwZW5kKCd4LWFjY2Vzcy10b2tlbicsIGxvY2FsU3RvcmFnZS5qd3QpOwogICAgbGV0IG9wdGlvbnMgPSBuZXcgUmVxdWVzdE9wdGlvbnMoeyBoZWFkZXJzIH0pOwogICAgbGV0IHVybCA9IGVudmlyb25tZW50LmFwaUJhc2UgKyAnL3BsYXlsaXN0cy91cGRhdGUnOwogICAgbGV0IGJvZHkgPSB7IHBsYXlsaXN0OiBKU09OLnN0cmluZ2lmeShwbGF5bGlzdCkgfTsKICAgIHJldHVybiB0aGlzLmh0dHAucHV0KHVybCwgYm9keSwgb3B0aW9ucyApCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG9wdGlvbnMuCg==</text>
+        <text encoding="base64">ICAgIGxldCBib2R5ID0geyBwbGF5bGlzdDogSlNPTi5zdHJpbmdpZnkocGxheWxpc3QpIH07Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -968,28 +968,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgIGxldCBib2R5ID0geyBwbGF5bGlzdDogSlNPTi5zdHJpbmdpZnkocGxheWxpc3QpIH07CiAgICByZXR1cm4gdGhpcy5odHRwLmRlbGV0ZSh1cmwsIG9wdGlvbnMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBkZWxldGVQbGF5bGlzdCgpCg==</text>
+        <text encoding="base64">ICAgIG9wdGlvbnMuCg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBAT3V0cHV0KCkgZGVsZXRlUGxheWxpc3QgPSBuZXcgRXZlbnRFbWl0dGVyKCk7Cg==</text>
+        <text encoding="base64">ICBkZWxldGVQbGF5bGlzdCgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRpYWxvZ1JlZi4K</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICBAT3V0cHV0KCkgZGVsZXRlUGxheWxpc3QgPSBuZXcgRXZlbnRFbWl0dGVyKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgIGRpYWxvZ1JlZi4K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3BsYXlsaXN0OiAnLCBwbGF5bGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
