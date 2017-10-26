@@ -138,8 +138,8 @@
         <mark key="." line="85" column="34" />
         <mark key="^" line="85" column="34" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/effects/playlist.effects.ts" timestamp="1509034317296">
-        <mark key="'" line="57" column="48" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/effects/playlist.effects.ts" timestamp="1509036171644">
+        <mark key="'" line="44" column="6" />
         <mark key="[" line="44" column="6" />
         <mark key="]" line="44" column="6" />
         <mark key="^" line="44" column="6" />
@@ -215,12 +215,12 @@
         <mark key="." line="31" column="0" />
         <mark key="^" line="27" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/components/playlist-detail/playlist-detail.component.ts" timestamp="1509034658131">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/components/playlist-detail/playlist-detail.component.ts" timestamp="1509036735464">
         <mark key="'" line="16" column="24" />
-        <mark key="[" line="19" column="51" />
-        <mark key="]" line="19" column="51" />
-        <mark key="." line="19" column="56" />
-        <mark key="^" line="20" column="52" />
+        <mark key="[" line="63" column="48" />
+        <mark key="]" line="63" column="48" />
+        <mark key="." line="63" column="48" />
+        <mark key="^" line="63" column="48" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/tslint.json" timestamp="1506125257442">
         <mark key="'" line="39" column="8" />
@@ -429,12 +429,12 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/components/playlist-video/playlist-video.component.ts" timestamp="1509034645589">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/components/playlist-video/playlist-video.component.ts" timestamp="1509035793842">
         <mark key="'" line="18" column="36" />
-        <mark key="[" line="23" column="43" />
-        <mark key="]" line="23" column="48" />
-        <mark key="." line="23" column="48" />
-        <mark key="^" line="23" column="48" />
+        <mark key="[" line="21" column="49" />
+        <mark key="]" line="21" column="49" />
+        <mark key="." line="21" column="49" />
+        <mark key="^" line="22" column="50" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/ngx-admin/src/app/pages/books/books.module.ts" timestamp="1506127260049">
         <mark key="'" line="16" column="36" />
@@ -580,7 +580,7 @@
         <mark key="^" line="53" column="27" />
         <mark key="." line="85" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/containers/all-playlists/all-playlists.component.ts" timestamp="1508959916384">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/containers/all-playlists/all-playlists.component.ts" timestamp="1509036719404">
         <mark key="'" line="17" column="8" />
         <mark key="[" line="85" column="10" />
         <mark key="]" line="85" column="10" />
@@ -803,7 +803,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="76" column="35" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example/example.component.ts" />
       <jump line="61" column="21" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example/example.component.scss" />
       <jump line="56" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example/example.component.scss" />
       <jump line="17" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/video-details/video-details.component.ts" />
@@ -903,22 +902,23 @@
       <jump line="53" column="43" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/playlist.service.ts" />
       <jump line="10" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/playlist.service.ts" />
       <jump line="16" column="24" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/components/playlist-detail/playlist-detail.component.ts" />
+      <jump line="44" column="6" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/playlists/effects/playlist.effects.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>video</text>
+        <text>playlist</text>
       </register>
       <register name="-" type="4">
-        <text>video</text>
+        <text>playlist</text>
       </register>
       <register name="/" type="4">
         <text>const</text>
       </register>
-      <register name="0" type="4">
-        <text>(click)=&quot;moveUp.emit(video)&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdQbGF5bGlzdDogJywgdGhpcy5wbGF5bGlzdC52aWRlb0lkcyk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdwOicsIHApOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -936,16 +936,16 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIGxldCBvID0gewo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICAgICAgYTogMiwKICAgIH07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGxldCAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIHRoaXMK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
@@ -954,10 +954,10 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMucGxheWxpc3RTZXJ2aWNlLnVwZGF0ZVBsYXlsaXN0KHBsYXlsaXN0KQogICAgLy8gICAuc3Vic2NyaWJlKChyZXMpID0+IHsKICAgIC8vICAgICBjb25zb2xlLmxvZygncmVzJywgcmVzKTsKICAgIC8vICAgfSkKICAgIC8vCg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
