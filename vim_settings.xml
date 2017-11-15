@@ -207,10 +207,17 @@
         <mark key="." line="34" column="18" />
         <mark key="^" line="34" column="18" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/index.js" timestamp="1510769454427">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/index.js" timestamp="1510776051709">
+        <mark key="'" line="26" column="30" />
         <mark key="[" line="30" column="0" />
         <mark key="]" line="30" column="33" />
         <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/topic.ts" timestamp="1510601788501">
+        <mark key="'" line="80" column="0" />
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/tsconfig.app.json" timestamp="1509838298732">
         <mark key="[" line="5" column="28" />
@@ -409,7 +416,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="33" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" />
       <jump line="42" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/topic.ts" />
       <jump line="1" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/instructor.ts" />
       <jump line="13" column="34" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/instructor.ts" />
@@ -507,8 +513,9 @@
       <jump line="55" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/dev-routes.js" />
       <jump line="66" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/dev-routes.js" />
       <jump line="86" column="17" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/dev-routes.js" />
-      <jump line="1" column="6" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/topic-routes.js" />
       <jump line="42" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/topic-routes.js" />
+      <jump line="26" column="30" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/index.js" />
+      <jump line="1" column="6" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/topic-routes.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
