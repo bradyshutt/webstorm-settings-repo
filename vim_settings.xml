@@ -119,12 +119,12 @@
         <mark key="." line="25" column="25" />
         <mark key="^" line="25" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.ts" timestamp="1511809116129">
-        <mark key="'" line="29" column="42" />
-        <mark key="[" line="21" column="35" />
-        <mark key="]" line="22" column="1" />
-        <mark key="." line="22" column="1" />
-        <mark key="^" line="22" column="1" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.ts" timestamp="1511977836734">
+        <mark key="'" line="28" column="42" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="21" column="1" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-v4.0/src/app/core/components/home-page/home-page.component.html" timestamp="1509737650857">
         <mark key="[" line="31" column="10" />
@@ -400,11 +400,11 @@
         <mark key="^" line="43" column="1" />
         <mark key="." line="43" column="1" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/components/topic-page/topic-page.component.html" timestamp="1511392131936">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/components/topic-page/topic-page.component.html" timestamp="1511977803234">
         <mark key="'" line="8" column="29" />
-        <mark key="[" line="8" column="9" />
-        <mark key="]" line="8" column="29" />
-        <mark key="." line="8" column="29" />
+        <mark key="[" line="16" column="29" />
+        <mark key="]" line="16" column="29" />
+        <mark key="." line="16" column="29" />
         <mark key="^" line="8" column="29" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/controllers/topic-controller.js" timestamp="1510604282718">
@@ -597,10 +597,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBzaG93RHJvcGRvd24gPSB0cnVlOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHJnYmEoMCwwLDAsMC4yKTs=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>back</text>
@@ -609,7 +609,7 @@
         <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iaWNvbi13cmFwcGVyIHt7dG9waWMuZm9ybWF0dGVkTmFtZX19Ij4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAvLyBzaG93RHJvcGRvd24gPSB0cnVlOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -627,31 +627,31 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAvLyBtYXRoVG9waWNzID0gWwogIC8vICAgewogIC8vICAgICBsaW5rOiAnL3RvcGljL2Jhc2ljLW1hdGhlbWF0aWNzJywKICAvLyAgICAgaWQ6IDM4LAogIC8vICAgICBsYWJlbDogJ0Jhc2ljIE1hdGgnLAogIC8vICAgICBmbGF0aWNvbjogJ2ZsYXRpY29uLWNhbGN1bGF0b3InCiAgLy8gICB9LAogIC8vICAgewogIC8vICAgICBpZDogNywKICAvLyAgICAgbGluazogJy90b3BpYy9hbGdlYnJhLzE1MicsCiAgLy8gICAgIGxhYmVsOiAnQWxnZWJyYScsCiAgLy8gICAgIGZsYXRpY29uOiAnZmxhdGljb24tc2lnbicKICAvLyAgIH0sCiAgLy8gICB7CiAgLy8gICAgIGlkOiAyNzksCiAgLy8gICAgIGxpbms6ICcvdG9waWMvZ2VvbWV0cnknLAogIC8vICAgICBsYWJlbDogJ0dlb21ldHJ5JywKICAvLyAgICAgLy8gZmxhdGljb246ICdmbGF0aWNvbi1jb21wYXNzJywKICAvLyAgICAgLy8gZmxhdGljb246ICdmbGF0aWNvbi1ydWxlJywKICAvLyAgICAgZmxhdGljb246ICdmbGF0aWNvbi1kcmF3JwogIC8vICAgfSwKICAvLyAgIHsKICAvLyAgICAgaWQ6IDU4OSwKICAvLyAgICAgbGluazogJy90b3BpYy90cmlnb25vbWV0cnknLAogIC8vICAgICBsYWJlbDogJ1RyaWdvbm9tZXRyeScsCiAgLy8gICAgIC8vIGZsYXRpY29uOiAnZmxhdGljb24tdHJpYW5nbGUnCiAgLy8gICAgIGZsYXRpY29uOiAnZmxhdGljb24tZHJhd2luZycKICAvLyAgIH0sCiAgLy8gICB7CiAgLy8gICAgIGlkOiA0MCwKICAvLyAgICAgbGluazogJy90b3BpYy9jYWxjdWx1cycsCiAgLy8gICAgIGxhYmVsOiAnQ2FsY3VsdXMnLAogIC8vICAgICBmbGF0aWNvbjogJ2ZsYXRpY29uLXNpZ24tMScKICAvLyAgIH0sCiAgLy8gICB7CiAgLy8gICAgIGlkOiAwLAogIC8vICAgICBsaW5rOiAnL3RvcGljL2NhbGN1bHVzJywKICAvLyAgICAgbGFiZWw6ICdTdHVkeSBTa2lsbHMnLAogIC8vICAgICBmbGF0aWNvbjogJ2ZsYXRpY29uLXNpZ24tMScKICAvLyAgIH0sCiAgLy8KICAvLyBdOwo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAvLyBtYXRoVG9waWNzID0gWwo=</text>
+        <text encoding="base64">ICAvLyBtYXRoVG9waWNzID0gWwogIC8vICAgewogIC8vICAgICBsaW5rOiAnL3RvcGljL2Jhc2ljLW1hdGhlbWF0aWNzJywKICAvLyAgICAgaWQ6IDM4LAogIC8vICAgICBsYWJlbDogJ0Jhc2ljIE1hdGgnLAogIC8vICAgICBmbGF0aWNvbjogJ2ZsYXRpY29uLWNhbGN1bGF0b3InCiAgLy8gICB9LAogIC8vICAgewogIC8vICAgICBpZDogNywKICAvLyAgICAgbGluazogJy90b3BpYy9hbGdlYnJhLzE1MicsCiAgLy8gICAgIGxhYmVsOiAnQWxnZWJyYScsCiAgLy8gICAgIGZsYXRpY29uOiAnZmxhdGljb24tc2lnbicKICAvLyAgIH0sCiAgLy8gICB7CiAgLy8gICAgIGlkOiAyNzksCiAgLy8gICAgIGxpbms6ICcvdG9waWMvZ2VvbWV0cnknLAogIC8vICAgICBsYWJlbDogJ0dlb21ldHJ5JywKICAvLyAgICAgLy8gZmxhdGljb246ICdmbGF0aWNvbi1jb21wYXNzJywKICAvLyAgICAgLy8gZmxhdGljb246ICdmbGF0aWNvbi1ydWxlJywKICAvLyAgICAgZmxhdGljb246ICdmbGF0aWNvbi1kcmF3JwogIC8vICAgfSwKICAvLyAgIHsKICAvLyAgICAgaWQ6IDU4OSwKICAvLyAgICAgbGluazogJy90b3BpYy90cmlnb25vbWV0cnknLAogIC8vICAgICBsYWJlbDogJ1RyaWdvbm9tZXRyeScsCiAgLy8gICAgIC8vIGZsYXRpY29uOiAnZmxhdGljb24tdHJpYW5nbGUnCiAgLy8gICAgIGZsYXRpY29uOiAnZmxhdGljb24tZHJhd2luZycKICAvLyAgIH0sCiAgLy8gICB7CiAgLy8gICAgIGlkOiA0MCwKICAvLyAgICAgbGluazogJy90b3BpYy9jYWxjdWx1cycsCiAgLy8gICAgIGxhYmVsOiAnQ2FsY3VsdXMnLAogIC8vICAgICBmbGF0aWNvbjogJ2ZsYXRpY29uLXNpZ24tMScKICAvLyAgIH0sCiAgLy8gICB7CiAgLy8gICAgIGlkOiAwLAogIC8vICAgICBsaW5rOiAnL3RvcGljL2NhbGN1bHVzJywKICAvLyAgICAgbGFiZWw6ICdTdHVkeSBTa2lsbHMnLAogIC8vICAgICBmbGF0aWNvbjogJ2ZsYXRpY29uLXNpZ24tMScKICAvLyAgIH0sCiAgLy8KICAvLyBdOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBib3JkZXItCg==</text>
+        <text encoding="base64">ICAvLyBtYXRoVG9waWNzID0gWwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAK</text>
+        <text encoding="base64">ICBib3JkZXItCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICBwYWRkaW5nOiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6IDRweDsK</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAycHg7Cg==</text>
+        <text encoding="base64">ICAgIHBhZGRpbmctcmlnaHQ6IDRweDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgPGRpdiBjbGFzcz0iaWNvbi13cmFwcGVyIj4K</text>
+        <text encoding="base64">ICBib3JkZXItcmFkaXVzOiAycHg7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>qa</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -705,8 +705,8 @@
         <entry>18</entry>
         <entry>qal</entry>
         <entry>q</entry>
-        <entry>w</entry>
         <entry>qa</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
