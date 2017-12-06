@@ -157,11 +157,11 @@
         <mark key="." line="45" column="20" />
         <mark key="^" line="45" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/search-results/search-results.component.ts" timestamp="1512593417280">
-        <mark key="'" line="0" column="25" />
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="46" />
-        <mark key="." line="10" column="46" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/search-results/search-results.component.ts" timestamp="1512596293556">
+        <mark key="'" line="55" column="14" />
+        <mark key="[" line="55" column="12" />
+        <mark key="]" line="55" column="12" />
+        <mark key="." line="55" column="12" />
         <mark key="^" line="60" column="43" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.scss" timestamp="1512158355218">
@@ -281,7 +281,8 @@
         <mark key="." line="14" column="6" />
         <mark key="^" line="14" column="6" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.prod.ts" timestamp="1512595257965">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.prod.ts" timestamp="1512596320346">
+        <mark key="'" line="0" column="13" />
         <mark key="[" line="4" column="49" />
         <mark key="]" line="4" column="49" />
         <mark key="^" line="5" column="70" />
@@ -643,9 +644,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="23" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/components/topic-page/topic-page.component.html" />
-      <jump line="11" column="23" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/topic-page/components/topic-page/topic-page.component.html" />
-      <jump line="12" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.html" />
       <jump line="37" column="14" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.scss" />
       <jump line="128" column="14" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.scss" />
       <jump line="145" column="22" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.scss" />
@@ -743,16 +741,19 @@
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.scss" />
       <jump line="18" column="27" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" />
       <jump line="7" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" />
+      <jump line="55" column="14" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/search-results/search-results.component.ts" />
+      <jump line="15" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.prod.ts" />
+      <jump line="0" column="13" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.prod.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IHwgYXN5bmM=</text>
+        <text>: KeyboardEvent</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHwgYXN5bmM=</text>
+        <text>: KeyboardEvent</text>
       </register>
       <register name="/" type="4">
-        <text>emit</text>
+        <text>xmlms</text>
       </register>
       <register name="0" type="4">
         <text>https://schools.mathtv.com/images/instructors</text>
@@ -804,9 +805,9 @@
       </register>
     </registers>
     <search>
-      <last-search>emit</last-search>
+      <last-search>xmlms</last-search>
       <last-offset />
-      <last-pattern>emit</last-pattern>
+      <last-pattern>xmlms</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>Obje</last-substitute>
       <last-dir>1</last-dir>
@@ -814,8 +815,6 @@
     </search>
     <history>
       <history-search>
-        <entry>back</entry>
-        <entry>subto</entry>
         <entry>pla</entry>
         <entry>vido</entry>
         <entry>vide</entry>
@@ -834,6 +833,8 @@
         <entry>ins</entry>
         <entry>pre</entry>
         <entry>emit</entry>
+        <entry>xml</entry>
+        <entry>xmlms</entry>
       </history-search>
       <history-cmd>
         <entry>116</entry>
