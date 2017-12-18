@@ -113,12 +113,12 @@
         <mark key="^" line="43" column="48" />
         <mark key="." line="43" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/user-routes.js" timestamp="1513629498252">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/user-routes.js" timestamp="1513630054108">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="32" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
         <mark key="^" line="5" column="28" />
-        <mark key="." line="6" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/login-form/login-form.component.ts" timestamp="1512759753411">
         <mark key="'" line="44" column="2" />
@@ -567,6 +567,9 @@
         <mark key="^" line="32" column="22" />
         <mark key="." line="32" column="22" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/middleware/user-middleware.js" timestamp="1513630100523">
+        <mark key="'" line="58" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/watch-page.module.ts" timestamp="1512063590639">
         <mark key="'" line="5" column="23" />
         <mark key="[" line="25" column="24" />
@@ -738,7 +741,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="40" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/my-mathtv-dropdown/my-mathtv-dropdown.component.ts" />
       <jump line="13" column="10" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/user.service.ts" />
       <jump line="24" column="49" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/sidebar-content/sidebar-content.component.ts" />
       <jump line="26" column="10" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/user.service.ts" />
@@ -838,10 +840,11 @@
       <jump line="27" column="21" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/user-routes.js" />
       <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/user-routes.js" />
       <jump line="15" column="6" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/app.js" />
+      <jump line="58" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/middleware/user-middleware.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnZXJyOicsIGVycik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>.split(' ')[1]</text>
@@ -853,7 +856,7 @@
         <text encoding="base64">ICAgIHJldHVybiByZXEuaGVhZGVyc1sneC1hY2Nlc3MtdG9rZW4nXS5zcGxpdCgnICcpWzFdOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnZXJyOicsIGVycik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -871,28 +874,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAvLyBjb25zb2xlLmxvZygnZXJyOicsIGVycik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCByZXEuaGVhZGVyc1sneC1hY2Nlc3MtdG9rZW4nXSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXEuaGVhZGVyc1sneC1hY2Nlc3MtdG9rZW4nXTsK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCByZXEuaGVhZGVyc1sneC1hY2Nlc3MtdG9rZW4nXSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIC8vIHJldHVybiByZXEuaGVhZGVyc1sneC1hY2Nlc3MtdG9rZW4nXS5zcGxpdCgnICcpWzFdOwo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXEuaGVhZGVyc1sneC1hY2Nlc3MtdG9rZW4nXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIC8vIHJldHVybiByZXEuaGVhZGVyc1sneC1hY2Nlc3MtdG9rZW4nXS5zcGxpdCgnICcpWzFdOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHJldHVybiByZXEuaGVhZGVycy5hdXRob3JpemF0aW9uLnNwbGl0KCcgJylbMV07Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9CiAgfQo=</text>
+        <text encoding="base64">ICAgIHJldHVybiByZXEuaGVhZGVycy5hdXRob3JpemF0aW9uLnNwbGl0KCcgJylbMV07Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICB9CiAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>q</text>
