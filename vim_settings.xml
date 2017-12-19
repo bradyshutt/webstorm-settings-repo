@@ -795,8 +795,8 @@
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/controllers/playlist-controller.js" timestamp="1513631431261">
         <mark key="'" line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/watch-page/watch-page.component.ts" timestamp="1513120472783">
-        <mark key="'" line="79" column="33" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/watch-page/watch-page.component.ts" timestamp="1513639084754">
+        <mark key="'" line="30" column="35" />
         <mark key="[" line="79" column="42" />
         <mark key="]" line="79" column="42" />
         <mark key="." line="79" column="42" />
@@ -893,7 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="58" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/middleware/user-middleware.js" />
       <jump line="112" column="26" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/middleware/auth-middleware.js" />
       <jump line="17" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/auth-routes.js" />
       <jump line="4" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/middleware/user-middleware.js" />
@@ -993,6 +992,7 @@
       <jump line="40" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/example.ts" />
       <jump line="24" column="86" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example2/example2.component.html" />
       <jump line="45" column="42" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/video2.ts" />
+      <jump line="30" column="35" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/watch-page/watch-page.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
