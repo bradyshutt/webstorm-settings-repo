@@ -56,19 +56,19 @@
         <mark key="." line="14" column="0" />
         <mark key="^" line="10" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1513711906239">
-        <mark key="'" line="15" column="43" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1513718907824">
+        <mark key="'" line="27" column="28" />
         <mark key="[" line="30" column="43" />
         <mark key="]" line="30" column="48" />
         <mark key="." line="30" column="48" />
         <mark key="^" line="30" column="48" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.scss" timestamp="1513375170622">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.scss" timestamp="1513719022664">
         <mark key="'" line="39" column="10" />
-        <mark key="[" line="65" column="30" />
-        <mark key="]" line="66" column="33" />
-        <mark key="." line="66" column="33" />
-        <mark key="^" line="66" column="33" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="29" />
+        <mark key="." line="67" column="0" />
+        <mark key="^" line="71" column="26" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/models/topic-model.js" timestamp="1513369126722">
         <mark key="'" line="35" column="2" />
@@ -456,11 +456,6 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="1" column="23" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/example.ts" timestamp="1513713249826">
-        <mark key="'" line="55" column="34" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="78" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example2/example2.component.ts" timestamp="1513714227113">
         <mark key="'" line="34" column="49" />
         <mark key="[" line="34" column="67" />
@@ -691,6 +686,9 @@
         <mark key="." line="79" column="42" />
         <mark key="^" line="79" column="43" />
       </file>
+      <file name="/Dummy.txt" timestamp="1513719329407">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/containers/app.component.html" timestamp="1510862860222">
         <mark key="'" line="32" column="57" />
         <mark key="[" line="32" column="33" />
@@ -776,7 +774,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/controllers/video-controller.js" />
       <jump line="16" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/controllers/video-controller.js" />
       <jump line="27" column="12" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/controllers/video-controller.js" />
       <jump line="102" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
@@ -876,19 +873,20 @@
       <jump line="27" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.html" />
       <jump line="5" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/components/example/example.component.ts" />
       <jump line="27" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/watch-page/watch-page.component.html" />
+      <jump line="27" column="28" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>sm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9tYXgtd2lkdGg6IDM4MnB4Owo=</text>
       </register>
       <register name="-" type="4">
-        <text>sm</text>
+        <text>382px</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxUb3BpYzJcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>297</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9tYXgtd2lkdGg6IDM4MnB4Owo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgCg==</text>
