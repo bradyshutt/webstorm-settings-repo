@@ -323,12 +323,12 @@
         <mark key="]" line="20" column="0" />
         <mark key="." line="20" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.ts" timestamp="1514941174618">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.ts" timestamp="1515103692367">
         <mark key="'" line="55" column="45" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="^" line="56" column="48" />
-        <mark key="." line="54" column="0" />
+        <mark key="[" line="57" column="0" />
+        <mark key="]" line="57" column="0" />
+        <mark key="^" line="56" column="77" />
+        <mark key="." line="57" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.scss" timestamp="1515000545614">
         <mark key="'" line="21" column="0" />
@@ -1053,46 +1053,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcqKmluc3RydWN0b3JJZHg6JywgaW5zdHJ1Y3RvcklkeCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">KCkgPT4gdGhpcy52aWRlbyQuIA==</text>
+        <text encoding="base64">JiY=</text>
       </register>
       <register name="/" type="4">
         <text>view</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSgodmlkZW8pID0+IHRoaXMudmlkZW9TZXJ2aWNlLndhdGNoVmlkZW8odmlkZW8ubGVnYWN5SWQpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcqKmV4YW1wbGVJZDonLCBleGFtcGxlSWQpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcqKmluc3RydWN0b3JJZHg6JywgaW5zdHJ1Y3RvcklkeCk7Cg==</text>
       </register>
       <register name="q" type="4">
         <text>f,r;^j</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCcqKmV4YW1wbGVJZDonLCBleGFtcGxlSWQpOwogICAgICAgICAgaWYgKGluc3RydWN0b3JJZHggPT0gbnVsbCkgewogICAgICAgICAgICBjb25zb2xlLmxvZygneHh4eHh4eHh4eCcpCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBuZ09uRGVzdHJveSgpOiB2b2lkIHsKICB9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygndXBkYXRpbmcgbnVtRmF2b3JpdGVzOycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIGlmICgpCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgY29uc29sZS5sb2coJ2lzRmF2b3JpdGU6JywgaXNGYXZvcml0ZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgLnN1YnNjcmliZSgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy51c2VyU2VydmljZS5hZGRFeGFtcGxlVG9GYXZvcml0ZXModmlkZW8uZXhhbXBsZS5sZWdhY3lJZCk7CiAgICB0aGlzLm51bUZhdm9yaXRlcy0tOwo=</text>
+        <text encoding="base64">ICBuZ09uRGVzdHJveSgpOiB2b2lkIHsKICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
