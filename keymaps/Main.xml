@@ -16,5 +16,6 @@
   <action id="HippieCompletion" />
   <action id="com.karateca.jstoolbox.torelated.GoToTestAction">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
+    <keyboard-shortcut first-keystroke="alt s" />
   </action>
 </keymap>
