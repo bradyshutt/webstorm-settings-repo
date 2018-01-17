@@ -411,12 +411,12 @@
         <mark key="." line="44" column="3" />
         <mark key="^" line="44" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.prod.ts" timestamp="1515788598233">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/environments/environment.prod.ts" timestamp="1516206634819">
         <mark key="'" line="0" column="13" />
         <mark key="[" line="5" column="63" />
-        <mark key="]" line="5" column="71" />
+        <mark key="]" line="5" column="63" />
         <mark key="^" line="5" column="71" />
-        <mark key="." line="5" column="71" />
+        <mark key="." line="5" column="63" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/proxy.conf.json" timestamp="1512064378452">
         <mark key="'" line="1" column="0" />
@@ -1085,10 +1085,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>MoveDown</text>
+        <text>-circular</text>
       </register>
       <register name="-" type="4">
-        <text>MoveDown</text>
+        <text>-circular</text>
       </register>
       <register name="/" type="4">
         <text>scs</text>
@@ -1154,7 +1154,7 @@
         <text encoding="base64">ICAgICAgPGJ1dHRvbiBtYXQtaWNvbi1idXR0b24+PG1hdC1pY29uPmtleWJvYXJkX3VwPC9tYXQtaWNvbj48L2J1dHRvbj4K</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -1205,11 +1205,11 @@
         <entry>19</entry>
         <entry>22</entry>
         <entry>pw</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry>qa</entry>
         <entry>q</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
