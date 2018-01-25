@@ -20,7 +20,7 @@
       <option name="OTHER" value="true" />
     </context>
   </template>
-  <template name="ao" value="=&gt;" description="Arrow Operator" toReformat="false" toShortenFQNames="true">
+  <template name="ao" value="=&gt; " description="Arrow Operator" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="OTHER" value="true" />
     </context>

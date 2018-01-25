@@ -1,0 +1,21 @@
+<keymap version="1" name="Main" parent="Default for GNOME">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
+  <action id="AddToFavoritesPopup" />
+  <action id="CommentByLineComment">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <keyboard-shortcut first-keystroke="ctrl divide" />
+    <keyboard-shortcut first-keystroke="alt slash" />
+  </action>
+  <action id="FindInPath">
+    <keyboard-shortcut first-keystroke="shift ctrl f" />
+    <keyboard-shortcut first-keystroke="shift alt f" />
+  </action>
+  <action id="HippieCompletion" />
+  <action id="com.karateca.jstoolbox.torelated.GoToTestAction">
+    <keyboard-shortcut first-keystroke="ctrl meta t" />
+    <keyboard-shortcut first-keystroke="alt s" />
+  </action>
+</keymap>
