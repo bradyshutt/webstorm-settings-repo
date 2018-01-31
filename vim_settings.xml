@@ -740,6 +740,11 @@
         <mark key="." line="15" column="7" />
         <mark key="^" line="15" column="7" />
       </file>
+      <file name="$USER_HOME$/school/csc437/chs/v0/Routes/Session.js" timestamp="1517423478908">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/watch-page/components/watch-page/watch-page.component.ts" timestamp="1516394606136">
         <mark key="'" line="23" column="18" />
         <mark key="[" line="49" column="51" />
@@ -959,8 +964,8 @@
       <jump line="72" column="19" filename="$USER_HOME$/school/csc437/chs/v0/Routes/Validator.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgCgo=</text>
       </register>
       <register name="-" type="4">
         <text>.</text>
@@ -972,7 +977,7 @@
         <text encoding="base64">ICAgIHRoaXMud2F0Y2hQYWdlVXJsID0gYC93YXRjaC8ke3RoaXMubGVnYWN5SWR9YDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHRoaXMud2F0Y2hQYWdlVXJsID0gOwo=</text>
+        <text encoding="base64">ICAgCgo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1005,28 +1010,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgLmRvKChleGFtcGxlKSA9PiB7CiAgICAgICAgaWYgKGV4YW1wbGUuaW5kZXggPT09IDYpCiAgICAgICAgICBjb25zb2xlLmxvZyhleGFtcGxlKQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIHRoaXMud2F0Y2hQYWdlVXJsID0gOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBAaW1wb3J0ICcuLi8uLi8uLi8uLi9zdHlsZXMvY29sb3JzJzsK</text>
+        <text encoding="base64">ICAgICAgLmRvKChleGFtcGxlKSA9PiB7CiAgICAgICAgaWYgKGV4YW1wbGUuaW5kZXggPT09IDYpCiAgICAgICAgICBjb25zb2xlLmxvZyhleGFtcGxlKQogICAgICB9KQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICYK</text>
+        <text encoding="base64">ICBAaW1wb3J0ICcuLi8uLi8uLi8uLi9zdHlsZXMvY29sb3JzJzsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICYK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXYuaW5uZXJUZXh0JywgZGl2LmlubmVyVGV4dCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXYuaW5uZXJUZXh0JywgZGl2LmlubmVyVGV4dCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXYuaW5uZXJUZXh0JywgZGl2LmlubmVyVGV4dCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAp9Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
