@@ -18,6 +18,9 @@
   <action id="EditorIncreaseFontSize">
     <keyboard-shortcut first-keystroke="shift ctrl equals" />
   </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="shift ctrl 0" />
+  </action>
   <action id="ExpandAllRegions">
     <keyboard-shortcut first-keystroke="shift ctrl add" />
   </action>
@@ -26,6 +29,7 @@
     <keyboard-shortcut first-keystroke="shift alt f" />
   </action>
   <action id="HippieCompletion" />
+  <action id="ToggleBookmark0" />
   <action id="com.karateca.jstoolbox.torelated.GoToTestAction">
     <keyboard-shortcut first-keystroke="ctrl meta t" />
     <keyboard-shortcut first-keystroke="alt s" />
