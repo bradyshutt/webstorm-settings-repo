@@ -3,12 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/csc437/chs/v0/Routes/Account/Prss.js" timestamp="1517423239717">
+      <file name="$USER_HOME$/school/csc437/chs/v0/Routes/Account/Prss.js" timestamp="1517502308084">
         <mark key="'" line="173" column="19" />
-        <mark key="[" line="173" column="33" />
-        <mark key="]" line="173" column="32" />
-        <mark key="^" line="173" column="32" />
-        <mark key="." line="173" column="32" />
+        <mark key="[" line="237" column="64" />
+        <mark key="]" line="237" column="72" />
+        <mark key="^" line="237" column="72" />
+        <mark key="." line="237" column="72" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/favorites/favorites.component.html" timestamp="1515602869664">
         <mark key="'" line="3" column="12" />
@@ -964,20 +964,20 @@
       <jump line="159" column="21" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgCgo=</text>
+      <register name="&quot;" type="4">
+        <text>body.password</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>body.password</text>
       </register>
       <register name="/" type="4">
         <text>route</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHRoaXMud2F0Y2hQYWdlVXJsID0gYC93YXRjaC8ke3RoaXMubGVnYWN5SWR9YDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAuY2hhaW4oISgicGFzc3dvcmQiIGluIGJvZHkpIHx8IGJvZHkucGFzc3dvcmQsIFRhZ3MuYmFkVmFsdWUsIFsnd2hlblJlZ2lzdGVyZWQnXSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgCgo=</text>
+        <text encoding="base64">ICAgICAgIC8vdmxkLmNoYWluKGJvZHkucm9sZSA9PT0gMCB8fCBhZG1pbiwgVGFncy5ub1Blcm1pc3Npb24pCiAgICAgICAvLy5jaGFpbihib2R5LnRlcm1zQWNjZXB0ZWQgfHwgYWRtaW4sIFRhZ3Mubm9UZXJtcykKICAgICAgIC8vLmNoZWNrKGJvZHkucm9sZSA+PSAwLCBUYWdzLmJhZFZhbHVlLCBbInJvbGUiXSwgY2IpKSB7CiAgICAgIC8vICAgY25uLmNoa1FyeSgnc2VsZWN0ICogZnJvbSBQZXJzb24gd2hlcmUgZW1haWwgPSA/JywgYm9keS5lbWFpbCwgY2IpOwo=</text>
       </register>
       <register name="q" type="4">
         <keys>
@@ -1010,28 +1010,28 @@
         </keys>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHRoaXMud2F0Y2hQYWdlVXJsID0gOwo=</text>
+        <text encoding="base64">ICAgCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgLmRvKChleGFtcGxlKSA9PiB7CiAgICAgICAgaWYgKGV4YW1wbGUuaW5kZXggPT09IDYpCiAgICAgICAgICBjb25zb2xlLmxvZyhleGFtcGxlKQogICAgICB9KQo=</text>
+        <text encoding="base64">ICAgIHRoaXMud2F0Y2hQYWdlVXJsID0gOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBAaW1wb3J0ICcuLi8uLi8uLi8uLi9zdHlsZXMvY29sb3JzJzsK</text>
+        <text encoding="base64">ICAgICAgLmRvKChleGFtcGxlKSA9PiB7CiAgICAgICAgaWYgKGV4YW1wbGUuaW5kZXggPT09IDYpCiAgICAgICAgICBjb25zb2xlLmxvZyhleGFtcGxlKQogICAgICB9KQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICYK</text>
+        <text encoding="base64">ICBAaW1wb3J0ICcuLi8uLi8uLi8uLi9zdHlsZXMvY29sb3JzJzsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgICYK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXYuaW5uZXJUZXh0JywgZGl2LmlubmVyVGV4dCk7Cg==</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXYuaW5uZXJUZXh0JywgZGl2LmlubmVyVGV4dCk7Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkaXYuaW5uZXJUZXh0JywgZGl2LmlubmVyVGV4dCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
