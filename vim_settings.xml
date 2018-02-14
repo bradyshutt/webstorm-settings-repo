@@ -8,14 +8,16 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="39" column="75" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" timestamp="1518632434492">
-        <mark key="'" line="9" column="19" />
-        <mark key="[" line="14" column="52" />
-        <mark key="]" line="14" column="52" />
-        <mark key="." line="14" column="52" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" timestamp="1518633047859">
+        <mark key="'" line="71" column="36" />
+        <mark key="^" line="94" column="5" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.ts" timestamp="1518632372279">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.ts" timestamp="1518633129473">
         <mark key="'" line="11" column="33" />
+        <mark key="[" line="72" column="24" />
+        <mark key="]" line="72" column="30" />
+        <mark key="^" line="72" column="30" />
+        <mark key="." line="72" column="30" />
       </file>
       <file name="$USER_HOME$/school/csc437/chs/v1/Database/v1.sql" timestamp="1518538958780">
         <mark key="[" line="0" column="0" />
@@ -32,25 +34,35 @@
       <jump line="71" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
       <jump line="94" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
       <jump line="116" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
-      <jump line="24" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
       <jump line="10" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
       <jump line="9" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="12" column="52" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="24" column="10" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="34" column="9" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="46" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="73" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="98" column="5" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="99" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="122" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="25" column="36" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="47" column="36" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
+      <jump line="74" column="36" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.html" />
     </jumps>
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">CmNyZWF0ZSB0YWJsZSBQZXJzb24gKAogICBpZCBpbnQgYXV0b19pbmNyZW1lbnQgcHJpbWFyeSBrZXksCiAgIGZpcnN0TmFtZSB2YXJjaGFyKDMwKSwKICAgbGFzdE5hbWUgdmFyY2hhcigzMCkgbm90IG51bGwsCiAgIGVtYWlsIHZhcmNoYXIoMzApIG5vdCBudWxsLAogICBwYXNzd29yZCB2YXJjaGFyKDUwKSwKICAgd2hlblJlZ2lzdGVyZWQgZGF0ZXRpbWUgbm90IG51bGwsCiAgIHRlcm1zQWNjZXB0ZWQgZGF0ZXRpbWUsCiAgIHJvbGUgaW50IHVuc2lnbmVkIG5vdCBudWxsLCAgIyAwIG5vcm1hbCwgMSBhZG1pbgogICB1bmlxdWUga2V5KGVtYWlsKQopOwoKY3JlYXRlIHRhYmxlIENvbnZlcnNhdGlvbiAoCiAgIGlkIGludCBhdXRvX2luY3JlbWVudCBwcmltYXJ5IGtleSwKICAgb3duZXJJZCBpbnQsCiAgIHRpdGxlIHZhcmNoYXIoODApIG5vdCBudWxsLAogICBsYXN0TWVzc2FnZSBkYXRldGltZSwKICAgY29uc3RyYWludCBGS01lc3NhZ2Vfb3duZXJJZCBmb3JlaWduIGtleSAob3duZXJJZCkgcmVmZXJlbmNlcyBQZXJzb24oaWQpCiAgICBvbiBkZWxldGUgY2FzY2FkZSwKICAgdW5pcXVlIGtleSBVS190aXRsZSh0aXRsZSkKKTsKCmNyZWF0ZSB0YWJsZSBNZXNzYWdlICgKICAgaWQgaW50IGF1dG9faW5jcmVtZW50IHByaW1hcnkga2V5LAogICBjbnZJZCBpbnQgbm90IG51bGwsCiAgIHByc0lkIGludCBub3QgbnVsbCwKICAgd2hlbk1hZGUgZGF0ZXRpbWUgbm90IG51bGwsCiAgIGNvbnRlbnQgdmFyY2hhcig1MDAwKSBub3QgbnVsbCwKICAgY29uc3RyYWludCBGS01lc3NhZ2VfY252SWQgZm9yZWlnbiBrZXkgKGNudklkKSByZWZlcmVuY2VzIENvbnZlcnNhdGlvbihpZCkKICAgIG9uIGRlbGV0ZSBjYXNjYWRlLAogICBjb25zdHJhaW50IEZLTWVzc2FnZV9wcnNJZCBmb3JlaWduIGtleSAocHJzSWQpIHJlZmVyZW5jZXMgUGVyc29uKGlkKQogICAgb24gZGVsZXRlIGNhc2NhZGUKKTsKCmluc2VydCBpbnRvIFBlcnNvbiAoZmlyc3ROYW1lLCBsYXN0TmFtZSwgZW1haWwsICAgICAgIHBhc3N3b3JkLCAgIHdoZW5SZWdpc3RlcmVkLCByb2xlKQogICAgICAgICAgICBWQUxVRVMgKCJKb2UiLCAgICAgIkFkbWluIiwgImFkbUAxMS5jb20iLCAicGFzc3dvcmQiLCBOT1coKSwgMSk7Cg==</text>
+        <text encoding="base64">ICAgID57e3N1YnRvcGljLm5hbWV9fTwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ3RvcGljOicsIHRvcGljKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgID57e3N1YnRvcGljLm5hbWV9fTwvZGl2Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>22</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>[routerLink]=&quot;subtopic.route&quot;</text>
       </register>
       <register name="/" type="4">
         <text>route</text>
@@ -69,6 +81,8 @@
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>25</entry>
+        <entry>22</entry>
       </history-cmd>
       <history-expr />
       <history-input />
