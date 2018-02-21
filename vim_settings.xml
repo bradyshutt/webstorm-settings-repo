@@ -11,8 +11,20 @@
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/example2.ts" timestamp="1518809306067">
         <mark key="'" line="23" column="11" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.html" timestamp="1519242822570">
+        <mark key="'" line="9" column="37" />
+        <mark key="[" line="9" column="65" />
+        <mark key="]" line="9" column="68" />
+        <mark key="." line="9" column="68" />
+        <mark key="^" line="9" column="68" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/featured-videos/featured-videos.component.ts" timestamp="1518804093022">
         <mark key="'" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/pages.module.ts" timestamp="1519242112644">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/pages-routes.ts" timestamp="1518808353212">
         <mark key="'" line="32" column="11" />
@@ -28,16 +40,18 @@
         <mark key="^" line="28" column="66" />
         <mark key="." line="152" column="0" />
       </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.scss" timestamp="1519242841778">
+        <mark key="[" line="28" column="30" />
+        <mark key="]" line="28" column="30" />
+        <mark key="^" line="28" column="30" />
+        <mark key="." line="28" column="30" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.ts" timestamp="1518804219043">
         <mark key="'" line="24" column="5" />
         <mark key="[" line="48" column="8" />
         <mark key="]" line="48" column="8" />
         <mark key="." line="48" column="8" />
         <mark key="^" line="48" column="8" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.scss" timestamp="1518809118501">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="73" column="4" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1518804097069">
         <mark key="'" line="20" column="55" />
@@ -66,11 +80,11 @@
         <mark key="." line="79" column="32" />
         <mark key="^" line="79" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.html" timestamp="1519241356451">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="10" />
-        <mark key="." line="2" column="10" />
-        <mark key="^" line="2" column="10" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.html" timestamp="1519242384686">
+        <mark key="[" line="10" column="23" />
+        <mark key="]" line="10" column="33" />
+        <mark key="^" line="10" column="33" />
+        <mark key="." line="10" column="33" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/models/topic2.ts" timestamp="1518809329325">
         <mark key="[" line="18" column="16" />
@@ -85,12 +99,11 @@
         <mark key="." line="15" column="31" />
         <mark key="^" line="15" column="32" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.scss" timestamp="1519241501189">
-        <mark key="'" line="11" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="33" />
-        <mark key="^" line="0" column="6" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.scss" timestamp="1519242668364">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="^" line="3" column="1" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/video.service.ts" timestamp="1518635770827">
         <mark key="[" line="18" column="0" />
@@ -129,12 +142,18 @@
         <mark key="." line="77" column="42" />
         <mark key="^" line="77" column="42" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" timestamp="1518810355594">
-        <mark key="'" line="48" column="0" />
-        <mark key="[" line="5" column="341" />
-        <mark key="]" line="5" column="340" />
-        <mark key="^" line="5" column="340" />
-        <mark key="." line="5" column="340" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" timestamp="1519243040213">
+        <mark key="'" line="3" column="28" />
+        <mark key="[" line="43" column="5" />
+        <mark key="]" line="43" column="6" />
+        <mark key="." line="43" column="6" />
+        <mark key="^" line="43" column="6" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.ts" timestamp="1519242480364">
+        <mark key="[" line="10" column="2" />
+        <mark key="]" line="10" column="20" />
+        <mark key="^" line="10" column="20" />
+        <mark key="." line="10" column="20" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.ts" timestamp="1518802256948">
         <mark key="'" line="52" column="54" />
@@ -151,11 +170,11 @@
       <file name="$USER_HOME$/school/csc437/chs/v1/Routes/Conversation/Cnvs.js" timestamp="1519240394026">
         <mark key="'" line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/page-styles.scss" timestamp="1519241478660">
-        <mark key="[" line="17" column="17" />
-        <mark key="]" line="17" column="21" />
-        <mark key="." line="17" column="21" />
-        <mark key="^" line="17" column="21" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/page-styles.scss" timestamp="1519241912051">
+        <mark key="[" line="21" column="3" />
+        <mark key="]" line="24" column="21" />
+        <mark key="." line="24" column="21" />
+        <mark key="^" line="24" column="21" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/controllers/topic-controller.js" timestamp="1518803918685">
         <mark key="'" line="142" column="37" />
@@ -171,6 +190,19 @@
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/topic-routes.js" timestamp="1518635141567">
         <mark key="'" line="46" column="48" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-question/about-us-question.component.ts" timestamp="1519242083671">
+        <mark key="[" line="9" column="8" />
+        <mark key="]" line="9" column="16" />
+        <mark key="^" line="9" column="16" />
+        <mark key="." line="9" column="16" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.scss" timestamp="1519243053630">
+        <mark key="'" line="34" column="0" />
+        <mark key="[" line="8" column="7" />
+        <mark key="]" line="11" column="22" />
+        <mark key="." line="11" column="22" />
+        <mark key="^" line="11" column="22" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/testimonials/testimonials.component.ts" timestamp="1518808401679">
         <mark key="[" line="13" column="0" />
@@ -258,55 +290,65 @@
       <jump line="4" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.scss" />
       <jump line="11" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.scss" />
       <jump line="13" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.scss" />
+      <jump line="9" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.html" />
+      <jump line="8" column="37" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.html" />
+      <jump line="44" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.scss" />
+      <jump line="20" column="46" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" />
+      <jump line="54" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" />
+      <jump line="8" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" />
+      <jump line="10" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" />
+      <jump line="31" column="6" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" />
+      <jump line="43" column="6" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" />
+      <jump line="3" column="28" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>../../../../../../../../</text>
+        <text>h1</text>
       </register>
       <register name="/" type="4">
-        <text>root</text>
+        <text>h1</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QGltcG9ydCAnLi4vLi4vcGFnZS1zdHlsZXMuc2Nzcyc7Cg==</text>
+        <text encoding="base64">ICAgIDxoMT5Db2RlIG9mIENvbmR1Y3Q8L2gxPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICA8aDE+T3VyIFRlYW08L2gxPgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="4">
+        <text encoding="base64">aDEgewogIAp9Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwYWRkaW5nOiAwIDN2dzsK</text>
+        <text encoding="base64">CiAgPCEtLTxoMz5TaWduaW5nIFVwPC9oMz4tLT4KICA8IS0tPHA+QmVmb3JlIHlvdSBidXkgYSBzdWJzY3JpcHRpb24gdG8gdGhlIFByZW1pdW0gQ29udGVudCBvbiBNYXRoVFYuY29tLCBiZSBzdXJlIHRoYXQgeW91IGNhbiB3YXRjaCB0aGUgdmlkZW9zLCB2aWV3IHRoZSBvbmxpbmUgdGV4dGJvb2tzLCBhbmQgZG93bmxvYWQgYSB3b3Jrc2hlZXQuIEdvIHRvIHRoZSBNYXRoVFYgT25saW5lIFRleHRib29rcyB0YWIgYW5kIHRyeSB0aG9zZSB0aHJlZSB0aGluZ3MgaW4gQ2hhcHRlciAxIG9mIGFueSBvZiB0aGUgYm9va3MgeW91IHNlZS4gQmUgc3VyZSB0aGF0IHlvdSBjYW4gYWNjZXNzIGFsbCB0aHJlZSBpdGVtcyBiZWZvcmUgeW91IHN1YnNjcmliZS48L3A+LS0+CgogIDxoMz5Qcml2YWN5IFBvbGljeTwvaDM+CiAgPHA+V2Ugd2lsbCBub3Qgc2hhcmUgb3VyIG1haWxpbmcgbGlzdCB3aXRoIGFueSB0aGlyZCBwYXJ0eS4gVGhlIGluZm9ybWF0aW9uIHlvdSBwcm92aWRlIHVzIHdpbGwgYmUgdXNlZCB0byBmb3IgbG9naW4gcHVycG9zZXMgKGZvciBNYXRoVFYuY29tKSwgdG8gbm90aWZ5IHlvdSB3aGVuIHdlIGNoYW5nZSBvdXIgc3Vic2NyaXB0aW9uIHJlcXVpcmVtZW50cywgb3Igd2hlbiB3ZSBoYXZlIHNwZWNpYWwgb2ZmZXJzIGF2YWlsYWJsZSBvbmx5IHRvIG91ciBzdWJzY3JpYmVycy48L3A+CgogIDxoMz5XaGF0IFlvdSBTZWUgaXMgV2hhdCBZb3UgR2V0PC9oMz4KICA8cD5BbHRob3VnaCB3ZSBpbnRlbmQgdG8gYWRkIHZpZGVvcyB0byBNYXRoVFYgb24gYSByZWd1bGFyIGJhc2lzLCB3ZSBjYW5ub3QgZ3VhcmFudGVlIHRoYXQgdGhpcyB3aWxsIGhhcHBlbi4gWW91IGFyZSBzdWJzY3JpYmluZyB0byBNYXRoVFYuY29tIGluIG9yZGVyIHRvIHZpZXcgdGhlIHZpZGVvcyB0aGF0IGFyZSBvbiBNYXRoVFYgYXQgdGhlIHRpbWUgeW91IHN1YnNjcmliZSB0byBNYXRoVFYuY29tLjwvcD4KCiAgPGgzPkV2ZXJ5b25lIE1ha2VzIE1pc3Rha2VzPC9oMz4KICA8cD5XZSBhcmUgY29uc3RhbnRseSBwcm9vZmluZyB0aGUgdmlkZW9zIHRoYXQgd2UgcGxhY2Ugb24gTWF0aFRWLCBidXQgd2UgY2Fubm90IGd1YXJhbnRlZSB0aGF0IGFueSB2aWRlbyBpcyBmcmVlIG9mIG1pc3Rha2VzLiBJZiB5b3UgZmluZCBhIG1pc3Rha2UsIGJlIHN1cmUgdG8gbGV0IHVzIGtub3cuIE1hdGhUVi5jb20gaXMgcHJvdmlkZWQgdG8geW91IG9uIGFuICJBUyBJUyIgYmFzaXMsIHdpdGhvdXQgYW55IHdhcnJhbnRpZXMsIGV4cHJlc3Mgb3IgaW1wbGllZCwgaW5jbHVkaW5nLCBidXQgbm90IGxpbWl0ZWQgdG8sIHdhcnJhbnRpZXMgb2YgbWVyY2hhbnRhYmlsaXR5IG9yIGZpdG5lc3MgZm9yIGEgcGFydGljdWxhciB1c2Ugb3IgcHVycG9zZS48L3A+CgogIDxoMz5XZSBhcmUgbm90IGEgVHV0b3JpbmcgU2VydmljZTwvaDM+CiAgPHA+QWx0aG91Z2ggd2Ugd291bGQgbGlrZSB0byBob25vciByZXF1ZXN0cyBmb3IgdmlkZW9zIGNvdmVyaW5nIHNwZWNpZmljIHRvcGljcyBvciBzcGVjaWZpYyBwcm9ibGVtcywgd2UgY2Fubm90LiBZb3UgYXJlIHdlbGNvbWUgdG8gcmVxdWVzdCBzcGVjaWZpYyB2aWRlb3MgYW5kIHdlIHdpbGwgY29uc2lkZXIgdGhlc2UgcmVxdWVzdHMgd2hlbiB3ZSBzY2hlZHVsZSB0aGUgdG9waWNzIGFuZCBwcm9ibGVtcyB3ZSBhcmUgZ29pbmcgdG8gZG8gaW4gdGhlIGZ1dHVyZS48L3A+CgogIDxoMz5MaWNlbnNlPC9oMz4KICA8cD5BbGwgcmlnaHQsIHRpdGxlIGFuZCBvd25lcnNoaXAgaW50ZXJlc3QsIGluY2x1ZGluZyBjb3B5cmlnaHQsIGluIE1hdGhUVi5jb20gcmVtYWluIGV4Y2x1c2l2ZWx5IHdpdGggTWF0aFRWLmNvbS4gV2hlbiB5b3Ugc2lnbiB1cCBmb3IgUHJlbWl1bSBDb250ZW50IG9uIE1hdGhUVi5jb20sIHlvdSBhcmUgZ3JhbnRlZCBhIGxpY2Vuc2UgdG8gdXNlIE1hdGhUVi5jb20gb24gYW55IGNvbXB1dGVyLjwvcD4KCiAgPGgzPlJlc3RyaWN0aW9uczwvaDM+CiAgPHA+WW91IG1heSBub3QgcmVudCwgbGVhc2UsIG9yIHNoYXJlIE1hdGhUVi5jb20gY29udGVudC4gWW91IG1heSBub3QgY29weSAoaW4gd2hvbGUgb3IgaW4gcGFydCksIGR1cGxpY2F0ZSBvciBjcmVhdGUgYW55IGRlcml2YXRpdmUgd29ya3Mgb2YgTWF0aFRWLmNvbSBjb250ZW50LiBBbnkgZWZmb3J0IHRvIHJldmVyc2UgZW5naW5lZXIsIGRlLWNvbXBpbGUsIHRyYW5zbGF0ZSwgb3IgZGlzYXNzZW1ibGUgTWF0aFRWLmNvbSBjb250ZW50IGlzIHByb2hpYml0ZWQgdG8gdGhlIGV4dGVudCBwZXJtaXR0ZWQgYnkgYXBwbGljYWJsZSBsYXcuIEJ5IHVzaW5nIHRoZSBlbWJlZGRpbmcgZmVhdHVyZSB5b3UgYWdyZWUgdGhhdCB5b3UgYXJlIHVzaW5nIGl0IGZvciBhIG5vdC1mb3ItcHJvZml0LCBwdWJsaWMgdXNlLiBZb3UgbWF5IG5vdCBlbWJlZCB0aGUgdmlkZW9zIG9uIGEgc2l0ZSB0aGF0IHBlb3BsZSBhcmUgY2hhcmdlZCB0byBhY2Nlc3MuPC9wPgoKCiAgPGgxPkNvZGUgb2YgQ29uZHVjdDwvaDE+CgogIDxwPiBBcyBhIHBlcnNvbiB1c2luZyB0aGUgcmVzb3VyY2VzIGF0IE1hdGhUVi5jb20sIGluY2x1ZGluZyB0aGUgY291cnNlcyBvZmZlcmVkIGJ5IE1hdGhUVi5jb20sIHlvdSBhcmUgcGFydCBvZiBhIGxhcmdlIGFuZCBkaXZlcnNlIGxlYXJuaW5nIGNvbW11bml0eS4gTGlrZSBtb3N0IGNvbW11bml0aWVzLCB0aGUgTWF0aFRWIGNvbW11bml0eSBoYXMgc29tZSBiYXNpYyBncm91bmQgcnVsZXMuIFBsZWFzZSBoZWxwIHVzIGNyZWF0ZSBhIGhlYWx0aHkgbGVhcm5pbmcgZW52aXJvbm1lbnQgYnkgcmVzcGVjdGluZyB0aGUgZm9sbG93aW5nIHN0YW5kYXJkczo8L3A+CgogIDxkaXYgY2xhc3M9ImNvZGUiPgogICAgPHA+QmUgcG9saXRlLiBQbGVhc2UgcmVzcGVjdCB5b3VyIGZlbGxvdyBjb21tdW5pdHkgbWVtYmVycywgYW5kIG9mIHRoZSBlbXBvbHllZXMgb2YgTWF0aFRWLiBJbnN1bHRpbmcsIGNvbmRlc2NlbmRpbmcgb3IgYWJ1c2l2ZSB3b3JkcyB3aWxsIG5vdCBiZSB0b2xlcmF0ZWQuIFVzZSB0aGUgc2FtZSB0b25lIGFuZCBiZWhhdmlvcmFsIGp1ZGdlbWVudCB5b3Ugd291bGQgdXNlIHdoZW4gc3BlYWtpbmcgZmFjZS10by1mYWNlLiBQb2xpdGUgZGViYXRlIGlzIHdlbGNvbWUgYXMgbG9uZyBhcyB5b3UgYXJlIGRpc2N1c3NpbmcgdGhlIGlkZWFzLCBub3QgYXR0YWNraW5nIHRoZSBwZXJzb24uIDwvcD4KICAgIDxwPkJlIHNlbnNpdGl2ZS4gVGhpcyBpcyBhIGdsb2JhbCBmb3J1bSB3aXRoIHBhcnRpY2lwYW50cyBmcm9tIG1hbnkgZGlmZmVyZW50IGN1bHR1cmVzIGFuZCBiYWNrZ3JvdW5kcy4gQmUgdmVyeSBjYXJlZnVsIHdoZW4gZGlzY3Vzc2luZyByYWNlLCByZWxpZ2lvbiwgZ2VuZGVyLCBzZXh1YWwgb3JpZW50YXRpb24sIG9yIGNvbnRyb3ZlcnNpYWwgdG9waWNzIHNpbmNlIG90aGVycyBtYXkgYmUgbW9yZSBzZW5zaXRpdmUgYWJvdXQgdGhlbSB0aGFuIHlvdSBhcmUuPC9wPgogICAgPHA+UG9zdCBhcHByb3ByaWF0ZSBjb250ZW50LiBDb250ZW50IHRoYXQgdmlvbGF0ZXMgdGhlIEhvbm9yIENvZGUgb3IgVGVybXMgb2YgU2VydmljZSBpcyBub3QgcGVybWl0dGVkLiBZb3UgbWF5IG5vdCBwb3N0IGluYXBwcm9wcmlhdGUgb3IgY29weXJpZ2h0ZWQgY29udGVudCwgYWR2ZXJ0aXNlIG9yIHByb21vdGUgb3V0c2lkZSBwcm9kdWN0cyBvciBvcmdhbml6YXRpb25zLCBvciBzcGFtIHRoZSBmb3J1bXMgd2l0aCByZXBlYXQgY29udGVudC48L3A+CiAgPC9kaXY+CiAgPHA+SW4gc3VtbWFyeSwgYmUgcHJvdWQgb2YgeW91ciBjb21tdW5pY2F0aW9ucyB3aXRoIHlvdXIgY29tbXVuaXR5IG1lbWJlcnMgYW5kIHRoZSBzdGFmZiBhdCBNYXRoVFYuIERvbuKAmXQgc2F5IGFueXRoaW5nIHlvdSB3b3VsZG7igJl0IHdhbnQgYXNzb2NpYXRlZCB3aXRoIHlvdXIgbmFtZSwgYW5kIHJlbWVtYmVyIHRoYXQgYW5vbnltb3VzIHBvc3RzIGFyZW7igJl0IGFub255bW91cyB0byBzdGFmZi4gV2UgZG8gbm90IGV4cGVjdCB0byBzZWUgbWFueSBvZiB0aGVzZSBpc3N1ZXMgYmVjYXVzZSB3ZSB0cnVzdCBzdHVkZW50cyBsaWtlIHlvdSB0byBrZWVwIG91ciBmb3J1bSBjb21tdW5pdGllcyBzdHJvbmcgYW5kIGhlYWx0aHkuIEhvd2V2ZXIsIHBvc3RzIHRoYXQgdmlvbGF0ZSB0aGlzIENvZGUgbWF5IGJlIGRlbGV0ZWQgb3IgbWFkZSBpbnZpc2libGUgdG8gb3RoZXIgc3R1ZGVudHMgYnkgYW55IGZvcnVtIG1vZGVyYXRvci4gU3R1ZGVudHMgd2hvIHJlcGVhdGVkbHkgYnJlYWsgdGhlc2UgcnVsZXMgbWF5IGJlIHJlbW92ZWQgZnJvbSB0aGUgTWF0aFRWIGNvbW11bml0eSwgaWYgbmVjZXNzYXJ5ICh3ZSBob3BlIHRoaXMgbmV2ZXIgaGFwcGVucyEpLjwvcD4KCgogIDxoMT5Ib25vciBDb2RlPC9oMT4KICA8cD5BY2FkZW1pYyBpbnRlZ3JpdHkgaXMgb2YgdGhlIHV0bW9zdCBpbXBvcnRhbmNlIHRvIHVzLCB0byB5b3VyIE1hdGhUViBjb21tdW5pdHkgbWVtYmVycywgYW5kIHRvIHlvdS4gWW91ciBjb21taXRtZW50IHRvIGhvbmVzdHkgYW5kIGZhaXIgcGxheSBpcyBob3cgeW91IHNob3cgcmVzcGVjdCBmb3IgeW91ciBvd24gd29yayBhbmQgdGhlIHdvcmsgb2YgeW91ciBwZWVycywgYW5kIGl04oCZcyBhbHNvIGhvdyBlbnN1cmUgdGhhdCB5b3VyIHdvcmsgaXMgcmVjb2duaXplZCBhbmQgcmVzcGVjdGVkIGJ5IG90aGVycyBvdXRzaWRlIE1hdGhUVi5jb20uPC9wPgoKICA8cD5UaGUgZm9sbG93aW5nIGZvdXIgc3RhdGVtZW50cyBjb21wcmlzZSBNYXRoVFbigJlzIEhvbm9yIENvZGUuIFRoZXNlIGFyZSB0aGUgY29yZSBwcmluY2lwbGVzIGFuZCBwcmFjdGljZXMgdGhhdCByZXByZXNlbnQgeW91ciBjb21taXRtZW50IHRvIG91ciBzdGFuZGFyZCBvZiBhY2FkZW1pYyBpbnRlZ3JpdHk6PC9wPgogIDxkaXYgY2xhc3M9Imhvbm9yLWNvZGUiPgogICAgPHA+SSB3aWxsIHJlZ2lzdGVyIGZvciBvbmx5IG9uZSBhY2NvdW50Lio8L3A+CiAgICA8cD5NeSBhbnN3ZXJzIHRvIGhvbWV3b3JrLCBxdWl6emVzIGFuZCBleGFtcyB3aWxsIGJlIG15IG93biB3b3JrIChleGNlcHQgZm9yIGFzc2lnbm1lbnRzIHRoYXQgZXhwbGljaXRseSBwZXJtaXQgY29sbGFib3JhdGlvbikuPC9wPgogICAgPHA+SSB3aWxsIG5vdCBtYWtlIHNvbHV0aW9ucyB0byBob21ld29yaywgcXVpenplcyBvciBleGFtcyBhdmFpbGFibGUgdG8gYW55b25lIGVsc2UuIFRoaXMgaW5jbHVkZXMgYm90aCBzb2x1dGlvbnMgd3JpdHRlbiBieSBtZSwgYXMgd2VsbCBhcyBhbnkgb2ZmaWNpYWwgc29sdXRpb25zIHByb3ZpZGVkIGJ5IHRoZSBjb3Vyc2Ugc3RhZmYuPC9wPgogICAgPHA+SSB3aWxsIG5vdCBlbmdhZ2UgaW4gYW55IG90aGVyIGFjdGl2aXRpZXMgdGhhdCB3aWxsIGRpc2hvbmVzdGx5IGltcHJvdmUgbXkgcmVzdWx0cyBvciBkaXNob25lc3RseSBpbXByb3ZlL2h1cnQgdGhlIHJlc3VsdHMgb2Ygb3RoZXJzLjwvcD4KICA8L2Rpdj4KCiAgPGRpdiBzdHlsZT0iaGVpZ2h0OjEwMHB4OyI+PC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGhlaWdodDogMXB4Owo=</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICA8aDEgY2xhc3M9InBhZ2UtaGVhZGVyIj5GcmVxdWVudGx5IEFza2VkIFF1ZXN0aW9uczwvaDE+Cg==</text>
+        <text encoding="base64">ICA8aDE+VGVybXMgJiBDb25kaXRpb25zPC9oMT4K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Ly8ucGFnZSB7Ci8vICBiYWNrZ3JvdW5kLWNvbG9yOiB3aGl0ZTsKLy8gIG1hcmdpbjogYXV0bzsKLy8gIHBhZGRpbmc6IDAgM3Z3OwovLyAgd2lkdGg6IDEwMCU7Ci8vICBtYXgtd2lkdGg6IDkwMHB4OwovLyAgQG1lZGlhIChtaW4td2lkdGg6IDE0MDBweCkgewovLyAgICBtYXgtd2lkdGg6IDEyODBweDsKLy8gIH0KLy8gIG1pbi1oZWlnaHQ6IDkwdmg7Ci8vfQovLwovL2gxIHsKLy8gIHRleHQtYWxpZ246IGNlbnRlcjsKLy8gIHBhZGRpbmc6IDUwcHg7Ci8vfQo=</text>
+        <text encoding="base64">LnBhZ2UgewogIGJhY2tncm91bmQtY29sb3I6IHdoaXRlOwogIG1hcmdpbjogYXV0bzsKICBwYWRkaW5nOiAwIDN2dzsKICB3aWR0aDogMTAwJTsKICBtYXgtd2lkdGg6IDkwMHB4OwogIEBtZWRpYSAobWluLXdpZHRoOiAxNDAwcHgpIHsKICAgIG1heC13aWR0aDogMTI4MHB4OwogIH0KICBtaW4taGVpZ2h0OiA5MHZoOwp9CgpoMSB7CiAgdGV4dC1hbGlnbjogY2VudGVyOwogIHBhZGRpbmc6IDUwcHg7Cn0KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZvbnQtd2VpZ2h0OiBib2xkOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>root</last-search>
+      <last-search>h1</last-search>
       <last-offset />
-      <last-pattern>root</last-pattern>
+      <last-pattern>h1</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -320,11 +362,13 @@
         <entry>feat</entry>
         <entry>fea</entry>
         <entry>root</entry>
+        <entry>h1</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
         <entry>22</entry>
         <entry>qa</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
