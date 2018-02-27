@@ -3,6 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/api.js" timestamp="1519752108376">
+        <mark key="[" line="0" column="37" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1519672811774">
         <mark key="'" line="20" column="56" />
         <mark key="[" line="25" column="65" />
@@ -68,6 +73,11 @@
         <mark key="]" line="76" column="59" />
         <mark key="." line="76" column="59" />
         <mark key="^" line="76" column="59" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/CHS-react/package.json" timestamp="1519752118140">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/testimonials/testimonials.component.ts" timestamp="1519420915331">
         <mark key="'" line="5" column="30" />
@@ -437,10 +447,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
+        <text encoding="base64">ICAicHJveHkiOiAiaHR0cDovL2xvY2FsaG9zdDozMDEwLyIsCg==</text>
       </register>
       <register name="-" type="4">
-        <text>-reverse</text>
+        <text>5000</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmZWF0dXJlZFZpZGVvc1w+</text>
@@ -449,34 +459,34 @@
         <text encoding="base64">ICAgICAgLmRvKChleCkgPT4gY29uc29sZS5sb2coJ2h0dHAgcmVzIGV4OicsIGV4KSkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
+        <text encoding="base64">ICAicHJveHkiOiAiaHR0cDovL2xvY2FsaG9zdDozMDEwLyIsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICB3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy13cmFwOiA7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB0ZXh0LW92ZXJmbG93OiAK</text>
+        <text encoding="base64">ICB3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICB3cmFwCg==</text>
+        <text encoding="base64">ICBvdmVyZmxvdy13cmFwOiA7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXh0LXdyYXA6IDsK</text>
+        <text encoding="base64">ICB0ZXh0LW92ZXJmbG93OiAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2FkaW5nIGV4YW1wbGU6JywgaWQpOwo=</text>
+        <text encoding="base64">ICB3cmFwCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLmRvKChleCkgPT4gY29uc29sZS5sb2coJ2h0dHAgcmVzIGV4OicsIGV4KSkK</text>
+        <text encoding="base64">ICB0ZXh0LXdyYXA6IDsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5kbygoZikgPT4gY29uc29sZS5sb2coJ2ZqOicsIGYpKQo=</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2FkaW5nIGV4YW1wbGU6JywgaWQpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>wq</text>
       </register>
     </registers>
     <search>
@@ -512,7 +522,6 @@
       <history-cmd>
         <entry>25</entry>
         <entry>22</entry>
-        <entry>wq</entry>
         <entry>s</entry>
         <entry>kw</entry>
         <entry>qal</entry>
@@ -520,6 +529,7 @@
         <entry>q</entry>
         <entry>qa</entry>
         <entry>w</entry>
+        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
