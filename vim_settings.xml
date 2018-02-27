@@ -1,12 +1,20 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks />
+    <globalmarks>
+      <mark key="J" line="3" column="2" filename="$USER_HOME$/school/SeniorProject/app/routes/index.js" protocol="file" />
+    </globalmarks>
     <filemarks>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/api.js" timestamp="1519752108376">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/routes/index.js" timestamp="1519758162019">
+        <mark key="[" line="11" column="34" />
+        <mark key="]" line="11" column="33" />
+        <mark key="^" line="11" column="33" />
+        <mark key="." line="11" column="33" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1519672811774">
         <mark key="'" line="20" column="56" />
@@ -79,6 +87,16 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/bin/www" timestamp="1519758440133">
+        <mark key="'" line="80" column="9" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/Validator.js" timestamp="1519758864563">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" timestamp="1519753342458">
         <mark key="'" line="49" column="53" />
       </file>
@@ -132,11 +150,22 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="40" column="20" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/app.js" timestamp="1519758373399">
+        <mark key="'" line="3" column="22" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="0" />
+        <mark key="." line="45" column="0" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/my-mathtv-dropdown/my-mathtv-dropdown.component.html" timestamp="1519422037532">
         <mark key="'" line="10" column="18" />
         <mark key="[" line="10" column="0" />
         <mark key="]" line="10" column="0" />
         <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/package.json" timestamp="1519759166898">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/index.js" timestamp="1519666678094">
         <mark key="[" line="37" column="24" />
@@ -144,11 +173,24 @@
         <mark key="." line="37" column="34" />
         <mark key="^" line="37" column="34" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/routes/topic.js" timestamp="1519759069970">
+        <mark key="'" line="10" column="84" />
+        <mark key="[" line="11" column="79" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.ts" timestamp="1519672962197">
         <mark key="'" line="39" column="37" />
         <mark key="[" line="39" column="51" />
         <mark key="]" line="39" column="51" />
         <mark key="." line="39" column="51" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/connection.json" timestamp="1519759001086">
+        <mark key="[" line="4" column="17" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" timestamp="1519667038211">
         <mark key="'" line="0" column="0" />
@@ -170,6 +212,13 @@
         <mark key="]" line="58" column="48" />
         <mark key="^" line="58" column="48" />
         <mark key="." line="58" column="48" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/CnnPool.js" timestamp="1519758969964">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="4" />
+        <mark key="." line="0" column="4" />
+        <mark key="^" line="0" column="4" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/video-routes.js" timestamp="1519666313588">
         <mark key="[" line="55" column="17" />
@@ -242,6 +291,11 @@
       </file>
       <file name="/Dummy.txt" timestamp="1519673602632">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/chs/v1/Routes/Account/Prss.js" timestamp="1519757678094">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="51" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.scss" timestamp="1519674096384">
         <mark key="'" line="18" column="0" />
@@ -347,18 +401,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="16" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.html" />
-      <jump line="5" column="28" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.ts" />
-      <jump line="12" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.scss" />
-      <jump line="9" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.html" />
-      <jump line="8" column="18" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.scss" />
-      <jump line="11" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.scss" />
-      <jump line="35" column="17" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.scss" />
-      <jump line="27" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
-      <jump line="13" column="21" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/page-styles.scss" />
-      <jump line="8" column="3" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.scss" />
-      <jump line="24" column="14" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.scss" />
-      <jump line="17" column="42" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
       <jump line="35" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
       <jump line="33" column="49" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
       <jump line="30" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.scss" />
@@ -447,63 +489,72 @@
       <jump line="6" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" />
       <jump line="146" column="6" filename="$USER_HOME$/school/csc437/chs/v1/Routes/Account/Prss.js" />
       <jump line="49" column="53" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/csc437/chs/v1/Routes/Account/Prss.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/school/SeniorProject/app/routes/topic.js" />
+      <jump line="45" column="0" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
+      <jump line="3" column="22" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
+      <jump line="60" column="21" filename="$USER_HOME$/school/SeniorProject/app/bin/www" />
+      <jump line="64" column="21" filename="$USER_HOME$/school/SeniorProject/app/bin/www" />
+      <jump line="80" column="9" filename="$USER_HOME$/school/SeniorProject/app/bin/www" />
+      <jump line="10" column="84" filename="$USER_HOME$/school/SeniorProject/app/routes/topic.js" />
+      <jump line="65" column="4" filename="$USER_HOME$/school/SeniorProject/app/Validator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/Validator.js" />
+      <jump line="17" column="4" filename="$USER_HOME$/school/SeniorProject/app/CnnPool.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/CnnPool.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAicHJveHkiOiAiaHR0cDovL2xvY2FsaG9zdDozMDEwLyIsCg==</text>
+        <text encoding="base64">ICAgICJzdGFydHgiOiAibm9kZSBhcHAuanMiLAo=</text>
       </register>
       <register name="-" type="4">
-        <text>5000</text>
+        <text>CHS_V1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZWF0dXJlZFZpZGVvc1w+</text>
+        <text>my</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgLmRvKChleCkgPT4gY29uc29sZS5sb2coJ2h0dHAgcmVzIGV4OicsIGV4KSkK</text>
+      <register name="0" type="4">
+        <text>req.query['sectionId']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAicHJveHkiOiAiaHR0cDovL2xvY2FsaG9zdDozMDEwLyIsCg==</text>
+        <text encoding="base64">ICAgICJzdGFydHgiOiAibm9kZSBhcHAuanMiLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICJteXNxbCI6ICJeMi4xNS4wIiwK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8YnI+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICB3b3JkLXdyYXA6IGJyZWFrLXdvcmQ7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBvdmVyZmxvdy13cmFwOiA7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICB0ZXh0LW92ZXJmbG93OiAK</text>
+        <text encoding="base64">ICAgZHVwVGl0bGU6ICJkdXBUaXRsZSIsCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3cmFwCg==</text>
+        <text encoding="base64">ICAgIAogICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB0ZXh0LXdyYXA6IDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdsb2FkaW5nIGV4YW1wbGU6JywgaWQpOwo=</text>
+        <text encoding="base64">YXBwLmxpc3RlbigpCg==</text>
       </register>
       <register name=":" type="4">
         <text>wq</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZWF0dXJlZFZpZGVvc1w+</last-search>
+      <last-search>my</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZWF0dXJlZFZpZGVvc1w+</last-pattern>
+      <last-pattern>my</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>feat</entry>
-        <entry>fea</entry>
-        <entry>root</entry>
         <entry>h1</entry>
         <entry>con</entry>
         <entry>console</entry>
@@ -521,16 +572,19 @@
         <entry>scs</entry>
         <entry>fil</entry>
         <entry encoding="base64">XDxmZWF0dXJlZFZpZGVvc1w+</entry>
+        <entry>morg</entry>
+        <entry>list</entry>
+        <entry>my</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
         <entry>22</entry>
-        <entry>s</entry>
         <entry>kw</entry>
         <entry>qal</entry>
         <entry encoding="base64">JzwsJz5xYQ==</entry>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>s</entry>
+        <entry>q</entry>
         <entry>w</entry>
         <entry>wq</entry>
       </history-cmd>
