@@ -1,20 +1,20 @@
 <application>
   <component name="VimSettings">
     <state version="4" enabled="true" />
-    <globalmarks>
-      <mark key="J" line="3" column="2" filename="$USER_HOME$/school/SeniorProject/app/routes/index.js" protocol="file" />
-    </globalmarks>
+    <globalmarks />
     <filemarks>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/api.js" timestamp="1519752108376">
         <mark key="[" line="0" column="37" />
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/routes/index.js" timestamp="1519758162019">
-        <mark key="[" line="11" column="34" />
-        <mark key="]" line="11" column="33" />
-        <mark key="^" line="11" column="33" />
-        <mark key="." line="11" column="33" />
+      <file name="$USER_HOME$/school/SeniorProject/app/routes/index.js" timestamp="1519758162019" />
+      <file name="$USER_HOME$/school/SeniorProject/app/test/user.test.js" timestamp="1519837203857">
+        <mark key="'" line="3" column="4" />
+        <mark key="[" line="35" column="4" />
+        <mark key="]" line="33" column="10" />
+        <mark key="^" line="33" column="10" />
+        <mark key="." line="35" column="4" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1519672811774">
         <mark key="'" line="20" column="56" />
@@ -150,11 +150,12 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/app.js" timestamp="1519758373399">
-        <mark key="'" line="3" column="22" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
+      <file name="$USER_HOME$/school/SeniorProject/app/app.js" timestamp="1519836970476">
+        <mark key="'" line="9" column="85" />
+        <mark key="[" line="24" column="20" />
+        <mark key="]" line="24" column="22" />
+        <mark key="." line="24" column="22" />
+        <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/my-mathtv-dropdown/my-mathtv-dropdown.component.html" timestamp="1519422037532">
         <mark key="'" line="10" column="18" />
@@ -401,10 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="35" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
-      <jump line="33" column="49" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
-      <jump line="30" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.scss" />
-      <jump line="1" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.scss" />
       <jump line="62" column="32" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.scss" />
       <jump line="27" column="4" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.scss" />
       <jump line="29" column="13" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.scss" />
@@ -491,7 +488,6 @@
       <jump line="49" column="53" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/school/csc437/chs/v1/Routes/Account/Prss.js" />
       <jump line="4" column="4" filename="$USER_HOME$/school/SeniorProject/app/routes/topic.js" />
-      <jump line="45" column="0" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
       <jump line="3" column="22" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
       <jump line="60" column="21" filename="$USER_HOME$/school/SeniorProject/app/bin/www" />
       <jump line="64" column="21" filename="$USER_HOME$/school/SeniorProject/app/bin/www" />
@@ -501,61 +497,65 @@
       <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/Validator.js" />
       <jump line="17" column="4" filename="$USER_HOME$/school/SeniorProject/app/CnnPool.js" />
       <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/CnnPool.js" />
+      <jump line="16" column="19" filename="$USER_HOME$/school/SeniorProject/app/test/user.test.js" />
+      <jump line="3" column="4" filename="$USER_HOME$/school/SeniorProject/app/test/user.test.js" />
+      <jump line="31" column="11" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
+      <jump line="45" column="85" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICJzdGFydHgiOiAibm9kZSBhcHAuanMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>CHS_V1</text>
+        <text>.array</text>
       </register>
       <register name="/" type="4">
-        <text>my</text>
+        <text>server</text>
       </register>
       <register name="0" type="4">
         <text>req.query['sectionId']</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICJzdGFydHgiOiAibm9kZSBhcHAuanMiLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICJteXNxbCI6ICJeMi4xNS4wIiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHJlcy5ib2R5Lmxlbmd0aC5zaG91bGQuYmUuZXFsKDApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEJvb2sucmVtb3ZlKHt9LCAoZXJyKSA9PiB7CiAgICAgIGRvbmUoKTsKICAgIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICJzdGFydHgiOiAibm9kZSBhcHAuanMiLAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgZHVwVGl0bGU6ICJkdXBUaXRsZSIsCg==</text>
+        <text encoding="base64">ICAgICJteXNxbCI6ICJeMi4xNS4wIiwK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">YXBwLmxpc3RlbigpCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>wq</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>my</last-search>
+      <last-search>server</last-search>
       <last-offset />
-      <last-pattern>my</last-pattern>
+      <last-pattern>server</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>h1</entry>
         <entry>con</entry>
         <entry>console</entry>
         <entry>quer</entry>
@@ -575,6 +575,7 @@
         <entry>morg</entry>
         <entry>list</entry>
         <entry>my</entry>
+        <entry>server</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
@@ -584,9 +585,9 @@
         <entry encoding="base64">JzwsJz5xYQ==</entry>
         <entry>qa</entry>
         <entry>s</entry>
+        <entry>wq</entry>
         <entry>q</entry>
         <entry>w</entry>
-        <entry>wq</entry>
       </history-cmd>
       <history-expr />
       <history-input />
