@@ -15,12 +15,12 @@
         <mark key="^" line="33" column="10" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.ts" timestamp="1519847531121">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.ts" timestamp="1519859510999">
         <mark key="'" line="13" column="0" />
-        <mark key="[" line="43" column="39" />
-        <mark key="]" line="43" column="39" />
-        <mark key="." line="43" column="39" />
-        <mark key="^" line="43" column="36" />
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="10" />
+        <mark key="^" line="42" column="10" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1519672811774">
         <mark key="'" line="20" column="56" />
@@ -484,7 +484,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubWVzc2FnZSA9IHJlc1snbWVzc2FnZSddOwo=</text>
       </register>
       <register name="-" type="4">
         <text>message</text>
@@ -496,31 +496,31 @@
         <text encoding="base64">ICAgICAgICAgIHRoaXMuZm9ybURhdGEubmFtZSA9ICcnCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHRoaXMubWVzc2FnZSA9IHJlc1snbWVzc2FnZSddOwo=</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnc3VibWl0IGNvbnRhY3QgZm9ybScpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZygnYm9keTonLCBib2R5KQo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnc3VibWl0IGNvbnRhY3QgZm9ybScpCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkYXRhOicsIGRhdGEpOwo=</text>
+        <text encoding="base64">ICBjb25zb2xlLmxvZygnYm9keTonLCBib2R5KQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHJlcy5tZXNzYWdlCg==</text>
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkYXRhOicsIGRhdGEpOwo=</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgIHJlcy5tZXNzYWdlCg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVzcG9uc2U6ICcsIHJlcyk7Cg==</text>
       </register>
-      <register name="8" type="8">
+      <register name="9" type="8">
         <text encoding="base64">ICAKICAKICAKICAKICAKICAKICAKICA=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">CiAgICB9LCAyMDAwKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
