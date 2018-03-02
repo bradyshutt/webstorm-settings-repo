@@ -322,14 +322,15 @@
       <file name="/Dummy.txt" timestamp="1519927215881">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" timestamp="1520016148283">
-        <mark key="[" line="59" column="10" />
-        <mark key="]" line="59" column="16" />
-        <mark key="." line="59" column="16" />
-        <mark key="^" line="59" column="16" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" timestamp="1520022676374">
+        <mark key="'" line="30" column="22" />
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="15" />
+        <mark key="." line="3" column="15" />
+        <mark key="^" line="3" column="15" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.scss" timestamp="1520016057682">
-        <mark key="'" line="25" column="19" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.scss" timestamp="1520022382257">
+        <mark key="'" line="67" column="0" />
         <mark key="[" line="74" column="3" />
         <mark key="]" line="75" column="1" />
         <mark key="^" line="75" column="1" />
@@ -395,12 +396,12 @@
         <mark key="^" line="43" column="84" />
         <mark key="." line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.ts" timestamp="1520015307025">
-        <mark key="'" line="19" column="41" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="23" />
-        <mark key="^" line="28" column="84" />
-        <mark key="." line="15" column="0" />
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.ts" timestamp="1520022671157">
+        <mark key="'" line="26" column="49" />
+        <mark key="[" line="13" column="17" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="20" column="23" />
+        <mark key="." line="13" column="17" />
       </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/components/MyCnvs/MyCnvs.jsx" timestamp="1519929676623">
         <mark key="[" line="1" column="0" />
@@ -468,13 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="27" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/example2.service.ts" />
-      <jump line="43" column="48" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/example2.service.ts" />
-      <jump line="41" column="81" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
-      <jump line="52" column="13" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
-      <jump line="28" column="59" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" />
-      <jump line="6" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" />
-      <jump line="146" column="6" filename="$USER_HOME$/school/csc437/chs/v1/Routes/Account/Prss.js" />
       <jump line="0" column="0" filename="$USER_HOME$/school/csc437/chs/v1/Routes/Account/Prss.js" />
       <jump line="4" column="4" filename="$USER_HOME$/school/SeniorProject/app/routes/topic.js" />
       <jump line="3" column="22" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
@@ -566,48 +560,55 @@
       <jump line="105" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
       <jump line="61" column="15" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="10" column="29" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.jsx" />
-      <jump line="19" column="41" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.ts" />
       <jump line="25" column="19" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.scss" />
+      <jump line="51" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" />
+      <jump line="67" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.scss" />
+      <jump line="19" column="41" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.ts" />
+      <jump line="11" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" />
+      <jump line="62" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" />
+      <jump line="31" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.ts" />
+      <jump line="30" column="22" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" />
+      <jump line="26" column="49" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.ts" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>current</text>
+        <text>Our Team</text>
       </register>
       <register name="-" type="4">
-        <text>current</text>
+        <text>Our Team</text>
       </register>
       <register name="/" type="4">
         <text>push</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICpuZ0lmPSJmaWx0ZXJNb2RlbCAhPT0gJ2hpc3RvcnknIj4K</text>
+      <register name="0" type="4">
+        <text>team_member</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBwYWRkaW5nCg==</text>
+        <text encoding="base64">ICBvbGRGaWx0ZXJNb2RlbDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHRoaXMub2xkRmlsdGVyTW9kZWwgPSB0aGlzLmZpbHRlck1vZGVsOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIFRoZSBjdXJyZW50IHZlcnNpb24gb2YgTWF0aFRWLmNvbSB3YXMgc3RhcnRlZCBpbiAyMDA4LiBUaGF0IHN1bW1lciwgTXIuIE1jS2VhZ3VlIGhpcmVkIHNpeCBvZiBoaXMgc3R1ZGVudHMgdG8gaGVscCBoaW0gcHJvb2ZyZWFkIGFuZCBlcnJvciBjaGVjayBhIGNvbGxlZ2UgYWxnZWJyYSBib29rIGhlIHdhcyB3b3JraW5nIG9uLiBCZWNhdXNlIG9mIHRoZSBleHRyZW1lbHkgcG9zaXRpdmUgYXR0aXR1ZGUgb2YgaGlzIHN0dWRlbnRzIHRvd2FyZCBpbXByb3ZpbmcgdGhlIGJvb2sgdGhleSB3ZXJlIHByb29mcmVhZGluZywgTXIuIE1jS2VhZ3VlIGRlY2lkZWQgdG8gc2VlIGhvdyB0aGUgc3R1ZGVudHMgd291bGQgZG8gaW4gdGhlIHN0dWRpby4gV2l0aCBhIGxpdHRsZSBjb2FjaGluZyB0aGV5IGFjdHVhbGx5IGRpZCB2ZXJ5IHdlbGwuCg==</text>
+        <text encoding="base64">ICAgIGlmICh0aGlzLmZpbHRlck1vZGVsID09PSB0aGlzLm9sZEZpbHRlck1vZGVsKSB7CiAgICAgIHRoaXMuZmlsdGVyTW9kZWwgPSAnbm9uZSc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIFRoZSBjdXJyZW50IHZlcnNpb24gb2YgTWF0aFRWLmNvbSB3YXMgc3RhcnRlZCBpbiAyMDA4LiBUaGF0IHN1bW1lciwgTXIuIE1jS2VhZ3VlIGhpcmVkIHNpeCBvZiBoaXMgc3R1ZGVudHMgdG8gaGVscCBoaW0gcHJvb2ZyZWFkIGFuZCBlcnJvciBjaGVjayBhIGNvbGxlZ2UgYWxnZWJyYSBib29rIGhlIHdhcyB3b3JraW5nIG9uLiBCZWNhdXNlIG9mIHRoZSBleHRyZW1lbHkgcG9zaXRpdmUgYXR0aXR1ZGUgb2YgaGlzIHN0dWRlbnRzIHRvd2FyZCBpbXByb3ZpbmcgdGhlIGJvb2sgdGhleSB3ZXJlIHByb29mcmVhZGluZywgTXIuIE1jS2VhZ3VlIGRlY2lkZWQgdG8gc2VlIGhvdyB0aGUgc3R1ZGVudHMgd291bGQgZG8gaW4gdGhlIHN0dWRpby4gV2l0aCBhIGxpdHRsZSBjb2FjaGluZyB0aGV5IGFjdHVhbGx5IGRpZCB2ZXJ5IHdlbGwuCg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIE91ciBIaXN0b3J5Cg==</text>
+        <text encoding="base64">ICAgICAgICA8bWF0LWJ1dHRvbi10b2dnbGUgdmFsdWU9Im5vbmUiPgogICAgICAgICAgQUxMCiAgICAgICAgPC9tYXQtYnV0dG9uLXRvZ2dsZT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAogICAgCg==</text>
+        <text encoding="base64">ICBwYWRkaW5nCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdzdGFmZjonLCBzdGFmZi5zdGFmZl90eXBlKQo=</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIFRoZSBjdXJyZW50IHZlcnNpb24gb2YgTWF0aFRWLmNvbSB3YXMgc3RhcnRlZCBpbiAyMDA4LiBUaGF0IHN1bW1lciwgTXIuIE1jS2VhZ3VlIGhpcmVkIHNpeCBvZiBoaXMgc3R1ZGVudHMgdG8gaGVscCBoaW0gcHJvb2ZyZWFkIGFuZCBlcnJvciBjaGVjayBhIGNvbGxlZ2UgYWxnZWJyYSBib29rIGhlIHdhcyB3b3JraW5nIG9uLiBCZWNhdXNlIG9mIHRoZSBleHRyZW1lbHkgcG9zaXRpdmUgYXR0aXR1ZGUgb2YgaGlzIHN0dWRlbnRzIHRvd2FyZCBpbXByb3ZpbmcgdGhlIGJvb2sgdGhleSB3ZXJlIHByb29mcmVhZGluZywgTXIuIE1jS2VhZ3VlIGRlY2lkZWQgdG8gc2VlIGhvdyB0aGUgc3R1ZGVudHMgd291bGQgZG8gaW4gdGhlIHN0dWRpby4gV2l0aCBhIGxpdHRsZSBjb2FjaGluZyB0aGV5IGFjdHVhbGx5IGRpZCB2ZXJ5IHdlbGwuCg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8bWF0LWJ1dHRvbi10b2dnbGUgdmFsdWU9ImF1dGhvciI+CiAgICAgICAgICBBVVRIT1JTCiAgICAgICAgPC9tYXQtYnV0dG9uLXRvZ2dsZT4K</text>
+        <text encoding="base64">ICAgIFRoZSBjdXJyZW50IHZlcnNpb24gb2YgTWF0aFRWLmNvbSB3YXMgc3RhcnRlZCBpbiAyMDA4LiBUaGF0IHN1bW1lciwgTXIuIE1jS2VhZ3VlIGhpcmVkIHNpeCBvZiBoaXMgc3R1ZGVudHMgdG8gaGVscCBoaW0gcHJvb2ZyZWFkIGFuZCBlcnJvciBjaGVjayBhIGNvbGxlZ2UgYWxnZWJyYSBib29rIGhlIHdhcyB3b3JraW5nIG9uLiBCZWNhdXNlIG9mIHRoZSBleHRyZW1lbHkgcG9zaXRpdmUgYXR0aXR1ZGUgb2YgaGlzIHN0dWRlbnRzIHRvd2FyZCBpbXByb3ZpbmcgdGhlIGJvb2sgdGhleSB3ZXJlIHByb29mcmVhZGluZywgTXIuIE1jS2VhZ3VlIGRlY2lkZWQgdG8gc2VlIGhvdyB0aGUgc3R1ZGVudHMgd291bGQgZG8gaW4gdGhlIHN0dWRpby4gV2l0aCBhIGxpdHRsZSBjb2FjaGluZyB0aGV5IGFjdHVhbGx5IGRpZCB2ZXJ5IHdlbGwuCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
