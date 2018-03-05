@@ -23,10 +23,10 @@
         <mark key="." line="42" column="10" />
         <mark key="^" line="42" column="10" />
       </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" timestamp="1520269448306">
-        <mark key="'" line="43" column="0" />
-        <mark key="[" line="207" column="0" />
-        <mark key="]" line="209" column="47" />
+      <file name="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" timestamp="1520273383287">
+        <mark key="'" line="15" column="7" />
+        <mark key="[" line="322" column="0" />
+        <mark key="]" line="322" column="76" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1519672811774">
         <mark key="'" line="20" column="56" />
@@ -140,12 +140,12 @@
         <mark key="." line="9" column="39" />
         <mark key="^" line="9" column="39" />
       </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/test/userTest.js" timestamp="1520269856963">
-        <mark key="'" line="37" column="0" />
-        <mark key="[" line="58" column="34" />
-        <mark key="]" line="58" column="34" />
-        <mark key="." line="58" column="34" />
-        <mark key="^" line="58" column="34" />
+      <file name="$USER_HOME$/school/SeniorProject/app/test/userTest.js" timestamp="1520273933536">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="7" column="17" />
+        <mark key="]" line="7" column="17" />
+        <mark key="^" line="7" column="17" />
+        <mark key="." line="7" column="17" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/pages-routes.ts" timestamp="1519840116697">
         <mark key="'" line="33" column="11" />
@@ -182,11 +182,11 @@
         <mark key="^" line="30" column="25" />
         <mark key="." line="40" column="20" />
       </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/app.js" timestamp="1520268757592">
-        <mark key="'" line="24" column="20" />
-        <mark key="[" line="72" column="103" />
-        <mark key="]" line="72" column="104" />
-        <mark key="." line="72" column="104" />
+      <file name="$USER_HOME$/school/SeniorProject/app/app.js" timestamp="1520272422270">
+        <mark key="'" line="33" column="20" />
+        <mark key="[" line="38" column="103" />
+        <mark key="]" line="38" column="104" />
+        <mark key="." line="38" column="104" />
         <mark key="^" line="24" column="22" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/index.js" timestamp="1519841928124">
@@ -453,6 +453,9 @@
         <mark key="^" line="22" column="20" />
         <mark key="." line="21" column="27" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/routes/Account/User.js" timestamp="1520272407792">
+        <mark key="'" line="55" column="32" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/shared.module.ts" timestamp="1519668365434">
         <mark key="[" line="49" column="23" />
         <mark key="]" line="49" column="23" />
@@ -461,53 +464,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="65" column="4" filename="$USER_HOME$/school/SeniorProject/app/Validator.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/Validator.js" />
-      <jump line="17" column="4" filename="$USER_HOME$/school/SeniorProject/app/CnnPool.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/CnnPool.js" />
-      <jump line="16" column="19" filename="$USER_HOME$/school/SeniorProject/app/test/user.test.js" />
-      <jump line="3" column="4" filename="$USER_HOME$/school/SeniorProject/app/test/user.test.js" />
-      <jump line="31" column="11" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
-      <jump line="45" column="85" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
-      <jump line="26" column="7" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" />
-      <jump line="42" column="61" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.html" />
-      <jump line="33" column="44" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.html" />
-      <jump line="69" column="1" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/styles/common.scss" />
-      <jump line="34" column="95" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.html" />
-      <jump line="12" column="15" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/staff-routes.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/staff-routes.js" />
-      <jump line="25" column="2" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.ts" />
-      <jump line="41" column="24" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.ts" />
-      <jump line="13" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.ts" />
-      <jump line="20" column="3" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.scss" />
-      <jump line="60" column="53" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="23" column="47" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="24" column="32" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="49" column="46" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="61" column="67" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="63" column="48" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="68" column="25" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="71" column="23" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="78" column="35" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="66" column="1" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="81" column="12" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="87" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="15" column="6" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="54" column="39" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="12" column="1" filename="$USER_HOME$/school/csc437/CHS-react/src/components/SignIn/SignIn.jsx" />
-      <jump line="26" column="51" filename="$USER_HOME$/school/csc437/CHS-react/src/components/SignIn/SignIn.jsx" />
-      <jump line="33" column="12" filename="$USER_HOME$/school/csc437/CHS-react/src/components/SignIn/SignIn.jsx" />
-      <jump line="82" column="26" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="73" column="12" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="5" column="11" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="66" column="16" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="71" column="60" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="67" column="40" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="190" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="142" column="8" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="180" column="47" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
       <jump line="195" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
       <jump line="143" column="8" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
       <jump line="114" column="11" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
@@ -556,72 +512,112 @@
       <jump line="26" column="49" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.ts" />
       <jump line="151" column="31" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
       <jump line="43" column="0" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
       <jump line="24" column="20" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
       <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/database/SP_TableSetup.sql" />
       <jump line="46" column="42" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
       <jump line="37" column="0" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="38" column="12" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="41" column="35" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="42" column="32" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="43" column="30" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="44" column="34" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="219" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="224" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="237" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="239" column="31" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="240" column="34" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="251" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="254" column="31" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="256" column="31" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="267" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="270" column="31" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="272" column="31" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="283" column="29" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="285" column="34" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="286" column="37" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="297" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="309" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="327" column="32" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="340" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="78" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="80" column="31" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="81" column="34" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="92" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="104" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="212" column="40" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="322" column="42" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="127" column="42" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="54" column="56" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="55" column="32" filename="$USER_HOME$/school/SeniorProject/app/routes/Account/User.js" />
+      <jump line="183" column="47" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="33" column="20" filename="$USER_HOME$/school/SeniorProject/app/app.js" />
+      <jump line="75" column="8" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="99" column="26" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="118" column="15" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="128" column="7" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="132" column="24" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="18" column="3" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="307" column="34" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="15" column="7" filename="$USER_HOME$/school/SeniorProject/app/test/sessionTest.js" />
+      <jump line="83" column="36" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="98" column="19" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
+      <jump line="7" column="16" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>authenticated user</text>
+        <text>userASession</text>
       </register>
       <register name="-" type="4">
-        <text>authenticated user</text>
+        <text>userASession</text>
       </register>
       <register name="/" type="4">
-        <text>push</text>
+        <text encoding="base64">XDx1c2VyQVNlc3Npb25cPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgYWdlbnQK</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlKCdsb2dpbiB1c2VyIEEnLCBsb2dpblVzZXJBKTsKICAgICAgYWZ0ZXIoJ2xvZ291dCB1c2VyIEEnLCBsb2dvdXRVc2VyQSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgY2hhaS5yZXF1ZXN0KHNlcnZlcikK</text>
+        <text encoding="base64">bGV0IHVzZXJBU2Vzc2lvbjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgY2hhaS5yZXF1ZXN0KHNlcnZlcikK</text>
+        <text encoding="base64">ICAgLy8gfTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgY2hhaS5yZXF1ZXN0KHNlcnZlcikK</text>
+        <text encoding="base64">ICAgLy8gICAgcGFzc3dvcmQ6ICdwYXNzd29yZEEnCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y29uc3QgYWdlbnQgPSBjaGFpLnJlcXVlc3QuYWdlbnQoc2VydmVyKTsK</text>
+        <text encoding="base64">ICAgLy8gbGV0IHVzZXIgPSB7CiAgIC8vICAgIGVtYWlsOiAnVXNlckFAZG9tYWluQScsCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzKTsK</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgYWdlbnQuZGVsZXRlKCcvU2Vzc2lvbi8nICsgdXNlckFTZXNzaW9uKQogICAgICAuZW5kKChlcnIsIHJlcykgPT4gewogICAgICAgICByZXMuc2hvdWxkLmhhdmUuc3RhdHVzKDIwMCk7CiAgICAgICAgIGRvbmUoKTsKICAgICAgfSk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgLy8gc2F2ZSBjb29raWUgZm9yIGdldHRpbmcgU2Vzc2lvbiBieSBjb29raWUKICAgLy8gc3R1ZGVudENvb2tpZSA9IHJlcy5oZWFkZXIubG9jYXRpb24ucmVwbGFjZSgnL1Nlc3Npb24vJywgJycpOwo=</text>
+        <text encoding="base64">ICAgYWdlbnQucG9zdCgnL1Nlc3Npb24nKQogICAgICAuc2VuZCh1c2VyKQogICAgICAuZW5kKChlcnIsIHJlcykgPT4gewogICAgICAgICByZXMuc2hvdWxkLmhhdmUuc3RhdHVzKDIwMCk7CiAgICAgICAgIHJlcy5ib2R5LnNob3VsZC5iZS5lbXB0eTsKICAgICAgICAgcmVzLnNob3VsZC5oYXZlLmNvb2tpZSgnU1BBdXRoJyk7CiAgICAgICAgIHVzZXJBU2Vzc2lvbiA9IHJlcy5oZWFkZXIubG9jYXRpb24ucmVwbGFjZSgnL1Nlc3Npb24vJywgJycpOwogICAgICAgICBkb25lKCk7CiAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgcmVzLmJvZHkuc2hvdWxkLmJlLmVxbCgnJyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>push</last-search>
+      <last-search encoding="base64">XDx1c2VyQVNlc3Npb25cPg==</last-search>
       <last-offset />
-      <last-pattern>push</last-pattern>
+      <last-pattern encoding="base64">XDx1c2VyQVNlc3Npb25cPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>fil</entry>
-        <entry encoding="base64">XDxmZWF0dXJlZFZpZGVvc1w+</entry>
-        <entry>morg</entry>
-        <entry>list</entry>
-        <entry>my</entry>
-        <entry>server</entry>
-        <entry>cont</entry>
         <entry>prop</entry>
         <entry>w</entry>
         <entry>render</entry>
@@ -635,6 +631,13 @@
         <entry>His</entry>
         <entry>hist</entry>
         <entry>push</entry>
+        <entry>have</entry>
+        <entry>header</entry>
+        <entry>loca</entry>
+        <entry>drop</entry>
+        <entry>before</entry>
+        <entry encoding="base64">XDxhZG1pbkNvb2tpZVw+</entry>
+        <entry encoding="base64">XDx1c2VyQVNlc3Npb25cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
@@ -678,6 +681,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
