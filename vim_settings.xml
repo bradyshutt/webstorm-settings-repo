@@ -52,6 +52,9 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/registerServiceWorker.js" timestamp="1520441988564">
+        <mark key="'" line="90" column="45" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/.angular-cli.json" timestamp="1520275503577">
         <mark key="[" line="27" column="53" />
         <mark key="]" line="27" column="54" />
@@ -137,6 +140,9 @@
         <mark key="]" line="7" column="17" />
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/featured-videos/featured-videos.component.ts" timestamp="1520278115260">
+        <mark key="'" line="8" column="18" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/pages-routes.ts" timestamp="1519840116697">
         <mark key="'" line="33" column="11" />
@@ -293,6 +299,12 @@
       <file name="/Dummy.txt" timestamp="1520358991109">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/App.jsx" timestamp="1520441769254">
+        <mark key="[" line="4" column="21" />
+        <mark key="]" line="4" column="21" />
+        <mark key="^" line="4" column="21" />
+        <mark key="." line="4" column="21" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.scss" timestamp="1520024529596">
         <mark key="'" line="67" column="0" />
         <mark key="[" line="2" column="0" />
@@ -354,6 +366,9 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="13" column="17" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/database/SP_TableSetup.sql" timestamp="1520269404923">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/components/MyCnvs/MyCnvs.jsx" timestamp="1520361553673">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="11" column="7" />
@@ -394,10 +409,11 @@
         <mark key="^" line="31" column="24" />
         <mark key="." line="39" column="46" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/routes/Account/User.js" timestamp="1520272407792">
+        <mark key="'" line="55" column="32" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="0" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
-      <jump line="38" column="12" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
       <jump line="41" column="35" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
       <jump line="42" column="32" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
       <jump line="43" column="30" filename="$USER_HOME$/school/SeniorProject/app/test/userTest.js" />
@@ -496,6 +512,8 @@
       <jump line="11" column="26" filename="$USER_HOME$/school/csc437/CHS-react/src/components/EditCnvDialog/EditCnvDialog.jsx" />
       <jump line="16" column="14" filename="$USER_HOME$/school/csc437/CHS-react/src/components/EditCnvDialog/EditCnvDialog.jsx" />
       <jump line="22" column="24" filename="$USER_HOME$/school/csc437/CHS-react/src/components/EditCnvDialog/EditCnvDialog.jsx" />
+      <jump line="15" column="34" filename="$USER_HOME$/school/SeniorProject/app/client/src/registerServiceWorker.js" />
+      <jump line="90" column="45" filename="$USER_HOME$/school/SeniorProject/app/client/src/registerServiceWorker.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -505,7 +523,7 @@
         <text>''</text>
       </register>
       <register name="/" type="4">
-        <text>state</text>
+        <text>index</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgaWYgKE9iamVjdC5rZXlzKHByb3BzLkNudnMpLmxlbmd0aCA9PT0gMCkgewogICAgICAgICBjb25zb2xlLmxvZygnbG9hZGluZyBjbnZzJyk7CiAgICAgICAgIHByb3BzLmxvYWRDb252ZXJzYXRpb25zKCk7CiAgICAgIH0K</text>
@@ -538,19 +556,18 @@
         <text encoding="base64">ICAgICAgICAgICAgPENvbCBzbT17OH0+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>q</text>
       </register>
     </registers>
     <search>
-      <last-search>state</last-search>
+      <last-search>index</last-search>
       <last-offset />
-      <last-pattern>state</last-pattern>
+      <last-pattern>index</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>load</entry>
         <entry>history</entry>
         <entry>His</entry>
         <entry>hist</entry>
@@ -570,6 +587,7 @@
         <entry encoding="base64">XDxzaWduSW5cPg==</entry>
         <entry encoding="base64">XDxTaWduSW5cPg==</entry>
         <entry>state</entry>
+        <entry>index</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
@@ -584,8 +602,8 @@
         <entry>Q</entry>
         <entry>qa</entry>
         <entry>106</entry>
-        <entry>q</entry>
         <entry>w</entry>
+        <entry>q</entry>
       </history-cmd>
       <history-expr />
       <history-input />
