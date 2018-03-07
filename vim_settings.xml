@@ -210,11 +210,11 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.scss" timestamp="1520279316639">
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.scss" timestamp="1520452131583">
         <mark key="'" line="70" column="31" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
         <mark key="^" line="63" column="3" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/core.module.ts" timestamp="1519841676164">
@@ -532,8 +532,8 @@
       <jump line="4" column="22" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/shared.module.ts" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Next Video</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>Next Video</text>
@@ -545,31 +545,31 @@
         <text encoding="base64">IG1hdFRvb2x0aXA9Ik5leHQgVmlkZW8i</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgPHNwYW4gbWF0VG9vbHRpcD0iVG9vbHRpcCEiPkkgaGF2ZSBhIHRvb2x0aXA8L3NwYW4+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmF0dGVyCg==</text>
+        <text encoding="base64">ICAgICAgPHNwYW4gbWF0VG9vbHRpcD0iVG9vbHRpcCEiPkkgaGF2ZSBhIHRvb2x0aXA8L3NwYW4+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICBbcm91dGVyTGlua109ImNydW1iWydyb3V0ZSddIgo=</text>
+        <text encoding="base64">ICAgICAgYmF0dGVyCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzPSJzZWFyY2gtcmVzdWx0LWxpbmsiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICBbcm91dGVyTGlua109ImNydW1iWydyb3V0ZSddIgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgaGFuZGxlQ2hhbmdlKCkgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsYXNzPSJzZWFyY2gtcmVzdWx0LWxpbmsiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoYW5nZWQnKQogICB9Cg==</text>
+        <text encoding="base64">ICAgaGFuZGxlQ2hhbmdlKCkgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgaGFuZGxlQ2hhbmdlKGV2ZW50KSB7CiAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3ZhbHVlOiBldmVudC50YXJnZXQudmFsdWV9KTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2NoYW5nZWQnKQogICB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPXt0aGlzLnByb3BzLkVkaXRDbnYudGl0bGV9Cg==</text>
+        <text encoding="base64">ICAgICAgaGFuZGxlQ2hhbmdlKGV2ZW50KSB7CiAgICAgICAgIHRoaXMuc2V0U3RhdGUoe3ZhbHVlOiBldmVudC50YXJnZXQudmFsdWV9KTsKICAgICAgfQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgZm9ybQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPXt0aGlzLnByb3BzLkVkaXRDbnYudGl0bGV9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>qa</text>
@@ -654,6 +654,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
