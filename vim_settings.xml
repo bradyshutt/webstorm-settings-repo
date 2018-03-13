@@ -106,8 +106,8 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" timestamp="1520959727811">
-        <mark key="'" line="1" column="97" />
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" timestamp="1520962269569">
+        <mark key="'" line="97" column="59" />
         <mark key="^" line="143" column="43" />
       </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.jsx" timestamp="1520955584735">
@@ -124,8 +124,8 @@
         <mark key="." line="24" column="25" />
         <mark key="^" line="24" column="25" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" timestamp="1520961896622">
-        <mark key="'" line="47" column="56" />
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" timestamp="1520962223803">
+        <mark key="'" line="18" column="15" />
         <mark key="[" line="18" column="35" />
         <mark key="]" line="18" column="35" />
         <mark key="^" line="18" column="35" />
@@ -134,10 +134,11 @@
       <file name="/Dummy.txt" timestamp="1520883246015">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Cnv/Cnv.jsx" timestamp="1520883279180">
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Cnv/Cnv.jsx" timestamp="1520962177306">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="23" column="0" />
-        <mark key="]" line="23" column="87" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/components/MsgItem/MsgItem.jsx" timestamp="1520883295463">
         <mark key="'" line="38" column="21" />
@@ -148,11 +149,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="22" filename="$USER_HOME$/school/SeniorProject/app/client/src/components/Navbar/Navbar.jsx" />
-      <jump line="12" column="53" filename="$USER_HOME$/school/SeniorProject/app/client/src/components/Login/Login.jsx" />
-      <jump line="15" column="40" filename="$USER_HOME$/school/SeniorProject/app/client/src/components/Login/Login.jsx" />
-      <jump line="12" column="22" filename="$USER_HOME$/school/SeniorProject/app/client/src/index.js" />
-      <jump line="31" column="40" filename="$USER_HOME$/school/SeniorProject/app/client/src/components/App.js" />
       <jump line="20" column="20" filename="$USER_HOME$/school/SeniorProject/app/client/src/components/Login/Login.jsx" />
       <jump line="39" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="1" column="36" filename="$USER_HOME$/school/SeniorProject/app/client/src/actions/actionCreators.js" />
@@ -248,61 +244,65 @@
       <jump line="203" column="12" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="30" column="18" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
       <jump line="47" column="56" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
+      <jump line="16" column="35" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
+      <jump line="50" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
+      <jump line="37" column="3" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
+      <jump line="18" column="15" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
+      <jump line="97" column="59" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgKHByb3BzLmNvbnZlcnNhdGlvbnMpCg==</text>
       </register>
       <register name="-" type="4">
         <text>j</text>
       </register>
       <register name="/" type="4">
-        <text>load</text>
+        <text>state</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYXBpLmdldENudnMoKQogICAgICAgLnRoZW4oKGNudnMpID0+IHsKICAgICAgICAgIGNvbnNvbGUubG9nKCdDbnZzOiAnLCBjbnZzKTsKICAgICAgICAgIGxldCBjbnZzTWFwID0ge307CiAgICAgICAgICBjbnZzLmZvckVhY2goKGNudikgPT4gY252c01hcFtjbnYuaWRdID0gY252KTsKICAgICAgICAgIGRpc3BhdGNoKHt0eXBlOiAiTE9BRF9DTlZTIiwgY252czogY252c01hcH0pOwogICAgICAgICAgaWYgKGNiKQogICAgICAgICAgICAgY2IoY252cyk7CiAgICAgICB9KTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLy8gaWYgKHByb3BzLmNvbnZlcnNhdGlvbnMpCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFwaS5nZXRDbnZzKCkKICAgICAgICAgICAgICAgLnRoZW4oKGNudnMpID0+IHsKICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ0NudnM6ICcsIGNudnMpOwogICAgICAgICAgICAgICAgICBsZXQgY252c01hcCA9IHt9OwogICAgICAgICAgICAgICAgICBjbnZzLmZvckVhY2goKGNudikgPT4gY252c01hcFtjbnYuaWRdID0gY252KTsKICAgICAgICAgICAgICAgICAgZGlzcGF0Y2goe3R5cGU6ICJMT0FEX0NOVlMiLCBjbnZzOiBjbnZzTWFwfSk7CiAgICAgICAgICAgICAgICAgIHJldHVybiBtc2dzOwogICAgICAgICAgICAgICB9KTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2hlcmUyJykKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgIGxvYWRDb252ZXJzYXRpb25zKCgpID0+IHsKICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2hlcmUzJykKICAgICAgICAgICAgICAgICAgcmVzb2x2ZShtc2dzKTsKICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKGNiKQogICAgICAgICAgICAgICAgICAgICBjYihjbnZzKTsK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGFwaS5nZXRDbnZzKCkKICAgICAgICAgICAgICAgLnRoZW4oKGNudnMpID0+IHsKICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ0NudnM6ICcsIGNudnMpOwogICAgICAgICAgICAgICAgICBsZXQgY252c01hcCA9IHt9OwogICAgICAgICAgICAgICAgICBjbnZzLmZvckVhY2goKGNudikgPT4gY252c01hcFtjbnYuaWRdID0gY252KTsKICAgICAgICAgICAgICAgICAgZGlzcGF0Y2goe3R5cGU6ICJMT0FEX0NOVlMiLCBjbnZzOiBjbnZzTWFwfSk7CiAgICAgICAgICAgICAgICAgIHJldHVybiBtc2dzOwogICAgICAgICAgICAgICB9KTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIG5ldyBQcm9taXNlKChyZXNvbHZlLCByZWplY3QpID0+IHsKICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2hlcmUyJykKICAgICAgICAgICAgICAgCiAgICAgICAgICAgICAgIGxvYWRDb252ZXJzYXRpb25zKCgpID0+IHsKICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2hlcmUzJykKICAgICAgICAgICAgICAgICAgcmVzb2x2ZShtc2dzKTsKICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgfSkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgaWYgKGNiKQogICAgICAgICAgICAgICAgICAgICBjYihjbnZzKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbG9hZENvbnZlcnNhdGlvbnMoKCkgPT4gKQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpLnRoZW4oKCkgPT4gKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgbG9hZENvbnZlcnNhdGlvbnMoKCkgPT4gKQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIFByb21pc2UucmVzb2x2ZSgpLnRoZW4oKCkgPT4gKQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>load</last-search>
+      <last-search>state</last-search>
       <last-offset />
-      <last-pattern>load</last-pattern>
+      <last-pattern>state</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>prevS</entry>
         <entry>api</entry>
         <entry>fetch</entry>
         <entry>failed</entry>
@@ -322,6 +322,7 @@
         <entry>prevSt</entry>
         <entry>loadMs</entry>
         <entry>load</entry>
+        <entry>state</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
@@ -338,8 +339,8 @@
         <entry>89</entry>
         <entry>35</entry>
         <entry>kw</entry>
-        <entry>q</entry>
         <entry>qa</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
