@@ -3,12 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/api.js" timestamp="1520976527193">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="22" column="34" />
-        <mark key="]" line="22" column="39" />
-        <mark key="." line="22" column="39" />
-        <mark key="^" line="22" column="39" />
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/api.js" timestamp="1521129434813">
+        <mark key="'" line="187" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Main/Main.jsx" timestamp="1520821302398">
         <mark key="'" line="0" column="0" />
@@ -104,8 +103,8 @@
         <mark key="^" line="9" column="7" />
         <mark key="." line="9" column="7" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/App.js" timestamp="1520976418471">
-        <mark key="'" line="20" column="25" />
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/App.js" timestamp="1521128814141">
+        <mark key="'" line="19" column="1" />
         <mark key="[" line="20" column="23" />
         <mark key="]" line="20" column="23" />
         <mark key="^" line="20" column="11" />
@@ -152,11 +151,12 @@
         <mark key="." line="19" column="0" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" timestamp="1520976287114">
-        <mark key="[" line="120" column="24" />
-        <mark key="]" line="120" column="24" />
-        <mark key="." line="120" column="24" />
-        <mark key="^" line="120" column="26" />
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" timestamp="1521128950094">
+        <mark key="'" line="86" column="43" />
+        <mark key="[" line="106" column="49" />
+        <mark key="]" line="106" column="52" />
+        <mark key="." line="106" column="52" />
+        <mark key="^" line="106" column="52" />
       </file>
       <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Home/Home.jsx" timestamp="1520821088828">
         <mark key="'" line="0" column="0" />
@@ -207,11 +207,11 @@
         <mark key="." line="42" column="32" />
         <mark key="^" line="42" column="32" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.jsx" timestamp="1520975770681">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="0" />
-        <mark key="." line="27" column="0" />
-        <mark key="^" line="27" column="0" />
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.jsx" timestamp="1521128884587">
+        <mark key="[" line="18" column="32" />
+        <mark key="]" line="18" column="50" />
+        <mark key="." line="18" column="50" />
+        <mark key="^" line="18" column="50" />
       </file>
       <file name="$USER_HOME$/school/SeniorProject/app/app.js" timestamp="1520272422270">
         <mark key="'" line="33" column="20" />
@@ -252,12 +252,12 @@
         <mark key="^" line="12" column="3" />
         <mark key="." line="12" column="3" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/Cnvs.js" timestamp="1520963217891">
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/Cnvs.js" timestamp="1521128850790">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="11" column="23" />
-        <mark key="]" line="11" column="23" />
-        <mark key="^" line="11" column="23" />
-        <mark key="." line="11" column="23" />
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="23" />
+        <mark key="^" line="0" column="26" />
+        <mark key="." line="0" column="23" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.scss" timestamp="1520620787560">
         <mark key="'" line="102" column="59" />
@@ -322,8 +322,8 @@
         <mark key="." line="8" column="45" />
         <mark key="^" line="8" column="45" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" timestamp="1520976476301">
-        <mark key="'" line="212" column="16" />
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" timestamp="1521127191675">
+        <mark key="'" line="9" column="43" />
         <mark key="[" line="189" column="40" />
         <mark key="]" line="189" column="41" />
         <mark key="^" line="189" column="40" />
@@ -512,31 +512,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="97" column="12" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="201" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="1" column="97" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="23" column="28" filename="$USER_HOME$/school/csc437/CHS-react/src/components/NewMsgDialog/NewMsgDialog.jsx" />
-      <jump line="86" column="36" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="196" column="26" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="4" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="18" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="29" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="41" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="54" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="63" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="71" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="79" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="87" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="104" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="119" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="95" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="198" column="15" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="171" column="6" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="161" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="153" column="23" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="21" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="39" column="50" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="200" column="11" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="161" column="29" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="170" column="16" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="204" column="29" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
@@ -548,7 +523,6 @@
       <jump line="20" column="43" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="127" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="150" column="25" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="86" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
       <jump line="52" column="78" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
       <jump line="41" column="6" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
       <jump line="43" column="36" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
@@ -569,11 +543,8 @@
       <jump line="46" column="7" filename="$USER_HOME$/school/csc437/CHS-react/src/components/EditCnvDialog/EditCnvDialog.jsx" />
       <jump line="41" column="9" filename="$USER_HOME$/school/csc437/CHS-react/src/components/NewMsgDialog/NewMsgDialog.jsx" />
       <jump line="18" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
-      <jump line="104" column="64" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
       <jump line="124" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="209" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="22" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
       <jump line="187" column="44" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="73" column="17" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
       <jump line="63" column="63" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
@@ -612,63 +583,89 @@
       <jump line="20" column="25" filename="$USER_HOME$/school/csc437/CHS-react/src/components/App.js" />
       <jump line="211" column="16" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
       <jump line="27" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="219" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
+      <jump line="9" column="43" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
+      <jump line="90" column="27" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="86" column="40" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="104" column="9" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="131" column="32" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="26" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="110" column="9" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="94" column="19" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="17" column="22" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="174" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="185" column="6" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="22" column="38" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="24" column="47" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="111" column="35" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="236" column="16" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="95" column="19" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="238" column="28" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="237" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="113" column="28" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="15" column="31" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="112" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="12" column="22" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="19" column="1" filename="$USER_HOME$/school/csc437/CHS-react/src/components/App.js" />
+      <jump line="169" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
+      <jump line="86" column="43" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
+      <jump line="32" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
+      <jump line="187" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/api.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>create</text>
+        <text encoding="base64">XDxjcmVhdGVFcnJvclByb21pc2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgY29uc29sZS5sb2coJ2V2ZW50LnRhcmdldC52YWx1ZScsIGV2ZW50LnRhcmdldC52YWx1ZSk7Cg==</text>
+        <text encoding="base64">ICAgaWYgKHJlc3BvbnNlLnN0YXR1cyA9PT0gNDAwKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgLy8gcmV0dXJuIHJlcy5vayA/IHJlcyA6IGNyZWF0ZUVycm9yUHJvbWlzZShyZXMpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">LyoKc2V0dGluZ3MsIGFkdmFuY2VkLCBzY3JvbGwgZG93biB0byBsYW5ndWFnZXMsIGRlbGV0ZSBlbmdsaXNoIHVuaXRlZCBzdGF0ZXMgb25lIChwdXQgZG93biB0byBib3R0b20pCmFkZCBsYW5ndWFnZXMKc3BhbmlzaCBzd2VlZGVuCnJlc3RhcnQgYnJvd3Nlcgo=</text>
+        <text encoding="base64">ICAgICAgICAgLy8gcmV0dXJuIHJlcy5vayA/IHJlcyA6IGNyZWF0ZUVycm9yUHJvbWlzZShyZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZnJvbSAncmVhY3QtYm9vdHN0cmFwJzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJycpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZnJvbSAncmVhY3QtYm9vdHN0cmFwJzsK</text>
+        <text encoding="base64">CiAgICAgIGNvbnNvbGUubG9nKCdIRVJFSmsnKQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZnJvbSAncmVhY3QtYm9vdHN0cmFwJzsK</text>
+        <text encoding="base64">ICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gaW1wb3J0ICcuL0NudnMuY3NzJzsK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IHsgRm9ybSwgUm93LCBGb3JtR3JvdXAsIENvbCwgRm9ybUNvbnRyb2wsIEJ1dHRvbiwgQ29udHJvbExhYmVsIH0gZnJvbSAncmVhY3QtYm9vdHN0cmFwJzsKLy8gaW1wb3J0ICcuL0NudnMuY3NzJzsKCmNsYXNzIE5ld0NudkRpYWxvZyBleHRlbmRzIENvbXBvbmVudCB7CiAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgIHN1cGVyKHByb3BzKTsKCiAgICAgIHRoaXMuaGFuZGxlQ2hhbmdlID0gdGhpcy5oYW5kbGVDaGFuZ2UuYmluZCh0aGlzKTsKCiAgICAgIHRoaXMuc3RhdGUgPSB7CiAgICAgICAgIGNudlRpdGxlOiAnJywKICAgICAgICAgZXJyb3I6ICcnCiAgICAgIH0KICAgfQoKICAgaGFuZGxlQ2hhbmdlKGV2ZW50KSB7CiAgICAgIHRoaXMuc2V0U3RhdGUoe2NudlRpdGxlOiBldmVudC50YXJnZXQudmFsdWV9KTsKICAgfQoKICAgc2F2ZSgpIHsKICAgICAgY29uc29sZS5sb2coJ3NhdmUnKTsKICAgICAgbGV0IHRpdGxlID0gdGhpcy5zdGF0ZS5jbnZUaXRsZTsKICAgICAgdGhpcy5wcm9wcy5jcmVhdGVDb252ZXJzYXRpb24odGl0bGUsIChyZXMpID0+IHsKICAgICAgICAgY29uc29sZS5sb2cocmVzKTsKICAgICAgfSkKICAgICAgICAgLy8gdGhpcy5wcm9wcy51cGRhdGVDbnZUaXRsZShuZXdDbnYpOwogICB9CgogICByZW5kZXIoKSB7CiAgICAgIHJldHVybiAoCiAgICAgICAgIDxzZWN0aW9uIGNsYXNzTmFtZT0iY29udGFpbmVyLWZsdWlkIj4KICAgICAgICAgICAgPEZvcm0gaG9yaXpvbnRhbD4KICAgICAgICAgICAgICAgPEZvcm1Hcm91cCBjb250cm9sSWQ9ImZvcm1Ib3Jpem9udGFsRWRpdENudiI+CiAgICAgICAgICAgICAgICAgIDxDb2wgY29tcG9uZW50Q2xhc3M9e0NvbnRyb2xMYWJlbH0gc209ezR9PgogICAgICAgICAgICAgICAgICAgICBOZXcgQ29udmVyc2F0aW9uIFRpdGxlCiAgICAgICAgICAgICAgICAgIDwvQ29sPgogICAgICAgICAgICAgICAgICA8Q29sIHNtPXs4fT4KICAgICAgICAgICAgICAgICAgICAgPEZvcm1Db250cm9sCiAgICAgICAgICAgICAgICAgICAgICAgIHR5cGU9InRleHQiCiAgICAgICAgICAgICAgICAgICAgICAgIG5hbWU9ImNudi10aXRsZSIKICAgICAgICAgICAgICAgICAgICAgICAgdmFsdWU9e3RoaXMuc3RhdGUuY252VGl0bGV9CiAgICAgICAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXt0aGlzLmhhbmRsZUNoYW5nZX0KICAgICAgICAgICAgICAgICAgICAgLz4KICAgICAgICAgICAgICAgICAgPC9Db2w+CiAgICAgICAgICAgICAgIDwvRm9ybUdyb3VwPgogICAgICAgICAgICA8L0Zvcm0+CgogICAgICAgICAgICA8QnV0dG9uIG9uQ2xpY2s9eygpID0+IHRoaXMuc2F2ZSgpfT5TYXZlPC9CdXR0b24+CiAgICAgICAgICAgIHsgdGhpcy5zdGF0ZS5lcnJvciA/IDxwPnt0aGlzLnN0YXRlLmVycm9yfTwvcD4gOiAnJyB9CiAgICAgICAgIDwvc2VjdGlvbj4KICAgICAgKQogICB9Cn0KCmV4cG9ydCBkZWZhdWx0IE5ld0NudkRpYWxvZzsK</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aW1wb3J0IFJlYWN0LCB7IENvbXBvbmVudCB9IGZyb20gJ3JlYWN0JzsKaW1wb3J0IENudiBmcm9tICcuLi9DbnYvQ252JzsKaW1wb3J0IHsgRm9ybSwgRm9ybUdyb3VwLCBDb2wsIEZvcm1Db250cm9sLCBCdXR0b24sIENvbnRyb2xMYWJlbCB9CiAgIGZyb20gJ3JlYWN0LWJvb3RzdHJhcCc7CmltcG9ydCAnLi9NeUNudnMuY3NzJzsKCmNsYXNzIE15Q252cyBleHRlbmRzIENvbXBvbmVudCB7CiAgIGNvbnN0cnVjdG9yKHByb3BzKSB7CiAgICAgIHN1cGVyKHByb3BzKTsKICAgfQoKICAgTXlDb252cygpIHsKICAgICAgcmV0dXJuICgKICAgICAgICAgT2JqZWN0LmtleXModGhpcy5wcm9wcy5DbnZzKS5tYXAoKGNudklkKSA9PiB0aGlzLnByb3BzLkNudnNbY252SWRdKQogICAgICAgICAgLmZpbHRlcigoY252KSA9PiBjbnYub3duZXJJZCA9PT0gdGhpcy5wcm9wcy5QcnNzLmlkKQogICAgICAgICAgLm1hcCgoY252KSA9PiA8Q252IGNudj17Y252fSBrZXk9e2Nudi5pZH0gey4uLnRoaXMucHJvcHN9PjwvQ252PikKICAgICAgKQogICB9CgogICByZW5kZXIoKSB7CiAgICAgIGNvbnNvbGUubG9nKCJSZW5kZXJpbmcgTXlDbnZzIiwgdGhpcy5wcm9wcyk7CiAgICAgIHJldHVybiAoCiAgICAgICAgIDxkaXY+CiAgICAgICAgICAgIDxoMT5NeSBDb252ZXJzYXRpb25zPC9oMT4KCiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgIHt0aGlzLk15Q29udnMoKX0KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICA8ZGl2IGNsYXNzTmFtZT0ibmV3LWNudi1idXR0b24tcm93Ij4KICAgICAgICAgICAgICAgPEJ1dHRvbiBvbkNsaWNrPXsoKSA9PiB0aGlzLnByb3BzLm9wZW5OZXdDbnZNb2RhbCgpfT5OZXcgQ29udmVyc2F0aW9uPC9CdXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICA8L2Rpdj4KICAgICAgKQogICB9CgoKfQoKZXhwb3J0IGRlZmF1bHQgTXlDbnZzOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>create</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVFcnJvclByb21pc2VcPg==</last-search>
       <last-offset />
-      <last-pattern>create</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVFcnJvclByb21pc2VcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxVbmtub3duXD4=</entry>
-        <entry encoding="base64">XDxjcmVhdGVFcnJvclByb21pc2VcPg==</entry>
-        <entry>catc</entry>
         <entry>Home</entry>
         <entry>js</entry>
         <entry>history</entry>
@@ -686,6 +683,9 @@
         <entry>disp</entry>
         <entry>signO</entry>
         <entry>create</entry>
+        <entry>badLo</entry>
+        <entry encoding="base64">XDxlcnJvclRyYW5zbGF0ZVw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVFcnJvclByb21pc2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
@@ -703,8 +703,8 @@
         <entry>kw</entry>
         <entry>qa</entry>
         <entry>wq</entry>
-        <entry>w</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
