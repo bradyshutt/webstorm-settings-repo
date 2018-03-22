@@ -3,18 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/api.js" timestamp="1521129434813">
-        <mark key="'" line="187" column="0" />
-        <mark key="[" line="15" column="0" />
-        <mark key="]" line="15" column="0" />
-        <mark key="." line="15" column="0" />
-      </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Main/Main.jsx" timestamp="1520821302398">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="21" column="18" />
-        <mark key="." line="14" column="0" />
-        <mark key="^" line="2" column="77" />
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/reducers/user-reducer.js" timestamp="1521744540961">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="21" column="19" />
       </file>
       <file name="$USER_HOME$/school/SeniorProject/app/test/user.test.js" timestamp="1519837203857">
         <mark key="'" line="3" column="4" />
@@ -23,31 +15,11 @@
         <mark key="^" line="33" column="10" />
         <mark key="." line="35" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/app/app.component.ts" timestamp="1521232539719">
-        <mark key="[" line="13" column="32" />
-        <mark key="]" line="13" column="32" />
-        <mark key="^" line="13" column="19" />
-        <mark key="." line="13" column="32" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.ts" timestamp="1519859510999">
-        <mark key="'" line="13" column="0" />
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="10" />
-        <mark key="." line="42" column="10" />
-        <mark key="^" line="42" column="10" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" timestamp="1520620937055">
-        <mark key="'" line="20" column="74" />
-        <mark key="[" line="20" column="74" />
-        <mark key="]" line="20" column="75" />
-        <mark key="." line="20" column="75" />
-        <mark key="^" line="20" column="74" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/NewMsgDialog/NewMsgDialog.jsx" timestamp="1520976373082">
-        <mark key="'" line="49" column="18" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/redux/reducer.js" timestamp="1521745179504">
+        <mark key="'" line="3" column="36" />
+        <mark key="[" line="5" column="14" />
+        <mark key="]" line="5" column="14" />
+        <mark key="." line="5" column="14" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.html" timestamp="1520620595788">
         <mark key="'" line="17" column="34" />
@@ -56,25 +28,12 @@
         <mark key="." line="4" column="99" />
         <mark key="^" line="26" column="26" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.css" timestamp="1520884055955">
-        <mark key="[" line="3" column="16" />
-        <mark key="]" line="3" column="17" />
-        <mark key="^" line="3" column="17" />
-        <mark key="." line="3" column="16" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.scss" timestamp="1520620591321">
         <mark key="'" line="48" column="17" />
         <mark key="[" line="61" column="0" />
         <mark key="]" line="61" column="0" />
         <mark key="^" line="15" column="17" />
         <mark key="." line="61" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.ts" timestamp="1521232650925">
-        <mark key="'" line="9" column="28" />
-        <mark key="[" line="4" column="12" />
-        <mark key="]" line="4" column="29" />
-        <mark key="." line="4" column="29" />
-        <mark key="^" line="4" column="29" />
       </file>
       <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Navbar/Navbar.jsx" timestamp="1521741325390">
         <mark key="'" line="13" column="31" />
@@ -83,12 +42,6 @@
         <mark key="." line="11" column="29" />
         <mark key="^" line="11" column="29" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/EditCnvDialog/EditCnvDialog.jsx" timestamp="1520975995210">
-        <mark key="[" line="33" column="59" />
-        <mark key="]" line="34" column="11" />
-        <mark key="." line="34" column="11" />
-        <mark key="^" line="34" column="11" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/sidebar-content/sidebar-content.component.ts" timestamp="1521232899760">
         <mark key="'" line="13" column="23" />
         <mark key="[" line="6" column="0" />
@@ -96,38 +49,12 @@
         <mark key="^" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/my-mathtv-dropdown/my-mathtv-dropdown.component.ts" timestamp="1521232807894">
-        <mark key="[" line="10" column="46" />
-        <mark key="]" line="10" column="49" />
-        <mark key="^" line="10" column="49" />
-        <mark key="." line="10" column="49" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.ts" timestamp="1521234427890">
-        <mark key="'" line="37" column="30" />
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="51" />
-        <mark key="^" line="11" column="51" />
-        <mark key="." line="11" column="51" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/search-results/search-results.component.html" timestamp="1520620683954">
-        <mark key="'" line="20" column="37" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
-        <mark key="^" line="20" column="42" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/NewCnv.js" timestamp="1520956152246">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Login/Login.jsx" timestamp="1520880469636">
-        <mark key="'" line="21" column="20" />
-        <mark key="[" line="9" column="7" />
-        <mark key="]" line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-        <mark key="." line="9" column="7" />
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/actions/user-actions.js" timestamp="1521745426404">
+        <mark key="'" line="18" column="44" />
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="18" column="6" />
+        <mark key="." line="20" column="6" />
+        <mark key="^" line="18" column="6" />
       </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/components/App.js" timestamp="1521128814141">
         <mark key="'" line="19" column="1" />
@@ -136,25 +63,12 @@
         <mark key="^" line="20" column="11" />
         <mark key="." line="20" column="25" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic2.service.ts" timestamp="1518809588607">
-        <mark key="'" line="39" column="37" />
-        <mark key="[" line="41" column="0" />
-        <mark key="]" line="41" column="0" />
-        <mark key="." line="41" column="0" />
-        <mark key="^" line="40" column="39" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/MsgItem/MsgItem.css" timestamp="1520883881813">
-        <mark key="[" line="26" column="42" />
-        <mark key="]" line="26" column="42" />
-        <mark key="." line="26" column="42" />
-        <mark key="^" line="26" column="42" />
-      </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/App.js" timestamp="1520880015914">
-        <mark key="'" line="31" column="40" />
-        <mark key="[" line="30" column="72" />
-        <mark key="]" line="30" column="72" />
-        <mark key="^" line="30" column="65" />
-        <mark key="." line="30" column="72" />
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/App.js" timestamp="1521746396562">
+        <mark key="'" line="5" column="7" />
+        <mark key="[" line="19" column="29" />
+        <mark key="]" line="19" column="29" />
+        <mark key="." line="19" column="29" />
+        <mark key="^" line="19" column="31" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.ts" timestamp="1519411398605">
         <mark key="'" line="5" column="28" />
@@ -163,38 +77,18 @@
         <mark key="^" line="10" column="20" />
         <mark key="." line="10" column="20" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.ts" timestamp="1521234391446">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="10" column="53" />
-        <mark key="]" line="10" column="53" />
-        <mark key="." line="10" column="53" />
-        <mark key="^" line="10" column="53" />
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" timestamp="1521746413930">
+        <mark key="'" line="45" column="68" />
+        <mark key="j" line="46" column="0" />
+        <mark key="[" line="45" column="65" />
+        <mark key="]" line="45" column="65" />
+        <mark key="." line="45" column="65" />
+        <mark key="^" line="45" column="67" />
       </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/Validator.js" timestamp="1519758864563">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-        <mark key="^" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/app-routes.ts" timestamp="1521224222100">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" timestamp="1521128950094">
-        <mark key="'" line="86" column="43" />
-        <mark key="[" line="106" column="49" />
-        <mark key="]" line="106" column="52" />
-        <mark key="." line="106" column="52" />
-        <mark key="^" line="106" column="52" />
-      </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Home/Home.jsx" timestamp="1520821088828">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="3" column="24" />
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/epics/ping-epics.js" timestamp="1521742416069">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" timestamp="1521234403416">
         <mark key="'" line="43" column="0" />
@@ -203,25 +97,19 @@
         <mark key="^" line="11" column="27" />
         <mark key="." line="11" column="27" />
       </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/epics/index.js" timestamp="1521745393930">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="7" column="4" />
+        <mark key="." line="6" column="10" />
+        <mark key="^" line="6" column="10" />
+      </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/index.js" timestamp="1520976513314">
         <mark key="'" line="8" column="24" />
         <mark key="[" line="12" column="78" />
         <mark key="]" line="13" column="2" />
         <mark key="^" line="13" column="2" />
         <mark key="." line="13" column="2" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/search-results/search-results.component.ts" timestamp="1521232850049">
-        <mark key="[" line="6" column="53" />
-        <mark key="]" line="7" column="36" />
-        <mark key="^" line="7" column="36" />
-        <mark key="." line="7" column="36" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-testimonials/home-testimonials.component.ts" timestamp="1521232694103">
-        <mark key="'" line="8" column="19" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="3" column="34" />
-        <mark key="." line="3" column="34" />
-        <mark key="^" line="3" column="34" />
       </file>
       <file name="$USER_HOME$/school/SeniorProject/app/test/userTest.js" timestamp="1520292298076">
         <mark key="'" line="7" column="16" />
@@ -230,39 +118,12 @@
         <mark key="^" line="7" column="17" />
         <mark key="." line="7" column="17" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.html" timestamp="1519414393154">
-        <mark key="'" line="10" column="7" />
-        <mark key="[" line="9" column="32" />
-        <mark key="]" line="9" column="39" />
-        <mark key="." line="9" column="39" />
-        <mark key="^" line="9" column="39" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/featured-videos/featured-videos.component.ts" timestamp="1521232625041">
-        <mark key="'" line="6" column="54" />
-        <mark key="[" line="6" column="44" />
-        <mark key="]" line="6" column="51" />
-        <mark key="^" line="6" column="51" />
-        <mark key="." line="6" column="53" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/routes/staff-routes.js" timestamp="1519841788944">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
         <mark key="]" line="17" column="0" />
         <mark key="." line="11" column="45" />
         <mark key="^" line="11" column="44" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/pages-routes.ts" timestamp="1519840116697">
-        <mark key="'" line="33" column="11" />
-        <mark key="[" line="42" column="15" />
-        <mark key="]" line="42" column="32" />
-        <mark key="." line="42" column="32" />
-        <mark key="^" line="42" column="32" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.jsx" timestamp="1521128884587">
-        <mark key="[" line="18" column="32" />
-        <mark key="]" line="18" column="50" />
-        <mark key="." line="18" column="50" />
-        <mark key="^" line="18" column="50" />
       </file>
       <file name="$USER_HOME$/school/SeniorProject/app/app.js" timestamp="1520272422270">
         <mark key="'" line="33" column="20" />
@@ -271,13 +132,6 @@
         <mark key="." line="38" column="104" />
         <mark key="^" line="24" column="22" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.scss" timestamp="1519417749541">
-        <mark key="'" line="40" column="25" />
-        <mark key="[" line="40" column="13" />
-        <mark key="]" line="40" column="13" />
-        <mark key="^" line="30" column="25" />
-        <mark key="." line="40" column="20" />
-      </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/NewMsg.js" timestamp="1520956277927">
         <mark key="'" line="0" column="14" />
         <mark key="[" line="6" column="16" />
@@ -285,23 +139,11 @@
         <mark key="." line="6" column="19" />
         <mark key="^" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/NewCnvDialog/NewCnvDialog.jsx" timestamp="1520976356946">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/Errs.js" timestamp="1520972827927">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="4" column="12" />
         <mark key="]" line="4" column="12" />
         <mark key="." line="4" column="12" />
-      </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/routes/topic.js" timestamp="1519759069970">
-        <mark key="'" line="10" column="84" />
-        <mark key="[" line="11" column="79" />
-        <mark key="]" line="12" column="3" />
-        <mark key="^" line="12" column="3" />
-        <mark key="." line="12" column="3" />
       </file>
       <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/Cnvs.js" timestamp="1521128850790">
         <mark key="'" line="0" column="0" />
@@ -309,12 +151,6 @@
         <mark key="]" line="0" column="23" />
         <mark key="^" line="0" column="26" />
         <mark key="." line="0" column="23" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-page/home-page.component.ts" timestamp="1521232671284">
-        <mark key="[" line="18" column="22" />
-        <mark key="]" line="18" column="22" />
-        <mark key="^" line="18" column="22" />
-        <mark key="." line="18" column="22" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.scss" timestamp="1520620787560">
         <mark key="'" line="102" column="59" />
@@ -351,26 +187,6 @@
         <mark key="." line="0" column="4" />
         <mark key="^" line="0" column="4" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.html" timestamp="1519420598090">
-        <mark key="'" line="10" column="16" />
-        <mark key="[" line="2" column="13" />
-        <mark key="]" line="2" column="13" />
-        <mark key="^" line="2" column="13" />
-        <mark key="." line="2" column="13" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" timestamp="1520976381262">
-        <mark key="'" line="168" column="13" />
-        <mark key="[" line="95" column="56" />
-        <mark key="]" line="96" column="26" />
-        <mark key="." line="96" column="26" />
-        <mark key="^" line="96" column="26" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/stats/stats.component.ts" timestamp="1521234363811">
-        <mark key="[" line="3" column="38" />
-        <mark key="]" line="3" column="39" />
-        <mark key="^" line="3" column="50" />
-        <mark key="." line="3" column="38" />
-      </file>
       <file name="$USER_HOME$/school/csc437/chs/v1/Routes/Conversation/Msgs.js" timestamp="1519320730416">
         <mark key="'" line="41" column="12" />
         <mark key="[" line="24" column="67" />
@@ -392,39 +208,12 @@
         <mark key="^" line="189" column="40" />
         <mark key="." line="189" column="41" />
       </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/featured-videos/featured-videos.component.html" timestamp="1520620454084">
-        <mark key="'" line="14" column="66" />
-        <mark key="[" line="8" column="140" />
-        <mark key="]" line="9" column="7" />
-        <mark key="." line="9" column="7" />
-        <mark key="^" line="9" column="7" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" timestamp="1520975590095">
-        <mark key="[" line="48" column="30" />
-        <mark key="]" line="49" column="14" />
-        <mark key="." line="49" column="14" />
-        <mark key="^" line="49" column="14" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-testimonials/home-testimonials.component.scss" timestamp="1520278483915">
         <mark key="'" line="26" column="15" />
         <mark key="[" line="36" column="0" />
         <mark key="]" line="36" column="0" />
         <mark key="^" line="39" column="0" />
         <mark key="." line="36" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.scss" timestamp="1519414687328">
-        <mark key="'" line="9" column="18" />
-        <mark key="[" line="4" column="19" />
-        <mark key="]" line="4" column="20" />
-        <mark key="." line="4" column="20" />
-        <mark key="^" line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/Prss.js" timestamp="1520816914056">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="12" column="19" />
-        <mark key="." line="1" column="2" />
-        <mark key="^" line="1" column="2" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us/about-us.component.html" timestamp="1520022676374">
         <mark key="'" line="30" column="22" />
@@ -433,8 +222,12 @@
         <mark key="." line="3" column="15" />
         <mark key="^" line="3" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1521232911579">
-        <mark key="[" line="0" column="0" />
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/epics/user-epics.js" timestamp="1521744527551">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="10" column="39" />
+        <mark key="^" line="5" column="6" />
+        <mark key="." line="5" column="29" />
       </file>
       <file name="$USER_HOME$/school/SeniorProject/app/client/src/actions/actionCreators.js" timestamp="1520880602095">
         <mark key="'" line="5" column="44" />
@@ -450,6 +243,261 @@
         <mark key="^" line="75" column="1" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/school/csc437/chs/v1/Routes/Conversation/Cnvs.js" timestamp="1519320629290">
+        <mark key="'" line="10" column="11" />
+        <mark key="[" line="210" column="3" />
+        <mark key="]" line="210" column="3" />
+        <mark key="." line="210" column="3" />
+        <mark key="^" line="210" column="5" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.css" timestamp="1520973056091">
+        <mark key="'" line="0" column="1" />
+        <mark key="[" line="9" column="12" />
+        <mark key="]" line="9" column="13" />
+        <mark key="^" line="9" column="9" />
+        <mark key="." line="9" column="13" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.html" timestamp="1519846656816">
+        <mark key="'" line="34" column="95" />
+        <mark key="[" line="55" column="33" />
+        <mark key="]" line="55" column="44" />
+        <mark key="." line="55" column="44" />
+        <mark key="^" line="55" column="44" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/SignIn/SignIn.jsx" timestamp="1520976405002">
+        <mark key="'" line="16" column="24" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/redux/root.js" timestamp="1521745976390">
+        <mark key="'" line="7" column="41" />
+        <mark key="[" line="7" column="49" />
+        <mark key="]" line="7" column="49" />
+        <mark key="^" line="3" column="32" />
+        <mark key="." line="7" column="49" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.scss" timestamp="1519846697603">
+        <mark key="'" line="20" column="3" />
+        <mark key="[" line="12" column="22" />
+        <mark key="]" line="12" column="36" />
+        <mark key="^" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/index.js" timestamp="1521746050129">
+        <mark key="'" line="15" column="8" />
+        <mark key="[" line="10" column="48" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/reducers/User.reducer.js" timestamp="1520880589669">
+        <mark key="'" line="6" column="33" />
+        <mark key="[" line="5" column="12" />
+        <mark key="]" line="5" column="16" />
+        <mark key="." line="5" column="16" />
+        <mark key="^" line="5" column="16" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/redux/store.js" timestamp="1521746125978">
+        <mark key="'" line="21" column="13" />
+        <mark key="[" line="16" column="15" />
+        <mark key="]" line="16" column="15" />
+        <mark key="." line="16" column="15" />
+        <mark key="^" line="16" column="19" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/api.js" timestamp="1521129434813">
+        <mark key="'" line="187" column="0" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Main/Main.jsx" timestamp="1520821302398">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="21" column="18" />
+        <mark key="." line="14" column="0" />
+        <mark key="^" line="2" column="77" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.ts" timestamp="1519859510999">
+        <mark key="'" line="13" column="0" />
+        <mark key="[" line="42" column="27" />
+        <mark key="]" line="42" column="10" />
+        <mark key="." line="42" column="10" />
+        <mark key="^" line="42" column="10" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic.service.ts" timestamp="1520620937055">
+        <mark key="'" line="20" column="74" />
+        <mark key="[" line="20" column="74" />
+        <mark key="]" line="20" column="75" />
+        <mark key="." line="20" column="75" />
+        <mark key="^" line="20" column="74" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/NewMsgDialog/NewMsgDialog.jsx" timestamp="1520976373082">
+        <mark key="'" line="49" column="18" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="26" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/footer/footer.component.ts" timestamp="1521232650925">
+        <mark key="'" line="9" column="28" />
+        <mark key="[" line="4" column="12" />
+        <mark key="]" line="4" column="29" />
+        <mark key="." line="4" column="29" />
+        <mark key="^" line="4" column="29" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.ts" timestamp="1521234427890">
+        <mark key="'" line="37" column="30" />
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="11" column="51" />
+        <mark key="^" line="11" column="51" />
+        <mark key="." line="11" column="51" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/store.js" timestamp="1521745247665">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="20" />
+        <mark key="." line="2" column="17" />
+        <mark key="^" line="16" column="59" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/search-results/search-results.component.html" timestamp="1520620683954">
+        <mark key="'" line="20" column="37" />
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+        <mark key="^" line="20" column="42" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Login/Login.jsx" timestamp="1521746163886">
+        <mark key="'" line="21" column="20" />
+        <mark key="[" line="19" column="33" />
+        <mark key="]" line="19" column="33" />
+        <mark key="^" line="19" column="33" />
+        <mark key="." line="19" column="33" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/topic2.service.ts" timestamp="1518809588607">
+        <mark key="'" line="39" column="37" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="40" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.ts" timestamp="1521234391446">
+        <mark key="'" line="33" column="0" />
+        <mark key="[" line="10" column="53" />
+        <mark key="]" line="10" column="53" />
+        <mark key="." line="10" column="53" />
+        <mark key="^" line="10" column="53" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/redux/index.js" timestamp="1521745380618">
+        <mark key="'" line="10" column="20" />
+        <mark key="[" line="10" column="20" />
+        <mark key="]" line="10" column="29" />
+        <mark key="." line="10" column="29" />
+        <mark key="^" line="10" column="29" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/Validator.js" timestamp="1519758864563">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+        <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/reducers/index.js" timestamp="1521745120654">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="7" column="29" />
+        <mark key="." line="5" column="42" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" timestamp="1521128950094">
+        <mark key="'" line="86" column="43" />
+        <mark key="[" line="106" column="49" />
+        <mark key="]" line="106" column="52" />
+        <mark key="." line="106" column="52" />
+        <mark key="^" line="106" column="52" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/client/src/components/Home/Home.jsx" timestamp="1520821088828">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="10" column="22" />
+        <mark key="^" line="3" column="24" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/home-testimonials/home-testimonials.component.ts" timestamp="1521232694103">
+        <mark key="'" line="8" column="19" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.html" timestamp="1519414393154">
+        <mark key="'" line="10" column="7" />
+        <mark key="[" line="9" column="32" />
+        <mark key="]" line="9" column="39" />
+        <mark key="." line="9" column="39" />
+        <mark key="^" line="9" column="39" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/featured-videos/featured-videos.component.ts" timestamp="1521232625041">
+        <mark key="'" line="6" column="54" />
+        <mark key="[" line="6" column="44" />
+        <mark key="]" line="6" column="51" />
+        <mark key="^" line="6" column="51" />
+        <mark key="." line="6" column="53" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/pages-routes.ts" timestamp="1519840116697">
+        <mark key="'" line="33" column="11" />
+        <mark key="[" line="42" column="15" />
+        <mark key="]" line="42" column="32" />
+        <mark key="." line="42" column="32" />
+        <mark key="^" line="42" column="32" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/about-us-faq/about-us-faq.component.scss" timestamp="1519417749541">
+        <mark key="'" line="40" column="25" />
+        <mark key="[" line="40" column="13" />
+        <mark key="]" line="40" column="13" />
+        <mark key="^" line="30" column="25" />
+        <mark key="." line="40" column="20" />
+      </file>
+      <file name="$USER_HOME$/school/SeniorProject/app/routes/topic.js" timestamp="1519759069970">
+        <mark key="'" line="10" column="84" />
+        <mark key="[" line="11" column="79" />
+        <mark key="]" line="12" column="3" />
+        <mark key="^" line="12" column="3" />
+        <mark key="." line="12" column="3" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.html" timestamp="1519420598090">
+        <mark key="'" line="10" column="16" />
+        <mark key="[" line="2" column="13" />
+        <mark key="]" line="2" column="13" />
+        <mark key="^" line="2" column="13" />
+        <mark key="." line="2" column="13" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" timestamp="1520976381262">
+        <mark key="'" line="168" column="13" />
+        <mark key="[" line="95" column="56" />
+        <mark key="]" line="96" column="26" />
+        <mark key="." line="96" column="26" />
+        <mark key="^" line="96" column="26" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/featured-videos/featured-videos.component.html" timestamp="1520620454084">
+        <mark key="'" line="14" column="66" />
+        <mark key="[" line="8" column="140" />
+        <mark key="]" line="9" column="7" />
+        <mark key="." line="9" column="7" />
+        <mark key="^" line="9" column="7" />
+      </file>
+      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/faqs/faqs.component.scss" timestamp="1519414687328">
+        <mark key="'" line="9" column="18" />
+        <mark key="[" line="4" column="19" />
+        <mark key="]" line="4" column="20" />
+        <mark key="." line="4" column="20" />
+        <mark key="^" line="4" column="20" />
+      </file>
+      <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/Prss.js" timestamp="1520816914056">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="12" column="19" />
+        <mark key="." line="1" column="2" />
+        <mark key="^" line="1" column="2" />
+      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/featured-videos/featured-videos.component.scss" timestamp="1520620524564">
         <mark key="'" line="16" column="1" />
         <mark key="[" line="110" column="0" />
@@ -464,44 +512,12 @@
         <mark key="." line="43" column="6" />
         <mark key="^" line="43" column="6" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/reducers/Msgs.js" timestamp="1520966988840">
-        <mark key="[" line="5" column="35" />
-        <mark key="]" line="5" column="55" />
-        <mark key="." line="5" column="55" />
-        <mark key="^" line="5" column="55" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/chs/v1/Routes/Conversation/Cnvs.js" timestamp="1519320629290">
-        <mark key="'" line="10" column="11" />
-        <mark key="[" line="210" column="3" />
-        <mark key="]" line="210" column="3" />
-        <mark key="." line="210" column="3" />
-        <mark key="^" line="210" column="5" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/api.xyztextbooks.com/api/controllers/topic-controller.js" timestamp="1518803918685">
         <mark key="'" line="142" column="37" />
         <mark key="[" line="45" column="52" />
         <mark key="]" line="45" column="57" />
         <mark key="^" line="45" column="57" />
         <mark key="." line="45" column="57" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/Cnv/Cnv.jsx" timestamp="1520975425088">
-        <mark key="[" line="2" column="79" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-        <mark key="^" line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/index.js" timestamp="1520955991540">
-        <mark key="[" line="9" column="58" />
-        <mark key="]" line="9" column="58" />
-        <mark key="." line="9" column="60" />
-        <mark key="^" line="9" column="24" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.css" timestamp="1520973056091">
-        <mark key="'" line="0" column="1" />
-        <mark key="[" line="9" column="12" />
-        <mark key="]" line="9" column="13" />
-        <mark key="^" line="9" column="9" />
-        <mark key="." line="9" column="13" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/services/example2.service.ts" timestamp="1519673609071">
         <mark key="'" line="43" column="48" />
@@ -517,57 +533,12 @@
         <mark key="^" line="20" column="23" />
         <mark key="." line="13" column="17" />
       </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/MyCnvs/MyCnvs.jsx" timestamp="1520976340228">
-        <mark key="[" line="31" column="15" />
-        <mark key="]" line="31" column="15" />
-        <mark key="." line="31" column="15" />
-        <mark key="^" line="31" column="17" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.html" timestamp="1519846656816">
-        <mark key="'" line="34" column="95" />
-        <mark key="[" line="55" column="33" />
-        <mark key="]" line="55" column="44" />
-        <mark key="." line="55" column="44" />
-        <mark key="^" line="55" column="44" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/MsgItem/MsgItem.jsx" timestamp="1520976313319">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="26" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/school/csc437/CHS-react/src/components/SignIn/SignIn.jsx" timestamp="1520976405002">
-        <mark key="'" line="16" column="24" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="26" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/contact-us/contact-us.component.scss" timestamp="1519846697603">
-        <mark key="'" line="20" column="3" />
-        <mark key="[" line="12" column="22" />
-        <mark key="]" line="12" column="36" />
-        <mark key="^" line="12" column="36" />
-        <mark key="." line="12" column="36" />
-      </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/client/src/index.js" timestamp="1520822607868">
-        <mark key="'" line="12" column="22" />
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="^" line="0" column="0" />
-        <mark key="." line="1" column="0" />
-      </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/pages/components/terms/terms.component.scss" timestamp="1519243053630">
         <mark key="'" line="34" column="0" />
         <mark key="[" line="8" column="7" />
         <mark key="]" line="11" column="22" />
         <mark key="." line="11" column="22" />
         <mark key="^" line="11" column="22" />
-      </file>
-      <file name="$USER_HOME$/school/SeniorProject/app/client/src/reducers/User.reducer.js" timestamp="1520880589669">
-        <mark key="'" line="6" column="33" />
-        <mark key="[" line="5" column="12" />
-        <mark key="]" line="5" column="16" />
-        <mark key="." line="5" column="16" />
-        <mark key="^" line="5" column="16" />
       </file>
       <file name="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/shared/shared.module.ts" timestamp="1520444961667">
         <mark key="'" line="4" column="22" />
@@ -578,57 +549,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="35" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="20" column="43" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="127" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="150" column="25" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="52" column="78" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="41" column="6" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="43" column="36" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="50" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="152" column="29" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="195" column="29" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="154" column="27" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="151" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Cnv/Cnv.jsx" />
-      <jump line="208" column="4" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="102" column="24" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="103" column="25" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="105" column="32" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="110" column="25" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="115" column="65" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="18" column="21" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.jsx" />
-      <jump line="97" column="53" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="46" column="7" filename="$USER_HOME$/school/csc437/CHS-react/src/components/EditCnvDialog/EditCnvDialog.jsx" />
-      <jump line="41" column="9" filename="$USER_HOME$/school/csc437/CHS-react/src/components/NewMsgDialog/NewMsgDialog.jsx" />
-      <jump line="18" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="124" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="209" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="187" column="44" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="73" column="17" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="63" column="63" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="6" column="13" filename="$USER_HOME$/school/csc437/CHS-react/src/reducers/Errs.js" />
-      <jump line="212" column="59" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="18" column="3" filename="$USER_HOME$/school/csc437/CHS-react/src/components/MyCnvs/MyCnvs.jsx" />
-      <jump line="25" column="11" filename="$USER_HOME$/school/csc437/CHS-react/src/components/MyCnvs/MyCnvs.jsx" />
-      <jump line="18" column="33" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="5" column="6" filename="$USER_HOME$/school/csc437/CHS-react/src/components/MsgItem/MsgItem.jsx" />
-      <jump line="158" column="26" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Main/Main.jsx" />
-      <jump line="33" column="91" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/reducers/Errs.js" />
-      <jump line="43" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="0" column="1" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.css" />
-      <jump line="199" column="35" filename="$USER_HOME$/school/csc437/CHS-react/src/actions/actionCreators.js" />
-      <jump line="135" column="12" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="171" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="79" column="6" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="143" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Register/Register.jsx" />
-      <jump line="20" column="19" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Cnv/Cnv.jsx" />
-      <jump line="0" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Cnv/Cnv.jsx" />
-      <jump line="25" column="26" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="2" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
-      <jump line="37" column="69" filename="$USER_HOME$/school/csc437/CHS-react/src/components/CnvDetail/CnvDetail.jsx" />
       <jump line="28" column="15" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.jsx" />
       <jump line="0" column="0" filename="$USER_HOME$/school/csc437/CHS-react/src/components/Cnvs/Cnvs.jsx" />
       <jump line="25" column="22" filename="$USER_HOME$/school/csc437/CHS-react/src/components/EditCnvDialog/EditCnvDialog.jsx" />
@@ -678,61 +598,111 @@
       <jump line="30" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/subject-chooser/subject-chooser.component.ts" />
       <jump line="40" column="0" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/toolbar/toolbar.component.ts" />
       <jump line="34" column="30" filename="$USER_HOME$/dev/work/mathtv/htdocs/sails/mathtv-3.0/src/app/core/components/topic-dropdown/topic-dropdown.component.ts" />
+      <jump line="18" column="29" filename="$USER_HOME$/school/SeniorProject/app/client/src/components/App.js" />
+      <jump line="13" column="38" filename="$USER_HOME$/school/SeniorProject/app/client/src/actions/userActions.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/ping-epics.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/user-epics.js" />
+      <jump line="4" column="27" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/user-epics.js" />
+      <jump line="6" column="30" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/user-epics.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/actions/user-actions.js" />
+      <jump line="16" column="28" filename="$USER_HOME$/school/SeniorProject/app/client/src/store.js" />
+      <jump line="11" column="42" filename="$USER_HOME$/school/SeniorProject/app/client/src/store.js" />
+      <jump line="13" column="46" filename="$USER_HOME$/school/SeniorProject/app/client/src/store.js" />
+      <jump line="2" column="18" filename="$USER_HOME$/school/SeniorProject/app/client/src/store.js" />
+      <jump line="3" column="14" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/index.js" />
+      <jump line="6" column="10" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/index.js" />
+      <jump line="22" column="50" filename="$USER_HOME$/school/SeniorProject/app/client/src/index.js" />
+      <jump line="18" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
+      <jump line="28" column="32" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
+      <jump line="32" column="43" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/user-epics.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/user-epics.js" />
+      <jump line="1" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/reducers/user-reducer.js" />
+      <jump line="8" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/reducers/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/reducers/index.js" />
+      <jump line="21" column="6" filename="$USER_HOME$/school/SeniorProject/app/client/src/store.js" />
+      <jump line="1" column="33" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/index.js" />
+      <jump line="4" column="26" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/index.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/reducers/index.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/reducers/index.js" />
+      <jump line="3" column="36" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/reducer.js" />
+      <jump line="41" column="22" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
+      <jump line="10" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
+      <jump line="19" column="42" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/index.js" />
+      <jump line="33" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/index.js" />
+      <jump line="22" column="43" filename="$USER_HOME$/school/SeniorProject/app/client/src/store.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/store.js" />
+      <jump line="10" column="20" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/index.js" />
+      <jump line="7" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/index.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/epics/index.js" />
+      <jump line="18" column="44" filename="$USER_HOME$/school/SeniorProject/app/client/src/actions/user-actions.js" />
+      <jump line="5" column="20" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/root.js" />
+      <jump line="9" column="52" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/root.js" />
+      <jump line="47" column="39" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
+      <jump line="10" column="39" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/store.js" />
+      <jump line="20" column="10" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/store.js" />
+      <jump line="21" column="13" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/store.js" />
+      <jump line="7" column="41" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/root.js" />
+      <jump line="36" column="0" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
+      <jump line="15" column="8" filename="$USER_HOME$/school/SeniorProject/app/client/src/index.js" />
+      <jump line="5" column="7" filename="$USER_HOME$/school/SeniorProject/app/client/src/components/App.js" />
+      <jump line="45" column="68" filename="$USER_HOME$/school/SeniorProject/app/client/src/redux/users.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q29tcG9uZW50IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q29tcG9uZW50IA==</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>Side</text>
+        <text>\.</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgaWYgKHJlc3BvbnNlLnN0YXR1cyA9PT0gNDAwKQo=</text>
+        <text encoding="base64">aW1wb3J0ICogYXMgYWN0aW9uQ3JlYXRvcnMgZnJvbSAnLi4vYWN0aW9ucy91c2VyLWFjdGlvbnMnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">aW1wb3J0IHsgU2lkZWJhckNvbnRlbnRDb21wb25lbnQgfSBmcm9tICcuL2NvbXBvbmVudHMvc2lkZWJhci1jb250ZW50L3NpZGViYXItY29udGVudC5jb21wb25lbnQnOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIFNpZGViYXJDb250ZW50Q29tcG9uZW50LAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Ci8qCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">CiAqLwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHRoaXMuaW5zdHJ1Y3RvclNlcnZpY2UuZ2V0SW5zdHJ1Y3RvcnMoKS5zdWJzY3JpYmUoKGlucykgPT4geyB9KTsKICAgIHRoaXMudG9waWMyU2VydmljZS5nZXRUb3BpY3NNYXAoKS5zdWJzY3JpYmUoKHJlcykgPT4geyB9KTsK</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Ly8gRXBpY3MK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">aW1wb3J0ICogYXMgdXNlckFjdGlvbnMgZnJvbSAnLi4vcmVkdXgvdXNlcnMnOwo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ZXhwb3J0IGRlZmF1bHQgc3RvcmU7Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Ly8gRXBpY3MKZXhwb3J0IGNvbnN0IGVwaWNzID0gWwogICBsb2dpbkVwaWMKXTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Ly8gaW1wb3J0IHsgcm9vdEVwaWMgfSBmcm9tICcuLi9lcGljcy9pbmRleCc7Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIEVhZ2VybHkgbG9hZCB0aGUgdG9waWNzIHRyZWUgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Side</last-search>
+      <last-search>\.</last-search>
       <last-offset />
-      <last-pattern>Side</last-pattern>
+      <last-pattern>\.</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>js</entry>
         <entry>history</entry>
         <entry>head</entry>
         <entry encoding="base64">XDxVUERBVEVfQUxMX0NOVlNcPg==</entry>
@@ -747,11 +717,12 @@
         <entry>state.msg</entry>
         <entry>disp</entry>
         <entry>signO</entry>
-        <entry>create</entry>
         <entry>badLo</entry>
         <entry encoding="base64">XDxlcnJvclRyYW5zbGF0ZVw+</entry>
         <entry encoding="base64">XDxjcmVhdGVFcnJvclByb21pc2VcPg==</entry>
         <entry>Side</entry>
+        <entry>create</entry>
+        <entry>\.</entry>
       </history-search>
       <history-cmd>
         <entry>25</entry>
